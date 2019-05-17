@@ -1,0 +1,25 @@
+
+#+TITLE: Propagación de plantas en vivero
+#+AUTHOR: Antonio Soler Gelde. IT Forestal
+#+EMAIL: asoler@esteldellevant.es
+#+LaTeX_CLASS: asgarticle
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: spanish
+#+SELECT_TAGS: export
+
+* Aspectos básicos
+** Sistematica
+** Claves dicotómicas y otros procesos de identificación
+** Plantas más frecuentes en vivero
+** Organografía y fisiología vegetal
+*** Principales organos de las plantas (organografía)
+*** Operaciones de cultivo
+*** Principales características fisiologicas 
+* Preparación del medio de cultivo
