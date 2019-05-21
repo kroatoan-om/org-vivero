@@ -1,0 +1,47 @@
+* Medio de cultivo para plantas de vivero
+** Introducción
+El sustrato en el que cultivamos las plantas y/o hortalizas en el viviero es muy
+importante. Propiedades como la textura, drenaje y disponibilidad de nutrientes
+han de promover el crecimiento de las plantulas y ademas facilitar su extracción
+para poder sacar el cepellón sin que este se rompa.
+** Componentes para la elaboración del medio de cultivo de plantas en vivero
+*** Sustratos
+Para la producción de plantas ornamentales el sustrato se emplea como soporte y
+alimento y va a ser la base sobre la que se va a desarrollar. Por ello es muy
+importante entender que el futuro de la produccion va a depender mucho del tipo
+de sustrato sobre el que se inicia el cultivo. 
+*** Características de un buen susutrato
+- Estabilidad física: Qué mantenga sus características fisicas durante un
+  tiempo razonable
+- Baja densidad
+- Aireación
+- pH adecuado al tipo de planta
+- Esterilidad: libre de patogenos que puedan dañar la planta o de semillas que
+  puedan crear una competencia no deseada
+- Fertilidad
+- Capacidad de retención de nutrientes
+- Capacidad de retención de agua
+*** Materiales utilizados en la preparación de sustratos
+Existe una gran variedad,y  pueden ser tanto de origen orgánico e inorgánico:
+- Turba rubia y turba negra
+- Fibra de coco
+- Restos dse poda y residuos de jardineria triturados
+- Lodos de depuradoras
+- Residuos forestales
+- Arenas, gravas  
+- Materiales sintéticos: perlita, vermiculita, lana de roca, poliestireno, etc
+El empleo de tierras y mantillos así como de estiercol *está restringido* porque
+pueden estar contaminadas con semillas de especies no deseadas y/o
+enfermedades.\\
+A la hora de elaborar un sustrato hay que conocer su *destino y
+particularidades*:\\
+- *Producción viverista:* Para plantas de interior y exterior. Formados
+  principalmente por turba y fibra de coco.
+- *Multiplicación de plantas:* Pueden ser para _semilleros_, _esquejes_, o
+  producción de planta forestal. Se suelen hacer con mezclas de turba rubia y negra
+- *Hidroponía:* Un tipo de producción muy especial. En este caso los sustratos
+  empleados pueden ser inertes ya que todos los nutrientes se aplican a traves
+  del agua de riego. Suelen estar compuestos de perlita, vermiculita, lana de
+  roca o fibra de coco.
+# - *Jardinería y bricolaje:* Aqui se elaboran los sustratos dependiendo de las
+#    necesidades de los clientes
