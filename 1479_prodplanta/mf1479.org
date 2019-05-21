@@ -1,4 +1,3 @@
-
 #+TITLE: Propagación de plantas en vivero
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
@@ -15,7 +14,29 @@
 #+SELECT_TAGS: export
 
 * Aspectos básicos
-** Sistematica
+** Nociones básicas de identificación, clasificación y nomenclatura
+Para poder conocer la cantidad de organismos vegetales que existen en el mundo, estos se
+han de ordenar y clasificar. Estas clasificaciones resultan en grupos con jerarquías cada
+vez mayores, en los que se agrupan las especies por diversas características. Los que han
+realizado esta labor a lo largo del tiempo han desarrollado lo que se conoce como
+*categorías taxonómicas* que se organizan de la siguiente manera: 
+| *Categorías* | *Terminación de los taxones* | *Taxón*   |
+|--------------+------------------------------+-----------|
+| Reino        | -ota                         | Eucaryota |
+| División     | -phyta                       |           |
+|              | -mycota (hongos)             |           |
+|              | -phyta (plantas terrestres)  |           |
+|              |                              |           |
+|              |                              |           |
+|              |                              |           |
+|              |                              |           |
+
+
+Se denomina Sistemática o Taxonomía Sistemática a la ciencia que identifica,
+clasifica y da nomre a los organismis vivos.\\
+Su objetivo es ordenar la enorme diversidad de organismos vivios que existen, y
+para ello ha de reconocer estos organismos e incluirlos en grupos de rango cada
+vez mas elevado.  
 ** Claves dicotómicas y otros procesos de identificación
 ** Plantas más frecuentes en vivero
 ** Organografía y fisiología vegetal
