@@ -1,0 +1,40 @@
+#+TITLE: Propagación de plantas en vivero
+#+AUTHOR: Antonio Soler Gelde. IT Forestal
+#+EMAIL: asoler@esteldellevant.es
+#+LaTeX_CLASS: asgarticle
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: spanish
+#+SELECT_TAGS: export
+
+* Uso de instalaciones, maquinaria y equipos
+** El vivero
+Definimos *vivero* como /un lugar o terreno dedicado a la multiplicación u cria
+de plantas hasta que puedan ser vendidas o plantadas en su lugar definitivo/. 
+*** Factores para su ubicación
+A la hora de ubucar un vivero hay que considerar diferentes factores, los cualos
+resumimos a continuación:
+- *Topografía:* Preferibles lugares con _poca pendiente_ que hagan facil la
+  mecanización e incluso evitar los  fondos de valle para minimizar las heladas
+  tempranas y tardias.
+- *Vias de acceso:* A ser posible la ubicación ha de estar cerca de vías de
+  acceso importantes para que puedan acceder camiones grandes. Esto _abarata_
+  los costes de los portes.
+- *Agua:* El cultivo en un vivero _exige riego_, lo que hace necesario poder
+  disponer de este recurso en _cantidad y calidad_ suficiente.
+- *Clima:* El clima _influye en el crecimiento_. Un clima con un largo período de
+  crecimiento, ausencia de heladas fuera de temporada y de sin fuerte calor en
+  verano sería ideal.
+- *Suelo:* Este factor tendrá mucha importancia en el caso de los _viveros a
+  raiz desnuda_. En los casos de cultivo en _envase o contenedor_ La composición
+  del suelo no es importante ya que el sustrato se adaptará a los
+  requerimientos del vivero.
+- *Mano de obra:* Depende del las operaciones que se vayan a mecanizar, pero en
+  un vivero siempre hay trabajos que pueden ser mas o menos puntuales y
+  requieren  de bastante mano de obra: semillado, esquejado, repicado, etc
