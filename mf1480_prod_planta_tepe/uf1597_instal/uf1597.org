@@ -15,15 +15,16 @@
 
 * Uso de instalaciones, maquinaria y equipos
 ** El vivero
-Definimos *vivero* como /un lugar o terreno dedicado a la multiplicación u cria
+Definimos *vivero* como /un lugar o terreno dedicado a la multiplicación u cría
 de plantas hasta que puedan ser vendidas o plantadas en su lugar definitivo/. 
 *** Factores para su ubicación
-A la hora de ubucar un vivero hay que considerar diferentes factores, los cualos
+A la hora de ubicar un vivero hay que considerar diferentes factores, los cuáles
 resumimos a continuación:
-- *Topografía:* Preferibles lugares con _poca pendiente_ que hagan facil la
+- *Topografía:* Preferibles lugares con _poca pendiente_ que hagan fácil la
   mecanización e incluso evitar los  fondos de valle para minimizar las heladas
-  tempranas y tardias.
-- *Vias de acceso:* A ser posible la ubicación ha de estar cerca de vías de
+  tempranas y tardías. Generalmente _orientación_ norte-sur para recibir
+  radiación solar de manera uniforme durante todo el año.
+- *Vías de acceso:* A ser posible la ubicación ha de estar cerca de vías de
   acceso importantes para que puedan acceder camiones grandes. Esto _abarata_
   los costes de los portes.
 - *Agua:* El cultivo en un vivero _exige riego_, lo que hace necesario poder
@@ -32,9 +33,134 @@ resumimos a continuación:
   crecimiento, ausencia de heladas fuera de temporada y de sin fuerte calor en
   verano sería ideal.
 - *Suelo:* Este factor tendrá mucha importancia en el caso de los _viveros a
-  raiz desnuda_. En los casos de cultivo en _envase o contenedor_ La composición
+  raíz desnuda_. En los casos de cultivo en _envase o contenedor_ La composición
   del suelo no es importante ya que el sustrato se adaptará a los
   requerimientos del vivero.
 - *Mano de obra:* Depende del las operaciones que se vayan a mecanizar, pero en
   un vivero siempre hay trabajos que pueden ser mas o menos puntuales y
   requieren  de bastante mano de obra: semillado, esquejado, repicado, etc
+*** Tipos de vivero 
+Podemos clasificar los viveros según varios criterios:\\
+1- *Según el lugar donde se cultivan las plantas:*
++ Viveros al exterior o a raíz desnuda: Plantas estarán cultivadas en el propio
+  suelo del vivero, al aire libre o dentro de un invernadero.
++ Viveros en contenedor: Las plantas estarán en envases, en invernaderos o
+  túneles. Antes de pasar al exterior necesitaran un _periodo de
+  endurecimiento_.
+2- *Según el destino de las plantas:*
++ Vivero comercial: Produce plantas para ser vendidas. Puede ser venta al por
+  mayor, al detalle o ambas.
++ Vivero privado: Las plantas producidas son utilizadas para fines privados, por
+  ejemplo una repoblación propia, investigación, etc.
+3- *Según permanencia:*
++ Vivero provisional: Se construyen para abastecer de planta a la repoblación o
+  plantación de una determinada zona.
++ Vivero fijo o permanente: Construidos para que perduren en el tiempo. La
+  mayoría de viveros que abastecen el mercado son _permanentes_.
+4- *Según especialización:*
++ Vivero general: Plantas de distintas especies y tamaños
++ Vivero especializado: Tiene una gama más reducida de especies. Pueden ser
+  forestales, frutícolas, hortícolas, ornamentales, etc
+*** Distribución de espacios
+En un vivero podemos distinguir tres espacios principales
+1- *Sección de germinación:*
+Zona del vivero dedicada a la realización de semilleros para su
+germinación. Esta zona dependiendo de la técnica de cultivo y del clima puede
+ser al aire libre, bajo malla de sombreo o en invernadero. 
+Podemos encontrar diferente equipamiento en estas zonas como por ejemplo:\\
+- Camas de cultivo
+- Bancales
+- Zonas de barbecho
+- Cámaras de germinación
+- Túneles de propagación
+- Mesas de cultivo\\
+
+2- *Sección de crecimiento o plantel:*
+Formada por las zonas del vivero en las que se deposita la planta para su
+desarrollo.
+
+3- *Elementos complementarios o auxiliares:*
+Son todos los espacios no cultivados o auxiliares. Entre otros:\\
+- Red viaria
+- Cerramientos
+- Naves para acopio de materiales o trabajo
+- Oficinas
+** Sistemas de riego
+Son variados pero todos tienen en común _racionar y optimizar el uso del
+agua_. Podemos dividir los sistemas de riego en:\\
+- *Riegos por superficie o gravedad:* Aplican el agua por toda la parcela. Puede
+  ser _a manta_ o _por surcos_. Este sistema apenas se utiliza ya que es poco
+  eficiente y _solo_ puede ser empleado en viveros a _raíz desnuda_.
+- *Riegos aéreos:* El agua se aplica en forma de lluvia. En este grupo se
+  encuentra el riego por _aspersión_ y sus variantes.
+- *Riegos subterráneos:* La red de riego esta enterrada y se aplica mediante
+  _goteo_ o _mangueras de exudación_.
+*** Sistemas de riego más empleados en un vivero
+Goteo, aspersión y microaspersión son los más utilizados. Presentamos las
+ventajas e inconvenientes de los dos últimos:\\
+- *Ventajas:*\\
+  + Se adapta fácilmente a diferentes dosis de riego y tipos de cultivo
+  + Compatible con sistemas de mecanización
+  + Permite una programación bien adaptada a cada fase del cultivo y las
+    necesidades por estación
+  + Permite la automatización mediante el uso de _programadores_
+- *Inconvenientes:*\\
+  + Pueden existir áreas poco regadas
+  + Hay que adaptar los _tratamientos fertilizantes_  para compensar el _lavado
+    de nutrientes_
+  + Requieren de una alta inversión inicial y personal especializado para su
+    control y mantenimiento
+*** Partes de un sistema de riego
+Un sistema de riego de un vivero consta de una serie de elementos que se agrupan
+en los tres conjuntos siguientes:\\
+A. Cabezal de riego
+B. Red de distribución
+C. Emisores
+
+**** Cabezal de riego 
+A través del cabezal se pueden realizar las siguientes operaciones:\\
+      - _Enviar agua_ a los emisores a través de las tuberías de la red de
+	distribución
+      - _Elimina_r solidos en suspensión a través de un _equipo de filtrado_
+      - Aplicar al agua fertilizantes y otros productos mediante la _fertirrigación_
+      - _Controlar_ parámetros como la presión, pH, etc
+      - _Automatizar_ todas las operaciones
+
+Los *elementos* de un cabezal de riego son de manera general los siguientes:\\
+1. *Equipo de bombeo:* Impulsa el agua a través de las tuberías en el caso de
+   que no tenga la presión suficiente. A su vez se compone de:\\
+   + Tubería de aspiración: lleva el agua desde la fuente hasta la bomba (en
+     caso de ser una *bomba sumergible* este componente no existe)
+   + Bomba: Mecanismo que aspira e impulsa el agua a la presión y caudal adecuados
+   + Motor: Puede ser eléctrico, diésel o gasolina. Da la fuerza necesaria a la
+     bomba para impulsar el agua
+   + Tubería de filtrado: Lleva el agua hasta la red de distribución
+2. *Sistema de filtrado:* Impide que el sistema y los emisores se _atasquen_ y/o
+   _deterioren_. Existen diferentes tipos de filtros:
+   + Hidrociclones: Principalmente para eliminar arenas mediante decantación
+   + Filtros de arenas o gravas: Retienen las impurezas del agua al pasar el
+     agua a través de sus poros
+   + Filtros de mallas: Se trata de una malla metálica que retiene la
+     suciedad. Tienen un código de colores según el tamaño de sus huecos.
+   + Filtros de anillas:  Se trata de muchos discos superpuestos que retienen
+     la suciedad
+3. *Equipos de inyección de fertilizantes:* Aplica fertilizantes al agua de
+   riego. Los más utilizados son:\\
+   + Inyector tipo venturi
+   + Inyector con bomba independiente
+4. *Sistemas de control y seguridad:* Pueden ser fundamentales para la eficacia
+   del sistema de riego. Podemos encontrar, entre otro, los siguientes:\\
+   + Válvulas: de dirección , controladoras de caudal, de presión
+   + Elementos de medida: manómetros, caudalímetros, pH-metro
+
+**** Red de distribución
+Formada por un conjunto de tuberías y accesorios (enlaces, codos, tes, etc) que
+distribuyen el agua de riego desde el cabezal hasta los emisores.\\
+Los *materiales* más empleados son: \\
+- *Metálicas:* como el _acero galvanizado_
+- *Polietileno:* el más usado para riego agricola. Puede ser de _alta densidad_
+  o _baja densidad_. El primero se puede conocer por que tiene una _banda azul_
+  rotulada y soporta hasta 6/atm/. Puede ser usado para instalaciones de agua
+  para consumo alimentario.  El de baja densidad _no puede_ ser usado para agua
+  destinada a consumo alimentario. Se distingue por una _banda verde_ rotulada u
+  soporta presiones hasta 4/atm/
