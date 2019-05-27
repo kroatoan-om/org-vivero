@@ -1,47 +1,130 @@
 * Medio de cultivo para plantas de vivero
-** Introducci�n
+** Introducción
 El sustrato en el que cultivamos las plantas y/o hortalizas en el viviero es muy
 importante. Propiedades como la textura, drenaje y disponibilidad de nutrientes
-han de promover el crecimiento de las plantulas y ademas facilitar su extracci�n
-para poder sacar el cepell�n sin que este se rompa.
-** Componentes para la elaboraci�n del medio de cultivo de plantas en vivero
+han de promover el crecimiento de las plantulas y ademas facilitar su extracción
+para poder sacar el cepellón sin que este se rompa.
+** Componentes para la elaboración del medio de cultivo de plantas en vivero
 *** Sustratos
-Para la producci�n de plantas ornamentales el sustrato se emplea como soporte y
+Para la producción de plantas ornamentales el sustrato se emplea como soporte y
 alimento y va a ser la base sobre la que se va a desarrollar. Por ello es muy
 importante entender que el futuro de la produccion va a depender mucho del tipo
 de sustrato sobre el que se inicia el cultivo. 
-*** Caracter�sticas de un buen susutrato
-- Estabilidad f�sica: Qu� mantenga sus caracter�sticas fisicas durante un
+*** Características de un buen susutrato
+- Estabilidad física: Qué mantenga sus características fisicas durante un
   tiempo razonable
 - Baja densidad
-- Aireaci�n
+- Aireación
 - pH adecuado al tipo de planta
-- Esterilidad: libre de patogenos que puedan da�ar la planta o de semillas que
+- Esterilidad: libre de patogenos que puedan dañar la planta o de semillas que
   puedan crear una competencia no deseada
 - Fertilidad
-- Capacidad de retenci�n de nutrientes
-- Capacidad de retenci�n de agua
-*** Materiales utilizados en la preparaci�n de sustratos
-Existe una gran variedad,y  pueden ser tanto de origen org�nico e inorg�nico:
+- Capacidad de retención de nutrientes
+- Capacidad de retención de agua
+*** Materiales utilizados en la preparación de sustratos
+Existe una gran variedad,y  pueden ser tanto de origen orgánico e inorgánico:
 - Turba rubia y turba negra
 - Fibra de coco
-- Restos dse poda y residuos de jardineria triturados
+- Restos de poda y residuos de jardineria triturados
 - Lodos de depuradoras
 - Residuos forestales
 - Arenas, gravas  
-- Materiales sint�ticos: perlita, vermiculita, lana de roca, poliestireno, etc
-El empleo de tierras y mantillos as� como de estiercol *est� restringido* porque
+- Materiales sintéticos: perlita, vermiculita, lana de roca, poliestireno, etc
+El empleo de tierras y mantillos así como de estiercol *está restringido* porque
 pueden estar contaminadas con semillas de especies no deseadas y/o
 enfermedades.\\
 A la hora de elaborar un sustrato hay que conocer su *destino y
 particularidades*:\\
-- *Producci�n viverista:* Para plantas de interior y exterior. Formados
+- *Producción viverista:* Para plantas de interior y exterior. Formados
   principalmente por turba y fibra de coco.
-- *Multiplicaci�n de plantas:* Pueden ser para _semilleros_, _esquejes_, o
-  producci�n de planta forestal. Se suelen hacer con mezclas de turba rubia y negra
-- *Hidropon�a:* Un tipo de producci�n muy especial. En este caso los sustratos
+- *Multiplicación de plantas:* Pueden ser para _semilleros_, _esquejes_, o
+  producción de planta forestal. Se suelen hacer con mezclas de turba rubia y negra
+- *Hidroponía:* Un tipo de producción muy especial. En este caso los sustratos
   empleados pueden ser inertes ya que todos los nutrientes se aplican a traves
   del agua de riego. Suelen estar compuestos de perlita, vermiculita, lana de
   roca o fibra de coco.
-# - *Jardiner�a y bricolaje:* Aqui se elaboran los sustratos dependiendo de las
+# - *Jardinería y bricolaje:* Aqui se elaboran los sustratos dependiendo de las
 #    necesidades de los clientes
+** Características de los sustratos
+*** Características físicas
+- *Textura:* La proporción de arena, limo y arcilla en los suelos determina el
+  tipo de textura que un suelo tiene. La textura va a determinar propiedades
+  como la capacidad de retención de agua y está relacionada directamente con
+  otras propiedades como la porosidad, densidad y estructura.
+- *Porosidad:*
+La porosidad de un sustrato es el vlumen que no está siendo ocupado por
+particulas solidas, minerales u orgánicas. Estos espacios no ocupados se llenan
+de agua o aire.
+La proporción de estos espacios no debe ser inferior al 80-85%.\\
+#+BEGIN_CENTER
+#+CAPTION: Porosidad en suelos 
+#+NAME:   fig:img_porosidadlo
+[[/img_uf1596/porosidad.PNG]]
+#+END_CENTER
+El grosor de los poros condiciona la aireación y retención de agua. Los porors
+en el suelo se distiguen en *macroscópicos* y *microscópicos*.\\
+Los terrenos *arenosos* tienen gran cantidad de poros macroscópicos por lo que tienen una 
+muy baja capacidad de retención e agua. Por otro lado los suelos *arcillosos*
+son son ricos en poros microscópicos por lo que tienen una gran capacidad de
+retención de agua.
+- *Densidad:*
+La relación entre la masa de un suelo y el volumen aparente que ocupa, que
+incluye el volumen que ocupan los poros, se denomina densidad aparente.\\
+ Es una característica importante de los suelos, puesto que permite conocer su
+comportamiento hídrico (capacidad de almacenaje de agua, permeabilidad, etc.) y
+sobre su función como hábitat (compactación, facilidad para la penetración de
+las ra´ıces, apertura de galerías, etc.), entre otras.
+- *Estructura:*
+La estructura de un suelo es la manera en la que están dispuestos sus
+componentes. Las partículas de arena, limo y arcilla se unen entre si de
+determinadas maneras formando _terrones_. Según como se unen las partículas y la
+forma que adquieren se clasifican en:
++ *De grano simple:* Frecuente en suelos arenososo ya que los granos
+  de arena no se unen entre si y se disgregan facilmente
++ *Granular:* Frecuente en suelos que ya han sido cultivados. Terrones no muy
+  grandes y redondeados
++ *De bloques:* Terrones cuadrados y algo más grandes que la granular
++ *Prismatica:* Terrones más gruesos y alargados
++ *Laminar:* Muy fácil de identificar por que el suelo está formado por laminas
+  delgadas horizontales
++ *Masiva:* En este caso no se forman terrones y el suelo se observa
+  compacto. Muy común en suelos arcillososo que no han sido cultivados
+#+BEGIN_CENTER
+#+CAPTION: Principales estructuras en los suelos
+[[/img_uf1596/porosidad.PNG]]
+#+END_CENTER
+*** Características químicas
+*** Características biológicas
+** Preparación del medio de cultivo
+En un viviero además de cultivar plantas en macetas, podemos hacerlo en el
+suelo, ya sea dentro de los invernaderos o al aire libre. Un factor _fundamental_
+para el desarrollo de las plantas son las _condiciones_ del suelo, que se mejoran
+entre otras tecnicas mediante el _laboreo_.
+La producción y desarrollo de las plantas está ligada a la _porosidad_ del
+suelo, ya que son sensibles a la aireación y humedad de su sistema radicular. Es
+por lo que el laboreo debe ir dirigido, entre otras cosas, a conseguir una buena
+_aireación_, es decir, mejorar la porosidad.
+# Pregunta: Que le pasa a las plantulas si la densidad del suelo es demasiado
+# alta? 
+# Respuesta: El crecimieto de las raices se hace más dificil e incluso pueden
+# llegar a asfixiarse ya que los pelos de las raices no tienen suficiente
+# contacto con el agua
+# FALTA desarrollar tipos de laboreo realizados de manera mecánica
+** Realización de mezclas
+En los viveros se producen muchos cultivos en contenedor. Esta manera de
+producir plantas tiene unas limitaciones que vinen dadas por el tamaño del
+contenedor. El _volumen reducido_ de sustrato que hay en un contenedor obliga a
+_intensificar el riego_, en comparación con un suelo natural en el que las
+plantas pueden desarrollar sus raices todo lo necesario para buscar agua. Por
+tanto los sustratos tendran como _principal característica_ tener una buena
+capacidad de *retención de agua*, pero sin que ello afecte a la *porosidad* y la
+*densidad*, que como sabemos son factores importantes para el desarrollo de las
+raices y de la planta.
+No se recomienda el uso de suelo mineral como un componente de sustratos para
+macetas, aunque en ciertas circunstancias pueda dar buenos resultados, este tipo
+de material tiende a disminuir la porosidad del suelo.
+Debe utilizarse una cantidad suficiente de *componentes orgánicos* en los
+sustratos. Este debe haber pasado por un proceso de *compostaje* para que sea
+estable, de esta manera la materia organica no se descompondrá mediante
+microorganismos que tomarán el nitrogeno del sustrato no dejandolo disponible
+para las plantas.
