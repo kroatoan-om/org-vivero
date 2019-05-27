@@ -1,0 +1,60 @@
+#+TITLE: UF 0008 Instalaciones agrarias. Acondicionamiento, limpieza y desinfección
+#+AUTHOR: Antonio Soler Gelde. IT Forestal
+#+EMAIL: asoler@esteldellevant.es
+#+LaTeX_CLASS: asgarticle
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: spanish
+#+SELECT_TAGS: export
+
+* Instalaciones y sus componentes
+** Invernaderos, túneles y acolchados
+   Un _invernadero_ es una estructura con cubierta transparente. En ellos
+   podemos encontrar condiciones climáticas que son óptimas para el desarrollo
+   de diferentes cultivos _fuera de su temporada natural de crecimiento_.
+**** Ventajas:
+
+#+BEGIN_EXPORT latex
+\begin{itemize}
+    \item Mayor producción y obtener más de un ciclo de los cultivos durante un año
+    \item Aumento del tiempo de recolección y calidad de los frutos
+    \item Producción fuera de época
+    \item Ahorro de agua y fertilizantes
+    \item Mejor control de plagas y enfermedades
+\end{itemize}
+#+END_EXPORT
+**** Inconvenientes:
+
+#+BEGIN_EXPORT latex
+\begin{itemize}
+    \item Alta inversión inicial
+    \item Alto costo de operación
+    \item Requiere de personal especializado, tanto de experiencia práctica como de conocimientos teóricos
+\end{itemize}
+#+END_EXPORT
+**** Factores a tener en cuenta para su construcción:
+
+#+BEGIN_EXPORT latex
+La elección de un tipo determinado de invernadero estará en función de una serie de factores:
+\begin{itemize}
+    \item \textbf{Tipo de suelo:} Idealmente deberemos elegir suelos de buena calidad, con buen drenaje y textura adecuada al tipo de cultivo
+    \item \textbf{Topografía:} La zona donde se ubique deberá tener poca pendiente. Idealmente el invernadero deberá orientarse de norte a sur
+    \item \textbf{Vientos:} Habrá que tener en cuenta la dirección de los vientos dominantes así como su intensidad y velocidad
+    \item \textbf{Factor humano:} Disponibilidad de mano de obra
+\end{itemize}
+#+END_EXPORT
+
+*** Materiales
+** Parametros importantes en un invernadero
+*** Temperatura
+*** Luz
+*** Humedad
+** Control y automatización
+*** Qué parametros debemos controlar?
+*** Métodos de control
