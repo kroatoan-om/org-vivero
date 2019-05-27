@@ -1,1 +1,1 @@
-Hola que tal. Enesimavez para intentar crear y subir un repo desde aqui.
+Repositorio con apuntes adaptados para estudiantes con trastorno mental. Estos apuntes pertenecen al certificado AGAU0110 
