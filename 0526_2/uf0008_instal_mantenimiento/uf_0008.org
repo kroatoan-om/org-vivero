@@ -1,4 +1,4 @@
-#+TITLE: UF 0008 Instalaciones agrarias. Acondicionamiento, limpieza y desinfección
+#+TITLE: UF 0008 Instalaciones agrarias. Acondicionamiento, limpieza y desinfección 
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgarticle
@@ -52,6 +52,18 @@ La elección de un tipo determinado de invernadero estará en función de una serie
 
 *** Materiales
 ** Parametros importantes en un invernadero
+** Sistemas de control ambiental
+Las diferentes fases de un cultivo de plantas están condicionadas por cuatro
+factores ambientales o climáticos: temperatura, humedad relativa, luz y
+CO_2. Controlando de manera decuada estos factores podemos obtener producciones
+más abundantes, cultivar especies que no serían viables durante ciertas épocas
+del año o climas. Tambíen podemos provocar efectos com el cambio de color,
+adelantamiento u retraso de floraciones, etc. 
+*** Control de temperatura
+Parámetro más importante ya que es el que más influye en el crecimiento de las
+plantas. Los sistemas de control se diferencian en los que _aumentan_ la
+temperatura en períodos frios y los que la _disminuyen_ en los cálidos.
+**** Climatización en períodos frios:
 *** Temperatura
 *** Luz
 *** Humedad
