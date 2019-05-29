@@ -120,7 +120,7 @@ tanto los sustratos tendran como _principal característica_ tener una buena
 capacidad de *retención de agua*, pero sin que ello afecte a la *porosidad* y la
 *densidad*, que como sabemos son factores importantes para el desarrollo de las
 raices y de la planta.
-No se recomienda el uso de suelo mineral como un componente de sustratos para
+_No se recomienda_ el uso de suelo mineral como un componente de sustratos para
 macetas, aunque en ciertas circunstancias pueda dar buenos resultados, este tipo
 de material tiende a disminuir la porosidad del suelo.
 Debe utilizarse una cantidad suficiente de *componentes orgánicos* en los
@@ -128,3 +128,49 @@ sustratos. Este debe haber pasado por un proceso de *compostaje* para que sea
 estable, de esta manera la materia organica no se descompondrá mediante
 microorganismos que tomarán el nitrogeno del sustrato no dejandolo disponible
 para las plantas.
+** Enmiendas y fertilización
+La mayoría de los componentes orgánicos de un sustrato sn ácidos y contienen
+_niveles bajos de nutrientes disponibles_. Se recomienda:
+- Aporte de *cal*: Elevará el pH y además aportará calcio y magnesio que son
+  _esenciales para el desarrollo radicular_. Estos elemntos son retenidos por el
+  sustrato por lo que no se lavan fácilmente.
+- Para asegurar un buen comienzo del cultivo el nitrógeno (N) debe ser incorporado
+  antes de plantar. Sin embargo esta práctica es _muy discutible_ cuando se usan
+  fertilizantes inorgánicos (tipo /nitrofoska/) debido al efecto de
+  contaminación que la _sobre-fertilización_ produce en los acuiferos. 
+- Fósforo (P) y potásio (K) suelen incorporarse junto al nitrógeno en formulas
+  N-P-K. El fósforo se _lava menos_ mientras que el potasio debería ser
+  _repuesto periodicamente_ ya que no es adsorbido fuertemente por el sustrato.
+- En los suelos calcareos el hierro (Fe) no esta facilmente disponible por la
+  planta debido al pH. La manera más eficiente de aportar este elemento es
+  mediante _quelato de hierro_, que puede ser adsorbida por la planta en un
+  rango más amplio de pH.
+** Desinfección y otros
+Los sustratos pueden estar "contaminados" entre otras cosas de:
+- Semillas de malezas y otras hierbas competidoras
+- Bulbos o rizomas de pastos
+- Larvas de insectos
+- Caracoles o babosas
+- Hóngos y patógenos
+- Nemátodos
+Es muy importante que los sustratos estén debidamente desinfectados. Mencionamos
+algunas medidas:
+- *Cribar* el sustrato para retener partículas grandes de vegetales, insectos u
+  otros organismos
+- *Solarización:* Disponer el sustrato en camas, humeddecerlo hasta saturación y
+  después cubrirlo con plástico negro o transparente. Se deja expuesto al sol y
+  las variaciones de calor causan la muerte de los microorganismos patógenos.
+- *Fitotipren:* mezcla de varios hongos para el control de enfermedades como
+  /Fusarium, Rhizoctonia, Pytium/.
+- *Rutinal (extracto de ruda /Ruta graveolens/):* para control de nemátodos y
+  desinfectante natural de suelos.
+- *Botrycid:* para control de /Rhizoctonia/ y /Fusarium/. Es muy eficiente
+  controlando bacterias como /Erwinia, Xanthomonas, Agrobacterium/ y /Pseudomonas/.
+- *Anisafer:* para el control de chizas, gusanos tirreros, picudos, chinches y
+  hormiga arriera. 
+** Equipos y maquinária
+Todas las labores que se han comentado se pueden mecanizar. Existen máquinas de
+todo tipo y para todas las operaciones. A continuación vamos a ver las más
+habituales en elaboración de medios de cultivo en vivero.
+- *Descompactadora de turba* de /big balé/ (gran paca o gran fardo)
+[[/img_uf1596/big_bale.jpg]]
