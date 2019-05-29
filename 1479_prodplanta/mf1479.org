@@ -44,3 +44,19 @@ vez mas elevado.
 *** Operaciones de cultivo
 *** Principales características fisiologicas 
 * Preparación del medio de cultivo
+Las plantas que hay que transplantar pueden proceder de:
+- Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
+  siguientes _tipos de esquejes:
+  - Esquejes herbáceos: clavel, crisantemo, salvia
+  - Esquejes de madera blanda o semiverde: Aquellos tallos que no han comenzado
+    a lignificarse. 
+  - Esquejes de madera semidura: el tallo ha comenzado el proceso de
+    lignificación pero no es leñoso del todo. Se emplea para especies arbustivas
+    sobre todo
+    - Boj (Buxus sempervirens)
+    - Callistemon (Callistemon rigidus)
+    - Adelfa (Nerium olenader)
+    - Pitosporo (Pittosporum tobira)
+  - Esquejes de madera dura de especies perennes
+  - Especies de madera dura de especies caducas
+- Multiplicación por semillas o sexual

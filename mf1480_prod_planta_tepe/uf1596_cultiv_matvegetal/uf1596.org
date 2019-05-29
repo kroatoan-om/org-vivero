@@ -173,4 +173,98 @@ Todas las labores que se han comentado se pueden mecanizar. Existen máquinas de
 todo tipo y para todas las operaciones. A continuación vamos a ver las más
 habituales en elaboración de medios de cultivo en vivero.
 - *Descompactadora de turba* de /big balé/ (gran paca o gran fardo)
-[[/img_uf1596/big_bale.jpg]]
+  [[./img_uf1596/big_bale.jpg]]
+- *Mezcladora*
+  [[img_uf1596/mezcladora.jpg]] 
+- *Mezcladora y llenadora de bandejas*
+  [[./img_uf1596/bandejas_mezcladora.jpg]] 
+- *Enmacetadora*
+  [[./img_uf1596/enmacetadora.jpg]]
+- *Transplantadora de bandejas*
+  [[./img_uf1596/transplantadora_bandejas.jpg]]
+- *Sembradora de líneas*
+  [[./img_uf1596/sembradora_bandejas.png]]
+* Técnicas de transplante
+** Introducción
+El transplante consiste en trasladar una planta de una maceta a otra más grande
+o al terreno definitivo.
+
+Para realizar el transplante hay que _tener en cuenta muchos factores_, por lo
+que _no se pueden_ dar unas pautas fijas de cuando y como. Pero _si se puede_
+dar *una norma clara y concisa*:
+#+BEGIN_CENTER
+*"El transplante se realiza cuando la planta ha llenado con raices todo el
+ contenedor. Idealmente "* 
+#+END_CENTER 
+** Estadios de desarrollo del cultivo
+Las plantas que hay que transplantar pueden proceder de:
+- Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
+  siguientes _tipos de esquejes:
+  - Esquejes herbáceos: clavel, crisantemo, salvia
+  - Esquejes de madera blanda o semiverde: Aquellos tallos que no han comenzado
+    a lignificarse. 
+  - Esquejes de madera semidura: el tallo ha comenzado el proceso de
+    lignificación pero no es leñoso del todo. Se emplea para especies arbustivas
+    sobre todo
+    - Boj (Buxus sempervirens)
+    - Callistemon (Callistemon rigidus)
+    - Adelfa (Nerium olenader)
+    - Pitosporo (Pittosporum tobira)
+  - Esquejes de madera dura de especies perennes
+    - Árbol de Júpiter (Lagerstroemia indica)
+    - Hibisco (Hibiscus siryacus)
+    - Rosal (Rosa spp.)
+  - Especies de madera dura de especies caducas
+    - Higuera (Ficus carica)
+    - Chopo (Popoulus spp.)
+    - Ginkgo (Ginkgo biloba)
+    - Agracejo (Berberis spp.)
+- Multiplicación por semillas o sexual
+
+El _enraizamiento_ de los esquejes se inicia en unas condiciones optimas de
+_humedad y temperatura_. Consideramos que está suficientemente desarrollado
+cuando se puede extraer con el esqueje _todo el cepellón_ con facilidad.
+
+Las plantas que proceden de semilla _estarán preparadas_ para el tranplante al
+igual que los esquejes, cuando las raices se han desarrollado _suficientemente_
+por odo el alveolo y podemos extraer el cepellón con facilidad. 
+
+_El tiempo_ que debe transcurrir para la _germinación_ varía mucho de unas
+especies a otras. Cambia en función de _condiciones de cultivo_ como son
+_temperatura, luminosidad, medio de cultivo, humedad ambiental_, etc
+** Operaciones pre-transplante. 
+*** Endurecimiento
+Consiste en someter a las plántulas a una serie de _condiciones ambientales
+adversas_ para que resistan  mejor el tranplante.
+
+Con el  endurecimiento conseguimos que la planta _detenga o disminuya el
+crecimiento de la parte aérea_ y de esta manera favorecemos que _se desarrolle
+el sistema radicular_, y la acumulación de sustancias de reserva. 
+
+Podemos conseguir el endurecimiento de tres formas:
+- Por bajas temperaturas
+- Por estrés hidrico
+- Por falta de determinados nutrientes como nitrogeno (N) y potasio (K)
+
+Cuando se realiza el endurecimieto _hay que tener muy cen cuenta_ las
+condiciones en las que están las plantas y las condiciones que tendrán que
+soportar en el tranplante
+*** Recepción del material
+Puede que las plantas las hayamos producido nosotros o vengan de otro
+viviero. En cualquier caso _hay que prestar atención al estado en que nos
+llegan_ antes de proceder a su transplante.
+1) *Algunas recomendaciones para el descarte de plantas:*
+   - En primer lugar descartaremos las que tengan _signos de enfermedades o ataques_
+     de plagas, las debiles, las que tengan heridas y las deformes.
+   - Las plantas _vivaces_ han de tener buen aspecto. Descartaremos las raquiticas
+     o envejecidas, con tallo pelado y las que tengan flores _solo en su parte más
+     alta_
+2) *Recomendaciones para la revisión general de plantas:*
+   - _Regar los semilleros_ para poder extraer facilmente el cepellón _sin dañar
+     las raices_
+   - Transplantar las que tengan un aspecto _sano, con hojas bien desarrolladas
+     y buen color_
+   - Las plantas _deben tener_ un sistema radicular _bien desarrollado_, con
+     raices _blancas y delgadas_. La presencia de _raices marrones_ son señal de
+     exceso de humedad o problemas de pudriciones radicales
+** Tipos de contenedores
