@@ -268,3 +268,20 @@ llegan_ antes de proceder a su transplante.
      raices _blancas y delgadas_. La presencia de _raices marrones_ son señal de
      exceso de humedad o problemas de pudriciones radicales
 ** Tipos de contenedores
+Los contenedores son muy importantes ya que son el suelo de las
+plantas. Cualquier recipiente puede ser utilizado como maceta para mantener una
+planta, pero para a _producción de planta los contenedores deben satisfacer
+otras necesidades_.
+*** Cualidades de los contenedores para producción de planta
+- Ante todo ser *funcional* y permitir la *mecanización* (llenado y semillado
+  por ejemplo)
+- *Manejable* y *Resistente*
+- Ocupar mínimo *espacio*
+- Que se pueda *agrupar* en bandejas y/o apilar
+- Que se pueda reciclar (utilizar varias veces)
+*** Materiales
+A continuación describimos los principales materiales empleados en la
+fabricación de contenedores para producción de planta.
+**** Macetas biodegradables
+
+
