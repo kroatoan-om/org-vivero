@@ -1,22 +1,36 @@
+#+TITLE: UF1597. Manejo de instalaciones y expedición de plantas en vivero.
+#+AUTHOR: Antonio Soler Gelde. IT Forestal
+#+EMAIL: asoler@esteldellevant.es
+#+LaTeX_CLASS: asgarticle
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: spanish
+#+SELECT_TAGS: export
 * Medio de cultivo para plantas de vivero
 ** Introducción
-El sustrato en el que cultivamos las plantas y/o hortalizas en el viviero es muy
+El sustrato en el que cultivamos las plantas y/o hortalizas en el vivero es muy
 importante. Propiedades como la textura, drenaje y disponibilidad de nutrientes
-han de promover el crecimiento de las plantulas y ademas facilitar su extracción
+han de promover el crecimiento de las plántalas y además facilitar su extracción
 para poder sacar el cepellón sin que este se rompa.
 ** Componentes para la elaboración del medio de cultivo de plantas en vivero
 *** Sustratos
 Para la producción de plantas ornamentales el sustrato se emplea como soporte y
 alimento y va a ser la base sobre la que se va a desarrollar. Por ello es muy
-importante entender que el futuro de la produccion va a depender mucho del tipo
+importante entender que el futuro de la producción va a depender mucho del tipo
 de sustrato sobre el que se inicia el cultivo. 
-*** Características de un buen susutrato
-- Estabilidad física: Qué mantenga sus características fisicas durante un
+*** Características de un buen sustrato
+- Estabilidad física: Qué mantenga sus características físicas durante un
   tiempo razonable
 - Baja densidad
 - Aireación
 - pH adecuado al tipo de planta
-- Esterilidad: libre de patogenos que puedan dañar la planta o de semillas que
+- Esterilidad: libre de patógenos que puedan dañar la planta o de semillas que
   puedan crear una competencia no deseada
 - Fertilidad
 - Capacidad de retención de nutrientes
@@ -25,17 +39,17 @@ de sustrato sobre el que se inicia el cultivo.
 Existe una gran variedad,y  pueden ser tanto de origen orgánico e inorgánico:
 - Turba rubia y turba negra
 - Fibra de coco
-- Restos de poda y residuos de jardineria triturados
+- Restos de poda y residuos de jardinería triturados
 - Lodos de depuradoras
 - Residuos forestales
 - Arenas, gravas  
 - Materiales sintéticos: perlita, vermiculita, lana de roca, poliestireno, etc
-El empleo de tierras y mantillos así como de estiercol *está restringido* porque
+El empleo de tierras y mantillos así como de estiércol *está restringido* porque
 pueden estar contaminadas con semillas de especies no deseadas y/o
 enfermedades.\\
 A la hora de elaborar un sustrato hay que conocer su *destino y
 particularidades*:\\
-- *Producción viverista:* Para plantas de interior y exterior. Formados
+- *Producción viverística:* Para plantas de interior y exterior. Formados
   principalmente por turba y fibra de coco.
 - *Multiplicación de plantas:* Pueden ser para _semilleros_, _esquejes_, o
   producción de planta forestal. Se suelen hacer con mezclas de turba rubia y negra
@@ -59,7 +73,7 @@ La proporción de estos espacios no debe ser inferior al 80-85%.\\
 #+BEGIN_CENTER
 #+CAPTION: Porosidad en suelos 
 #+NAME:   fig:img_porosidadlo
-[[/img_uf1596/porosidad.PNG]]
+[[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
 El grosor de los poros condiciona la aireación y retención de agua. Los porors
 en el suelo se distiguen en *macroscópicos* y *microscópicos*.\\
@@ -91,7 +105,7 @@ forma que adquieren se clasifican en:
   compacto. Muy común en suelos arcillososo que no han sido cultivados
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
-[[/img_uf1596/porosidad.PNG]]
+[[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
 *** Características químicas
 *** Características biológicas
@@ -168,14 +182,14 @@ algunas medidas:
   controlando bacterias como /Erwinia, Xanthomonas, Agrobacterium/ y /Pseudomonas/.
 - *Anisafer:* para el control de chizas, gusanos tirreros, picudos, chinches y
   hormiga arriera. 
-** Equipos y maquinária
+** Equipos y maquinaria
 Todas las labores que se han comentado se pueden mecanizar. Existen máquinas de
 todo tipo y para todas las operaciones. A continuación vamos a ver las más
 habituales en elaboración de medios de cultivo en vivero.
 - *Descompactadora de turba* de /big balé/ (gran paca o gran fardo)
   [[./img_uf1596/big_bale.jpg]]
 - *Mezcladora*
-  [[img_uf1596/mezcladora.jpg]] 
+  [[./img_uf1596/mezcladora.jpg]]
 - *Mezcladora y llenadora de bandejas*
   [[./img_uf1596/bandejas_mezcladora.jpg]] 
 - *Enmacetadora*
@@ -283,5 +297,3 @@ otras necesidades_.
 A continuación describimos los principales materiales empleados en la
 fabricación de contenedores para producción de planta.
 **** Macetas biodegradables
-
-
