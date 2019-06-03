@@ -41,27 +41,27 @@ resumimos a continuación:
   requieren  de bastante mano de obra: semillado, esquejado, repicado, etc
 *** Tipos de vivero 
 Podemos clasificar los viveros según varios criterios:\\
-1- *Según el lugar donde se cultivan las plantas:*
-+ Viveros al exterior o a raíz desnuda: Plantas estarán cultivadas en el propio
-  suelo del vivero, al aire libre o dentro de un invernadero.
-+ Viveros en contenedor: Las plantas estarán en envases, en invernaderos o
-  túneles. Antes de pasar al exterior necesitaran un _periodo de
-  endurecimiento_.
-2- *Según el destino de las plantas:*
-+ Vivero comercial: Produce plantas para ser vendidas. Puede ser venta al por
-  mayor, al detalle o ambas.
-+ Vivero privado: Las plantas producidas son utilizadas para fines privados, por
-  ejemplo una repoblación propia, investigación, etc.
+1. *Según el lugar donde se cultivan las plantas:*
+   - Viveros al exterior o a raíz desnuda: Plantas estarán cultivadas en el propio
+    suelo del vivero, al aire libre o dentro de un invernadero.
+   - Viveros en contenedor: Las plantas estarán en envases, en invernaderos o
+    túneles. Antes de pasar al exterior necesitaran un _periodo de
+    endurecimiento_.
+2. *Según el destino de las plantas:*
+   - Vivero comercial: Produce plantas para ser vendidas. Puede ser venta al por
+     mayor, al detalle o ambas.
+   - Vivero privado: Las plantas producidas son utilizadas para fines privados, por
+     ejemplo una repoblación propia, investigación, etc.
 
-3- *Según permanencia:*
-+ Vivero provisional: Se construyen para abastecer de planta a la repoblación o
-  plantación de una determinada zona.
-+ Vivero fijo o permanente: Construidos para que perduren en el tiempo. La
-  mayoría de viveros que abastecen el mercado son _permanentes_.
-4- *Según especialización:*
-+ Vivero general: Plantas de distintas especies y tamaños
-+ Vivero especializado: Tiene una gama más reducida de especies. Pueden ser
-  forestales, frutícolas, hortícolas, ornamentales, etc
+3. *Según permanencia:*
+   - Vivero provisional: Se construyen para abastecer de planta a la repoblación o
+    plantación de una determinada zona.
+   - Vivero fijo o permanente: Construidos para que perduren en el tiempo. La
+    mayoría de viveros que abastecen el mercado son _permanentes_.
+4. *Según especialización:*
+   - Vivero general: Plantas de distintas especies y tamaños
+   - Vivero especializado: Tiene una gama más reducida de especies. Pueden ser
+     forestales, frutícolas, hortícolas, ornamentales, etc
 *** Distribución de espacios
 En un vivero podemos distinguir tres espacios principales
 1- *Sección de germinación:*
