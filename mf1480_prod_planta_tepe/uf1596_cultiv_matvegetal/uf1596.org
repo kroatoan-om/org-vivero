@@ -73,6 +73,7 @@ La proporción de estos espacios no debe ser inferior al 80-85%.\\
 #+BEGIN_CENTER
 #+CAPTION: Porosidad en suelos 
 #+NAME:   fig:img_porosidadlo
+#+ATTR_LATEX: :width 0.5\textwidth
 [[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
 El grosor de los poros condiciona la aireación y retención de agua. Los porors
@@ -105,6 +106,7 @@ forma que adquieren se clasifican en:
   compacto. Muy común en suelos arcillososo que no han sido cultivados
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
+#+ATTR_LATEX: :width 0.5\textwidth
 [[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
 *** Características químicas
@@ -187,16 +189,22 @@ Todas las labores que se han comentado se pueden mecanizar. Existen máquinas de
 todo tipo y para todas las operaciones. A continuación vamos a ver las más
 habituales en elaboración de medios de cultivo en vivero.
 - *Descompactadora de turba* de /big balé/ (gran paca o gran fardo)
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/big_bale.jpg]]
 - *Mezcladora*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/mezcladora.jpg]]
 - *Mezcladora y llenadora de bandejas*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/bandejas_mezcladora.jpg]] 
 - *Enmacetadora*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/enmacetadora.jpg]]
 - *Transplantadora de bandejas*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/transplantadora_bandejas.jpg]]
 - *Sembradora de líneas*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/sembradora_bandejas.png]]
 * Técnicas de transplante
 ** Introducción
@@ -207,8 +215,8 @@ Para realizar el transplante hay que _tener en cuenta muchos factores_, por lo
 que _no se pueden_ dar unas pautas fijas de cuando y como. Pero _si se puede_
 dar *una norma clara y concisa*:
 #+BEGIN_CENTER
-*"El transplante se realiza cuando la planta ha llenado con raices todo el
- contenedor. Idealmente "* 
+*``El transplante se realiza cuando la planta ha llenado con raices todo el
+ contenedor''* 
 #+END_CENTER 
 ** Estadios de desarrollo del cultivo
 Las plantas que hay que transplantar pueden proceder de:
@@ -295,5 +303,60 @@ otras necesidades_.
 - Que se pueda reciclar (utilizar varias veces)
 *** Materiales
 A continuación describimos los principales materiales empleados en la
-fabricación de contenedores para producción de planta.
-**** Macetas biodegradables
+fabricación de contenedores para producción de planta.\\
+**** Macetas biodegradables\\
+Macetas fabricadas a base de fibras vegetales. La característica más
+interesante es que la planta que se ha desarrollado en estas macetas _no
+necesita transplante_: se puede introducir directamente dentro de un a maceta o
+en el suelo _sin necesidad de sacarla del contenedor_. Una vez la maceta
+plantada, esta se degrada rápidamente y se transforma en materia orgánica.
+
+En el cultivo en maceta biodegradable, la planta al crecer, atraviesa muy
+fácilmete las paredes de la maceta. Esto no pasa con otro tipo de contenedor,
+como por ejemplo las macetas de plástico. Al entrar en contacto con el aire las
+raices _detienen su crecimiento_. Esto estimula la creación de raices
+secundarias que ocupan el volumen de la maceta. Este fenomeno se llama ``poda
+aerea radicular'' y resulta muy beneficioso tanto para el productor como el
+cliente.\\
+**** Barro cocido\\
+Los contenedores de barro cocido tienen las siguientes características:
+- Suelen ser _pesados_. Lo que los hace muy estables pero poco manejables
+- Resisten heladas suaves siempre que estén secos
+- Existen macetas de _terracota_, que resisten las heladas y permiten respirar a
+  las raices al ser más porosas
+**** Plástico\\#+ATTR_LATEX: :width 0.5\textwidth
+Son _muy ligeros_ lo que los hace _manejables, duraderos y baratos_. Tienen las
+_desventajas_ de que se rajan con facilidad y que dañan las raices cuando se
+calientan demasiado. 
+
+En la mayoría de los caoso no cuentan con sistemas _antiespiralizantes_. Esto
+puede dificultar el enraizamiento posterior de la planta ya que si la raiz se ha
+desarrollado de esta manera, tenderá a seguir una disposición en espiral cuando
+se transplante.
+
+Diferenciamos contenedores de plástico según su uso:
+1. *Para seilleros:*
+   - Bandejas de semillero o cubetas: Son las empleadas para _semillas con un
+     porcentaje de germinación muy bajo_. Las bandejas de semillero _obligan al
+     repicado a raiz desnuda_
+   - Bandejas mini-alveolares: cuentan con un gran número de alveolos de muy
+     pequeño volumen. Se recomiendan para semillas con porcentajes de
+     germinación medios o altos. No se emplean si el porcentaje de germinación
+     es muy bajo.
+     #+ATTR_LATEX: :width 0.5\textwidth
+     [[./img_uf1596/bandeja_multi.jpg]]
+   - Bandejas de alvéolos: Tienen volumenes comprendidos entre 150 y 350 cm^3 y
+     se emplean paraa semillas con porcentajes altos. Se pueden emplear para
+     semillas grandes como _bellotas, castañas o cicas_ que se quieren dejar
+     todo el primer año y no hay que repicarlas o transplantarlas (arboles para
+     engorde y planta forestal para repoblaciones)
+2. *Para el estaquillado:*\\
+Encontramos los mismos sistemas que para semillado pero _sin utilizar bandejas
+de semillero_
+   - Bandejas de mini-alvéolos: para estaquillados de muy pequeño tamaño, como
+     los de _aromáticas_
+   - Bandejas de alvéolos de pequeño tamaño (75-150cm^3): para el estaquillado
+     semileñoso y leñoso. La estaquilla estará hasta que enraice y se
+     transplantará a contenedor individual para el engorde
+   - Bandejas de alvéolos de mayor volumen (200-300 cm^3): Normalmente solo se
+     utilizan en viveros forestales

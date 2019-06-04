@@ -1,22 +1,36 @@
+#+TITLE: UF1597. Manejo de instalaciones y expedición de plantas en vivero.
+#+AUTHOR: Antonio Soler Gelde. IT Forestal
+#+EMAIL: asoler@esteldellevant.es
+#+LaTeX_CLASS: asgarticle
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: spanish
+#+SELECT_TAGS: export
 * Medio de cultivo para plantas de vivero
 ** Introducción
-El sustrato en el que cultivamos las plantas y/o hortalizas en el viviero es muy
+El sustrato en el que cultivamos las plantas y/o hortalizas en el vivero es muy
 importante. Propiedades como la textura, drenaje y disponibilidad de nutrientes
-han de promover el crecimiento de las plantulas y ademas facilitar su extracción
+han de promover el crecimiento de las plántalas y además facilitar su extracción
 para poder sacar el cepellón sin que este se rompa.
 ** Componentes para la elaboración del medio de cultivo de plantas en vivero
 *** Sustratos
 Para la producción de plantas ornamentales el sustrato se emplea como soporte y
 alimento y va a ser la base sobre la que se va a desarrollar. Por ello es muy
-importante entender que el futuro de la produccion va a depender mucho del tipo
+importante entender que el futuro de la producción va a depender mucho del tipo
 de sustrato sobre el que se inicia el cultivo. 
-*** Características de un buen susutrato
-- Estabilidad física: Qué mantenga sus características fisicas durante un
+*** Características de un buen sustrato
+- Estabilidad física: Qué mantenga sus características físicas durante un
   tiempo razonable
 - Baja densidad
 - Aireación
 - pH adecuado al tipo de planta
-- Esterilidad: libre de patogenos que puedan dañar la planta o de semillas que
+- Esterilidad: libre de patógenos que puedan dañar la planta o de semillas que
   puedan crear una competencia no deseada
 - Fertilidad
 - Capacidad de retención de nutrientes
@@ -25,17 +39,17 @@ de sustrato sobre el que se inicia el cultivo.
 Existe una gran variedad,y  pueden ser tanto de origen orgánico e inorgánico:
 - Turba rubia y turba negra
 - Fibra de coco
-- Restos de poda y residuos de jardineria triturados
+- Restos de poda y residuos de jardinería triturados
 - Lodos de depuradoras
 - Residuos forestales
 - Arenas, gravas  
 - Materiales sintéticos: perlita, vermiculita, lana de roca, poliestireno, etc
-El empleo de tierras y mantillos así como de estiercol *está restringido* porque
+El empleo de tierras y mantillos así como de estiércol *está restringido* porque
 pueden estar contaminadas con semillas de especies no deseadas y/o
 enfermedades.\\
 A la hora de elaborar un sustrato hay que conocer su *destino y
 particularidades*:\\
-- *Producción viverista:* Para plantas de interior y exterior. Formados
+- *Producción viverística:* Para plantas de interior y exterior. Formados
   principalmente por turba y fibra de coco.
 - *Multiplicación de plantas:* Pueden ser para _semilleros_, _esquejes_, o
   producción de planta forestal. Se suelen hacer con mezclas de turba rubia y negra
@@ -59,7 +73,8 @@ La proporción de estos espacios no debe ser inferior al 80-85%.\\
 #+BEGIN_CENTER
 #+CAPTION: Porosidad en suelos 
 #+NAME:   fig:img_porosidadlo
-[[/img_uf1596/porosidad.PNG]]
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
 El grosor de los poros condiciona la aireación y retención de agua. Los porors
 en el suelo se distiguen en *macroscópicos* y *microscópicos*.\\
@@ -91,7 +106,8 @@ forma que adquieren se clasifican en:
   compacto. Muy común en suelos arcillososo que no han sido cultivados
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
-[[/img_uf1596/porosidad.PNG]]
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
 *** Características químicas
 *** Características biológicas
@@ -168,21 +184,27 @@ algunas medidas:
   controlando bacterias como /Erwinia, Xanthomonas, Agrobacterium/ y /Pseudomonas/.
 - *Anisafer:* para el control de chizas, gusanos tirreros, picudos, chinches y
   hormiga arriera. 
-** Equipos y maquinária
+** Equipos y maquinaria
 Todas las labores que se han comentado se pueden mecanizar. Existen máquinas de
 todo tipo y para todas las operaciones. A continuación vamos a ver las más
 habituales en elaboración de medios de cultivo en vivero.
 - *Descompactadora de turba* de /big balé/ (gran paca o gran fardo)
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/big_bale.jpg]]
 - *Mezcladora*
-  [[img_uf1596/mezcladora.jpg]] 
+#+ATTR_LATEX: :width 0.5\textwidth
+  [[./img_uf1596/mezcladora.jpg]]
 - *Mezcladora y llenadora de bandejas*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/bandejas_mezcladora.jpg]] 
 - *Enmacetadora*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/enmacetadora.jpg]]
 - *Transplantadora de bandejas*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/transplantadora_bandejas.jpg]]
 - *Sembradora de líneas*
+#+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/sembradora_bandejas.png]]
 * Técnicas de transplante
 ** Introducción
@@ -193,8 +215,8 @@ Para realizar el transplante hay que _tener en cuenta muchos factores_, por lo
 que _no se pueden_ dar unas pautas fijas de cuando y como. Pero _si se puede_
 dar *una norma clara y concisa*:
 #+BEGIN_CENTER
-*"El transplante se realiza cuando la planta ha llenado con raices todo el
- contenedor. Idealmente "* 
+*``El transplante se realiza cuando la planta ha llenado con raices todo el
+ contenedor''* 
 #+END_CENTER 
 ** Estadios de desarrollo del cultivo
 Las plantas que hay que transplantar pueden proceder de:
@@ -268,3 +290,37 @@ llegan_ antes de proceder a su transplante.
      raices _blancas y delgadas_. La presencia de _raices marrones_ son señal de
      exceso de humedad o problemas de pudriciones radicales
 ** Tipos de contenedores
+Los contenedores son muy importantes ya que son el suelo de las
+plantas. Cualquier recipiente puede ser utilizado como maceta para mantener una
+planta, pero para a _producción de planta los contenedores deben satisfacer
+otras necesidades_.
+*** Cualidades de los contenedores para producción de planta
+- Ante todo ser *funcional* y permitir la *mecanización* (llenado y semillado
+  por ejemplo)
+- *Manejable* y *Resistente*
+- Ocupar mínimo *espacio*
+- Que se pueda *agrupar* en bandejas y/o apilar
+- Que se pueda reciclar (utilizar varias veces)
+*** Materiales
+A continuación describimos los principales materiales empleados en la
+fabricación de contenedores para producción de planta.\\
+**** Macetas biodegradables\\
+Macetas fabricadas a base de fibras vegetales. La característica más
+interesante es que la planta que se ha desarrollado en estas macetas _no
+necesita transplante_: se puede introducir directamente dentro de un a maceta o
+en el suelo _sin necesidad de sacarla del contenedor_. Una vez la maceta
+plantada, esta se degrada rápidamente y se transforma en materia orgánica.
+
+En el cultivo en maceta biodegradable, la planta al crecer, atraviesa muy
+fácilmete las paredes de la maceta. Esto no pasa con otro tipo de contenedor,
+como por ejemplo las macetas de plástico. Al entrar en contacto con el aire las
+raices _detienen su crecimiento_. Esto estimula la creación de raices
+secundarias que ocupan el volumen de la maceta. Este fenomeno se llama ``poda
+aerea radicular'' y resulta muy beneficioso tanto para el productor como el
+cliente.\\
+**** Barro cocido\\
+Los contenedores de barro cocido tienen las siguientes características:
+- Suelen ser _pesados_. Lo que los hace muy estables pero poco manejables
+- Resisten heladas suaves siempre que estén secos
+- Existen macetas de _terracota_ que resisten las heladas y permiten respirar a
+  las raices al ser más porosas
