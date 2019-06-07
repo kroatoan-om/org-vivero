@@ -1,4 +1,4 @@
-#+TITLE: UF1596. Culivo de material vegetal y cespedes en vivero.
+#+TITLE: UF1596. Cultivo de material vegetal y céspedes en vivero.
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgarticle
@@ -54,10 +54,10 @@ particularidades*:\\
 - *Multiplicación de plantas:* Pueden ser para _semilleros_, _esquejes_, o
   producción de planta forestal. Se suelen hacer con mezclas de turba rubia y negra
 - *Hidroponía:* Un tipo de producción muy especial. En este caso los sustratos
-  empleados pueden ser inertes ya que todos los nutrientes se aplican a traves
+  empleados pueden ser inertes ya que todos los nutrientes se aplican a través
   del agua de riego. Suelen estar compuestos de perlita, vermiculita, lana de
   roca o fibra de coco.
-# - *Jardinería y bricolaje:* Aqui se elaboran los sustratos dependiendo de las
+# - *Jardinería y bricolaje:* Aquí se elaboran los sustratos dependiendo de las
 #    necesidades de los clientes
 ** Características de los sustratos
 *** Características físicas
@@ -66,8 +66,8 @@ particularidades*:\\
   como la capacidad de retención de agua y está relacionada directamente con
   otras propiedades como la porosidad, densidad y estructura.
 - *Porosidad:*
-La porosidad de un sustrato es el vlumen que no está siendo ocupado por
-particulas solidas, minerales u orgánicas. Estos espacios no ocupados se llenan
+La porosidad de un sustrato es el volumen que no está siendo ocupado por
+partículas solidas, minerales u orgánicas. Estos espacios no ocupados se llenan
 de agua o aire.
 La proporción de estos espacios no debe ser inferior al 80-85%.\\
 #+BEGIN_CENTER
@@ -76,8 +76,8 @@ La proporción de estos espacios no debe ser inferior al 80-85%.\\
 #+ATTR_LATEX: :width 0.5\textwidth
 [[./img_uf1596/porosidad.PNG]]
 #+END_CENTER
-El grosor de los poros condiciona la aireación y retención de agua. Los porors
-en el suelo se distiguen en *macroscópicos* y *microscópicos*.\\
+El grosor de los poros condiciona la aireación y retención de agua. Los poros
+en el suelo se distinguen en *macroscópicos* y *microscópicos*.\\
 Los terrenos *arenosos* tienen gran cantidad de poros macroscópicos por lo que tienen una 
 muy baja capacidad de retención e agua. Por otro lado los suelos *arcillosos*
 son son ricos en poros microscópicos por lo que tienen una gran capacidad de
@@ -88,22 +88,22 @@ incluye el volumen que ocupan los poros, se denomina densidad aparente.\\
  Es una característica importante de los suelos, puesto que permite conocer su
 comportamiento hídrico (capacidad de almacenaje de agua, permeabilidad, etc.) y
 sobre su función como hábitat (compactación, facilidad para la penetración de
-las ra´ıces, apertura de galerías, etc.), entre otras.
+las raíces´ıces, apertura de galerías, etc.), entre otras.
 - *Estructura:*
 La estructura de un suelo es la manera en la que están dispuestos sus
 componentes. Las partículas de arena, limo y arcilla se unen entre si de
 determinadas maneras formando _terrones_. Según como se unen las partículas y la
 forma que adquieren se clasifican en:
-+ *De grano simple:* Frecuente en suelos arenososo ya que los granos
-  de arena no se unen entre si y se disgregan facilmente
++ *De grano simple:* Frecuente en suelos arenoso ya que los granos
+  de arena no se unen entre si y se disgregan fácilmente
 + *Granular:* Frecuente en suelos que ya han sido cultivados. Terrones no muy
   grandes y redondeados
 + *De bloques:* Terrones cuadrados y algo más grandes que la granular
-+ *Prismatica:* Terrones más gruesos y alargados
++ *Prismática:* Terrones más gruesos y alargados
 + *Laminar:* Muy fácil de identificar por que el suelo está formado por laminas
   delgadas horizontales
 + *Masiva:* En este caso no se forman terrones y el suelo se observa
-  compacto. Muy común en suelos arcillososo que no han sido cultivados
+  compacto. Muy común en suelos arcilloso que no han sido cultivados
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
 #+ATTR_LATEX: :width 0.5\textwidth
@@ -112,52 +112,52 @@ forma que adquieren se clasifican en:
 *** Características químicas
 *** Características biológicas
 ** Preparación del medio de cultivo
-En un viviero además de cultivar plantas en macetas, podemos hacerlo en el
+En un vivero además de cultivar plantas en macetas, podemos hacerlo en el
 suelo, ya sea dentro de los invernaderos o al aire libre. Un factor _fundamental_
 para el desarrollo de las plantas son las _condiciones_ del suelo, que se mejoran
-entre otras tecnicas mediante el _laboreo_.
+entre otras técnicas mediante el _laboreo_.
 La producción y desarrollo de las plantas está ligada a la _porosidad_ del
 suelo, ya que son sensibles a la aireación y humedad de su sistema radicular. Es
 por lo que el laboreo debe ir dirigido, entre otras cosas, a conseguir una buena
 _aireación_, es decir, mejorar la porosidad.
-# Pregunta: Que le pasa a las plantulas si la densidad del suelo es demasiado
+# Pregunta: Que le pasa a las plántalas si la densidad del suelo es demasiado
 # alta? 
-# Respuesta: El crecimieto de las raices se hace más dificil e incluso pueden
-# llegar a asfixiarse ya que los pelos de las raices no tienen suficiente
+# Respuesta: El crecimiento de las raíces se hace más difícil e incluso pueden
+# llegar a asfixiarse ya que los pelos de las raíces no tienen suficiente
 # contacto con el agua
 # FALTA desarrollar tipos de laboreo realizados de manera mecánica
 ** Realización de mezclas
 En los viveros se producen muchos cultivos en contenedor. Esta manera de
-producir plantas tiene unas limitaciones que vinen dadas por el tamaño del
+producir plantas tiene unas limitaciones que vienen dadas por el tamaño del
 contenedor. El _volumen reducido_ de sustrato que hay en un contenedor obliga a
 _intensificar el riego_, en comparación con un suelo natural en el que las
-plantas pueden desarrollar sus raices todo lo necesario para buscar agua. Por
-tanto los sustratos tendran como _principal característica_ tener una buena
+plantas pueden desarrollar sus raíces todo lo necesario para buscar agua. Por
+tanto los sustratos tendrán como _principal característica_ tener una buena
 capacidad de *retención de agua*, pero sin que ello afecte a la *porosidad* y la
 *densidad*, que como sabemos son factores importantes para el desarrollo de las
-raices y de la planta.
+raíces y de la planta.
 _No se recomienda_ el uso de suelo mineral como un componente de sustratos para
 macetas, aunque en ciertas circunstancias pueda dar buenos resultados, este tipo
 de material tiende a disminuir la porosidad del suelo.
 Debe utilizarse una cantidad suficiente de *componentes orgánicos* en los
 sustratos. Este debe haber pasado por un proceso de *compostaje* para que sea
-estable, de esta manera la materia organica no se descompondrá mediante
-microorganismos que tomarán el nitrogeno del sustrato no dejandolo disponible
+estable, de esta manera la materia orgánica no se descompondrá mediante
+microorganismos que tomarán el nitrógeno del sustrato no dejándolo disponible
 para las plantas.
 ** Enmiendas y fertilización
-La mayoría de los componentes orgánicos de un sustrato sn ácidos y contienen
+La mayoría de los componentes orgánicos de un sustrato son ácidos y contienen
 _niveles bajos de nutrientes disponibles_. Se recomienda:
 - Aporte de *cal*: Elevará el pH y además aportará calcio y magnesio que son
-  _esenciales para el desarrollo radicular_. Estos elemntos son retenidos por el
+  _esenciales para el desarrollo radicular_. Estos elementos son retenidos por el
   sustrato por lo que no se lavan fácilmente.
 - Para asegurar un buen comienzo del cultivo el nitrógeno (N) debe ser incorporado
   antes de plantar. Sin embargo esta práctica es _muy discutible_ cuando se usan
   fertilizantes inorgánicos (tipo /nitrofoska/) debido al efecto de
-  contaminación que la _sobre-fertilización_ produce en los acuiferos. 
-- Fósforo (P) y potásio (K) suelen incorporarse junto al nitrógeno en formulas
+  contaminación que la _sobre-fertilización_ produce en los acuíferos. 
+- Fósforo (P) y potasio (K) suelen incorporarse junto al nitrógeno en formulas
   N-P-K. El fósforo se _lava menos_ mientras que el potasio debería ser
-  _repuesto periodicamente_ ya que no es adsorbido fuertemente por el sustrato.
-- En los suelos calcareos el hierro (Fe) no esta facilmente disponible por la
+  _repuesto periódicamente_ ya que no es adsorbido fuertemente por el sustrato.
+- En los suelos calcáreos el hierro (Fe) no esta fácilmente disponible por la
   planta debido al pH. La manera más eficiente de aportar este elemento es
   mediante _quelato de hierro_, que puede ser adsorbida por la planta en un
   rango más amplio de pH.
@@ -167,13 +167,13 @@ Los sustratos pueden estar "contaminados" entre otras cosas de:
 - Bulbos o rizomas de pastos
 - Larvas de insectos
 - Caracoles o babosas
-- Hóngos y patógenos
+- Hongos y patógenos
 - Nemátodos
 Es muy importante que los sustratos estén debidamente desinfectados. Mencionamos
 algunas medidas:
 - *Cribar* el sustrato para retener partículas grandes de vegetales, insectos u
   otros organismos
-- *Solarización:* Disponer el sustrato en camas, humeddecerlo hasta saturación y
+- *Solarización:* Disponer el sustrato en camas, humedecerlo hasta saturación y
   después cubrirlo con plástico negro o transparente. Se deja expuesto al sol y
   las variaciones de calor causan la muerte de los microorganismos patógenos.
 - *Fitotipren:* mezcla de varios hongos para el control de enfermedades como
@@ -208,24 +208,24 @@ habituales en elaboración de medios de cultivo en vivero.
   [[./img_uf1596/sembradora_bandejas.png]]
 * Transplante de plantas
 ** Introducción
-El transplante consiste en trasladar una planta de una maceta a otra más grande
+El trasplante consiste en trasladar una planta de una maceta a otra más grande
 o al terreno definitivo.
 
-Para realizar el transplante hay que _tener en cuenta muchos factores_, por lo
+Para realizar el trasplante hay que _tener en cuenta muchos factores_, por lo
 que _no se pueden_ dar unas pautas fijas de cuando y como. Pero _si se puede_
 dar *una norma clara y concisa*:
 #+BEGIN_CENTER
-*``El transplante se realiza cuando la planta ha llenado con raices todo el
+*``El transplante se realiza cuando la planta ha llenado con raíces todo el
  contenedor''* 
 #+END_CENTER 
 ** Estadios de desarrollo del cultivo
-Las plantas que hay que transplantar pueden proceder de:
+Las plantas que hay que trasplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
   siguientes _tipos de esquejes:
   - Esquejes herbáceos: clavel, crisantemo, salvia
-  - Esquejes de madera blanda o semiverde: Aquellos tallos que no han comenzado
+  - Esquejes de madera blanda o semi verde: Aquellos tallos que no han comenzado
     a lignificarse. 
-  - Esquejes de madera semidura: el tallo ha comenzado el proceso de
+  - Esquejes de madera semi dura: el tallo ha comenzado el proceso de
     lignificación pero no es leñoso del todo. Se emplea para especies arbustivas
     sobre todo
     - Boj (Buxus sempervirens)
@@ -243,21 +243,21 @@ Las plantas que hay que transplantar pueden proceder de:
     - Agracejo (Berberis spp.)
 - Multiplicación por semillas o sexual
 
-El _enraizamiento_ de los esquejes se inicia en unas condiciones optimas de
+El _enraizamiento_ de los esquejes se inicia en unas condiciones óptimas de
 _humedad y temperatura_. Consideramos que está suficientemente desarrollado
 cuando se puede extraer con el esqueje _todo el cepellón_ con facilidad.
 
-Las plantas que proceden de semilla _estarán preparadas_ para el tranplante al
-igual que los esquejes, cuando las raices se han desarrollado _suficientemente_
-por odo el alveolo y podemos extraer el cepellón con facilidad. 
+Las plantas que proceden de semilla _estarán preparadas_ para el trasplante al
+igual que los esquejes, cuando las raíces se han desarrollado _suficientemente_
+por ido el alveolo y podemos extraer el cepellón con facilidad. 
 
 _El tiempo_ que debe transcurrir para la _germinación_ varía mucho de unas
 especies a otras. Cambia en función de _condiciones de cultivo_ como son
 _temperatura, luminosidad, medio de cultivo, humedad ambiental_, etc
-** Operaciones pre-transplante. 
+** Operaciones pare-trasplante. 
 *** Endurecimiento
-Consiste en someter a las plántulas a una serie de _condiciones ambientales
-adversas_ para que resistan  mejor el tranplante.
+Consiste en someter a las plántalas a una serie de _condiciones ambientales
+adversas_ para que resistan  mejor el trasplante.
 
 Con el  endurecimiento conseguimos que la planta _detenga o disminuya el
 crecimiento de la parte aérea_ y de esta manera favorecemos que _se desarrolle
@@ -265,29 +265,29 @@ el sistema radicular_, y la acumulación de sustancias de reserva.
 
 Podemos conseguir el endurecimiento de tres formas:
 - Por bajas temperaturas
-- Por estrés hidrico
-- Por falta de determinados nutrientes como nitrogeno (N) y potasio (K)
+- Por estrés hídrico
+- Por falta de determinados nutrientes como nitrógeno (N) y potasio (K)
 
-Cuando se realiza el endurecimieto _hay que tener muy cen cuenta_ las
+Cuando se realiza el endurecimiento _hay que tener muy caen cuenta_ las
 condiciones en las que están las plantas y las condiciones que tendrán que
-soportar en el tranplante
+soportar en el trasplante
 *** Recepción del material
 Puede que las plantas las hayamos producido nosotros o vengan de otro
-viviero. En cualquier caso _hay que prestar atención al estado en que nos
-llegan_ antes de proceder a su transplante.
+vivero. En cualquier caso _hay que prestar atención al estado en que nos
+llegan_ antes de proceder a su trasplante.
 1) *Algunas recomendaciones para el descarte de plantas:*
    - En primer lugar descartaremos las que tengan _signos de enfermedades o ataques_
-     de plagas, las debiles, las que tengan heridas y las deformes.
-   - Las plantas _vivaces_ han de tener buen aspecto. Descartaremos las raquiticas
+     de plagas, las débiles, las que tengan heridas y las deformes.
+   - Las plantas _vivaces_ han de tener buen aspecto. Descartaremos las raquíticas
      o envejecidas, con tallo pelado y las que tengan flores _solo en su parte más
      alta_
 2) *Recomendaciones para la revisión general de plantas:*
-   - _Regar los semilleros_ para poder extraer facilmente el cepellón _sin dañar
-     las raices_
-   - Transplantar las que tengan un aspecto _sano, con hojas bien desarrolladas
+   - _Regar los semilleros_ para poder extraer fácilmente el cepellón _sin dañar
+     las raíces_
+   - Trasplantar las que tengan un aspecto _sano, con hojas bien desarrolladas
      y buen color_
    - Las plantas _deben tener_ un sistema radicular _bien desarrollado_, con
-     raices _blancas y delgadas_. La presencia de _raices marrones_ son señal de
+     raíces _blancas y delgadas_. La presencia de _raíces marrones_ son señal de
      exceso de humedad o problemas de pudriciones radicales
 ** Tipos de contenedores
 Los contenedores son muy importantes ya que son el suelo de las
@@ -304,59 +304,62 @@ otras necesidades_.
 *** Materiales
 A continuación describimos los principales materiales empleados en la
 fabricación de contenedores para producción de planta.\\
-**** Macetas biodegradables\\
+**** Macetas biodegradables
+
 Macetas fabricadas a base de fibras vegetales. La característica más
 interesante es que la planta que se ha desarrollado en estas macetas _no
-necesita transplante_: se puede introducir directamente dentro de un a maceta o
+necesita trasplante_: se puede introducir directamente dentro de un a maceta o
 en el suelo _sin necesidad de sacarla del contenedor_. Una vez la maceta
 plantada, esta se degrada rápidamente y se transforma en materia orgánica.
 
 En el cultivo en maceta biodegradable, la planta al crecer, atraviesa muy
-fácilmete las paredes de la maceta. Esto no pasa con otro tipo de contenedor,
+fácil mete las paredes de la maceta. Esto no pasa con otro tipo de contenedor,
 como por ejemplo las macetas de plástico. Al entrar en contacto con el aire las
-raices _detienen su crecimiento_. Esto estimula la creación de raices
-secundarias que ocupan el volumen de la maceta. Este fenomeno se llama ``poda
-aerea radicular'' y resulta muy beneficioso tanto para el productor como el
-cliente.\\
-**** Barro cocido\\
+raíces _detienen su crecimiento_. Esto estimula la creación de raíces
+secundarias que ocupan el volumen de la maceta. Este fenómeno se llama ``poda
+aérea radicular'' y resulta muy beneficioso tanto para el productor como el
+cliente.
+**** Barro cocido
+
 Los contenedores de barro cocido tienen las siguientes características:
 - Suelen ser _pesados_. Lo que los hace muy estables pero poco manejables
 - Resisten heladas suaves siempre que estén secos
 - Existen macetas de _terracota_, que resisten las heladas y permiten respirar a
-  las raices al ser más porosas
-**** Plástico\\
+  las raíces al ser más porosas
+**** Plástico
+
 Son _muy ligeros_ lo que los hace _manejables, duraderos y baratos_. Tienen las
-_desventajas_ de que se rajan con facilidad y que dañan las raices cuando se
+_desventajas_ de que se rajan con facilidad y que dañan las raíces cuando se
 calientan demasiado. 
 
-En la mayoría de los caoso no cuentan con sistemas _antiespiralizantes_. Esto
-puede dificultar el enraizamiento posterior de la planta ya que si la raiz se ha
+En la mayoría de los casos no cuentan con sistemas _antiespiralizantes_. Esto
+puede dificultar el enraizamiento posterior de la planta ya que si la raíz se ha
 desarrollado de esta manera, tenderá a seguir una disposición en espiral cuando
-se transplante.
+se trasplante.
 
 Diferenciamos contenedores de plástico según su uso:
-1. *Para seilleros:*
+1. *Para semilleros:*
    - Bandejas de semillero o cubetas: Son las empleadas para _semillas con un
      porcentaje de germinación muy bajo_. Las bandejas de semillero _obligan al
-     repicado a raiz desnuda_
+     repicado a raíz desnuda_
    - Bandejas mini-alveolares: cuentan con un gran número de alveolos de muy
      pequeño volumen. Se recomiendan para semillas con porcentajes de
      germinación medios o altos. No se emplean si el porcentaje de germinación
      es muy bajo.
      #+ATTR_LATEX: :width 0.5\textwidth
      [[./img_uf1596/bandeja_multi.jpg]]
-   - Bandejas de alvéolos: Tienen volumenes comprendidos entre 150 y 350 cm^3 y
-     se emplean paraa semillas con porcentajes altos. Se pueden emplear para
+   - Bandejas de alvéolos: Tienen volúmenes comprendidos entre 150 y 350 cm^3 y
+     se emplean para semillas con porcentajes altos. Se pueden emplear para
      semillas grandes como _bellotas, castañas o cicas_ que se quieren dejar
-     todo el primer año y no hay que repicarlas o transplantarlas (arboles para
+     todo el primer año y no hay que repicarlas o trasplantarlas (arboles para
      engorde y planta forestal para repoblaciones)
 2. *Para el estaquillado:* Encontramos los mismos sistemas que para semillado
    pero _sin utilizar bandejas de semillero_
    - Bandejas de mini-alvéolos: para estaquillados de muy pequeño tamaño, como
      los de _aromáticas_
    - Bandejas de alvéolos de pequeño tamaño (75-150cm^3): para el estaquillado
-     semileñoso y leñoso. La estaquilla estará hasta que enraice y se
-     transplantará a contenedor individual para el engorde
+     semileñoso y leñoso. La estaquilla estará hasta que enraíce y se
+     trasplantará a contenedor individual para el engorde
    - Bandejas de alvéolos de mayor volumen (200-300 cm^3): Normalmente solo se
      utilizan en viveros forestales
 3. *Para el engorde:*
@@ -370,51 +373,54 @@ Diferenciamos contenedores de plástico según su uso:
    - Contenedores de metal: Se usan mucho como grandes contenedores
      _decorativos_ en calles y plazas públicas
    - Contenedores de papel: Muy usados en plantación de hortalizas, ya que sus
-     paredes son atravesadas facilmente por las raices
+     paredes son atravesadas fácilmente por las raíces
    - Otros materiales: Vidrio, cemento, hormigón, fibra de vidrio, etc.
-** Técnicas de transplantes
+** Técnicas de trasplantes
 En ocasiones cuando la planta va desde un contenedor a otro se le llama
-también repicado. El transplante propiamente dicho, sería cuando pasamos las
-plantas a un lugar definitivo. Nosotros definiremos el transplante como _el
+también repicado. El trasplante propiamente dicho, sería cuando pasamos las
+plantas a un lugar definitivo. Nosotros definiremos el trasplante como _el
 traslado de la planta de un lugar a otro_.
 
-*** La raiz de la planta.
-Cuando producimos planta, tenemos que elegir un sistema de transplante, esto es
-a raiz desnuda o en contenedor
+*** La raíz de la planta.
+Cuando producimos planta, tenemos que elegir un sistema de trasplante, esto es
+a raíz desnuda o en contenedor
 
-**** A raiz desnuda\\
+**** A raíz desnuda
+
 Encontramos las siguientes ventajas e inconvenientes
 + Ventajas:\\
   - _Menor coste de producción_
   - Podemos hacer los semilleros en camas sobre el suelo por lo que _ahorramos
     espacio_  
-  - Si el transplante se retrasa las plantas aguantan más a raiz desnuda
+  - Si el trasplante se retrasa las plantas aguantan más a raíz desnuda
 + Inconvenientes:\\
-  - El estrés que sufre la planta eb el tranplante es mucho mayor que con
-    cepellón. Se rmpen muchas raices al arrancar las plantas del suelo y la
+  - El estrés que sufre la planta en el trasplante es mucho mayor que con
+    cepellón. Se rompen muchas raíces al arrancar las plantas del suelo y la
     planta tarda más tiempo en desarrollarse
-  - En el semillero a raiz desnuda es difícil conseguir homogeneidad en las plantas
-  - Si las _condiciones ambientales_ son desfavorables el día del transplante,
+  - En el semillero a raíz desnuda es difícil conseguir homogeneidad en las plantas
+  - Si las _condiciones ambientales_ son desfavorables el día del trasplante,
     tendremos una _mayor probabilidad de marras_
   
-**** Con cepellón\\
+**** Con cepellón
+
 + Ventajas:\\
-  - El transplante con cepellón _reduce el estrés al mínimo_
-  - El primer riego _no es tán importante_ ya que las plantas tienen su
+  - El trasplante con cepellón _reduce el estrés al mínimo_
+  - El primer riego _no es tan importante_ ya que las plantas tienen su
     _sistema radicular intacto_
   - Al estar cada planta en su contenedor hay _menor riesgo de propagación de
     enfermedades_
 + Inconvenientes:\\
   - _Mayor coste_ de producción. 
   - Las plantas tienen _un espacio determinado para crecer_ por lo que hay que
-    _transplantar_ ya que si no se hace a tiempo las plantas podrían sufrir
+    _trasplantar_ ya que si no se hace a tiempo las plantas podrían sufrir
     daños 
 
 *** Destino de la planta
-Cuando transplantamos planta tenemos dos opciones, transplantar a un contenedor
-o transplantar en suelo. 
+Cuando trasplantamos planta tenemos dos opciones, trasplantar a un contenedor
+o trasplantar en suelo. 
 
-**** Destino a contenedor:\\
+**** Destino a contenedor:
+
 Lo más importante es _saber elegir el contenedor adecuado_ ya que una mala
 elección puede suponer un gasto extra que seria innecesario. Veamos dos ejemplos.
 + Contenedor _mayor de lo necesario_:
@@ -422,13 +428,14 @@ elección puede suponer un gasto extra que seria innecesario. Veamos dos ejemplo
   - Mayor peso y volumen para transportes y almacenamientos
   - Mayor gasto de agua y costes de mantenimiento
 + Contenedor más _pequeño de lo necesario_:
-  - Posible problemas de _desarrollo de las raices_ por falta de espacio. 
+  - Posible problemas de _desarrollo de las raíces_ por falta de espacio. 
 
-**** Destino a suelo:\\
-El transplante a suelo se realiza con árboles, hortícolas, arbustos, y en el
+**** Destino a suelo:
+
+El trasplante a suelo se realiza con árboles, hortícolas, arbustos, y en el
 ajardinamiento de nuevas zonas o mantenimiento de jardines.
 
-En el caso de las _horticolas_ el transplante está muy mecanizado 
+En el caso de las _hortícolas_ el trasplante está muy mecanizado 
      #+ATTR_LATEX: :width 0.5\textwidth
      #+CAPTION: Transplantadora automática
      [[./img_uf1596/transplantadora_suelo.jpg]]
@@ -438,17 +445,18 @@ básicas_:
 + No extender nunca los plantones por la parcela. _Se deben extender a medida se
   plantan_. De esta manera evitaremos la _deshidratación_
 + Deshacer _suavemente_ el cepellón antes de plantar
-+ _Repartir_ las raices en el hoyo de plantación
-+ _Cortar las raices en mal estado_ ya que pueden ser la _entrada de hongos y
++ _Repartir_ las raíces en el hoyo de plantación
++ _Cortar las raíces en mal estado_ ya que pueden ser la _entrada de hongos y
   enfermedades_ 
-+ _No aplicar_ abonos mineráles ni estiercol en el hoyo de plantación
++ _No aplicar_ abonos minerales ni estiércol en el hoyo de plantación
 + Muy importante el _riego de plantación_
 + Elegir la fecha de plantación en la medida de lo posible teniendo en cuenta:
   - Ciclo biológico de la planta
   - Condiciones meteorológicas
 
-***** Transplante de grandes árboles\\
-Para el transplante de grandes árboles que están plantados en suelo se puede
+***** Trasplante de grandes árboles
+
+Para el trasplante de grandes árboles que están plantados en suelo se puede
 emplear la técnica del _escayolado_.
  
 Esta técnica consiste en preparar un recipiente a medida del sistema radicular y
@@ -460,7 +468,7 @@ facilitar el drenaje.
      [[./img_uf1596/escayolado_1.jpg]]
      #+ATTR_LATEX: :width 0.5\textwidth
      #+CAPTION: Aplicación de la escayola
-     [[./img_uf1596/escayolado_2.jpg
+     [[./img_uf1596/escayolado_2.jpg]]
      #+ATTR_LATEX: :width 0.5\textwidth
      #+CAPTION: Escayolado en árbol de grandes dimensiones
      [[./img_uf1596/escayolado_3.jpg]]]]
@@ -469,23 +477,25 @@ Los árboles se plantan en el nuevo hoyo con la escayola ya que con el tiempo
 esta se va deshaciendo.
 
 Existen también máquinas que extraen los árboles del suelo con un buen número de
-raices  
+raíces  
 
      #+ATTR_LATEX: :width 0.5\textwidth
-     #+CAPTION: Árbol extraido por maquiná especializada
+     #+CAPTION: Árbol extraído por máquina especializada
      [[./img_uf1596/arbol_transplante_maquina.jpg]]
 
-*** Formas de transplante
+*** Formas de trasplante
 
-**** Transplante mecanizado\\
+**** Trasplante mecanizado
+
 Se realiza con distintas máquinas. A continuación mencionamos brevemente algunas
 de las que hay en el mercado
 
-***** Robot de transplante bandeja a bandeja
+***** Robot de trasplante bandeja a bandeja
 
-***** Robot de transplante sobre máquina enmacetadora
+***** Robot de trasplante sobre máquina enmacetadora
 
 ***** Transplantadora semiautomática
 
-**** transplante manual\\
-Se puede realizar como hemos visto con plantas a raiz desnuda o con cepellón. 
+**** trasplante manual
+
+Se puede realizar como hemos visto con plantas a raíz desnuda o con cepellón. 
