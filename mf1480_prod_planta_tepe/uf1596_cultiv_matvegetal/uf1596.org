@@ -372,7 +372,7 @@ Diferenciamos contenedores de plástico según su uso:
    - Contenedores de papel: Muy usados en plantación de hortalizas, ya que sus
      paredes son atravesadas facilmente por las raices
    - Otros materiales: Vidrio, cemento, hormigón, fibra de vidrio, etc.
-** Técnicas de transplantes
+** Técnicas de transplante
 En ocasiones cuando la planta va desde un contenedor a otro se le llama
 también repicado. El transplante propiamente dicho, sería cuando pasamos las
 plantas a un lugar definitivo. Nosotros definiremos el transplante como _el

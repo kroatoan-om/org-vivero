@@ -1,4 +1,4 @@
-#+TITLE: UF1597. Manejo de instalaciones y expedición de plantas en vivero.
+#+TITLE: UF1596. Culivo de material vegetal y cespedes en vivero.
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgarticle
@@ -206,7 +206,7 @@ habituales en elaboración de medios de cultivo en vivero.
 - *Sembradora de líneas*
 #+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/sembradora_bandejas.png]]
-* Técnicas de transplante
+* Transplante de plantas
 ** Introducción
 El transplante consiste en trasladar una planta de una maceta a otra más grande
 o al terreno definitivo.
@@ -324,7 +324,7 @@ Los contenedores de barro cocido tienen las siguientes características:
 - Resisten heladas suaves siempre que estén secos
 - Existen macetas de _terracota_, que resisten las heladas y permiten respirar a
   las raices al ser más porosas
-**** Plástico\\#+ATTR_LATEX: :width 0.5\textwidth
+**** Plástico\\
 Son _muy ligeros_ lo que los hace _manejables, duraderos y baratos_. Tienen las
 _desventajas_ de que se rajan con facilidad y que dañan las raices cuando se
 calientan demasiado. 
@@ -360,7 +360,132 @@ Diferenciamos contenedores de plástico según su uso:
    - Bandejas de alvéolos de mayor volumen (200-300 cm^3): Normalmente solo se
      utilizan en viveros forestales
 3. *Para el engorde:*
-   - Sin sistema antiespiralizante: En el caso de tener a la venta planta
+   - De plástico y sin sistema antiespiralizante: En el caso de tener a la venta planta
      pequeña, generalmente se emplean contenedores de sección cuadrados que
      aprovechan el espacio mejor que los circulares.
-   - 
+     [[./img_uf1596/maceta_cuadrada.jpg]]
+   - Con sistema antiespiralizante: Son más caros que los anteriores. También
+     tiene mayor volumen. Encarece el coste de la planta pero crean un sistema
+     radicular más equilibrado.
+   - Contenedores de metal: Se usan mucho como grandes contenedores
+     _decorativos_ en calles y plazas públicas
+   - Contenedores de papel: Muy usados en plantación de hortalizas, ya que sus
+     paredes son atravesadas facilmente por las raices
+   - Otros materiales: Vidrio, cemento, hormigón, fibra de vidrio, etc.
+** Técnicas de transplantes
+En ocasiones cuando la planta va desde un contenedor a otro se le llama
+también repicado. El transplante propiamente dicho, sería cuando pasamos las
+plantas a un lugar definitivo. Nosotros definiremos el transplante como _el
+traslado de la planta de un lugar a otro_.
+
+*** La raiz de la planta.
+Cuando producimos planta, tenemos que elegir un sistema de transplante, esto es
+a raiz desnuda o en contenedor
+
+**** A raiz desnuda\\
+Encontramos las siguientes ventajas e inconvenientes
++ Ventajas:\\
+  - _Menor coste de producción_
+  - Podemos hacer los semilleros en camas sobre el suelo por lo que _ahorramos
+    espacio_  
+  - Si el transplante se retrasa las plantas aguantan más a raiz desnuda
++ Inconvenientes:\\
+  - El estrés que sufre la planta eb el tranplante es mucho mayor que con
+    cepellón. Se rmpen muchas raices al arrancar las plantas del suelo y la
+    planta tarda más tiempo en desarrollarse
+  - En el semillero a raiz desnuda es difícil conseguir homogeneidad en las plantas
+  - Si las _condiciones ambientales_ son desfavorables el día del transplante,
+    tendremos una _mayor probabilidad de marras_
+  
+**** Con cepellón\\
++ Ventajas:\\
+  - El transplante con cepellón _reduce el estrés al mínimo_
+  - El primer riego _no es tán importante_ ya que las plantas tienen su
+    _sistema radicular intacto_
+  - Al estar cada planta en su contenedor hay _menor riesgo de propagación de
+    enfermedades_
++ Inconvenientes:\\
+  - _Mayor coste_ de producción. 
+  - Las plantas tienen _un espacio determinado para crecer_ por lo que hay que
+    _transplantar_ ya que si no se hace a tiempo las plantas podrían sufrir
+    daños 
+
+*** Destino de la planta
+Cuando transplantamos planta tenemos dos opciones, transplantar a un contenedor
+o transplantar en suelo. 
+
+**** Destino a contenedor:\\
+Lo más importante es _saber elegir el contenedor adecuado_ ya que una mala
+elección puede suponer un gasto extra que seria innecesario. Veamos dos ejemplos.
++ Contenedor _mayor de lo necesario_:
+  - Mayor coste en sustrato
+  - Mayor peso y volumen para transportes y almacenamientos
+  - Mayor gasto de agua y costes de mantenimiento
++ Contenedor más _pequeño de lo necesario_:
+  - Posible problemas de _desarrollo de las raices_ por falta de espacio. 
+
+**** Destino a suelo:\\
+El transplante a suelo se realiza con árboles, hortícolas, arbustos, y en el
+ajardinamiento de nuevas zonas o mantenimiento de jardines.
+
+En el caso de las _horticolas_ el transplante está muy mecanizado 
+     #+ATTR_LATEX: :width 0.5\textwidth
+     #+CAPTION: Transplantadora automática
+     [[./img_uf1596/transplantadora_suelo.jpg]]
+
+Para el resto de plantas, árboles y arbustos vamos a ver unas serie de _normas
+básicas_:
++ No extender nunca los plantones por la parcela. _Se deben extender a medida se
+  plantan_. De esta manera evitaremos la _deshidratación_
++ Deshacer _suavemente_ el cepellón antes de plantar
++ _Repartir_ las raices en el hoyo de plantación
++ _Cortar las raices en mal estado_ ya que pueden ser la _entrada de hongos y
+  enfermedades_ 
++ _No aplicar_ abonos mineráles ni estiercol en el hoyo de plantación
++ Muy importante el _riego de plantación_
++ Elegir la fecha de plantación en la medida de lo posible teniendo en cuenta:
+  - Ciclo biológico de la planta
+  - Condiciones meteorológicas
+
+***** Transplante de grandes árboles\\
+Para el transplante de grandes árboles que están plantados en suelo se puede
+emplear la técnica del _escayolado_.
+ 
+Esta técnica consiste en preparar un recipiente a medida del sistema radicular y
+envolverlo con malla metálica y escayola a modo de gran maceta y con un cepellón
+adecuado a su tamaño. El cepellón debe tener por su parte inferior agujeros para
+facilitar el drenaje. 
+     #+ATTR_LATEX: :width 0.5\textwidth
+     #+CAPTION: Preparación del cepellón y colocación de malla metálica
+     [[./img_uf1596/escayolado_1.jpg]]
+     #+ATTR_LATEX: :width 0.5\textwidth
+     #+CAPTION: Aplicación de la escayola
+     [[./img_uf1596/escayolado_2.jpg
+     #+ATTR_LATEX: :width 0.5\textwidth
+     #+CAPTION: Escayolado en árbol de grandes dimensiones
+     [[./img_uf1596/escayolado_3.jpg]]]]
+
+Los árboles se plantan en el nuevo hoyo con la escayola ya que con el tiempo
+esta se va deshaciendo.
+
+Existen también máquinas que extraen los árboles del suelo con un buen número de
+raices  
+
+     #+ATTR_LATEX: :width 0.5\textwidth
+     #+CAPTION: Árbol extraido por maquiná especializada
+     [[./img_uf1596/arbol_transplante_maquina.jpg]]
+
+*** Formas de transplante
+
+**** Transplante mecanizado\\
+Se realiza con distintas máquinas. A continuación mencionamos brevemente algunas
+de las que hay en el mercado
+
+***** Robot de transplante bandeja a bandeja
+
+***** Robot de transplante sobre máquina enmacetadora
+
+***** Transplantadora semiautomática
+
+**** transplante manual\\
+Se puede realizar como hemos visto con plantas a raiz desnuda o con cepellón. 

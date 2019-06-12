@@ -64,28 +64,25 @@ Podemos clasificar los viveros según varios criterios:\\
      forestales, frutícolas, hortícolas, ornamentales, etc
 *** Distribución de espacios
 En un vivero podemos distinguir tres espacios principales
-1- *Sección de germinación:*
-Zona del vivero dedicada a la realización de semilleros para su
-germinación. Esta zona dependiendo de la técnica de cultivo y del clima puede
-ser al aire libre, bajo malla de sombreo o en invernadero. 
-Podemos encontrar diferente equipamiento en estas zonas como por ejemplo:\\
-- Camas de cultivo
-- Bancales
-- Zonas de barbecho
-- Cámaras de germinación
-- Túneles de propagación
-- Mesas de cultivo\\
-
-2- *Sección de crecimiento o plantel:*
-Formada por las zonas del vivero en las que se deposita la planta para su
-desarrollo.
-
-3- *Elementos complementarios o auxiliares:*
-Son todos los espacios no cultivados o auxiliares. Entre otros:\\
-- Red viaria
-- Cerramientos
-- Naves para acopio de materiales o trabajo
-- Oficinas
+1. *Sección de germinación:* Zona del vivero dedicada a la realización de
+   semilleros para su germinación. Esta zona dependiendo de la técnica de
+   cultivo y del clima puede ser al aire libre, bajo malla de sombreo o en
+   invernadero. Podemos encontrar diferente equipamiento en estas zonas como por
+   ejemplo:\\ 
+   + Camas de cultivo
+   + Bancales
+   + Zonas de barbecho
+   + Cámaras de germinación
+   + Túneles de propagación
+   + Mesas de cultivo\\
+2. *Sección de crecimiento o plantel:* Formada por las zonas del vivero en las
+   que se deposita la planta para su desarrollo.
+3. *Elementos complementarios o auxiliares:* Son todos los espacios no
+   cultivados o auxiliares. Entre otros:\\ 
+   + Red viaria
+   + Cerramientos
+   + Naves para acopio de materiales o trabajo
+   + Oficinas
 ** Sistemas de riego
 Son variados pero todos tienen en común _racionar y optimizar el uso del
 agua_. Podemos dividir los sistemas de riego en:\\
@@ -131,29 +128,29 @@ A través del cabezal se pueden realizar las siguientes operaciones:\\
 Los *elementos* de un cabezal de riego son de manera general los siguientes:\\
 + *Equipo de bombeo:* Impulsa el agua a través de las tuberías en el caso de
   que no tenga la presión suficiente. A su vez se compone de:
-  + Tubería de aspiración: lleva el agua desde la fuente hasta la bomba (en
+  - Tubería de aspiración: lleva el agua desde la fuente hasta la bomba (en
     caso de ser una *bomba sumergible* este componente no existe)
-  + Bomba: Mecanismo que aspira e impulsa el agua a la presión y caudal adecuados
-  + Motor: Puede ser eléctrico, diésel o gasolina. Da la fuerza necesaria a la
+  - Bomba: Mecanismo que aspira e impulsa el agua a la presión y caudal adecuados
+  - Motor: Puede ser eléctrico, diésel o gasolina. Da la fuerza necesaria a la
     bomba para impulsar el agua
-  + Tubería de filtrado: Lleva el agua hasta la red de distribución
+  - Tubería de filtrado: Lleva el agua hasta la red de distribución
 + *Sistema de filtrado:* Impide que el sistema y los emisores se _atasquen_ y/o
   _deterioren_. Existen diferentes tipos de filtros:
-  + Hidrociclones: Principalmente para eliminar arenas mediante decantación
-  + Filtros de arenas o gravas: Retienen las impurezas del agua al pasar el
+  - Hidrociclones: Principalmente para eliminar arenas mediante decantación
+  - Filtros de arenas o gravas: Retienen las impurezas del agua al pasar el
     agua a través de sus poros
-  + Filtros de mallas: Se trata de una malla metálica que retiene la
+  - Filtros de mallas: Se trata de una malla metálica que retiene la
     suciedad. Tienen un código de colores según el tamaño de sus huecos.
-  + Filtros de anillas:  Se trata de muchos discos superpuestos que retienen
+  - Filtros de anillas:  Se trata de muchos discos superpuestos que retienen
     la suciedad
 + *Equipos de inyección de fertilizantes:* Aplica fertilizantes al agua de
   riego. Los más utilizados son:
-  + Inyector tipo venturi
-  + Inyector con bomba independiente
+  - Inyector tipo venturi
+  - Inyector con bomba independiente
 + *Sistemas de control y seguridad:* Pueden ser fundamentales para la eficacia
   del sistema de riego. Podemos encontrar, entre otro, los siguientes:
-  + Válvulas: de dirección , controladoras de caudal, de presión
-  + Elementos de medida: manómetros, caudalímetros, pH-metro
+  - Válvulas: de dirección , controladoras de caudal, de presión
+  - Elementos de medida: manómetros, caudalímetros, pH-metro
     
 **** Red de distribución:
 
@@ -162,8 +159,8 @@ distribuyen el agua de riego desde el cabezal hasta los emisores.\\
 
 ***** Materiales
 
-    - *Metal:* como el _acero galvanizado_, aluminio o cobre
-    - *Polietileno:* el más usado para riego agricola. Puede ser de _alta densidad_
+- *Metal:* como el _acero galvanizado_, aluminio o cobre
+- *Polietileno:* el más usado para riego agricola. Puede ser de _alta densidad_
       o _baja densidad_. Identificamos el primero por que tiene una _banda azul_
       rotulada y soporta hasta 6/atm/. Puede ser usado para instalaciones de agua
       para consumo alimentario.\\ 
@@ -191,7 +188,7 @@ distribuyen el agua de riego desde el cabezal hasta los emisores.\\
     #+END_EXPORT
     Las tuberías de goteo están fabricadas a base de _polietileno_ y suelen
     presentar diámetros de *12 y 16 mm*
-    - *PVC:* un material _rígido y de color gris_. Podemos reconocerlo ya que es con lo
+- *PVC:* un material _rígido y de color gris_. Podemos reconocerlo ya que es con lo
       que se suelen hacer los desagües de instalaciones de domesticas. Los diámetros
       más habituales son:
 
