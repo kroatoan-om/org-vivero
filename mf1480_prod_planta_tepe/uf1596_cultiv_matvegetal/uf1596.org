@@ -107,7 +107,7 @@ forma que adquieren se clasifican en:
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
 #+ATTR_LATEX: :width 0.8\textwidth
-[[./img_uf1596/estructura_suelo.jpg]]
+[[./img_uf1596/estructura.PNG]]
 #+END_CENTER
 *** Características químicas
 La reactividad química de un sustrato se refiere a la transferencia de materia
