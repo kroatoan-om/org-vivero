@@ -106,11 +106,35 @@ forma que adquieren se clasifican en:
   compacto. Muy común en suelos arcilloso que no han sido cultivados
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
-#+ATTR_LATEX: :width 0.5\textwidth
+#+ATTR_LATEX: :width 0.8\textwidth
 [[./img_uf1596/estructura_suelo.jpg]]
 #+END_CENTER
 *** Características químicas
+La reactividad química de un sustrato se refiere a la transferencia de materia
+entre el sustrato y la _solución_ nutritiva que alimenta a las planrtas a traves
+de las raices.
+
+La transferencia puede ser debida a reacciones:
+- *Químicas*: por la disolución de los nutrientes que lleva el propio sustrato.
+- *Físico-químicas*: reacciones que se deben a sustratos que tienen
+  mucha materia orgánica o arcilla
+- *Bioquímicas*: reacciines que producen la degradación de los materiales que
+  componen el sustrato. Se origina sobre todo en los materiales de origen
+  orgánico.
+
+Normalmente se _prefieren lo sustratos inertes frente a los químicamente
+activos_. La actividad química que se origina en los sustratos puede aportar a
+la solución nutritiva _elementos adicionales_, si estos elementos son _tóxicos_
+el sustrato no sirve y hay que descartarlo. Pero aunque sean _elementos
+nutritivos utiles_  entorpecen el equilibrio de la solución por un aporte extra
+con el que hay que contar.
 *** Características biológicas
+Como sabemos la actividad biológica se origina por organismos vivos que
+modifican el suelo, insectos, lombrices, hongos, bacterias, algas, etc. A pesar
+de que estos organismos vivos son fundamebtales para la formación de suelos
+_cualquier actividad biológica_ en los sustratos es _claramente
+perjudicial_. Los mricroorganismos compiten con las raices por oxígeno y
+nutrientes y también pueden modificar el sustrato empeorando sus características.
 ** Preparación del medio de cultivo
 En un vivero además de cultivar plantas en macetas, podemos hacerlo en el
 suelo, ya sea dentro de los invernaderos o al aire libre. Un factor _fundamental_
@@ -120,7 +144,7 @@ La producción y desarrollo de las plantas está ligada a la _porosidad_ del
 suelo, ya que son sensibles a la aireación y humedad de su sistema radicular. Es
 por lo que el laboreo debe ir dirigido, entre otras cosas, a conseguir una buena
 _aireación_, es decir, mejorar la porosidad.
-# Pregunta: Que le pasa a las plántalas si la densidad del suelo es demasiado
+# Pregunta: Que le pasa a las plántulas si la densidad del suelo es demasiado
 # alta? 
 # Respuesta: El crecimiento de las raíces se hace más difícil e incluso pueden
 # llegar a asfixiarse ya que los pelos de las raíces no tienen suficiente
@@ -379,7 +403,6 @@ Diferenciamos contenedores de plástico según su uso:
 ** Técnicas de transplante
 =======
 ** Técnicas de trasplantes
->>>>>>> a403c635c0d8de3dd0847335630fae609c8b6b15
 En ocasiones cuando la planta va desde un contenedor a otro se le llama
 también repicado. El trasplante propiamente dicho, sería cuando pasamos las
 plantas a un lugar definitivo. Nosotros definiremos el trasplante como _el
@@ -495,9 +518,9 @@ Se realiza con distintas máquinas. A continuación mencionamos brevemente algun
 de las que hay en el mercado
 
 ***** Robot de trasplante bandeja a bandeja
-
+      
 ***** Robot de trasplante sobre máquina enmacetadora
-
+      
 ***** Transplantadora semiautomática
 
 **** trasplante manual
