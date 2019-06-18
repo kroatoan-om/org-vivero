@@ -16,8 +16,8 @@
 ** Introducción
 El sustrato en el que cultivamos las plantas y/o hortalizas en el vivero es muy
 importante. Propiedades como la textura, drenaje y disponibilidad de nutrientes
-han de promover el crecimiento de las plántalas y además facilitar su extracción
-para poder sacar el cepellón sin que este se rompa.
+han de promover el _crecimiento de las plántulas_ y además facilitar su extracción,
+pudiendo sacar el cepellón sin que este se rompa.
 ** Componentes para la elaboración del medio de cultivo de plantas en vivero
 *** Sustratos
 Para la producción de plantas ornamentales el sustrato se emplea como soporte y
