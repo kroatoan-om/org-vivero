@@ -32,7 +32,7 @@ de sustrato sobre el que se inicia el cultivo.
 - pH adecuado al tipo de planta
 - Esterilidad: libre de patógenos que puedan dañar la planta o de semillas que
   puedan crear una competencia no deseada
-- Fertilidad
+- Fertilidad inicial baja
 - Capacidad de retención de nutrientes
 - Capacidad de retención de agua
 *** Materiales utilizados en la preparación de sustratos
