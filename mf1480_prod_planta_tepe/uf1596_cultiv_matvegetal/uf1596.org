@@ -118,7 +118,7 @@ La transferencia puede ser debida a reacciones:
 - *Químicas*: por la disolución de los nutrientes que lleva el propio sustrato.
 - *Físico-químicas*: reacciones que se deben a sustratos que tienen
   mucha materia orgánica o arcilla
-- *Bioquímicas*: reacciines que producen la degradación de los materiales que
+- *Bioquímicas*: reacciones que producen la degradación de los materiales que
   componen el sustrato. Se origina sobre todo en los materiales de origen
   orgánico.
 
