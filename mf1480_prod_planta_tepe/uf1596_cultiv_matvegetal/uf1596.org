@@ -239,8 +239,8 @@ Para realizar el trasplante hay que _tener en cuenta muchos factores_, por lo
 que _no se pueden_ dar unas pautas fijas de cuando y como. Pero _si se puede_
 dar *una norma clara y concisa*:
 #+BEGIN_CENTER
-*``El transplante se realiza cuando la planta ha llenado con raíces todo el
- contenedor''* 
+*El transplante se realiza cuando la planta ha llenado con raíces todo el
+ contenedor* 
 #+END_CENTER 
 ** Estadios de desarrollo del cultivo
 Las plantas que hay que trasplantar pueden proceder de:
