@@ -112,7 +112,7 @@ forma que adquieren se clasifican en:
 #+END_CENTER
 *** Características químicas
 La reactividad química de un sustrato se refiere a la transferencia de materia
-entre el sustrato y la _solución_ nutritiva que alimenta a las planrtas a traves
+entre el sustrato y la _solución_ nutritiva que alimenta a las plantas a traves
 de las raices.
 
 La transferencia puede ser debida a reacciones:
