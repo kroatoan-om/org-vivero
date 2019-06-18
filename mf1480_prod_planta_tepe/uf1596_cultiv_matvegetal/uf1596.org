@@ -279,7 +279,7 @@ por ido el alveolo y podemos extraer el cepellón con facilidad.
 _El tiempo_ que debe transcurrir para la _germinación_ varía mucho de unas
 especies a otras. Cambia en función de _condiciones de cultivo_ como son
 _temperatura, luminosidad, medio de cultivo, humedad ambiental_, etc
-** Operaciones pare-trasplante. 
+** Operaciones pre-trasplante. 
 *** Endurecimiento
 Consiste en someter a las plántalas a una serie de _condiciones ambientales
 adversas_ para que resistan  mejor el trasplante.
