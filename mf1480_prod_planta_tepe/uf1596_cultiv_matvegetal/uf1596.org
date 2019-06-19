@@ -519,11 +519,11 @@ Se realiza con distintas máquinas. A continuación mencionamos brevemente algun
 de las que hay en el mercado
 
 ***** Robot de trasplante bandeja a bandeja
-      
+Las plantas llegan por     
 ***** Robot de trasplante sobre máquina enmacetadora
-      
+Coge las plantas directamente sobre bandejas y las coloca sobre la máquina enmacetadora. Puede tener un rendimiento de entre 5000 y 6000 plantas por hora.
 ***** Transplantadora semiautomática
-
+Para plantulas de cepellón cónico y piramidal. Se acciona por ruedas compactadoras posteriores. Hay diferentes modelos. En algunps las plantulas las introduce el operario en un sisterma de distribución giratorio. Se puede regular la distancia entre líneas y entre plantas. El rendimieto puede variar entre 3000 y 7000 plantas por línea y por hora
 **** trasplante manual
 
-Se puede realizar como hemos visto con plantas a raíz desnuda o con cepellón. 
+Como hemos visto se puede realizar con plantas a raíz desnuda o con cepellón. 
