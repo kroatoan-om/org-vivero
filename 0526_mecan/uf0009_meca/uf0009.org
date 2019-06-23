@@ -14,11 +14,11 @@
 #+SELECT_TAGS: export
 * El tractor y equipo de tracción
 ** Definición
-Un tractor, agricola o forestal, es un vehiculo autopropulsado de dos o más
-ejes, concebido para arrastrar o empujar aperos, maquinaria o vehiculos
+Un tractor, agrícola o forestal, es un vehículo autopropulsado de dos o más
+ejes, concebido para arrastrar o empujar aperos, maquinaria o vehículos
 agrícolas. 
 Otras características generales son:
-- es capaz de suministrar un gran esfuero de tracción (capacidad de tirar
+- es capaz de suministrar un gran esfuerzo de tracción (capacidad de tirar
   grandes fuerzas en relación a su peso)
 - puede desplazarse por lugares donde la adherencia no es buena
 - tiene por diseño una velocidad máxima de desplazamiento de 40km/h
@@ -27,26 +27,26 @@ Aunque hay mucha diversidad en el diseño de tractores se pueden distinguir una
 serie de partes fundamentales:
 + *Bastidor*. Armazón metálico sobre el que se sujetan las diferentes partes de
   un tractor
-+ *Motor*. Organo principal que proporciona el movimiento del tractor y el
++ *Motor*. Órgano principal que proporciona el movimiento del tractor y el
   funcionamiento de los diferentes sistemas
-+ *Transmisión*. Elementos que tranmiten la energía generada en el motor hasta
-  las ruedas y otros dispositivos (toma de fuerza, sistema hidraulico,...)
++ *Transmisión*. Elementos que transmiten la energía generada en el motor hasta
+  las ruedas y otros dispositivos (toma de fuerza, sistema hidráulico,...)
   - *Embrague*. Dispositivo que transmite o interrumpe el giro del motor al
-    resto de la transmision
+    resto de la transmisión
   - *Caja de cambios*. Conjunto de engranajes que permiten adecuar la velocidad
     del tractor
   - *Diferencial*. Mecanismo que permite que dos ruedas tengan diferentes
     velocidades de giro y pueda tomar las curvas con facilidad
-  - *Reductora*. Mecanismo que aumenta la furza de tracción modificando la
+  - *Reductora*. Mecanismo que aumenta la fuerza de tracción modificando la
     velocidad de giro de las ruedas
   - *Palieres*. Ejes que transmiten el movimiento desde el diferencial hasta las ruedas
-+ *Ruedas*. Elementos sovbre los que se apoya todo el peso del tractor y le
++ *Ruedas*. Elementos sobre los que se apoya todo el peso del tractor y le
   permiten desplazarse
 + *Elevador hidráulico*. Elemento que permite elevar o descender los aperos
   acoplados al tractor
-+ *Enganche tripuntal*. Mecanismo en el que se acoplan los aperos del tractor
-  y se acciónan mediante la toma de fuerza
-+ *Dirección*. El conjunto de piezas que sirven para dirigir al tractor. Actua
++ *Enganche tri puntal*. Mecanismo en el que se acoplan los aperos del tractor
+  y se accionan mediante la toma de fuerza
++ *Dirección*. El conjunto de piezas que sirven para dirigir al tractor. Actúa
   sobre las ruedas delanteras llamadas directrices
 + *Frenos*. Los encargados de disminuir la velocidad del tractor e incluso
   detenerlo completamente
@@ -74,10 +74,10 @@ selvicultura. Los diferentes trabajos que realiza los podemos clasificar en:
 + *De arrastre*. Por ejemplo tirar de un arado
 + *De empuje*. Por ejemplo trabajar con una pala cargadora
 + *Combinados*
-  - Transporte y tma de fuerza. Por ejemplo remolque accionado
+  - Transporte y toma de fuerza. Por ejemplo remolque accionado
   - Arrastre y toma de fuerza. Por ejemplo llevar una fresadora
 
-Todas estas posibilidades ss resumen en 4 grandes acciones que constituyen las
+Todas estas posibilidades se resumen en 4 grandes acciones que constituyen las
 aplicaciones básicas del tractor:
 - Remolcar
 - Arrastrar
