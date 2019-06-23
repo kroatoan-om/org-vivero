@@ -43,7 +43,7 @@ Existe una gran variedad,y  pueden ser tanto de origen orgánico e inorgánico:
 - Lodos de depuradoras
 - Residuos forestales y agrícolas
 - Arenas, gravas  
-- Otros materiales de origen sintetico y/o mineral: perlita, vermiculita, lana de roca, arcilla expandida, poliestireno
+- Otros materiales de origen sintético y/o mineral: perlita, vermiculita, lana de roca, arcilla expandida, poliestireno
 
 El empleo de tierras y mantillos así como de estiércol *está restringido* porque
 pueden estar contaminadas con semillas de especies no deseadas y/o
@@ -112,8 +112,8 @@ forma que adquieren se clasifican en:
 #+END_CENTER
 *** Características químicas
 La reactividad química de un sustrato se refiere a la transferencia de materia
-entre el sustrato y la _solución_ nutritiva que alimenta a las plantas a traves
-de las raices.
+entre el sustrato y la _solución_ nutritiva que alimenta a las plantas a través
+de las raíces.
 
 La transferencia puede ser debida a reacciones:
 - *Químicas*: por la disolución de los nutrientes que lleva el propio sustrato.
@@ -127,14 +127,14 @@ Normalmente se _prefieren lo sustratos inertes frente a los químicamente
 activos_. La actividad química que se origina en los sustratos puede aportar a
 la solución nutritiva _elementos adicionales_, si estos elementos son _tóxicos_
 el sustrato no sirve y hay que descartarlo. Pero aunque sean _elementos
-nutritivos utiles_  entorpecen el equilibrio de la solución por un aporte extra
+nutritivos útiles_  entorpecen el equilibrio de la solución por un aporte extra
 con el que hay que contar.
 *** Características biológicas
 Como sabemos la actividad biológica se origina por organismos vivos que
 modifican el suelo, insectos, lombrices, hongos, bacterias, algas, etc. A pesar
-de que estos organismos vivos son fundamebtales para la formación de suelos
+de que estos organismos vivos son fundamentales para la formación de suelos
 _cualquier actividad biológica_ en los sustratos es _claramente
-perjudicial_. Los mricroorganismos compiten con las raices por oxígeno y
+perjudicial_. Los microorganismos compiten con las raíces por oxígeno y
 nutrientes y también pueden modificar el sustrato empeorando sus características.
 ** Preparación del medio de cultivo
 En un vivero además de cultivar plantas en macetas, podemos hacerlo en el
@@ -184,7 +184,7 @@ _niveles bajos de nutrientes disponibles_. Se recomienda:
   _repuesto periódicamente_ ya que no es adsorbido fuertemente por el sustrato.
 - En los suelos calcáreos el hierro (Fe) no esta fácilmente disponible por la
   planta debido al pH. La manera más eficiente de aportar este elemento es
-  mediante _quelato de hierro_, que puede ser adsorbida por la planta en un
+  mediante _quelato de hierro_, que puede ser absorbida por la planta en un
   rango más amplio de pH.
 ** Desinfección y otros
 Los sustratos pueden estar "contaminados" entre otras cosas de:
@@ -231,7 +231,7 @@ habituales en elaboración de medios de cultivo en vivero.
 - *Sembradora de líneas*
 #+ATTR_LATEX: :width 0.5\textwidth
   [[./img_uf1596/sembradora_bandejas.png]]
-* Transplante de plantas
+* Trasplante de plantas
 ** Introducción
 El trasplante consiste en trasladar una planta de una maceta a otra más grande
 o al terreno definitivo.
@@ -240,7 +240,7 @@ Para realizar el trasplante hay que _tener en cuenta muchos factores_, por lo
 que _no se pueden_ dar unas pautas fijas de cuando y como. Pero _si se puede_
 dar *una norma clara y concisa*:
 #+BEGIN_CENTER
-*El transplante se realiza cuando la planta ha llenado con raíces todo el
+*El trasplante se realiza cuando la planta ha llenado con raíces todo el
  contenedor* 
 #+END_CENTER 
 ** Estadios de desarrollo del cultivo
@@ -401,7 +401,7 @@ Diferenciamos contenedores de plástico según su uso:
      paredes son atravesadas fácilmente por las raíces
    - Otros materiales: Vidrio, cemento, hormigón, fibra de vidrio, etc.
 <<<<<<< HEAD
-** Técnicas de transplante
+** Técnicas de trasplante
 =======
 ** Técnicas de trasplantes
 En ocasiones cuando la planta va desde un contenedor a otro se le llama
@@ -523,7 +523,7 @@ Las plantas llegan por
 ***** Robot de trasplante sobre máquina enmacetadora
 Coge las plantas directamente sobre bandejas y las coloca sobre la máquina enmacetadora. Puede tener un rendimiento de entre 5000 y 6000 plantas por hora.
 ***** Transplantadora semiautomática
-Para plantulas de cepellón cónico y piramidal. Se acciona por ruedas compactadoras posteriores. Hay diferentes modelos. En algunps las plantulas las introduce el operario en un sisterma de distribución giratorio. Se puede regular la distancia entre líneas y entre plantas. El rendimieto puede variar entre 3000 y 7000 plantas por línea y por hora
+Para plántulas de cepellón cónico y piramidal. Se acciona por ruedas compactadoras posteriores. Hay diferentes modelos. En algunos las plántulas las introduce el operario en un sistema de distribución giratorio. Se puede regular la distancia entre líneas y entre plantas. El rendimiento puede variar entre 3000 y 7000 plantas por línea y por hora
 **** trasplante manual
 
 Como hemos visto se puede realizar con plantas a raíz desnuda o con cepellón. 

@@ -1,5 +1,5 @@
 #+TITLE: UF 0008 Instalaciones agrarias. Acondicionamiento, limpieza y desinfección 
-#+AUTHOR: Antonio Soler Gelde. IT Forestal
+n#+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgarticle
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
@@ -57,7 +57,7 @@ Las diferentes fases de un cultivo de plantas están condicionadas por cuatro
 factores ambientales o climáticos: temperatura, humedad relativa, luz y
 CO_2. Controlando de manera decuada estos factores podemos obtener producciones
 más abundantes, cultivar especies que no serían viables durante ciertas épocas
-del año o climas. Tambíen podemos provocar efectos com el cambio de color,
+del año o climas. Tambíen podemos provocar efectos con el cambio de color,
 adelantamiento u retraso de floraciones, etc. 
 *** Control de temperatura
 Parámetro más importante ya que es el que más influye en el crecimiento de las
