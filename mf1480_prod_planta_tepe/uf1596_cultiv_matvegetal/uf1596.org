@@ -187,7 +187,7 @@ _niveles bajos de nutrientes disponibles_. Se recomienda:
   mediante _quelato de hierro_, que puede ser absorbida por la planta en un
   rango más amplio de pH.
 ** Desinfección y otros
-Los sustratos pueden estar "contaminados" entre otras cosas de:
+Los sustratos pueden estar ''contaminados´´ entre otras cosas de:
 - Semillas de malezas y otras hierbas competidoras
 - Bulbos o rizomas de pastos
 - Larvas de insectos
