@@ -107,7 +107,7 @@ forma que adquieren se clasifican en:
   compacto. Muy común en suelos arcilloso que no han sido cultivados
 #+BEGIN_CENTER
 #+CAPTION: Principales estructuras en los suelos
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.65\textwidth
 [[./img_uf1596/estructura.PNG]]
 #+END_CENTER
 *** Características químicas
@@ -214,7 +214,7 @@ Todas las labores que se han comentado se pueden mecanizar. Existen máquinas de
 todo tipo y para todas las operaciones. A continuación vamos a ver las más
 habituales en elaboración de medios de cultivo en vivero.
 - *Descompactadora de turba* de /big balé/ (gran paca o gran fardo)
-#+ATTR_LATEX: :width 0.5\textwidth
+#+ATTR_LATEX: :width 0.4\textwidth
   [[./img_uf1596/big_bale.jpg]]
 - *Mezcladora*
 #+ATTR_LATEX: :width 0.5\textwidth
