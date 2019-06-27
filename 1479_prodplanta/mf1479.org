@@ -1,7 +1,7 @@
 #+TITLE: Propagación de plantas en vivero
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
-#+LaTeX_CLASS: asgarticle
+#+LaTeX_CLASS: asgbook
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
@@ -13,7 +13,7 @@
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
 
-* Aspectos básicos
+* Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
 Para poder conocer la cantidad de organismos vegetales que existen en el mundo, estos se
 han de ordenar y clasificar. Estas clasificaciones resultan en grupos con jerarquías cada
@@ -60,3 +60,5 @@ Las plantas que hay que transplantar pueden proceder de:
   - Esquejes de madera dura de especies perennes
   - Especies de madera dura de especies caducas
 - Multiplicación por semillas o sexual
+* Reproducción de plantas por semillas
+* Reproducción vegetativa de plantas
