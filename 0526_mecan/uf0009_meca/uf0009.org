@@ -1,7 +1,7 @@
-#+TITLE: UF0009. Mantenimiento, preparaci髇 y manejo de tractores
+#+TITLE: UF0009. Mantenimiento, preparaci贸n y manejo de tractores
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
-#+LaTeX_CLASS: asgbook
+#+LaTeX_CLASS: asgarticle
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
@@ -12,41 +12,41 @@
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
-* El tractor y equipo de tracci髇
-** Definici髇
-Un tractor, agr韈ola o forestal, es un veh韈ulo autopropulsado de dos o m醩
-ejes, concebido para arrastrar o empujar aperos, maquinaria o veh韈ulos
-agr韈olas. 
-Otras caracter韘ticas generales son:
-- es capaz de suministrar un gran esfuerzo de tracci髇 (capacidad de tirar
-  grandes fuerzas en relaci髇 a su peso)
+* El tractor y equipo de tracci贸n
+** Definici贸n
+Un tractor, agr铆cola o forestal, es un veh铆culo autopropulsado de dos o m谩s
+ejes, concebido para arrastrar o empujar aperos, maquinaria o veh铆culos
+agr铆colas. 
+Otras caracter铆sticas generales son:
+- es capaz de suministrar un gran esfuerzo de tracci贸n (capacidad de tirar
+  grandes fuerzas en relaci贸n a su peso)
 - puede desplazarse por lugares donde la adherencia no es buena
-- tiene por dise駉 una velocidad m醲ima de desplazamiento de 40km/h
-** Constituci髇 del tractor
-Aunque hay mucha diversidad en el dise駉 de tractores se pueden distinguir una
+- tiene por dise帽o una velocidad m谩xima de desplazamiento de 40km/h
+** Constituci贸n del tractor
+Aunque hay mucha diversidad en el dise帽o de tractores se pueden distinguir una
 serie de partes fundamentales:
-+ *Bastidor*. Armaz髇 met醠ico sobre el que se sujetan las diferentes partes de
++ *Bastidor*. Armaz贸n met谩lico sobre el que se sujetan las diferentes partes de
   un tractor
-+ *Motor*. 觬gano principal que proporciona el movimiento del tractor y el
++ *Motor*. 脫rgano principal que proporciona el movimiento del tractor y el
   funcionamiento de los diferentes sistemas
-+ *Transmisi髇*. Elementos que transmiten la energ韆 generada en el motor hasta
-  las ruedas y otros dispositivos (toma de fuerza, sistema hidr醬lico,...)
++ *Transmisi贸n*. Elementos que transmiten la energ铆a generada en el motor hasta
+  las ruedas y otros dispositivos (toma de fuerza, sistema hidr谩ulico,...)
   - *Embrague*. Dispositivo que transmite o interrumpe el giro del motor al
-    resto de la transmisi髇
+    resto de la transmisi贸n
   - *Caja de cambios*. Conjunto de engranajes que permiten adecuar la velocidad
     del tractor
   - *Diferencial*. Mecanismo que permite que dos ruedas tengan diferentes
     velocidades de giro y pueda tomar las curvas con facilidad
-  - *Reductora*. Mecanismo que aumenta la fuerza de tracci髇 modificando la
+  - *Reductora*. Mecanismo que aumenta la fuerza de tracci贸n modificando la
     velocidad de giro de las ruedas
   - *Palieres*. Ejes que transmiten el movimiento desde el diferencial hasta las ruedas
 + *Ruedas*. Elementos sobre los que se apoya todo el peso del tractor y le
   permiten desplazarse
-+ *Elevador hidr醬lico*. Elemento que permite elevar o descender los aperos
++ *Elevador hidr谩ulico*. Elemento que permite elevar o descender los aperos
   acoplados al tractor
 + *Enganche tri puntal*. Mecanismo en el que se acoplan los aperos del tractor
   y se accionan mediante la toma de fuerza
-+ *Direcci髇*. El conjunto de piezas que sirven para dirigir al tractor. Act鷄
++ *Direcci贸n*. El conjunto de piezas que sirven para dirigir al tractor. Act煤a
   sobre las ruedas delanteras llamadas directrices
 + *Frenos*. Los encargados de disminuir la velocidad del tractor e incluso
   detenerlo completamente
@@ -60,16 +60,16 @@ serie de partes fundamentales:
 3. Embrague
 4. Diferencial
 5. Toma de fuerza
-6. Palier y reducci髇 final
+6. Palier y reducci贸n final
 7. Ruedas motrices
 8. Caja de cambios y grupo reductor
 9. Bastidor
 ** Trabajos que puede realizar
-El tractor es una m醧uina que tiene diferentes aplicaciones en la agricultura y
+El tractor es una m谩quina que tiene diferentes aplicaciones en la agricultura y
 selvicultura. Los diferentes trabajos que realiza los podemos clasificar en:
 + *Estacionarios*.
   - Mediante la toma de fuerza, por ejemplo accionar una bomba de riego
-  - Mediante el sistema hidr醬lico, por ejemplo accionar un elevador de grano
+  - Mediante el sistema hidr谩ulico, por ejemplo accionar un elevador de grano
 + *De transporte*. Por ejemplo tirar un remolque
 + *De arrastre*. Por ejemplo tirar de un arado
 + *De empuje*. Por ejemplo trabajar con una pala cargadora
@@ -78,7 +78,7 @@ selvicultura. Los diferentes trabajos que realiza los podemos clasificar en:
   - Arrastre y toma de fuerza. Por ejemplo llevar una fresadora
 
 Todas estas posibilidades se resumen en 4 grandes acciones que constituyen las
-aplicaciones b醩icas del tractor:
+aplicaciones b谩sicas del tractor:
 - Remolcar
 - Arrastrar
 - Empujar
