@@ -70,9 +70,29 @@ selvicultura. Los diferentes trabajos que realiza los podemos clasificar en:
 + *Estacionarios*.
   - Mediante la toma de fuerza, por ejemplo accionar una bomba de riego
   - Mediante el sistema hidráulico, por ejemplo accionar un elevador de grano
+#+BEGIN_CENTER
+#+CAPTION: Accionando una bomba de riego
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/tractor_riego.PNG]]
+#+END_CENTER
 + *De transporte*. Por ejemplo tirar un remolque
+#+BEGIN_CENTER
+#+CAPTION: Transportando un remolque
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/tractor_remolque.PNG]]
+#+END_CENTER
 + *De arrastre*. Por ejemplo tirar de un arado
+#+BEGIN_CENTER
+#+CAPTION: Arrastrando un arado
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/tractor_arado.PNG]]
+#+END_CENTER
 + *De empuje*. Por ejemplo trabajar con una pala cargadora
+#+BEGIN_CENTER
+#+CAPTION: Accionando una pala
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/tractor_pala.PNG]]
+#+END_CENTER
 + *Combinados*
   - Transporte y toma de fuerza. Por ejemplo remolque accionado
   - Arrastre y toma de fuerza. Por ejemplo llevar una fresadora
@@ -83,3 +103,38 @@ aplicaciones básicas del tractor:
 - Arrastrar
 - Empujar
 - Transmitir movimiento
+** Motor
+Los tractores agrícolas y forestales funcionan mediante motores de cuatro
+tiempos. Veamos los pasos de funcionamiento que sigue este tipo de motor.
+
+1. *Tiempo de admisión:* entrada del aire en el cilindro. Cuando el cilindro
+   está lleno de aire, el pistón commienza a descender, _se abre la válvula de
+   admisión_ y la válvula de escape se encuentra _cerrada_. 
+2. *Tiempo de compresión:* El pistón comienza su carrera ascendente y en ese
+   momento se _cierra la válvula de admisión_ produciendose de esta manera la
+   _compresión del aire admitido en el cilindro_
+3. *Tiempo de trabajo o explosión:* 
+
+*** Sistema de distribución y admisión
+El conjunto de dispositivos necesarios para _regular la entrada y salida de 
+gases del cilindro_ conforman la *distribución*.
+
+#+BEGIN_CENTER
+#+CAPTION: Esquema de distribución
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/valvulabloque.jpg]]
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/esquema_distribucion.jpg]]
+#+END_CENTER
+
+Los elementos principales que constituyen la distribución son los siguientes:
+- Válvulas
+- Asiento, guía y fijador de la válvula
+- Levas
+- Empujadores
+- Balancines
+
+Estos elementos actuan abriendo y cerrando las válvulas en los tiempos de
+admisión y escape de forma sincronizada con el giro del cigüeñal
