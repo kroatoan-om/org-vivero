@@ -401,8 +401,6 @@ Diferenciamos contenedores de plástico según su uso:
      paredes son atravesadas fácilmente por las raíces
    - Otros materiales: Vidrio, cemento, hormigón, fibra de vidrio, etc.
 <<<<<<< HEAD
-** Técnicas de trasplante
-=======
 ** Técnicas de trasplantes
 En ocasiones cuando la planta va desde un contenedor a otro se le llama
 también repicado. El trasplante propiamente dicho, sería cuando pasamos las
@@ -527,3 +525,86 @@ Para plántulas de cepellón cónico y piramidal. Se acciona por ruedas compacta
 **** trasplante manual
 
 Como hemos visto se puede realizar con plantas a raíz desnuda o con cepellón. 
+** Materiales auxiliares para operaciones de trasplante
+
+Como  hemos visto los principales materiales para el trasplante son
+_sustratos, bandejas, contenedores, trasplantadoras, etc._ Veamos algunos
+materiales auxiliares quer podemos usar.
+
+**** Hormonas de enraizamiento
+Para el tratamiento de esquejes, estaquillas y plantas a raiz desnuda en el
+trasplante. Se usan para _favorecer la emisión de raíces_ mejorando asi el
+porcentaje de plantas enraizadas y agarradas así como la calidad global de los
+sistemas radiculares.
+
+Se pueden encontrar en el mercado en líquido o en polvo y bajo multitud de
+marcas comerciales. Las más comodas de usar son en líquido.
+
+Estas hormonas son sintetizadas en laboratorios y la más común que se emplea es
+el /ácido indolbutírico/ (AIB). Un factor a tener en cuenta para adquirir este
+tipo de productos es la _riqueza en materia activa_, pues productos más caros
+con una mayor riqueza se usan en menor cantidad y esto puede resultar más
+económico que comprar productos más baratos pero con una ,enor concentración de
+materia activa.
+
+Un ejemplo de aplicación de /AIB/ puede ser humerdeciendo la base de los
+esquejes unos dos centimetros en el producto puro durante 10 o 20 segundos, o
+sumergirlos durante 24 horas en una disolución de enraizante con agua a una
+concentración que varia del 1 al 20\%.
+
+**** Otros medios 
+
+Cuando realizamos trasplantes mecanizados, dependiendo del tipo de maquinaria
+que empleamos necesitarems unos materiales u otros. Más que un material es más
+posible que necesitemos de _medios o maquinaria auxiliar_, por ejemplo para
+transportar bandejas o macetas hasta la trasplantadora, o para llevarlas a su
+lugar definitivo; para estas operaciones están los robots de transporte, toros
+mecánicos, traspaletas, carretillas, etc.
+
+Cuando hacemos trasplantes manuales podemos emplear como medios auxiliares todas
+las pequeñas herramientas como palas, hazadas, martillos, picos, etc. Para
+trasplantes manuales de árboles o plantas de _gran cepellón_ tenemos como
+principal  maquina auxiliar las _barrenadoras_. Las más grandes pueden ir
+conectadas a la toma de fuerza del tractor pero tambien las podemos encontrar de
+pequeño tamaño.
+
+#+BEGIN_CENTER
+#+CAPTION: Ahoyadora de gran tamaño 
+#+NAME: fig_ahoyadora
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_uf1596/perf_tractor.jpg]]
+
+#+CAPTION: Motoperforadora 
+#+NAME:   fig_motoperforadora 
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_uf1596/motoperforadora.jpg]]
+#+END_CENTER
+
+** Labores culturales pre-trasplante
+
+Son aquellas que tenemos que realizar a las plantas en el semillero, sea en
+bandejas alveolares, ciegas o en camas de cultivo a raiz desnuda. Tienen por
+*objeto* que en el mometo del trasplante el _semillero esté saneado, limpio y
+con la densidad de plantas adecuada.  
+
+*** Aclareo 
+Consiste en arrancar plantas cuando han nacido para _disminuir la densidad de 
+plantación_. Hay plantaciones que se tienen que hacer con una dosis muy alta de
+semilla y al crecer las plantas muy juntas hay mucha cmpetencia entre ellas y
+poco espacio para desarrollarse. De esta manera dejamos menos plantas que podrán
+desarrollarse mejor
+
+*** Repicado
+El repicado es el trasplante inicial de una planta _desde semillero_ a otro
+semillero o contenedor para después volver a trasplantarlo. Tambien se puede
+aplicar a esquejes que han enraizado y los trasplantamos del medio de
+enraizamiento a un contenedor o bandeja.
+
+El _objetivo principal_ del repicado es _disminuir la competencia_ que existe en
+los semilleros. Al repicar aumentamos el espacio entre las plantulas y
+_permitimos que el sistema radicular se desarrolle mejor_
+
+** Labores culturales post-trasplante
+Las labores de este tipo son aquellas que comeizan una vez se han establecido
+las plantas y dependiendo del tipo que sean las plantas habrá que hacer
+reposición de marras, entutorados, podas, etc. 
