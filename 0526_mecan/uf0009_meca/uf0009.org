@@ -3,10 +3,10 @@
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgarticle
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
-#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
 #+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
-#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+CREATOR: Antonio Soler Gelde
 #+DESCRIPTION:
 #+EXCLUDE_TAGS: noexport
 #+KEYWORDS:
@@ -121,11 +121,11 @@ gases del cilindro_ conforman la *distribución*.
 
 #+BEGIN_CENTER
 #+CAPTION: Esquema de distribución
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.65\textwidth
 [[./img_0009/valvulabloque.jpg]]
 
 #+CAPTION: 
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.65\textwidth
 [[./img_0009/esquema_distribucion.jpg]]
 #+END_CENTER
 
