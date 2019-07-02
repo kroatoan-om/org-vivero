@@ -113,7 +113,22 @@ tiempos. Veamos los pasos de funcionamiento que sigue este tipo de motor.
 2. *Tiempo de compresión:* El pistón comienza su carrera ascendente y en ese
    momento se _cierra la válvula de admisión_ produciendose de esta manera la
    _compresión del aire admitido en el cilindro_
-3. *Tiempo de trabajo o explosión:* 
+3. *Tiempo de trabajo o explosión:* inyección del combustible y combustión del
+   mismo. Por la elevada presión y temperatura existentes en el cilindro, se
+   produce la combustión del combustible que empuja al pistón. Las válvulas de
+   admisión y escape se encuentran cerradas.
+4. *Tiempo de escape:* desalojo de los gases producidos por la combustión en la
+   carrera de trabajo. Debido a la inercia que tiene el cigüeñal el pstón
+   comienza una nueva carrera ascendente, en ese momento _se abre la válvula de
+   escape_, y el pistón empuja los gases al colector de escape. La válvula de
+   admisión se encuentra cerrada y se abrirá de nuevo al finalizar la carrera
+   ascendente para comenzar un nuevo ciclo.
+
+#+BEGIN_CENTER
+#+CAPTION: Esquema de distribución
+#+ATTR_LATEX: :width 0.65\textwidth
+[[./img_0009/esquema_cuatrot.png]]
+#+END_CENTER
 
 *** Sistema de distribución y admisión
 El conjunto de dispositivos necesarios para _regular la entrada y salida de 
