@@ -266,12 +266,12 @@ Las plantas que hay que trasplantar pueden proceder de:
     - Chopo (Popoulus spp.)
     - Ginkgo (Ginkgo biloba)
     - Agracejo (Berberis spp.)
-- Multiplicación por semillas o sexual
 
 El _enraizamiento_ de los esquejes se inicia en unas condiciones óptimas de
-_humedad y temperatura_. Consideramos que está suficientemente desarrollado
+_humedad y temperatura_. Consideramos que el esqueje está suficientemente desarrollado
 cuando se puede extraer con el esqueje _todo el cepellón_ con facilidad.
 
+- Multiplicación por semillas o sexual\\
 Las plantas que proceden de semilla _estarán preparadas_ para el trasplante al
 igual que los esquejes, cuando las raíces se han desarrollado _suficientemente_
 por ido el alveolo y podemos extraer el cepellón con facilidad. 
