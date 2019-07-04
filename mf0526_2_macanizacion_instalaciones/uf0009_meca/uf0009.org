@@ -118,7 +118,7 @@ velocidades y el diferencial (comunica el giro del motor a las ruedas
 propulsoras).
 **** Dirección
 
-Se maneja a traves del volante por el conductor, dirige a un lado o a otro las
+Se maneja a través del volante por el conductor, dirige a un lado o a otro las
 ruedas.
 **** Mecanismos auxiliares
 
@@ -129,7 +129,7 @@ etc.
 
 El motor proporciona la potencia y el rendimiento del tractor.  Está situado en 
 la parte delantera del mismo cubierto por el capó. El combustible que utilizan
-los motores de tractor es _diesel_.
+los motores de tractor es _diésel_.
 
 Visualmente podemos dividir al motor en tres partes:
 - *Bloque motor:* es la parte central del motor donde van alojados diferentes
@@ -137,20 +137,20 @@ Visualmente podemos dividir al motor en tres partes:
 - *Tapa de culata y balancines:* situado en la parte superior del bloque
   motor. es la parte que canaliza los gases producidos por la combustión del carburante
 - *Cárter:* situado en la parte inferior del bloque motor. Recoge el aceite del
-  sistema de engrase para ser enviado a las partes moviles del motor
+  sistema de engrase para ser enviado a las partes móviles del motor
 *** Componentes internos del motor
 
  - *Cilindros:* situados en el bloque del motor. Son los tubos huecos por donde
    se mueven los pistones
- - *Pistones:* piezas moviles expuestas a la combustión del combustible. Realizan
-   un movimiento alternativo y están unidos a  las bielas para transmtir el
+ - *Pistones:* piezas móviles expuestas a la combustión del combustible. Realizan
+   un movimiento alternativo y están unidos a  las bielas para transmitir el
    movimiento al cigüeñal 
- - *Anillos:* situados alrededor del pistón muy proximos a la cabeza del
+ - *Anillos:* situados alrededor del pistón muy próximos a la cabeza del
    mismo. Su misión es que no se produzcan perdidas de gases en el cilindro
  - *Bielas:* unidas por un extremo a los pistones y por otro al
    cigüeñal. Transmiten el movimiento generado por la combustión del combustible
- - *Cigüeñal:* transforma el movimieto alternativo del pistón en movimiento
-   rotatorio. Este mmovimiento rotatorio es el que hace que, además que el
+ - *Cigüeñal:* transforma el movimiento alternativo del pistón en movimiento
+   rotatorio. Este movimiento rotatorio es el que hace que, además que el
    tractor se desplace, funcionen los sistemas de engrase, encendido,
    lubricación, toma de fuerza.
  - *Volante de inercia:* almacena la energía para que el pistón pueda volver a la
@@ -165,17 +165,17 @@ Visualmente podemos dividir al motor en tres partes:
  tiempos. Veamos los pasos de funcionamiento que sigue este tipo de motor.
 
  1. *Tiempo de admisión:* entrada del aire en el cilindro. Cuando el cilindro
-    está lleno de aire, el pistón commienza a descender, _se abre la válvula de
+    está lleno de aire, el pistón comienza a descender, _se abre la válvula de
     admisión_ y la válvula de escape se encuentra _cerrada_. 
  2. *Tiempo de compresión:* El pistón comienza su carrera ascendente y en ese
-    momento se _cierra la válvula de admisión_ produciendose de esta manera la
+    momento se _cierra la válvula de admisión_ produciéndose de esta manera la
     _compresión del aire admitido en el cilindro_
  3. *Tiempo de trabajo o explosión:* inyección del combustible y combustión del
     mismo. Por la elevada presión y temperatura existentes en el cilindro, se
     produce la combustión del combustible que empuja al pistón. Las válvulas de
     admisión y escape se encuentran cerradas.
  4. *Tiempo de escape:* desalojo de los gases producidos por la combustión en la
-    carrera de trabajo. Debido a la inercia que tiene el cigüeñal el pstón
+    carrera de trabajo. Debido a la inercia que tiene el cigüeñal el pistón
     comienza una nueva carrera ascendente, en ese momento _se abre la válvula de
     escape_, y el pistón empuja los gases al colector de escape. La válvula de
     admisión se encuentra cerrada y se abrirá de nuevo al finalizar la carrera
@@ -211,7 +211,7 @@ Los elementos principales que constituyen la distribución son los siguientes:
 - *Correa o cadena de distribución :* correa que transmite el movimiento del
   cigüeñal al eje de levas para que este realice su función
 
-Estos elementos actuan en conjunto abriendo y cerrando las válvulas en los
+Estos elementos actúan en conjunto abriendo y cerrando las válvulas en los
 tiempos de admisión y escape de cada cilindro. Esto se ha de realizar de forma
 sincronizada con el giro del cigüeñal. 
 
@@ -222,17 +222,17 @@ llevar a la rotura del motor. Para evitar esto se necesita que las piezas se
 deslicen sobre una capa de aceite. El conjunto de _piezas y conductos_ qué hacen
 que el aceite llegue a presión a todas partes se conoce por sistema de engrase o
 lubricación. Este sistema consta de:
-- *Filtro de entrada a bomba:* malla metálica que impide que entre sucedad o
+- *Filtro de entrada a bomba:* malla metálica que impide que entre suciedad o
   partes metálicas al interior de la bomba evitando su desgaste o rotura
-- *Bomba de aciete:* recoge el aceite del cárter y lo envia a presión a las
+- *Bomba de aceite:* recoge el aceite del cárter y lo envía a presión a las
   diferentes partes del motor
-- *Filtro de aceite:* es la pieza encargada de retener las particulas más finas
+- *Filtro de aceite:* es la pieza encargada de retener las partículas más finas
   que contiene el aceite y han pasado por el filtro de entrada a la bomba
 - *Control de presión:* controla que en todo momento a que presión llega el
   aceite a los lugares de engrase. Puede ser un manómetro o un testigo luminoso
 *** Sistema de refrigeración
 En el momento de la combustión se produce un aumento de temperatura que puede
-llegar a alcanzar los 1500\textdegree{}C. Esta temperatura podria fundir muchas
+llegar a alcanzar los 1500\textdegree{}C. Esta temperatura podría fundir muchas
 piezas , por lo qué se hace necesario _eliminar el exceso de calor_ que se
 produce, y eso se consigue mediante el sistema de refrigeración.
 
@@ -244,45 +244,45 @@ por _agua o líquida_.
   ellos ya que no son los sistemas de refrigeración que encontraremos en los
   tractores agrícolas o forestales.
 - *Refrigeración liquida:* un líquido refrigerante es la encargado de enfriar el
-  motor. Esta  es enfriada por una corriente en el _radiador_ y circula a traves
+  motor. Esta  es enfriada por una corriente en el _radiador_ y circula a través
   de  conducciones por todo el motor. Este sistema cuenta con los siguientes
   componentes: 
   + *Camisa de agua:* cámara hueca que rodea las paredes del cilindro para que
     circule el líquido refrigerante
-  + *Radiador:* circuito de tubos en el que se enfria el líquido refrigerante
+  + *Radiador:* circuito de tubos en el que se enfría el líquido refrigerante
     que viene del motor antes de ser enviado de nuevo. La refrigeración del
     liquido suele ser mediante una corriente de aire forzada por un ventilador
-    que circula a traves de unas aletas que están conectadas a los tubos
+    que circula a través de unas aletas que están conectadas a los tubos
   + *Manguitos:* tubos de goma que conectan el radiador con el bloque motor y
-    otros cmponentes como el depósito o la bomba
+    otros componentes como el depósito o la bomba
   + *Bomba de agua:* la que impulsa el líquido refrigerante por el sistema
   + *Ventilador:* fuerza la entrada de aire a través de las aletas del radiador
   + *Termostato:* es el encargado de accionar el ventilador cuando la
     temperatura del agua se incrementa
-  + *Termometro:* indica la temperatura del líquido refrigerante. Como en el
+  + *Termo-metro:* indica la temperatura del líquido refrigerante. Como en el
     caso del aceite puede ser un indicador luminoso o de nivel
 *** Sistema de alimentación
-La característica principal de los motores diesel en comparación con los
-gasolína es que el combustible se inyecta en el cilindro y se quema por _aumento 
+La característica principal de los motores diésel en comparación con los
+gasolina es que el combustible se inyecta en el cilindro y se quema por _aumento 
 de la temperatura del aire en el cilindro_. En los motores gasolina es la
-_bujia_ la encargada de producir una chispa para que el combustible se queme,
-_los motores diesel no tienen bujia_.
+_bujía_ la encargada de producir una chispa para que el combustible se queme,
+_los motores diésel no tienen bujía_.
 
-Para que el combustible diesel llegue al cilindro ha de seguir un recorrido
+Para que el combustible diésel llegue al cilindro ha de seguir un recorrido
 desde el depósito hasta la cámara de combustión de cada cilindro alojada en la
 culata del motor.
 
-Los elemtos del sistema de alimentación son los siguientes:
-- *Deposito:* recipiente en el que se almacea el combustible para el
+Los elementos del sistema de alimentación son los siguientes:
+- *Deposito:* recipiente en el que se almacena el combustible para el
   funcionamiento del motor
-- *Bomba de alimantación:* es la que aspira el gasóleo del deposito y la envia
+- *Bomba de alimentación:* es la que aspira el gasóleo del deposito y la envía
   con cierta presión al filtro que hay antes de la bomba de inyección
-- *Filtro de gasoil:* su misión es limpiar el gasóil antres de que llegue a la
+- *Filtro de gasoil:* su misión es limpiar el gasoil antes de que llegue a la
   bomba de inyección
-- *Bomba de inyección:* dosifica el combustible y lo envía a traves de unas
-  conducciónes a los inyectores en el momento adecuado para que se produzca la
+- *Bomba de inyección:* dosifica el combustible y lo envía a través de unas
+  conducciones a los inyectores en el momento adecuado para que se produzca la
   combustión en el cilindro. Está sincronizada con el cigüeñal y la distribución
   del motor
-- *Inyectores:* están alojados en la culata del motpor. Reciben el combustible a presión desde la bomba de inyección y lo
+- *Inyectores:* están alojados en la culata del motor. Reciben el combustible a presión desde la bomba de inyección y lo
   pulveriza dentro de la cámara de combustión del cilindro
 
