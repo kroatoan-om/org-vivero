@@ -590,7 +590,7 @@ pequeño tamaño.
 
 Son aquellas que tenemos que realizar a las plantas en el semillero, sea en
 bandejas alveolares, ciegas o en camas de cultivo a raiz desnuda. Tienen por
-*objeto* que en el mometo del trasplante el _semillero esté saneado, limpio y
+*objeto* que en el momento del trasplante el _semillero esté saneado_, limpio y
 con la densidad de plantas adecuada.  
 
 *** Aclareo 
