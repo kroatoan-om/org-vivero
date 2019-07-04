@@ -243,10 +243,11 @@ dar *una norma clara y concisa*:
 *El trasplante se realiza cuando la planta ha llenado con raíces todo el
  contenedor* 
 #+END_CENTER 
-** Estadios de desarrollo del cultivo
+** Aspectos a tener en cuenta del trasplante
 Las plantas que hay que trasplantar pueden proceder de:
-- Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
-  siguientes tipos de esquejes:
+*** Multiplicación vegetativa
+
+Generalmente esquejes. Podemos encontrar los siguientes _tipos de esquejes_:
   - Esquejes herbáceos: clavel, crisantemo, salvia
   - Esquejes de madera blanda o semi verde: Aquellos tallos que no han comenzado
     a lignificarse. 
@@ -271,7 +272,7 @@ El _enraizamiento_ de los esquejes se inicia en unas condiciones óptimas de
 _humedad y temperatura_. Consideramos que el esqueje está suficientemente desarrollado
 cuando se puede extraer con el esqueje _todo el cepellón_ con facilidad.
 
-- Multiplicación por semillas o sexual\\
+*** Multiplicación por semillas o sexual
 Las plantas que proceden de semilla _estarán preparadas_ para el trasplante al
 igual que los esquejes, cuando las raíces se han desarrollado _suficientemente  
 por todo el alveolo_ y podemos extraer el cepellón con facilidad. 
@@ -300,20 +301,20 @@ soportar en el trasplante
 Puede que las plantas las hayamos producido nosotros o vengan de otro
 vivero. En cualquier caso _hay que prestar atención al estado en que nos
 llegan_ antes de proceder a su trasplante.
-1) *Algunas recomendaciones para el descarte de plantas:*
-   - En primer lugar descartaremos las que tengan _signos de enfermedades o ataques_
-     de plagas, las débiles, las que tengan heridas y las deformes.
-   - Las plantas _vivaces_ han de tener buen aspecto. Descartaremos las raquíticas
-     o envejecidas, con tallo pelado y las que tengan flores _solo en su parte más
-     alta_
-2) *Recomendaciones para la revisión general de plantas:*
-   - _Regar los semilleros_ para poder extraer fácilmente el cepellón _sin dañar
-     las raíces_
-   - Trasplantar las que tengan un aspecto _sano, con hojas bien desarrolladas
-     y buen color_
-   - Las plantas _deben tener_ un sistema radicular _bien desarrollado_, con
-     raíces _blancas y delgadas_. La presencia de _raíces marrones_ son señal de
-     exceso de humedad o problemas de pudrición radicular
++ *Algunas recomendaciones para el descarte de plantas:*
+  - En primer lugar descartaremos las que tengan _signos de enfermedades o ataques_
+    de plagas, las débiles, las que tengan heridas y las deformes.
+  - Las plantas _vivaces_ han de tener buen aspecto. Descartaremos las raquíticas
+    o envejecidas, con tallo pelado y las que tengan flores _solo en su parte más
+    alta_
++ *Recomendaciones para la revisión general de plantas:*
+  - _Regar los semilleros_ para poder extraer fácilmente el cepellón _sin dañar
+    las raíces_
+  - Trasplantar las que tengan un aspecto _sano, con hojas bien desarrolladas
+    y buen color_
+  - Las plantas _deben tener_ un sistema radicular _bien desarrollado_, con
+    raíces _blancas y delgadas_. La presencia de _raíces marrones_ son señal de
+    exceso de humedad o problemas de pudrición radicular
 ** Tipos de contenedores
 Los contenedores son muy importantes ya que son el suelo de las
 plantas. Cualquier recipiente puede ser utilizado como maceta para mantener una
@@ -391,9 +392,11 @@ Diferenciamos contenedores de plástico según su uso:
    - De plástico y sin sistema antiespiralizante: En el caso de tener a la venta planta
      pequeña, generalmente se emplean contenedores de sección cuadrados que
      aprovechan el espacio mejor que los circulares.
+     #+BEGIN_COMMENT
      #+ATTR_LATEX: :width 0.6\textwidth
      #+CAPTION: Contenedores de sección cuadrada
      [[./img_uf1596/maceta_cuadrada.jpg]]
+     #+END_COMMENT
    - Con sistema antiespiralizante: Son más caros que los anteriores. También
      tiene mayor volumen. Encarece el coste de la planta pero crean un sistema
      radicular más equilibrado.
@@ -514,7 +517,7 @@ raíces
 
 *** Formas de trasplante
 
-**** Trasplante mecanizado
+**** *Trasplante mecanizado*
 
 Se realiza con distintas máquinas. A continuación mencionamos brevemente algunas
 de las que hay en el mercado
@@ -525,7 +528,7 @@ Las plantas llegan por
 Coge las plantas directamente sobre bandejas y las coloca sobre la máquina enmacetadora. Puede tener un rendimiento de entre 5000 y 6000 plantas por hora.
 ***** Transplantadora semiautomática
 Para plántulas de cepellón cónico y piramidal. Se acciona por ruedas compactadoras posteriores. Hay diferentes modelos. En algunos las plántulas las introduce el operario en un sistema de distribución giratorio. Se puede regular la distancia entre líneas y entre plantas. El rendimiento puede variar entre 3000 y 7000 plantas por línea y por hora
-**** trasplante manual
+**** *Trasplante manual*
 
 Como hemos visto se puede realizar con plantas a raíz desnuda o con cepellón. 
 ** Materiales auxiliares para operaciones de trasplante
@@ -553,7 +556,7 @@ materia activa.
 Un ejemplo de aplicación de /AIB/ puede ser humerdeciendo la base de los
 esquejes unos dos centimetros en el producto puro durante 10 o 20 segundos, o
 sumergirlos durante 24 horas en una disolución de enraizante con agua a una
-concentración que varia del 1 al 20\%.
+concentración que varia del 1 al 20%.
 
 **** Otros medios 
 
