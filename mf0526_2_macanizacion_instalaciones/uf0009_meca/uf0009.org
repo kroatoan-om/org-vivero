@@ -160,6 +160,11 @@ Visualmente podemos dividir al motor en tres partes:
    de gases y otra al colector de salida
  - *Eje de levas o balancines:* recibe el movimiento del cigüeñal y realiza la
    apertura y cierre de las válvulas
+#+BEGIN:_CENTER
+#+CAPTION: Despiece de un motor de 4 cilindros en línea
+#+ATTR_LATEX: :width 0.65\textwidth
+[[/img_0009/partes_motor_basico.jpg]]
+#+END_CENTER
 *** Funcionamiento interno del motor. Los tiempos de funcionamiento
  Los tractores agrícolas y forestales funcionan mediante motores de cuatro
  tiempos. Veamos los pasos de funcionamiento que sigue este tipo de motor.
@@ -230,6 +235,13 @@ lubricación. Este sistema consta de:
   que contiene el aceite y han pasado por el filtro de entrada a la bomba
 - *Control de presión:* controla que en todo momento a que presión llega el
   aceite a los lugares de engrase. Puede ser un manómetro o un testigo luminoso
+
+#+BEGIN:_CENTER
+#+CAPTION: Esquema de un sisterma de lubricación
+#+ATTR_LATEX: :width 0.65\textwidth
+[[/img_0009/lubricacion.png]]
+#+END_CENTER
+
 *** Sistema de refrigeración
 En el momento de la combustión se produce un aumento de temperatura que puede
 llegar a alcanzar los 1500\textdegree{}C. Esta temperatura podría fundir muchas
@@ -285,4 +297,89 @@ Los elementos del sistema de alimentación son los siguientes:
   del motor
 - *Inyectores:* están alojados en la culata del motor. Reciben el combustible a presión desde la bomba de inyección y lo
   pulveriza dentro de la cámara de combustión del cilindro
+*** Sistema de transmisión
+Este sistema hace que el _movimiento de rotación_ que se produce en el cigüeñal
+pase a la _caja de cambio_ mediante el *embrague* y de ahí a través del
+_diferencial_ hasta las _ruedas motrices_ que dan impulso al tractor.
+**** *El embrague*
 
+Es el dispositivo por el que se transmite o interrumpe el _movimiento
+giratorio_ causado por el motor _hacia la caja de cambios_
+
+#+BEGIN_CENTER
+#+ATTR_LATEX: :width 0.65\textwidth
+[[./img_0009/embrague_1.png]]
+#+END_CENTER
+En esencia, un embrague consta de:
+- _Una tapa metálica o campana_ que está unida al volante de inercia y que
+  encierra en su interior diferentes piezas
+- _Un disco de embrague_ que constiste en un disco metálico que lleva en su
+  parte pariférica dos coronas de un material _altamente resistente a la fricción_.
+- _Un disco opresor_ del mismo tamaño del disco de embrague, con unas patillas
+  que actuan sobre el material resistente del disco de embrague
+- Sistema de muelles y resortes que acuan sobre los discos haciendo que estos se
+  _aciplen y desacoplen_ para transmitir el movimiento del motor a la caja de
+  cambios
+
+#+BEGIN_CENTER
+#+CAPTION: Embrague monodisco
+#+ATTR_LATEX: :width 0.65\textwidth
+[[./img_0009/embrague.png]]
+#+END_CENTER
+**** *Caja de cambio*
+
+Es el conjunto de ejes y engranajes por los que se logra alcanzar la velocidad
+de avance y esfuerzo de tracción adecuado a las necesidades del vehículo.
+
+#+BEGIN:_CENTER
+#+CAPTION: Esquema de una caja de cambios
+#+ATTR_LATEX: :width 0.65\textwidth
+[[/img_0009/caja_cambio.jpg]]
+#+END_CENTER
+
+La caja de cambio aprovecha al máximo la potencia del motor, adaptando a una
+tarea determinada la velocidad de avance del tractor de acuerdo con la fuerza
+que requiere para desarrollar cierta labor.
+
+Actualmente los tractores no llevan una úinca palanca de mando para el cambio de
+velocidad, sino _dos o más_ para manejar *la reductora* y la caja de cambios.
+
+*** Toma de fuerza 
+Es un eje estriado en su extremo, accionado por el motor del tractor y
+_destinado a dar movimiento_ a determinado número de máquinas acopladas al
+tractor. Esta situado, generalmente, en la parte trasera del tractor.
+
+#+BEGIN:_CENTER
+#+CAPTION: Parte posterior de un tractor
+#+ATTR_LATEX: :width 0.65\textwidth
+[[/img_0009/posterior_tractor.png]]
+
+#+CAPTION: Detalle de una barra de toma de fuerza
+#+ATTR_LATEX: :width 0.65\textwidth
+[[/img_0009/toma_fuerza_2.jpg]]
+#+END_CENTER 
+
+La mayoria de los tractores van equipados con una toma de fuerza que gira a 540
+/rpm/ (revoluciones por minuto) y tienen una conexión exterior con seis estrías
+anchas en el eje. 
+*** Sistema hidráulico
+Para acoplar al tractor los aperos agrícolas suspendidos y semisuspendidos se
+emplea el elevador hidráulico.
+
+El elevador hidráulico baja el equipo a la posición de trabajo y lo sube a la
+posición de transporte. Tiene dos partes, el enganche a los tres puntos y el
+equipo hidrostático
+#+BEGIN_CENTER
+#+CAPTION: Esquema de un sistema hidráulico de un tractor con toma de fuerza
+#+ATTR_LATEX: :width 0.65\textwidth
+[[/img_0009/hidraulico.jpg]]
+#+END_CENTER 
+
+El enganche a los tres puntos se compone de _dos brazos de tiro rígidos_ unidas
+al tractor mediante rótulas colocadas en uno de sus extremos, llevando en el
+otro extremo sus correspondientes rótulas para el enganche del apero o bien un
+_sistema automático:_ una barra extensible denominada *tercer punto*, unida
+mediante una rótula al bastidor del tractor y en su extremo lleva otra rótula
+para el enganche del apero.
+
+** Enganche de equipos y acondicionamiento
