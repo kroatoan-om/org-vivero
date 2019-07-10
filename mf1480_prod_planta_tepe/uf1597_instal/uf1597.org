@@ -63,8 +63,9 @@ Podemos clasificar los viveros según varios criterios:\\
    - Vivero especializado: Tiene una gama más reducida de especies. Pueden ser
      forestales, frutícolas, hortícolas, ornamentales, etc
 *** Distribución de espacios
-En un vivero podemos distinguir tres espacios principales
-1. *Sección de germinación:* Zona del vivero dedicada a la realización de
+En un vivero podemos distinguir tres espacios principales:
+
+1. *Sección de producción de planta:* Zona del vivero dedicada a la realización de
    semilleros para su germinación. Esta zona dependiendo de la técnica de
    cultivo y del clima puede ser al aire libre, bajo malla de sombreo o en
    invernadero. Podemos encontrar diferente equipamiento en estas zonas como por
@@ -74,11 +75,11 @@ En un vivero podemos distinguir tres espacios principales
    + Zonas de barbecho
    + Cámaras de germinación
    + Túneles de propagación
-   + Mesas de cultivo\\
+   + Mesas de cultivo
 2. *Sección de crecimiento o plantel:* Formada por las zonas del vivero en las
    que se deposita la planta para su desarrollo.
 3. *Elementos complementarios o auxiliares:* Son todos los espacios no
-   cultivados o auxiliares. Entre otros:\\ 
+   cultivados o auxiliares. Entre otros: 
    + Red viaria
    + Cerramientos
    + Naves para acopio de materiales o trabajo

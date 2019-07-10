@@ -535,11 +535,24 @@ de las que hay en el mercado
 
 ***** Robot de trasplante bandeja a bandeja
 
-Las plantas llegan por     
+Las plantas llegan por bandejas de alvéolls y pasan por una cinta, el robot
+dispone de unas pinzas que cogen las plantas, las sacan de las bandejas y las
+colocan sobre otras bandejas.
+
+     #+ATTR_LATEX: :width 0.7\textwidth
+     #+CAPTION: Robot de transplante bandeja a bandeja
+     [[./img_uf1596/robot_bandeja.jpg]]
 ***** Robot de trasplante sobre máquina enmacetadora
-Coge las plantas directamente sobre bandejas y las coloca sobre la máquina enmacetadora. Puede tener un rendimiento de entre 5000 y 6000 plantas por hora.
+
+Coge las plantas directamente sobre bandejas y las coloca sobre la máquina
+enmacetadora. Puede tener un rendimiento de entre 5000 y 6000 plantas por hora. 
 ***** Transplantadora semiautomática
-Para plántulas de cepellón cónico y piramidal. Se acciona por ruedas compactadoras posteriores. Hay diferentes modelos. En algunos las plántulas las introduce el operario en un sistema de distribución giratorio. Se puede regular la distancia entre líneas y entre plantas. El rendimiento puede variar entre 3000 y 7000 plantas por línea y por hora
+
+Para plántulas de cepellón cónico y piramidal. Se acciona por ruedas
+compactadoras posteriores. Hay diferentes modelos. En algunos las plántulas las
+introduce el operario en un sistema de distribución giratorio. Se puede regular
+la distancia entre líneas y entre plantas. El rendimiento puede variar entre
+3000 y 7000 plantas por línea y por hora 
 **** *Trasplante manual*
 
 Como hemos visto se puede realizar con plantas a raíz desnuda o con cepellón. 
@@ -550,6 +563,7 @@ _sustratos, bandejas, contenedores, trasplantadoras, etc._ Veamos algunos
 materiales auxiliares que podemos usar.
 
 **** Hormonas de enraizamiento
+
 Para el tratamiento de esquejes, estaquillas y plantas a raiz desnuda en el
 trasplante. Se usan para _favorecer la emisión de raíces_ mejorando asi el
 porcentaje de plantas enraizadas y agarradas así como la calidad global de los

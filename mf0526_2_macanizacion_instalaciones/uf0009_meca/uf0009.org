@@ -163,7 +163,7 @@ Visualmente podemos dividir al motor en tres partes:
 #+BEGIN:_CENTER
 #+CAPTION: Despiece de un motor de 4 cilindros en línea
 #+ATTR_LATEX: :width 0.65\textwidth
-[[/img_0009/partes_motor_basico.jpg]]
+[[./img_0009/partes_motor_basico.jpg]]
 #+END_CENTER
 *** Funcionamiento interno del motor. Los tiempos de funcionamiento
  Los tractores agrícolas y forestales funcionan mediante motores de cuatro
@@ -239,7 +239,7 @@ lubricación. Este sistema consta de:
 #+BEGIN:_CENTER
 #+CAPTION: Esquema de un sisterma de lubricación
 #+ATTR_LATEX: :width 0.65\textwidth
-[[/img_0009/lubricacion.png]]
+[[./img_0009/lubricacion.png]]
 #+END_CENTER
 
 *** Sistema de refrigeración
@@ -334,7 +334,7 @@ de avance y esfuerzo de tracción adecuado a las necesidades del vehículo.
 #+BEGIN:_CENTER
 #+CAPTION: Esquema de una caja de cambios
 #+ATTR_LATEX: :width 0.65\textwidth
-[[/img_0009/caja_cambio.jpg]]
+[[./img_0009/caja_cambio.jpg]]
 #+END_CENTER
 
 La caja de cambio aprovecha al máximo la potencia del motor, adaptando a una
@@ -352,11 +352,11 @@ tractor. Esta situado, generalmente, en la parte trasera del tractor.
 #+BEGIN:_CENTER
 #+CAPTION: Parte posterior de un tractor
 #+ATTR_LATEX: :width 0.65\textwidth
-[[/img_0009/posterior_tractor.png]]
+[[./img_0009/posterior_tractor.png]]
 
 #+CAPTION: Detalle de una barra de toma de fuerza
 #+ATTR_LATEX: :width 0.65\textwidth
-[[/img_0009/toma_fuerza_2.jpg]]
+[[./img_0009/toma_fuerza_2.jpg]]
 #+END_CENTER 
 
 La mayoria de los tractores van equipados con una toma de fuerza que gira a 540
@@ -372,7 +372,7 @@ equipo hidrostático
 #+BEGIN_CENTER
 #+CAPTION: Esquema de un sistema hidráulico de un tractor con toma de fuerza
 #+ATTR_LATEX: :width 0.65\textwidth
-[[/img_0009/hidraulico.jpg]]
+[[./img_0009/hidraulico.jpg]]
 #+END_CENTER 
 
 El enganche a los tres puntos se compone de _dos brazos de tiro rígidos_ unidas
@@ -381,5 +381,35 @@ otro extremo sus correspondientes rótulas para el enganche del apero o bien un
 _sistema automático:_ una barra extensible denominada *tercer punto*, unida
 mediante una rótula al bastidor del tractor y en su extremo lleva otra rótula
 para el enganche del apero.
+** Frenos
 
-** Enganche de equipos y acondicionamiento
+Son sistemas mecánicos que mediante el rozamiento permiten regular la velocidad
+de movimiento, bien disminuyendola o manteniendola.
+
+Estos frenos pueden ser de dos tipos:
+1) *Frenos de zapata o tambor:* Muy utilizados en maquinaria en general. Actuan haciendo
+   rozar con fuerza una zapata con un tambor metálico en movimiento. _Existen
+   dos tipos_ de frenos de zapata: 
+   - Con zapatas exteriores
+   - Con zapatas interiores
+   #+CAPTION: Esquema de un freno de zapata interior
+   #+ATTR_LATEX: :width 0.65\textwidth
+   [[./img_0009/freno_tambor.jpg]]
+2) *Frenos de disco:* Consiste en un disco metálico de cierta anchura cuyo
+   centro está unido al elemento a frenar. En la mordaza o pinza de freno se
+   alojan las pastillas que, abrazando el disco metálico, lo frenan al actuar
+   sobre el
+   #+CAPTION: Esquema de un freno de disco
+   #ATTR_LATEX: :width 0.65\textwidth
+   [[./img_0009/freno_tambor.jpg]]
+
+#+BEGIN_EXPORT latex
+\fbox{\parbox{\textwidth}{\textbf{Recuerda:} Los frenos, mediante el rozamiento,%
+ permiten regular la velocidad de movimiento, bien disminuyendola o manteniendola.%
+ Los frenos de zapata son muy utilizados en maquinaria}}
+#+END_EXPORT
+** Ruedas
+
+Una rueda de neumáticos está constituida por un armazón que
+* Mantenimiento y reparación básica de tractores y equipos de tracción  
+
