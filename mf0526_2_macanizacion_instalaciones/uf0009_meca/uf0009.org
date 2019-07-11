@@ -410,6 +410,53 @@ Estos frenos pueden ser de dos tipos:
 #+END_EXPORT
 ** Ruedas
 
-Una rueda de neumáticos está constituida por un armazón que
+Una rueda de neumáticos está constituida por:
+- Un disco de acero sujeto con tornillos al plato del semipalier
+- Una llanta metálica en cuya parte externa hay unas pestañas donde se alojan
+  los talones del neumático, y en su parte interna unas orejas para unir la
+  llanta al disco
+- El conjunto neumático montado sobre la llanta. Dado que las ruedas motrices y
+  directrices tienen misiones diferentes, sus neumáticos lo son en cuanto
+  tamaño, constitución y dibujo. A su vez el neumático está constituido por:
+  + Una *cámara* con forma de anillo hueco en la que queda encerrado el
+    aire. De esta manera el neumático amortigüa las irregularidades de la marcha
+  + Una *cubierta*. Básicamente esta compuesta por varias capas de
+    goma y otros materiales superpuestas y que van rodeando en los extremos unos
+    aros de acero colocados en los talones 
+
+   #+CAPTION: Elementos de una rueda
+   #+ATTR_LATEX: :width 0.65\textwidth
+   [[./img_0009/esquema_rueda.PNG]]
+
+
+   #+CAPTION: Partes de una cubierta de neumático
+   #+ATTR_LATEX: :width 0.65\textwidth
+   [[./img_0009/neumatico1.jpg]]
+** Sistema eléctrico
+
+Llamaomos sistema eléctrico al conjunto de elementos que el tractor necesita
+para realizar el arranque, encendido de luces u otras funciones para las que se
+necesita corriente eléctrica. Los componentes básicos del sistema eléctrico son:
+- *Batería de acumuladores:* es un generador de corriente eléctrica por medios
+  electroquímicos, es decir, transforma la energía eléctrica en energía química
+  y la almacena para después, cuando es necesario, reconvertirla en energía
+  eléctrica. Una batería de acumuladores se compone de una caja de material
+  aislante que guarda en su interior los elementos que hacen posible que la
+  energía se almacene y quede disponible. Estos elementos son una serie celdas
+  electroquímicas compuestas de unas placas de plomo sumergidas en un medio
+  líquido denominado electrolito. Sobre la tapa aparecen los bornes de plmo
+  correspondientes a los _polos positivo (+) y negativo (-)_
+    #+CAPTION: Partes de una batería de acumuladores
+   #+ATTR_LATEX: :width 0.65\textwidth
+   [[./img_0009/bateria_partes.jpg]]
+   Cada celda de las baterias proporciona un voltaje de 2V. Según el número de
+  celdas la batería tendra diferente voltaje. Hay baterías de 6V, 12V y 24V. La
+  capacidad de la batería se define por el *amperaje*, el valor de amperaje de
+  la batería será seleccionado de acuerdo al uso que se le vaya a dar.
+- *Alternador:* es el elemto que permite la recarga y el manteniiento del
+  voltaje de la batería.
+   #+CAPTION: Partes de un alternador
+   #+ATTR_LATEX: :width 0.65\textwidth
+   [[./img_0009/alternador.jpg]]
 * Mantenimiento y reparación básica de tractores y equipos de tracción  
 
