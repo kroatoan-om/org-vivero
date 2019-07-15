@@ -313,17 +313,17 @@ giratorio_ causado por el motor _hacia la caja de cambios_
 En esencia, un embrague consta de:
 - _Una tapa metálica o campana_ que está unida al volante de inercia y que
   encierra en su interior diferentes piezas
-- _Un disco de embrague_ que constiste en un disco metálico que lleva en su
-  parte pariférica dos coronas de un material _altamente resistente a la fricción_.
+- _Un disco de embrague_ que consiste en un disco metálico que lleva en su
+  parte periférica dos coronas de un material _altamente resistente a la fricción_.
 - _Un disco opresor_ del mismo tamaño del disco de embrague, con unas patillas
-  que actuan sobre el material resistente del disco de embrague
-- Sistema de muelles y resortes que acuan sobre los discos haciendo que estos se
-  _aciplen y desacoplen_ para transmitir el movimiento del motor a la caja de
+  que actúan sobre el material resistente del disco de embrague
+- Sistema de muelles y resortes que actúan sobre los discos haciendo que estos se
+  _acoplen y desacoplen_ para transmitir el movimiento del motor a la caja de
   cambios
 
 #+BEGIN_CENTER
-#+CAPTION: Embrague monodisco
-#+ATTR_LATEX: :width 0.65\textwidth
+#+CAPTION: Embrague mono-disco
+#+ATTR_LATEX: :edito 0.65\textwidth
 [[./img_0009/embrague.png]]
 #+END_CENTER
 **** *Caja de cambio*
@@ -341,7 +341,7 @@ La caja de cambio aprovecha al máximo la potencia del motor, adaptando a una
 tarea determinada la velocidad de avance del tractor de acuerdo con la fuerza
 que requiere para desarrollar cierta labor.
 
-Actualmente los tractores no llevan una úinca palanca de mando para el cambio de
+Actualmente los tractores no llevan una única palanca de mando para el cambio de
 velocidad, sino _dos o más_ para manejar *la reductora* y la caja de cambios.
 
 *** Toma de fuerza 
@@ -359,11 +359,11 @@ tractor. Esta situado, generalmente, en la parte trasera del tractor.
 [[./img_0009/toma_fuerza_2.jpg]]
 #+END_CENTER 
 
-La mayoria de los tractores van equipados con una toma de fuerza que gira a 540
+La mayoría de los tractores van equipados con una toma de fuerza que gira a 540
 /rpm/ (revoluciones por minuto) y tienen una conexión exterior con seis estrías
 anchas en el eje. 
 *** Sistema hidráulico
-Para acoplar al tractor los aperos agrícolas suspendidos y semisuspendidos se
+Para acoplar al tractor los aperos agrícolas suspendidos y semi-suspendidos se
 emplea el elevador hidráulico.
 
 El elevador hidráulico baja el equipo a la posición de trabajo y lo sube a la
@@ -384,10 +384,10 @@ para el enganche del apero.
 ** Frenos
 
 Son sistemas mecánicos que mediante el rozamiento permiten regular la velocidad
-de movimiento, bien disminuyendola o manteniendola.
+de movimiento, bien disminuyéndola o manteniendola.
 
 Estos frenos pueden ser de dos tipos:
-1) *Frenos de zapata o tambor:* Muy utilizados en maquinaria en general. Actuan haciendo
+1) *Frenos de zapata o tambor:* Muy utilizados en maquinaria en general. Actúan haciendo
    rozar con fuerza una zapata con un tambor metálico en movimiento. _Existen
    dos tipos_ de frenos de zapata: 
    - Con zapatas exteriores
@@ -405,13 +405,13 @@ Estos frenos pueden ser de dos tipos:
 
 #+BEGIN_EXPORT latex
 \fbox{\parbox{\textwidth}{\textbf{Recuerda:} Los frenos, mediante el rozamiento,%
- permiten regular la velocidad de movimiento, bien disminuyendola o manteniendola.%
+ permiten regular la velocidad de movimiento, bien disminuyéndola o manteniéndola.%
  Los frenos de zapata son muy utilizados en maquinaria}}
 #+END_EXPORT
 ** Ruedas
 
 Una rueda de neumáticos está constituida por:
-- Un disco de acero sujeto con tornillos al plato del semipalier
+- Un disco de acero sujeto con tornillos al plato del semi-palier
 - Una llanta metálica en cuya parte externa hay unas pestañas donde se alojan
   los talones del neumático, y en su parte interna unas orejas para unir la
   llanta al disco
@@ -419,7 +419,7 @@ Una rueda de neumáticos está constituida por:
   directrices tienen misiones diferentes, sus neumáticos lo son en cuanto
   tamaño, constitución y dibujo. A su vez el neumático está constituido por:
   + Una *cámara* con forma de anillo hueco en la que queda encerrado el
-    aire. De esta manera el neumático amortigüa las irregularidades de la marcha
+    aire. De esta manera el neumático amortigua las irregularidades de la marcha
   + Una *cubierta*. Básicamente esta compuesta por varias capas de
     goma y otros materiales superpuestas y que van rodeando en los extremos unos
     aros de acero colocados en los talones 
@@ -434,7 +434,7 @@ Una rueda de neumáticos está constituida por:
    [[./img_0009/neumatico1.jpg]]
 ** Sistema eléctrico
 
-Llamaomos sistema eléctrico al conjunto de elementos que el tractor necesita
+Llamamos sistema eléctrico al conjunto de elementos que el tractor necesita
 para realizar el arranque, encendido de luces u otras funciones para las que se
 necesita corriente eléctrica. Los componentes básicos del sistema eléctrico son:
 - *Batería de acumuladores:* es un generador de corriente eléctrica por medios
@@ -444,16 +444,16 @@ necesita corriente eléctrica. Los componentes básicos del sistema eléctrico s
   aislante que guarda en su interior los elementos que hacen posible que la
   energía se almacene y quede disponible. Estos elementos son una serie celdas
   electroquímicas compuestas de unas placas de plomo sumergidas en un medio
-  líquido denominado electrolito. Sobre la tapa aparecen los bornes de plmo
+  líquido denominado electrolito. Sobre la tapa aparecen los bornes de plomo
   correspondientes a los _polos positivo (+) y negativo (-)_
     #+CAPTION: Partes de una batería de acumuladores
    #+ATTR_LATEX: :width 0.65\textwidth
    [[./img_0009/bateria_partes.jpg]]
    Cada celda de las baterias proporciona un voltaje de 2V. Según el número de
-  celdas la batería tendra diferente voltaje. Hay baterías de 6V, 12V y 24V. La
+  celdas la batería tendrá diferente voltaje. Hay baterías de 6V, 12V y 24V. La
   capacidad de la batería se define por el *amperaje*, el valor de amperaje de
   la batería será seleccionado de acuerdo al uso que se le vaya a dar.
-- *Alternador:* es el elemto que permite la recarga y el manteniiento del
+- *Alternador:* es el elemento que permite la recarga y el mantenimiento del
   voltaje de la batería.
    #+CAPTION: Partes de un alternador
    #+ATTR_LATEX: :width 0.65\textwidth
