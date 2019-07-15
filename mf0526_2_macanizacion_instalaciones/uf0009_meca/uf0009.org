@@ -1,7 +1,7 @@
 #+TITLE: UF0009. Mantenimiento, preparación y manejo de tractores
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
-#+LaTeX_CLASS: asgarticle
+#+LaTeX_CLASS: asgbook
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
@@ -18,37 +18,37 @@ Un tractor, agrícola o forestal, es un vehículo autopropulsado de dos o más
 ejes, concebido para arrastrar o empujar aperos, maquinaria o vehículos
 agrícolas. 
 Otras características generales son:
-- es capaz de suministrar un gran esfuerzo de tracción (capacidad de tirar
+- Es capaz de suministrar un gran esfuerzo de tracción (capacidad de tirar
   grandes fuerzas en relación a su peso)
-- puede desplazarse por lugares donde la adherencia no es buena
-- tiene por diseño una velocidad máxima de desplazamiento de 40km/h
+- Puede desplazarse por lugares donde la adherencia no es buena
+- Tiene por diseño una velocidad máxima de desplazamiento de 40 /km/h/
 ** Constitución del tractor
 Aunque hay mucha diversidad en el diseño de tractores se pueden distinguir una
 serie de partes fundamentales:
-+ *Bastidor*. Armazón metálico sobre el que se sujetan las diferentes partes de
++ *Bastidor:* Armazón metálico sobre el que se sujetan las diferentes partes de
   un tractor
-+ *Motor*. Órgano principal que proporciona el movimiento del tractor y el
++ *Motor:* Órgano principal que proporciona el movimiento del tractor y el
   funcionamiento de los diferentes sistemas
-+ *Transmisión*. Elementos que transmiten la energía generada en el motor hasta
++ *Transmisión:* Elementos que transmiten la energía generada en el motor hasta
   las ruedas y otros dispositivos (toma de fuerza, sistema hidráulico,...)
-  - *Embrague*. Dispositivo que transmite o interrumpe el giro del motor al
+  - *Embrague:* Dispositivo que transmite o interrumpe el giro del motor al
     resto de la transmisión
-  - *Caja de cambios*. Conjunto de engranajes que permiten adecuar la velocidad
+  - *Caja de cambios:* Conjunto de engranajes que permiten adecuar la velocidad
     del tractor
-  - *Diferencial*. Mecanismo que permite que dos ruedas tengan diferentes
+  - *Diferencial:* Mecanismo que permite que dos ruedas tengan diferentes
     velocidades de giro y pueda tomar las curvas con facilidad
-  - *Reductora*. Mecanismo que aumenta la fuerza de tracción modificando la
+  - *Reductora:* Mecanismo que aumenta la fuerza de tracción modificando la
     velocidad de giro de las ruedas
-  - *Palieres*. Ejes que transmiten el movimiento desde el diferencial hasta las ruedas
-+ *Ruedas*. Elementos sobre los que se apoya todo el peso del tractor y le
+  - *Palieres:* Ejes que transmiten el movimiento desde el diferencial hasta las ruedas
++ *Ruedas:* Elementos sobre los que se apoya todo el peso del tractor y le
   permiten desplazarse
-+ *Elevador hidráulico*. Elemento que permite elevar o descender los aperos
++ *Elevador hidráulico:* Elemento que permite elevar o descender los aperos
   acoplados al tractor
-+ *Enganche tri puntal*. Mecanismo en el que se acoplan los aperos del tractor
++ *Enganche tri-puntal:* Mecanismo en el que se acoplan los aperos del tractor
   y se accionan mediante la toma de fuerza
-+ *Dirección*. El conjunto de piezas que sirven para dirigir al tractor. Actúa
-  sobre las ruedas delanteras llamadas directrices
-+ *Frenos*. Los encargados de disminuir la velocidad del tractor e incluso
++ *Dirección:* El conjunto de piezas que sirven para dirigir al tractor. Actúa
+  sobre las ruedas delanteras llamadas ruedas directrices
++ *Frenos:* Los encargados de disminuir la velocidad del tractor e incluso
   detenerlo completamente
 #+BEGIN_CENTER
 #+CAPTION: Componentes del tractor
@@ -65,32 +65,32 @@ serie de partes fundamentales:
 8. Caja de cambios y grupo reductor
 9. Bastidor
 ** Trabajos que puede realizar
-El tractor es una máquina que tiene diferentes aplicaciones en la agricultura y
+El tractor es una máquina que tiene diferentes aplicaciones en agricultura y
 selvicultura. Los diferentes trabajos que realiza los podemos clasificar en:
 + *Estacionarios*.
   - Mediante la toma de fuerza, por ejemplo accionar una bomba de riego
   - Mediante el sistema hidráulico, por ejemplo accionar un elevador de grano
 #+BEGIN_CENTER
 #+CAPTION: Accionando una bomba de riego
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/tractor_riego.PNG]]
 #+END_CENTER
 + *De transporte*. Por ejemplo tirar un remolque
 #+BEGIN_CENTER
 #+CAPTION: Transportando un remolque
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/tractor_remolque.PNG]]
 #+END_CENTER
 + *De arrastre*. Por ejemplo tirar de un arado
 #+BEGIN_CENTER
 #+CAPTION: Arrastrando un arado
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/tractor_arado.PNG]]
 #+END_CENTER
 + *De empuje*. Por ejemplo trabajar con una pala cargadora
 #+BEGIN_CENTER
 #+CAPTION: Accionando una pala
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/tractor_pala.PNG]]
 #+END_CENTER
 + *Combinados*
@@ -107,20 +107,20 @@ aplicaciones básicas del tractor:
 
 Podemos dividir el sistema de tracción de un tractor típico en las siguientes
 partes:
-**** Motor y sus componentes
+**** *Motor y sus componentes*
 
 Cilindros, bielas, cigüeñal,etc.
 
-**** Transmisión
+**** *Transmisión*
 
 Formada por el embrague (separa el motor de la transmisión), cambio de
 velocidades y el diferencial (comunica el giro del motor a las ruedas
 propulsoras).
-**** Dirección
+**** *Dirección*
 
 Se maneja a través del volante por el conductor, dirige a un lado o a otro las
 ruedas.
-**** Mecanismos auxiliares
+**** *Mecanismos auxiliares*
 
 Frenos, sistema eléctrico,sistema de refrigeración, ruedas, sistema eléctrico,
 etc.
@@ -128,8 +128,13 @@ etc.
 ** El motor
 
 El motor proporciona la potencia y el rendimiento del tractor.  Está situado en 
-la parte delantera del mismo cubierto por el capó. El combustible que utilizan
-los motores de tractor es _diésel_.
+la parte delantera del mismo cubierto por el capó.
+#+BEGIN_EXPORT latex
+\begin{center}%
+\fbox{\parbox{0.6\textwidth}{\textbf{Recuerda:}  El combustible que utilizan
+los motores de tractor es \textbf{diésel.}}}
+\end{center}
+#+END_EXPORT
 
 Visualmente podemos dividir al motor en tres partes:
 - *Bloque motor:* es la parte central del motor donde van alojados diferentes
@@ -138,6 +143,13 @@ Visualmente podemos dividir al motor en tres partes:
   motor. es la parte que canaliza los gases producidos por la combustión del carburante
 - *Cárter:* situado en la parte inferior del bloque motor. Recoge el aceite del
   sistema de engrase para ser enviado a las partes móviles del motor
+
+#+CAPTION: Partes de un motor de cuatro tiempos
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/motor_1.jpg]]
+#+BEGIN_EXPORT latex
+\vspace{2cm}
+#+END_EXPORT
 *** Componentes internos del motor
 
  - *Cilindros:* situados en el bloque del motor. Son los tubos huecos por donde
@@ -160,11 +172,13 @@ Visualmente podemos dividir al motor en tres partes:
    de gases y otra al colector de salida
  - *Eje de levas o balancines:* recibe el movimiento del cigüeñal y realiza la
    apertura y cierre de las válvulas
-#+BEGIN:_CENTER
+
 #+CAPTION: Despiece de un motor de 4 cilindros en línea
-#+ATTR_LATEX: :width 0.65\textwidth
-[[./img_0009/partes_motor_basico.jpg]]
-#+END_CENTER
+#+ATTR_LATEX: :width 0.9\textwidth
+[[./img_0009/despiece_motor.jpg]]
+#+BEGIN_EXPORT latex
+\vspace{2cm}
+#+END_EXPORT
 *** Funcionamiento interno del motor. Los tiempos de funcionamiento
  Los tractores agrícolas y forestales funcionan mediante motores de cuatro
  tiempos. Veamos los pasos de funcionamiento que sigue este tipo de motor.
@@ -175,56 +189,62 @@ Visualmente podemos dividir al motor en tres partes:
  2. *Tiempo de compresión:* El pistón comienza su carrera ascendente y en ese
     momento se _cierra la válvula de admisión_ produciéndose de esta manera la
     _compresión del aire admitido en el cilindro_
- 3. *Tiempo de trabajo o explosión:* inyección del combustible y combustión del
+ 3. *Tiempo de trabajo o explosión:* se produce la inyección del combustible y combustión del
     mismo. Por la elevada presión y temperatura existentes en el cilindro, se
     produce la combustión del combustible que empuja al pistón. Las válvulas de
     admisión y escape se encuentran cerradas.
- 4. *Tiempo de escape:* desalojo de los gases producidos por la combustión en la
-    carrera de trabajo. Debido a la inercia que tiene el cigüeñal el pistón
-    comienza una nueva carrera ascendente, en ese momento _se abre la válvula de
-    escape_, y el pistón empuja los gases al colector de escape. La válvula de
-    admisión se encuentra cerrada y se abrirá de nuevo al finalizar la carrera
-    ascendente para comenzar un nuevo ciclo.
-
- #+BEGIN_CENTER
- #+CAPTION: Esquema de distribución
- #+ATTR_LATEX: :width 0.65\textwidth
- [[./img_0009/esquema_cuatrot.png]]
- #+END_CENTER
+ 4. *Tiempo de escape:* se expulsan los gases producidos por la combustión.
+    Debido a la inercia que tiene el cigüeñal el pistón comienza una nueva
+    carrera ascendente, en ese momento _se abre la válvula de escape_, y el
+    pistón empuja los gases al colector de escape. La válvula de admisión se 
+    encuentra cerrada y se abrirá de nuevo al finalizar la carrera ascendente
+     para comenzar un nuevo ciclo.
+ #+CAPTION: Ciclos de un motor de cuatro tiempos
+ #+ATTR_LATEX: :width 0.8\textwidth
+ [[./img_0009/4tiempos_diesel.jpg]]
+#+BEGIN_EXPORT latex
+\begin{center}%
+\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:}  Los ciclo de trabajo de 
+un motor con combustible diesel y gasolína son \textbf{iguales}. La 
+diferencia está en que en los motores gasolina se introduce en el cilindro 
+una mezcla de \textbf{aire y gasolina}, mientras qué en los diesel es solo 
+\textbf{aire} lo que se introduce en el cilindro, el combustible se introduce 
+en el cilindro a \textbf{alta presión} mediante los \textbf{inyectores.}}}}
+\end{center}
+#+END_EXPORT
 
 *** Sistema de distribución y admisión
 El conjunto de dispositivos necesarios para _regular la entrada y salida de 
 gases del cilindro_ conforman la *distribución*.
 
-#+BEGIN_CENTER
-#+CAPTION: Esquema de distribución
-#+ATTR_LATEX: :width 0.65\textwidth
-[[./img_0009/valvulabloque.jpg]]
-
-#+CAPTION: 
-#+ATTR_LATEX: :width 0.65\textwidth
-[[./img_0009/esquema_distribucion.jpg]]
-#+END_CENTER
-
 Los elementos principales que constituyen la distribución son los siguientes:
 - *Válvulas:* tienen como misión abrir o cerrar los orificios de entrada de
   gases al cilindro
-- *Eje de levas:* sincronizado con el cigüeñal es el encargado de que las
+#+CAPTION: Esquema de una válvula y partes de la culata
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_0009/valvulabloque.jpg]]
+- *Eje de levas:* sincronizado con el cigüeñal mediante es el encargado de que las
   válvulas se abran o cierren en el momento apropiado
+#+CAPTION: Detalle de eje de balancies o de levas
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_0009/esquema_distribucion.jpg]]
 - *Empujadores:* transmiten el empuje del eje de levas a los balancines
 - *Balancines:* palancas que transmiten el movimiento de las levas a las válvulas
 - *Correa o cadena de distribución :* correa que transmite el movimiento del
   cigüeñal al eje de levas para que este realice su función
 
-Estos elementos actúan en conjunto abriendo y cerrando las válvulas en los
+#+BEGIN_EXPORT latex
+\begin{center}%
+\fbox{\parbox{\textwidth}{Estos elementos actúan en conjunto abriendo y cerrando las válvulas en los
 tiempos de admisión y escape de cada cilindro. Esto se ha de realizar de forma
-sincronizada con el giro del cigüeñal. 
-
+sincronizada con el giro del cigüeñal.}}
+\end{center}
+#+END_EXPORT
 *** Sistema de engrase
 Un motor de combustión es un conjunto de piezas metálicas que se rozan un as con
-otras. Este _rozamiento_ produce un gran _desgaste y calentamiento_ y puede
+otras. Este _rozamiento_ produce un gran _desgaste y calentamiento_ que puede
 llevar a la rotura del motor. Para evitar esto se necesita que las piezas se
-deslicen sobre una capa de aceite. El conjunto de _piezas y conductos_ qué hacen
+deslicen sobre una fina capa de aceite. El conjunto de _piezas y conductos_ qué hacen
 que el aceite llegue a presión a todas partes se conoce por sistema de engrase o
 lubricación. Este sistema consta de:
 - *Filtro de entrada a bomba:* malla metálica que impide que entre suciedad o
@@ -236,11 +256,9 @@ lubricación. Este sistema consta de:
 - *Control de presión:* controla que en todo momento a que presión llega el
   aceite a los lugares de engrase. Puede ser un manómetro o un testigo luminoso
 
-#+BEGIN:_CENTER
-#+CAPTION: Esquema de un sisterma de lubricación
+#+CAPTION: Esquema de un sistema de lubricación
 #+ATTR_LATEX: :width 0.65\textwidth
 [[./img_0009/lubricacion.png]]
-#+END_CENTER
 
 *** Sistema de refrigeración
 En el momento de la combustión se produce un aumento de temperatura que puede
@@ -252,7 +270,7 @@ Existen dos sistemas de refrigeración para motores de combustión, por _aire_ y
 por _agua o líquida_. 
 
 - *Refrigeración por aire:* aprovecha el aire existente alrededor del motor para
-  enfriarlo. son sistemas típicos de motores 2T No entraremos en detalle en
+  enfriarlo. son sistemas típicos de motores 2T. No entraremos en detalle en
   ellos ya que no son los sistemas de refrigeración que encontraremos en los
   tractores agrícolas o forestales.
 - *Refrigeración liquida:* un líquido refrigerante es la encargado de enfriar el
@@ -271,8 +289,11 @@ por _agua o líquida_.
   + *Ventilador:* fuerza la entrada de aire a través de las aletas del radiador
   + *Termostato:* es el encargado de accionar el ventilador cuando la
     temperatura del agua se incrementa
-  + *Termo-metro:* indica la temperatura del líquido refrigerante. Como en el
+  + *Termometro:* indica la temperatura del líquido refrigerante. Como en el
     caso del aceite puede ser un indicador luminoso o de nivel
+#+CAPTION: Esquema de un sistema de refrigeración
+#+ATTR_LATEX: :width 0.55\textwidth
+[[./img_0009/refrigeracion.jpg]]
 *** Sistema de alimentación
 La característica principal de los motores diésel en comparación con los
 gasolina es que el combustible se inyecta en el cilindro y se quema por _aumento 
@@ -295,8 +316,14 @@ Los elementos del sistema de alimentación son los siguientes:
   conducciones a los inyectores en el momento adecuado para que se produzca la
   combustión en el cilindro. Está sincronizada con el cigüeñal y la distribución
   del motor
+#+CAPTION: Bomba lineal de inyección 
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_0009/bomba_inyeccion.jpg]]
 - *Inyectores:* están alojados en la culata del motor. Reciben el combustible a presión desde la bomba de inyección y lo
   pulveriza dentro de la cámara de combustión del cilindro
+#+CAPTION: Esquema de inyector diesel
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_0009/inyector.png]]
 *** Sistema de transmisión
 Este sistema hace que el _movimiento de rotación_ que se produce en el cigüeñal
 pase a la _caja de cambio_ mediante el *embrague* y de ahí a través del
@@ -305,11 +332,8 @@ _diferencial_ hasta las _ruedas motrices_ que dan impulso al tractor.
 
 Es el dispositivo por el que se transmite o interrumpe el _movimiento
 giratorio_ causado por el motor _hacia la caja de cambios_
-
-#+BEGIN_CENTER
 #+ATTR_LATEX: :width 0.65\textwidth
 [[./img_0009/embrague_1.png]]
-#+END_CENTER
 En esencia, un embrague consta de:
 - _Una tapa metálica o campana_ que está unida al volante de inercia y que
   encierra en su interior diferentes piezas
@@ -318,24 +342,19 @@ En esencia, un embrague consta de:
 - _Un disco opresor_ del mismo tamaño del disco de embrague, con unas patillas
   que actuan sobre el material resistente del disco de embrague
 - Sistema de muelles y resortes que acuan sobre los discos haciendo que estos se
-  _aciplen y desacoplen_ para transmitir el movimiento del motor a la caja de
+  _acoplen y desacoplen_ para transmitir el movimiento del motor a la caja de
   cambios
-
-#+BEGIN_CENTER
 #+CAPTION: Embrague monodisco
-#+ATTR_LATEX: :width 0.65\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/embrague.png]]
-#+END_CENTER
+
 **** *Caja de cambio*
 
 Es el conjunto de ejes y engranajes por los que se logra alcanzar la velocidad
 de avance y esfuerzo de tracción adecuado a las necesidades del vehículo.
-
-#+BEGIN:_CENTER
 #+CAPTION: Esquema de una caja de cambios
 #+ATTR_LATEX: :width 0.65\textwidth
 [[./img_0009/caja_cambio.jpg]]
-#+END_CENTER
 
 La caja de cambio aprovecha al máximo la potencia del motor, adaptando a una
 tarea determinada la velocidad de avance del tractor de acuerdo con la fuerza
@@ -348,16 +367,9 @@ velocidad, sino _dos o más_ para manejar *la reductora* y la caja de cambios.
 Es un eje estriado en su extremo, accionado por el motor del tractor y
 _destinado a dar movimiento_ a determinado número de máquinas acopladas al
 tractor. Esta situado, generalmente, en la parte trasera del tractor.
-
-#+BEGIN:_CENTER
-#+CAPTION: Parte posterior de un tractor
-#+ATTR_LATEX: :width 0.65\textwidth
-[[./img_0009/posterior_tractor.png]]
-
-#+CAPTION: Detalle de una barra de toma de fuerza
-#+ATTR_LATEX: :width 0.65\textwidth
+#+CAPTION: Detalle de una barra de toma de fuerza de 540 rpm con 6 estrias
+#+ATTR_LATEX: :width 0.45\textwidth
 [[./img_0009/toma_fuerza_2.jpg]]
-#+END_CENTER 
 
 La mayoria de los tractores van equipados con una toma de fuerza que gira a 540
 /rpm/ (revoluciones por minuto) y tienen una conexión exterior con seis estrías
@@ -368,12 +380,10 @@ emplea el elevador hidráulico.
 
 El elevador hidráulico baja el equipo a la posición de trabajo y lo sube a la
 posición de transporte. Tiene dos partes, el enganche a los tres puntos y el
-equipo hidrostático
-#+BEGIN_CENTER
+equipo hidrostático.
 #+CAPTION: Esquema de un sistema hidráulico de un tractor con toma de fuerza
 #+ATTR_LATEX: :width 0.65\textwidth
 [[./img_0009/hidraulico.jpg]]
-#+END_CENTER 
 
 El enganche a los tres puntos se compone de _dos brazos de tiro rígidos_ unidas
 al tractor mediante rótulas colocadas en uno de sus extremos, llevando en el
@@ -430,7 +440,7 @@ Una rueda de neumáticos está constituida por:
 
 
    #+CAPTION: Partes de una cubierta de neumático
-   #+ATTR_LATEX: :width 0.65\textwidth
+   #+ATTR_LATEX: :width 0.55\textwidth
    [[./img_0009/neumatico1.jpg]]
 ** Sistema eléctrico
 
@@ -447,16 +457,22 @@ necesita corriente eléctrica. Los componentes básicos del sistema eléctrico s
   líquido denominado electrolito. Sobre la tapa aparecen los bornes de plmo
   correspondientes a los _polos positivo (+) y negativo (-)_
     #+CAPTION: Partes de una batería de acumuladores
-   #+ATTR_LATEX: :width 0.65\textwidth
+   #+ATTR_LATEX: :width 0.7\textwidth
    [[./img_0009/bateria_partes.jpg]]
    Cada celda de las baterias proporciona un voltaje de 2V. Según el número de
   celdas la batería tendra diferente voltaje. Hay baterías de 6V, 12V y 24V. La
   capacidad de la batería se define por el *amperaje*, el valor de amperaje de
   la batería será seleccionado de acuerdo al uso que se le vaya a dar.
-- *Alternador:* es el elemto que permite la recarga y el manteniiento del
+#+BEGIN_EXPORT latex
+\vspace{3cm}
+#+END_EXPORT
+
+- *Alternador:* es el elemento que permite la recarga y el manteniento del
   voltaje de la batería.
-   #+CAPTION: Partes de un alternador
-   #+ATTR_LATEX: :width 0.65\textwidth
+
+   #+CAPTION: Alternador y sus partes
+   #+ATTR_LATEX: :width 0.7\textwidth :placement [!ht]
    [[./img_0009/alternador.jpg]]
+
 * Mantenimiento y reparación básica de tractores y equipos de tracción  
 
