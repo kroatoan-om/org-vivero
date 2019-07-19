@@ -50,11 +50,11 @@ serie de partes fundamentales:
   sobre las ruedas delanteras llamadas ruedas directrices
 + *Frenos:* Los encargados de disminuir la velocidad del tractor e incluso
   detenerlo completamente
-#+BEGIN_CENTER
+
 #+CAPTION: Componentes del tractor
 #+ATTR_LATEX: :width 0.8\textwidth
 [[./img_0009/tractor_partes.PNG]]
-#+END_CENTER
+ 
 1. Ruedas directrices
 2. Motor
 3. Embrague

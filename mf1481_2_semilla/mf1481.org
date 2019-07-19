@@ -1,4 +1,4 @@
-#+TITLE: MF 1481\_2. Producción de semillas
+#+TITLE: MF 1481_2. Producción de semillas
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgbook
@@ -12,10 +12,9 @@
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
-#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{%
-                0.75\textwidth}{\textbf{Recuerda:}#1}}\end{center}}
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:}#1}}\end{center}}
 * Recolección de frutos y semillas
 ** Características de frutos y semillas
 El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura y
 dispersión*. Estrictamente el fruto es el ovario de la flor _transformado y
-maduro_ despues de la fecundación
+maduro_ despues de la fecundación.
