@@ -12,6 +12,7 @@
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:}#1}}\end{center}}
 * El tractor y equipo de tracción
 ** Definición
 Un tractor, agrícola o forestal, es un vehículo autopropulsado de dos o más
@@ -322,8 +323,12 @@ Los elementos del sistema de alimentación son los siguientes:
 - *Inyectores:* están alojados en la culata del motor. Reciben el combustible a presión desde la bomba de inyección y lo
   pulveriza dentro de la cámara de combustión del cilindro
 #+CAPTION: Esquema de inyector diesel
-#+ATTR_LATEX: :width 0.5\textwidth
-[[./img_0009/inyector.png]]
+#+ATTR_LATEX: :width 0.45\textwidth
+[[./img_0009/inyector.jpg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
 *** Sistema de transmisión
 Este sistema hace que el _movimiento de rotación_ que se produce en el cigüeñal
 pase a la _caja de cambio_ mediante el *embrague* y de ahí a través del
@@ -332,7 +337,7 @@ _diferencial_ hasta las _ruedas motrices_ que dan impulso al tractor.
 
 Es el dispositivo por el que se transmite o interrumpe el _movimiento
 giratorio_ causado por el motor _hacia la caja de cambios_
-#+ATTR_LATEX: :width 0.65\textwidth
+#+ATTR_LATEX: :width 0.5\textwidth
 [[./img_0009/embrague_1.png]]
 En esencia, un embrague consta de:
 - _Una tapa metálica o campana_ que está unida al volante de inercia y que
@@ -345,9 +350,8 @@ En esencia, un embrague consta de:
   _acoplen y desacoplen_ para transmitir el movimiento del motor a la caja de
   cambios
 
-#+BEGIN_CENTER
 #+CAPTION: Embrague mono-disco
-#+ATTR_LATEX: :edito 0.65\textwidth
+#+ATTR_LATEX: :width 0.55\textwidth
 [[./img_0009/embrague.png]]
 
 **** *Caja de cambio*
@@ -369,13 +373,18 @@ velocidad, sino _dos o más_ para manejar *la reductora* y la caja de cambios.
 Es un eje estriado en su extremo, accionado por el motor del tractor y
 _destinado a dar movimiento_ a determinado número de máquinas acopladas al
 tractor. Esta situado, generalmente, en la parte trasera del tractor.
+
 #+CAPTION: Detalle de una barra de toma de fuerza de 540 rpm con 6 estrías
-#+ATTR_LATEX: :width 0.45\textwidth
+#+ATTR_LATEX: :width 0.45\textwidth 
 [[./img_0009/toma_fuerza_2.jpg]]
 
 La mayoría de los tractores van equipados con una toma de fuerza que gira a 540
 /rpm/ (revoluciones por minuto) y tienen una conexión exterior con seis estrías
 anchas en el eje. 
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 *** Sistema hidráulico
 Para acoplar al tractor los aperos agrícolas suspendidos y semi-suspendidos se
 emplea el elevador hidráulico.
@@ -411,9 +420,10 @@ Estos frenos pueden ser de dos tipos:
    centro está unido al elemento a frenar. En la mordaza o pinza de freno se
    alojan las pastillas que, abrazando el disco metálico, lo frenan al actuar
    sobre el
+
    #+CAPTION: Esquema de un freno de disco
-   #ATTR_LATEX: :width 0.65\textwidth
-   [[./img_0009/freno_tambor.jpg]]
+   #+ATTR_LATEX: :width 0.9\textwidth
+   [[./img_0009/freno_disco.jpg]]
 
 #+BEGIN_EXPORT latex
 \fbox{\parbox{\textwidth}{\textbf{Recuerda:} Los frenos, mediante el rozamiento,%
@@ -437,13 +447,14 @@ Una rueda de neumáticos está constituida por:
     aros de acero colocados en los talones 
 
    #+CAPTION: Elementos de una rueda
-   #+ATTR_LATEX: :width 0.65\textwidth
+   #+ATTR_LATEX: :width 0.6\textwidth
    [[./img_0009/esquema_rueda.PNG]]
 
 
    #+CAPTION: Partes de una cubierta de neumático
    #+ATTR_LATEX: :width 0.55\textwidth
    [[./img_0009/neumatico1.jpg]]
+
 ** Sistema eléctrico
 
 Llamamos sistema eléctrico al conjunto de elementos que el tractor necesita
@@ -466,9 +477,8 @@ necesita corriente eléctrica. Los componentes básicos del sistema eléctrico s
   capacidad de la batería se define por el *amperaje*, el valor de amperaje de
   la batería será seleccionado de acuerdo al uso que se le vaya a dar.
 #+BEGIN_EXPORT latex
-\vspace{3cm}
+\newpage
 #+END_EXPORT
-
 - *Alternador:* es el elemento que permite la recarga y el manteniento del
   voltaje de la batería.
 
@@ -478,3 +488,38 @@ necesita corriente eléctrica. Los componentes básicos del sistema eléctrico s
 
 * Mantenimiento y reparación básica de tractores y equipos de tracción  
 
+Con las labores de mantenimiento se consigue un ahorro económico y eficiencia de
+los tractores y maquinaria empleados en la explotación. Para ello *es necesario*
+realizar estas operaciones con _la frecuencia indicada en los manuales_ de estos
+equipos. 
+
+** Mantenimiento de máquinas y herramientas utilizadas en la explotación
+Debido a que la maquinaría agrícola _funciona bajo condiciones de trabajo muy
+difíciles_ (terreno y topografía desigual, exceso de polvo y lodo, temperaturas
+extremas, etc) *es importante* realizar ciertas operaciones de mantenimiento
+para obtener un *rendimiento adecuado* de los equipos.
+
+Es importante comprobar el buen estado y funcionamiento de las condiciones
+mecánicas ya que de ello _no solo dependerá la calidad del trabajo_, sino
+también el *confort y la seguridad del operario*.
+
+*** Mantenimiento preventivo
+Operaciones que se realizan _para prevenir averías_ sin que esto quiera decir
+que nunca se van a presentar. 
+
+Se trata de evitar riesgos y garantizar la seguridad del operador, a la vez que
+reducimos costes innecesarios para la explotación agrícola.
+
+*** Mantenimiento correctivo
+Consiste en cambiar o reparar las piezas que hayan sufrido un desperfecto por
+averías imprevistas o haber cumplido su ciclo de trabajo.
+
+Este tipo de mantenimiento, _es mucho más costoso_ y, por lo general, es
+realizado por un mecánico.
+
+Se denomina *programa de mantenimiento* a una serie de pasos _destinados a
+garantizar la vida útil de cualquier equipo o maquinaria desde el momento de la
+adquisición hasta su fin. 
+#+BEGIN_EXPORT latex
+\recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto puede cumplir correctmente con la función para la que ha sido diseñado}
+#+END_EXPORT
