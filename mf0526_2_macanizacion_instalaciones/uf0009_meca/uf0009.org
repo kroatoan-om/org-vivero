@@ -523,3 +523,23 @@ adquisición hasta su fin.
 #+BEGIN_EXPORT latex
 \recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto puede cumplir correctmente con la función para la que ha sido diseñado}
 #+END_EXPORT
+
+Un buen programa de mantenimiento debe contener los siguientes aspectos:
+- *Hoja de vida* de la máquina
+- Como se estructuran los controles de mantenimiento y asignación de las
+  diferentes responsabilidades a los operarios
+- Entrenamiento de operadores y operarios de mantenimiento básico
+
+*** Hoja de vida
+Debe incluir los siguientes apartados:
+- *Identificación:* fecha de adquisición, marca, modelo, número de serie y
+  número de inventario interno
+- *Especificaciones:* manuales de operador y normas de fabricante
+- *Póliza de garantía:* garantiza el servicio gratuito por parte del fabricante
+  durante un período determinado de tiempo.
+- *Datos de distribuidores y concesionario:* nos proporcionan las asesorías de
+  mantenimiento _preventivo_, así como las de mantenimiento
+  _correctivo_. Conviene tener los datos de contacto (dirección, teléfono,
+  correo electrónico, fax.)
+- *Registros:* para recoger los datos relativos al _mantenimiento de la
+  máquina_, asi como los de los combustibles
