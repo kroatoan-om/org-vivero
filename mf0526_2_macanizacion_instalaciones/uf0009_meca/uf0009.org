@@ -542,4 +542,136 @@ Debe incluir los siguientes apartados:
   _correctivo_. Conviene tener los datos de contacto (dirección, teléfono,
   correo electrónico, fax.)
 - *Registros:* para recoger los datos relativos al _mantenimiento de la
-  máquina_, asi como los de los combustibles
+  máquina_, asi como los de los _combustibles, lubricantes, piezas y otros 
+  elementos empleados_.
+
+En una hoja de vida bien estructurada *deben aparecer:*
+- *Control de mantenimiento*
+- *Control de reparaciones*
+- *Control de consumo*
+- *Control de tiempo trabajado*
+
+*** Normas de seguridad en el mantenimiento y reparación
+Las _normas básicas de seguridad_ deben comprender los siguientes aspectos:
+- Los trabajos de mantenimiento,reparación y limpieza, se deben realizar
+  _únicamente_ con la _transmisión desconectada_ y con el _motor parado_. La
+  llave _debe estar fuera_ del contacto.
+- El apriete de tuercas y tornillos debe _verificarse regularmente_. La
+  maquinaria agrícola se ve sometida a _constantes vibraciones_ por lo que es
+  muy conveniente realizar este tipo de comprobaciones y _eventualmente volver a 
+  apretar tuercas y tornillos sueltos_.
+- En trabajos de mantenimiento con la _máquina elevada_ hay que _prestar mucha 
+  atención a la seguridad_ mediante los elementos apropiados.
+- Si utilizamos _herramientas con filo_, emplearemos la herramienta _apropiada 
+  al trabajo_ y _guantes_.
+
+#+BEGIN_EXPORT latex
+\recuerda{Un programa de mantenimiento es un conjuno de pasos que garantizan la vida
+  util de cualquier equipo o maquinaria}
+#+END_EXPORT
+
+
+** Repercusiones económicas del mantenimiento
+
+El 70% de los tractores agrícolas consume entre un _10 y un 25% más de lo 
+necesario_, debido a un mal mantenimiento del tractor.
+
+El mantenmiento debe realizarse _durante toda la vida útil_, no solamente cuando
+es nuevo o está en garantía.
+
+Este mantenimiento _debe ajustarse a las instrucciones del fabricante_,
+especialmente a lo que el motor se refiere.
+
+El *manual del fabricante* debe leerse _antes de poner en marcha el tractor_ y
+*consultarse* para la realización de reparaciones, regulaciones y mantenimiento,
+pues en el _vienen especificadas todas las revisiones que deberán realizarse.
+
+Con el uso del tractor se produce una _acumulación de suciedad en los filtros_
+(polvo, hollín, etc.), desgastes y desajustes que _incrementan el consumo de
+combustible_.
+
+#+BEGIN_EXPORT latex
+\begin{center}%
+\fbox{\parbox{\textwidth}{Por ello es \textbf{muy importante} para ahorrar del 
+\textbf{10\% al 25\%} de combustible:}}
+\end{center}
+#+END_EXPORT 
+
+- *Leer* el manual de instrucciones
+- Mantener limpios los filtros de *aire* y de *gasoil*
+- Utilizar los *aceites* y *lubricantes* adecuados
+
+** Operaciones de mantenimiento básicas
+
+*** Sistema eléctrico
+La correcta rutina de mantenimiento del sistema eléctrico comprende los
+siguientes puntos. Recuerda que debes _seguir siempre_ las instrucciones del manual:
+
+- Si la batería _no viene sellada_ se debe comprobar semanalmente el nivel del electrolito
+- Limpieza y conservación de los terminales (a continuación detallamos los pasos
+  a seguir para realizar esta operación _correctamente_ y bajo _condiciones de 
+  seguridad adecuadas_
+
+**** *Limpieza de los bornes de la batería*
+1. _Apagamos_ el motor y sacamos la llave del contacto
+2. Abrimos el capó y _localizamos la batería_
+3. Bajo el capó encontraremos la batería unida a dos cables, uno negativo (-) y
+   otro positivo (+) identificados por sus correspondientes signos en la  parte
+   superior de cada borne. _Primero quitaremos el negativo_ y luego el  positivo
+   utilizando la herramienta adecuada y *poniendo especial cuidado* en que, en
+   ningún caso, caigan sobre superficies metálicas y _mucho menos que se toquen
+   entre ellos_.
+4. Mezclar *bicarbonato sodico* y agua. Aproximadamente _una cucharadita de 
+   postre con bicarbonato_ por cada taza de agua.
+5. _Rociar_ los bornes y los extremos de metálicos de los cables y _dejar
+   actuar_
+6. Tras unos minutos _frotar suavemente_ con un cepillo adecuado. (Los cepillos
+   metálicos pueden ser muy agresivos. _Hay que emplearlos con cuidado para no 
+   dañar ningún elemento_)
+7. Aclarar con agua y secar
+8. Por último aplicar *vaselina* a los bornes para retrasar la corrosión. Una
+   vez hecho esto conectamos los cables a los bornes _primero el polo *positivo*_
+   y después el *negativo*
+
+*** Sistema de alimentación
+
+La importancia de un _adecuado mantenimiento_ se basa en obtener un _bajo consumo_
+de combustible, y _bajas emisiones contaminantes_ (humo negro, oxidos nitrosos,
+monóxido de carbono,etc).
+
+Un adecuado protocolo de actuación incluye:
+
++ Asegurar que el combustible que se suministra está en _condiciones optimas_
+  - Almacenar el combustible bajo techo con el fin de posibilitar la eliminación
+    de impurezas y el agua de condensación y _que no entre agua de lluvia en los tanques_.
+  - _Evitar_ la utilización de embudos y recipientes de trasvasar
++ Llenado del tanque de combustible al _final de cada jornada de trabajo_
++ Cambio de filtro según las indicaciones del fabricante
+
+#+BEGIN_EXPORT latex
+\recuerda{El principal cuidado que hay que dar a la \textbf{bomba de inyección} 
+es la limpieza del filtro, ya que si se llena de impurezas puede dañar este elemento} 
+#+END_EXPORT
+
+*** Sistema de refrigeración
+Para realizar un correcto mantenimiento del sistema de refrigeración _por agua_
+se debe:
+- Utilizar _unicamente_ líquido adecuado. Esto es, liquido /anticongelante/ que
+  lleva aditivos para _evitar la corrosión_.
+- Revisar el nivel de agua del radiador _cada jornada de trabajo_
+- Controlar la tensión de la correa del ventilador y su estado
+- Mantener limpio el radiador. *Precaución* al utilizar _aire comprimido_ para
+  la limpieza del radiador pues se pueden dañar las _aletas deflectoreas_
+
+*** Sistema de engrase
+
+Una correcta lubricación _prolonga la vida útil_ del motor. El mantenimiento
+adecuado consiste en:
+- Usar siempre aceite limpio y del tipo indicado en el manual
+- _Antes de comenzar_ la jornada de trabajo hay comprobar que el _nivel de 
+  aceite está al nivel correcto_
+- Realizar el cambio de aceite y del filtro _según las indicaciones del
+  fabricante_ 
+
+A continación damos unas recomendaciones para la comprobación del _nivel de aceite_:
+**** *Comprobación del nivel de aceite*
