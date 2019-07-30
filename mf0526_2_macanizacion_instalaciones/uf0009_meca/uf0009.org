@@ -2,8 +2,8 @@
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgbook
-#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
-#+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t 
+#+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil arch:headline
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
 #+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
 #+CREATOR: Antonio Soler Gelde
@@ -486,7 +486,43 @@ necesita corriente eléctrica. Los componentes básicos del sistema eléctrico s
    #+ATTR_LATEX: :width 0.7\textwidth :placement [!ht]
    [[./img_0009/alternador.jpg]]
 
-* Mantenimiento y reparación básica de tractores y equipos de tracción  
+Un alternador consta de:
+- Una parte fija llamada *estátor*, que lleva generalmente *tres bobinas*
+- Una parte móvil, el *rotor* con una sola bobina
+
+Estas dos piezas forman una unidad y van recubiertas por dos tapas, en una de
+ellas se montan las *escobillas* que son unos anillos por los que entra la
+corriente continua. 
+
+En esta misma tapa se van montados los *diodos rectificadores* que son los que
+_transforman la corriente alterna en continua_ y de esta manera se _puede
+recargar la batería.
+
+#+BEGIN_EXPORT latex
+\recuerda{El alternador permite la recarga y el mantenimiento del voltaje de 
+la batería}
+#+END_EXPORT
+
+** Puesto de conducción y cabina
+En los actuales tractores se incluyen sistemas de ventilación, calefacción, aire
+acondicionado, mandos ergonómicos, pantalla digital de control y un largo
+etcetera.
+
+La cabina proporciona _aislamiento acústico_ de ruidos y vibraciones, creando
+unas buenas condiciones para trabajar de manera prolongada.
+
+   #+CAPTION: Cabina de un tractor moderno
+   #+ATTR_LATEX: :width 0.7\textwidth 
+   [[./img_0009/cabina_tractor.jpg]]
+El *accidente* más común cuando se maneja un tractor son los *vuelcos*. Para
+limitar las consecuencias debidas a los vuelcos los tractores deben ir
+_provistos de estructuras de protección_ destinadas a detener el tractor sobre
+un costado cuando este vuelca y _reservar un espacio suficiente para que el 
+conductor salga_. Estas protecciones _son obligatorias para la comercialización 
+de cualquier tractor_.
+
+Estas estructuras son:
+* Mantenimiento básico de tractores y equipos de tracción  
 
 Con las labores de mantenimiento se consigue un ahorro económico y eficiencia de
 los tractores y maquinaria empleados en la explotación. Para ello *es necesario*
@@ -674,4 +710,240 @@ adecuado consiste en:
   fabricante_ 
 
 A continación damos unas recomendaciones para la comprobación del _nivel de aceite_:
-**** *Comprobación del nivel de aceite*
+**** *Comprobación del nivel de aceite:*
+1. Asegurarse de que *antes* de medir el aceite , el tractor está en _horizontal_
+   con _motor parado y en frío_. Si comprobamos el nivel con el motor en caliente
+   podemos obtener un _error en a medición_ ya que por la dilatación de los
+   materiales puede marcar más de lo que tenemos en realidad.
+2. Al coger la varilla de medición comprobarás que la _parte del mango tiene un 
+   color diferente_ al resto para diferenciarlo. La varilla tiene dos muescas en
+   su extremo que marcan el nivel _máximo y el mínimo_.
+3. Extraer la varilla del depósito de aceite con suavidad y _limpiarla con un
+   trozo de trapo o un trozo de papel_.
+4. _Introducimos de nuevo la varilla y la extraemos_.
+5. En esta medición el aceite debe estar _entre las dos muescas_ para que el
+   nivel de aceite *sea el correcto*
+
+*** Sistema de transmisión
+
+Podemos realizar las siguientes acciones:
+- Controlar el nivel de aceite de la caja de cambio
+- Verificar que el embrague funciona correctamente
+- Cambiar el aceite de la caja de cambio como lo indique el manual
+
+*** Sistema hidráulico
+
+Tenemos los siguientes procedimientos:
+- Verificación diaria del nivel de fluido
+- Emplear _unicamente_ el tipo de aceite que recomienda el fabricante
+- Cambiar el filtro con la frecuencia que indique el manual de instrucciones
+
+* Prevención de riesgos laborales con maquinaria
+
+A continuación vamos a describir en líneas generales los riesgos más comunes a
+diversa maquinaria y entender las razones por las cuales determinados mecanismos
+son peligrosos. 
+
+#+BEGIN_EXPORT latex
+\vspace{1cm}
+\noindent
+\fbox{%
+\begin{minipage}{\textwidth}%
+El agricultor toma ciertos riesgos que están relacionados con la naturaleza 
+del trabajo que realiza. Las causas más habituales de los accidentes laborales
+son:
+\begin{itemize}
+\item Que el operario/agricultor trabaja solo
+\item Que trabaja con maquinaria desde edades tempranas, lo que causa un exceso
+      de relajación cuando está usandola
+\item Que el trabajo se realiza de forma intensiva. Se acumulan muchas horas de 
+      trabajo en largas jornadas, por lo que el cansancio aumenta
+\item La escasa capacitación y formación profesional
+\end{itemize}
+\end{minipage}} 
+#+END_EXPORT
+
+** Reconocimiento de los riesgos y peligros más comunes en maquinaria agricola
+
+En la utilización de cualquier tipo de maquinaria agricola existen unas
+_disposiciones mínimas en seguridad y salud_ establecidas en el *Real Decreto 
+1215/1997* (modificado por el Real Decreto 2177/2004), por el que se establecen
+las disposiciones mínimas de seguridad y salud para la utilización por los
+trabajadores de los equipos de trabajo:
+- _Debe existir_ un dispositivo de *parada total*
+- La parada _debe cortar el suministro de energía_ a los organos de accionamento
+- Los organos de accionamiento _deben estar señalizados y ser claramente
+  visibles.
+
+Las *áreas de riesgo* comunes a cualquier máquina agrícola son:
+- *Engranajes*. Deben estar _siempre protegidos_ y *no* desmontar ni reparar con la
+  máquina en marcha
+- *Puntas, aristas de corte y cizallamiento*. _Siempre protegidas_ y repararse
+  _siempre con la máquina parada_.
+- *Ejes y puntos giratorios de arrollamiento* deben estar _protegidos en su
+  totalidad_ sobre todo en sus extremos
+- Los *puntos de arrastre* sobre todo en cosechadoras y empacadoras _NUNCA_
+  deben ser manpulados con la máquina en marcha
+- *Puntos de aplastamiento* sobre todo cuando se realizan operaciones de
+  _manipulación de cargas_ y _acople de aperos_
+- Por último las *proyecciones* debidas a partículas de madera, tallos, piedras
+  de pequeño tamaño, etc., escupidas por elementos que giran a gran
+  velocidad. Siempre que sea posible las _máquinas contarán con carcasas
+  protectoras y si no, se emplearán los correspondientes _equipos de
+  protección individual_
+
+#+BEGIN_EXPORT latex
+\recuerda{Las áreas de riesgo comunes a cualquier máquina agricola son: los engranajes, 
+puntas y aristas de corte y cizallamiento, ejes y puntos giratorios de arrollamiento,
+puntos de arrastre, puntos de aplastamiento y las proyecciones}
+#+END_EXPORT
+
+**** *Puntos de engranaje:*
+
+Es la _zona donde dos o más elementos entran en contacto_, estando al menos un
+de ellos en movimiento.
+
+La forma más habitual de accidente es el _atrapamiento_ de la mano, pie u otra
+parte del cuerpo o de vestimenta.
+
+Las *medidas de prevención* en estos puntos son:
+- Dichos puntos deben estar convenientemente protegidos
+- _No operar_ la maquinaria si dichas protecciones no están colocadas
+- _Conocer los puntos peligrosos_, localizarlos y evitar aproximarse a ellos
+  cuando la máquina esté en funcionamiento
+- _No realizar ninguna intervención_ cuando la máquina o alguna de sus partes
+  esté en movimiento
+
+#+CAPTION: Componentes del tractor
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/riesgo_engranaje.jpg]]
+
+**** *Puntos de cizallamiento - Zonas cortantes:*
+
+Son puntos o zonas de corte en las extremidades de dos objetos que se mueven en
+la misma dirección y sentido opuesto, o cuando dos objetos pasan relativamente
+cerca uno del otro para cortar materiales más o menos blandos.
+
+_Los accidentes pueden ser producidos por:_
+
+- Elementos construidos para efectuar una *acción cortante*, por ejemplo una
+  barra de corte de una podadora
+- *Herramientas manuales* dotadas o no de motor. Motosierra, desbrozadora,
+  hacha, tijera de podar, etc
+
+#+BEGIN_EXPORT latex
+\recuerda{Es importante conocer todos los puntos peligrosos, localizarlos en la 
+máquina y evitar aproximarse a ellos cuando la máquina está en funcionamiento}
+#+END_EXPORT
+
+_Las medidas de prevención_ son:
+
+- Las zonas de corte _deben estár protegidas_
+- _Nunca y bajo ninguna circunstancia_, nadie se debe colocar en el área de
+  acción de la máquina
+- _Alejarse_ de las zonas cortantes cuando estas estén en movimiento
+
+#+CAPTION: Pictograma de riesgo de corte
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/corte_mano.jpg]]
+
+#+BEGIN_EXPORT latex
+\recuerda{Se deben montar los dispositivos de seguridad en caso de que hayan 
+sido retirados, tras efectuar un ajuste o reparación}
+#+END_EXPORT
+
+**** *Puntos de atrapamiento o enganche:*
+
+El atrapamiento _se produce_ cuando una persona o parte de su cuerpo es
+_enganchada o aprisionada_ por mecanismos de las máquinas o entre objetos,
+pìezas o materiales.
+
+Los accidentes por atrapamiento _comienzan_ por el *arrastre de un hilo* u orta
+parte abierta de la vestimenta, que rota o abierta, se enrosca en torno a un eje
+rotatorio. 
+
+#+CAPTION: Pictograma de riesgo de atrapamiento
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/atrapamiento.jpg]]
+
+Las puntas de ejes salientes _también pueden enganchar las vestimentas.
+
+La ropa, _que generalmente es bastante resistente_, puede aguantar estos
+enganches y el operario _no la puede romper_. De esta manera se *enrrolla
+rápidamente* y el operario es violentamente arrastrado hacia el mecanismo que
+gira. 
+
+Las *lesiones* que se pueden producir por este tipo de accidentes puedn ser
+desde _contusiones leves_ (golpes suaves) a _lesiones graves como amputaciones_
+e incluso *mortales*.
+
+Accidentes de este tipo también pueden ocurrir a _quien lleva el pelo largo sin
+recoger_. El pelo puede quedar prendido y enrollado en las partes giratorias
+produciendose *heridas graves y permanentes*.
+
+**** *Zonas de aplastamiento:*
+
+Los accidentes de este tipo pueden ser _voluntarios o involuntarios_ (por
+desplazamiento de una carga) y se deben a _la caida de objetos_ o materiales
+durante la ejecución de trabajos, o en _operaciones de transporte y elevación_.
+
+Se pueden prducir las *siguientes situaciones:*
+- Situarse _debajo de productos apilados_
+- Situarse _debajo de cargas suspendidas_
+- En acciones de _acoplamiento y desenganche de aperos_
+- _Traslado manual de objetos pesados_
+- Operaciones de _mantenimiento_ bajo maquinaria *insuficientemente* sujeta
+- Operaciones _debajo de cargas basculantes_ en posición elevada
+
+#+CAPTION: Pictograma riego aplastamiento
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_0009/aplastamiento.png]]
+
+***** *Medidas de prevención para atrapamiento y aplastamiento:*
+
+Se producen en los mecanismos en movimiento del tractor, principalmente:
+- *Toma de fuerza y eje cardánico*
+  + Al conectar la toma de fuerza  _nadie debe permanecer cerca_ al eje en
+    movimiento
+  + No conectar *nunca* la toma de fuerza con el motor parado
+  + No permitir que nadie con _ropas sueltas o colgantes_ se acerque demasiado a
+    la toma de fuerza
+  + Antes de accionar la toma de fuerza hay que _comprobar si el número de
+    revoluciones_ se corresponde con el permitido para la máquina
+  + Utilizar _únicamente_ el eje cardánico para la máquina que prevee el
+    fabricante, con su correspondiente dispositivo de seguridad
+  + _Evitar_ que el cardan permanezca enganchado a la toma de fuerza por un
+    extremo y que _descanse en el suelo por el otro_
+#+BEGIN_EXPORT latex
+\recuerda{Los accidentes por atrapamiento pueden comenzar por el arrastre de un hilo 
+u otra parte abierta de la vestimenta}
+#+END_EXPORT
+- *Protector de la toma de fuerza*
+  + Al desmontar el cardan hay que fijar la cubierta protectora de la toma de fuerza
+  + Debe utilizarse el escudo protector de la toma de fuerza _en los momentos de
+    enganche, desenganche y mientras se está utilizando
+  + Es _completamente desaconsejable_ utilizar el escudo protector para subirse
+    al tractor, o apoyarse en el en las maniobras de enganche y desenganche, y
+    _mucho más aún_ ir subido a el con el tractor en marcha
+- *Enganche tri-puntal*
+  + Antes de montar y desmontar aperos en el enganche, hay que _situar los  
+    mandos de manera conveniente_ para que no se puedan accionar de _manera 
+    involuntaria_.
+  + Al accionar el mando del enganche no hay que situarse _nunca_ entre el
+    tractor y la máquina
+  + Los cables de desenganche en los enganches rápidos _deben colgar sueltos_ y
+    no deben desengancharse solos en la posición baja
+  + _Bloquear_ la palanca de accionamiento del descenso en el transporte por
+    carretera
+- *Sistema hidraulico*
+  + El accionamiento debe hacerse _siempre desde una posición segura_
+  + Al conectar manguitos de sistemas hidráulicos se debe prestar atención a la
+    _conexión reglamentaria_
+  + Controlar el _deterioro y envejecimiento de los tubos_
+
+#+BEGIN_EXPORT latex
+\recuerda{Nadie, bajo ningúna circunstancia, se debe colocar dentro del área de 
+acción de la máquina}
+#+END_EXPORT
+
+** Tractores: protectores de vuelco del tractor
