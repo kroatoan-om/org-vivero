@@ -472,14 +472,14 @@ necesita corriente eléctrica. Los componentes básicos del sistema eléctrico s
     #+CAPTION: Partes de una batería de acumuladores
    #+ATTR_LATEX: :width 0.7\textwidth
    [[./img_0009/bateria_partes.jpg]]
-   Cada celda de las baterias proporciona un voltaje de 2V. Según el número de
+   Cada celda de las baterías proporciona un voltaje de 2V. Según el número de
   celdas la batería tendrá diferente voltaje. Hay baterías de 6V, 12V y 24V. La
   capacidad de la batería se define por el *amperaje*, el valor de amperaje de
   la batería será seleccionado de acuerdo al uso que se le vaya a dar.
 #+BEGIN_EXPORT latex
 \newpage
 #+END_EXPORT
-- *Alternador:* es el elemento que permite la recarga y el manteniento del
+- *Alternador:* es el elemento que permite la recarga y el mantenimiento del
   voltaje de la batería.
 
    #+CAPTION: Alternador y sus partes
@@ -585,7 +585,7 @@ Se denomina *programa de mantenimiento* a una serie de pasos _destinados a
 garantizar la vida útil de cualquier equipo o maquinaria desde el momento de la
 adquisición hasta su fin. 
 #+BEGIN_EXPORT latex
-\recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto puede cumplir correctmente con la función para la que ha sido diseñado}
+\recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto puede cumplir correctamente con la función para la que ha sido diseñado}
 #+END_EXPORT
 
 Un buen programa de mantenimiento debe contener los siguientes aspectos:
@@ -606,7 +606,7 @@ Debe incluir los siguientes apartados:
   _correctivo_. Conviene tener los datos de contacto (dirección, teléfono,
   correo electrónico, fax.)
 - *Registros:* para recoger los datos relativos al _mantenimiento de la
-  máquina_, asi como los de los _combustibles, lubricantes, piezas y otros 
+  máquina_, así como los de los _combustibles, lubricantes, piezas y otros 
   elementos empleados_.
 
 En una hoja de vida bien estructurada *deben aparecer:*
@@ -630,8 +630,8 @@ Las _normas básicas de seguridad_ deben comprender los siguientes aspectos:
   al trabajo_ y _guantes_.
 
 #+BEGIN_EXPORT latex
-\recuerda{Un programa de mantenimiento es un conjuno de pasos que garantizan la vida
-  util de cualquier equipo o maquinaria}
+\recuerda{Un programa de mantenimiento es un conjunto de pasos que garantizan la vida
+  útil de cualquier equipo o maquinaria}
 #+END_EXPORT
 
 
@@ -640,7 +640,7 @@ Las _normas básicas de seguridad_ deben comprender los siguientes aspectos:
 El 70% de los tractores agrícolas consume entre un _10 y un 25% más de lo 
 necesario_, debido a un mal mantenimiento del tractor.
 
-El mantenmiento debe realizarse _durante toda la vida útil_, no solamente cuando
+El mantenimiento debe realizarse _durante toda la vida útil_, no solamente cuando
 es nuevo o está en garantía.
 
 Este mantenimiento _debe ajustarse a las instrucciones del fabricante_,
@@ -685,7 +685,7 @@ siguientes puntos. Recuerda que debes _seguir siempre_ las instrucciones del man
    utilizando la herramienta adecuada y *poniendo especial cuidado* en que, en
    ningún caso, caigan sobre superficies metálicas y _mucho menos que se toquen
    entre ellos_.
-4. Mezclar *bicarbonato sodico* y agua. Aproximadamente _una cucharadita de 
+4. Mezclar *bicarbonato sódico* y agua. Aproximadamente _una cucharadita de 
    postre con bicarbonato_ por cada taza de agua.
 5. _Rociar_ los bornes y los extremos de metálicos de los cables y _dejar
    actuar_
@@ -700,12 +700,12 @@ siguientes puntos. Recuerda que debes _seguir siempre_ las instrucciones del man
 *** Sistema de alimentación
 
 La importancia de un _adecuado mantenimiento_ se basa en obtener un _bajo consumo_
-de combustible, y _bajas emisiones contaminantes_ (humo negro, oxidos nitrosos,
+de combustible, y _bajas emisiones contaminantes_ (humo negro, óxidos nitrosos,
 monóxido de carbono,etc).
 
 Un adecuado protocolo de actuación incluye:
 
-+ Asegurar que el combustible que se suministra está en _condiciones optimas_
++ Asegurar que el combustible que se suministra está en _condiciones óptimas_
   - Almacenar el combustible bajo techo con el fin de posibilitar la eliminación
     de impurezas y el agua de condensación y _que no entre agua de lluvia en los tanques_.
   - _Evitar_ la utilización de embudos y recipientes de trasvasar
@@ -720,12 +720,12 @@ es la limpieza del filtro, ya que si se llena de impurezas puede dañar este ele
 *** Sistema de refrigeración
 Para realizar un correcto mantenimiento del sistema de refrigeración _por agua_
 se debe:
-- Utilizar _unicamente_ líquido adecuado. Esto es, liquido /anticongelante/ que
+- Utilizar _únicamente_ líquido adecuado. Esto es, liquido /anticongelante/ que
   lleva aditivos para _evitar la corrosión_.
 - Revisar el nivel de agua del radiador _cada jornada de trabajo_
 - Controlar la tensión de la correa del ventilador y su estado
 - Mantener limpio el radiador. *Precaución* al utilizar _aire comprimido_ para
-  la limpieza del radiador pues se pueden dañar las _aletas deflectoreas_
+  la limpieza del radiador pues se pueden dañar las _aletas deflectoras_
 
 *** Sistema de engrase
 
@@ -737,7 +737,7 @@ adecuado consiste en:
 - Realizar el cambio de aceite y del filtro _según las indicaciones del
   fabricante_ 
 
-A continación damos unas recomendaciones para la comprobación del _nivel de aceite_:
+A continuación damos unas recomendaciones para la comprobación del _nivel de aceite_:
 **** *Comprobación del nivel de aceite:*
 1. Asegurarse de que *antes* de medir el aceite , el tractor está en _horizontal_
    con _motor parado y en frío_. Si comprobamos el nivel con el motor en caliente
@@ -763,7 +763,7 @@ Podemos realizar las siguientes acciones:
 
 Tenemos los siguientes procedimientos:
 - Verificación diaria del nivel de fluido
-- Emplear _unicamente_ el tipo de aceite que recomienda el fabricante
+- Emplear _únicamente_ el tipo de aceite que recomienda el fabricante
 - Cambiar el filtro con la frecuencia que indique el manual de instrucciones
 
 * Prevención de riesgos laborales con maquinaria
@@ -783,7 +783,7 @@ son:
 \begin{itemize}
 \item Que el operario/agricultor trabaja solo
 \item Que trabaja con maquinaria desde edades tempranas, lo que causa un exceso
-      de relajación cuando está usandola
+      de relajación cuando está usándola
 \item Que el trabajo se realiza de forma intensiva. Se acumulan muchas horas de 
       trabajo en largas jornadas, por lo que el cansancio aumenta
 \item La escasa capacitación y formación profesional
@@ -791,16 +791,16 @@ son:
 \end{minipage}} 
 #+END_EXPORT
 
-** Reconocimiento de los riesgos y peligros más comunes en maquinaria agricola
+** Reconocimiento de los riesgos y peligros más comunes en maquinaria agrícola
 
-En la utilización de cualquier tipo de maquinaria agricola existen unas
+En la utilización de cualquier tipo de maquinaria agrícola existen unas
 _disposiciones mínimas en seguridad y salud_ establecidas en el *Real Decreto 
 1215/1997* (modificado por el Real Decreto 2177/2004), por el que se establecen
 las disposiciones mínimas de seguridad y salud para la utilización por los
 trabajadores de los equipos de trabajo:
 - _Debe existir_ un dispositivo de *parada total*
-- La parada _debe cortar el suministro de energía_ a los organos de accionamento
-- Los organos de accionamiento _deben estar señalizados y ser claramente
+- La parada _debe cortar el suministro de energía_ a los órganos de accionamiento
+- Los órganos de accionamiento _deben estar señalizados y ser claramente
   visibles.
 
 Las *áreas de riesgo* comunes a cualquier máquina agrícola son:
@@ -811,7 +811,7 @@ Las *áreas de riesgo* comunes a cualquier máquina agrícola son:
 - *Ejes y puntos giratorios de arrollamiento* deben estar _protegidos en su
   totalidad_ sobre todo en sus extremos
 - Los *puntos de arrastre* sobre todo en cosechadoras y empacadoras _NUNCA_
-  deben ser manpulados con la máquina en marcha
+  deben ser manipulados con la máquina en marcha
 - *Puntos de aplastamiento* sobre todo cuando se realizan operaciones de
   _manipulación de cargas_ y _acople de aperos_
 - Por último las *proyecciones* debidas a partículas de madera, tallos, piedras
@@ -866,7 +866,7 @@ máquina y evitar aproximarse a ellos cuando la máquina está en funcionamiento
 
 _Las medidas de prevención_ son:
 
-- Las zonas de corte _deben estár protegidas_
+- Las zonas de corte _deben estar protegidas_
 - _Nunca y bajo ninguna circunstancia_, nadie se debe colocar en el área de
   acción de la máquina
 - _Alejarse_ de las zonas cortantes cuando estas estén en movimiento
@@ -884,9 +884,9 @@ sido retirados, tras efectuar un ajuste o reparación}
 
 El atrapamiento _se produce_ cuando una persona o parte de su cuerpo es
 _enganchada o aprisionada_ por mecanismos de las máquinas o entre objetos,
-pìezas o materiales.
+piezas o materiales.
 
-Los accidentes por atrapamiento _comienzan_ por el *arrastre de un hilo* u orta
+Los accidentes por atrapamiento _comienzan_ por el *arrastre de un hilo* u otra
 parte abierta de la vestimenta, que rota o abierta, se enrosca en torno a un eje
 rotatorio. 
 
@@ -901,21 +901,21 @@ enganches y el operario _no la puede romper_. De esta manera se *enrrolla
 rápidamente* y el operario es violentamente arrastrado hacia el mecanismo que
 gira. 
 
-Las *lesiones* que se pueden producir por este tipo de accidentes puedn ser
+Las *lesiones* que se pueden producir por este tipo de accidentes pueden ser
 desde _contusiones leves_ (golpes suaves) a _lesiones graves como amputaciones_
 e incluso *mortales*.
 
 Accidentes de este tipo también pueden ocurrir a _quien lleva el pelo largo sin
 recoger_. El pelo puede quedar prendido y enrollado en las partes giratorias
-produciendose *heridas graves y permanentes*.
+produciéndose *heridas graves y permanentes*.
 
 **** *Zonas de aplastamiento:*
 
 Los accidentes de este tipo pueden ser _voluntarios o involuntarios_ (por
-desplazamiento de una carga) y se deben a _la caida de objetos_ o materiales
+desplazamiento de una carga) y se deben a _la caída de objetos_ o materiales
 durante la ejecución de trabajos, o en _operaciones de transporte y elevación_.
 
-Se pueden prducir las *siguientes situaciones:*
+Se pueden producir las *siguientes situaciones:*
 - Situarse _debajo de productos apilados_
 - Situarse _debajo de cargas suspendidas_
 - En acciones de _acoplamiento y desenganche de aperos_
@@ -938,7 +938,7 @@ Se producen en los mecanismos en movimiento del tractor, principalmente:
     la toma de fuerza
   + Antes de accionar la toma de fuerza hay que _comprobar si el número de
     revoluciones_ se corresponde con el permitido para la máquina
-  + Utilizar _únicamente_ el eje cardánico para la máquina que prevee el
+  + Utilizar _únicamente_ el eje cardánico para la máquina que prevé el
     fabricante, con su correspondiente dispositivo de seguridad
   + _Evitar_ que el cardan permanezca enganchado a la toma de fuerza por un
     extremo y que _descanse en el suelo por el otro_
@@ -963,14 +963,14 @@ u otra parte abierta de la vestimenta}
     no deben desengancharse solos en la posición baja
   + _Bloquear_ la palanca de accionamiento del descenso en el transporte por
     carretera
-- *Sistema hidraulico*
+- *Sistema hidráulico*
   + El accionamiento debe hacerse _siempre desde una posición segura_
   + Al conectar manguitos de sistemas hidráulicos se debe prestar atención a la
     _conexión reglamentaria_
   + Controlar el _deterioro y envejecimiento de los tubos_
 
 #+BEGIN_EXPORT latex
-\recuerda{Nadie, bajo ningúna circunstancia, se debe colocar dentro del área de 
+\recuerda{Nadie, bajo ninguna circunstancia, se debe colocar dentro del área de 
 acción de la máquina}
 #+END_EXPORT
 
@@ -979,7 +979,7 @@ acción de la máquina}
 El riesgo de *vuelco* es el accidente más común e importante con el tractor, por
 la gravedad de las lesiones que se producen cuando ocurre.
 
-Durante su utilización deberían conocerse todas las posi-bles causas de vuelco y
+Durante su utilización deberían conocerse todas las posibles- causas de vuelco y
 los factores que pueden aumentar la gravedad de las lesiones. Para la
 identificación del peligro de vuelco deben considerarse las características del
 tractor, de los equipos acoplados, del entorno de trabajo y del conductor, así
@@ -1010,7 +1010,7 @@ agrarias
  Este tipo de vuelco supone el 90% de los casos. Va a depender de:
  - La pendiente del terreno \beta
  - La altura del centro de gravedad /H/
- - La anchura de la via /S/
+ - La anchura de la vía /S/
 
 En los dos primeros parámetros (\beta y /H/), _al aumentar su valor aumenta el 
 riesgo de vuelco_. 
@@ -1023,7 +1023,7 @@ el riesgo de vuelco.
 #+ATTR_LATEX: :width \textwidth
 [[./img_0009/vuelco_lat.PNG]]
 
-*** Vuelco hacia atras
+*** Vuelco hacia atrás
 
  #+ATTR_LATEX: :width 0.7\textwidth 
  [[./img_0009/vuelco_atras_graf.PNG]]
@@ -1040,7 +1040,7 @@ En los dos primeros, al _aumentar su valor aumenta el riesgo_.
 El _lastrado delantero_ con contrapesos, reduce el riesgo al reducir la altura
 del centro de gravedad, y aumentar el par contrario al vuelco
 
-#+CAPTION: Vuelco hacia atras (actos inseguros o maniobras incorrectas)
+#+CAPTION: Vuelco hacia atrás (actos inseguros o maniobras incorrectas)
 #+ATTR_LATEX: :width \textwidth
 [[./img_0009/vuelco_atras.PNG]]
 *** Vuelco con aperos
@@ -1069,5 +1069,5 @@ Cuando la máquina se mueve, las condiciones de estabilidad disminuyen por:
   (tractores de doble tracción)
 - Los tractores orugas, o de cadenas, son más estables al tener el _centro de 
   gravedad más bajo_ que los tractores de ruedas
-
+ 
 
