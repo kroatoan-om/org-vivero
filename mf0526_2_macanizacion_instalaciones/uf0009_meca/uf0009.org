@@ -511,7 +511,7 @@ etcetera.
 La cabina proporciona _aislamiento acústico_ de ruidos y vibraciones, creando
 unas buenas condiciones para trabajar de manera prolongada.
 
-   #+CAPTION: Cabina de un tractor moderno
+   #+CAPTION: Interior de cabina
    #+ATTR_LATEX: :width 0.7\textwidth 
    [[./img_0009/cabina_tractor.jpg]]
 El *accidente* más común cuando se maneja un tractor son los *vuelcos*. Para
@@ -520,8 +520,36 @@ _provistos de estructuras de protección_ destinadas a detener el tractor sobre
 un costado cuando este vuelca y _reservar un espacio suficiente para que el 
 conductor salga_. Estas protecciones _son obligatorias para la comercialización 
 de cualquier tractor_.
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 Estas estructuras son:
+- Arco o bastidor de dos postes: pueden ser delanteros o traseros
+   #+CAPTION: Bastidor dos postes
+   #+ATTR_LATEX: :width 0.6\textwidth 
+   [[./img_0009/bastidor2p.jpeg]]
+
+- Cuadro, pórtico o bastidor de cuatro postes
+   #+CAPTION: Bastidor cuatro postes
+   #+ATTR_LATEX: :width 0.6\textwidth 
+   [[./img_0009/bastidor4p.jpg]]
+
+- Cabina
+   #+CAPTION: Cabina cerrada
+   #+ATTR_LATEX: :width 0.6\textwidth 
+   [[./img_0009/cabina.jpg]]
+
+#+BEGIN_EXPORT latex
+\recuerda{Las estructuras de protección están destinadas a detener el 
+tractor sobre un costado cuando éste se vuelca y \uline{reservar un espacio 
+suficiente} para que el conductor salga indemne}
+#+END_EXPORT
+
+El asiento deberá estar situado de forma que no suponga peligro para el
+acompañante ni obstaculice la conducción del tractor.
+
+_Deberá estar fijado *solidamente*_ a alguno de los elementos de la estructura
+del tractor.
 * Mantenimiento básico de tractores y equipos de tracción  
 
 Con las labores de mantenimiento se consigue un ahorro económico y eficiencia de
@@ -947,3 +975,99 @@ acción de la máquina}
 #+END_EXPORT
 
 ** Tractores: protectores de vuelco del tractor
+
+El riesgo de *vuelco* es el accidente más común e importante con el tractor, por
+la gravedad de las lesiones que se producen cuando ocurre.
+
+Durante su utilización deberían conocerse todas las posi-bles causas de vuelco y
+los factores que pueden aumentar la gravedad de las lesiones. Para la
+identificación del peligro de vuelco deben considerarse las características del
+tractor, de los equipos acoplados, del entorno de trabajo y del conductor, así
+como la interacción entre ellas. 
+
+El _daño más grave_ derivado del accidente por vuelco es la *muerte* del conductor
+por aplastamiento si el tractor no  dispone  de  la *estructura  de  protección* 
+en  caso  de  vuelco y el *cinturón de seguridad*. Dicha estructura  _no  
+reduce  la  probabilidad de  vuelco_  sino  que  está  diseñada para _minimizar  
+la gravedad de las lesiones_ si ocurriera el accidente. También pueden
+presentarse lesiones si el tractor dispone de estructura de protección pero  el
+conductor  _no  lleva  puesto  el  cinturón  de  seguridad_ que lo mantiene
+dentro de los límites de la zona de seguridad garantizada por la estructura de
+protección. 
+
+Por otro lado, las lesiones pueden empeorar debido a que se acumula un
+importante _tiempo de retraso hasta que el accidentado es localizado_, ya que
+estos accidentes suelen ocurrir en lugares apartados de las explotaciones
+agrarias 
+
+** Tipos de vuelco del tractor agrícola
+*** Vuelco lateral del tractor 
+
+ #+CAPTION: 
+ #+ATTR_LATEX: :width 0.7\textwidth 
+ [[./img_0009/vuelco_lat_graf.PNG]]
+
+ Este tipo de vuelco supone el 90% de los casos. Va a depender de:
+ - La pendiente del terreno \beta
+ - La altura del centro de gravedad /H/
+ - La anchura de la via /S/
+
+En los dos primeros parámetros (\beta y /H/), _al aumentar su valor aumenta el 
+riesgo de vuelco_. 
+
+En la anchura de vía /S/, es al contrario, a _mayor anchura menor riesgo_.
+
+Los *contrapesos delanteros* hacen _descender el centro de gravedad_ y por tanto
+el riesgo de vuelco.
+#+CAPTION: Vuelco lateral (actos inseguros o maniobras incorrectas)
+#+ATTR_LATEX: :width \textwidth
+[[./img_0009/vuelco_lat.PNG]]
+
+*** Vuelco hacia atras
+
+ #+ATTR_LATEX: :width 0.7\textwidth 
+ [[./img_0009/vuelco_atras_graf.PNG]]
+
+Es mucho _menos frecuente que el lateral_.
+
+Va a depender de:
+- La inclinación del terreno \alpha
+- La altura del centro de gravedad /H/
+- La distancia de /H/ al eje trasero /L_2/
+
+En los dos primeros, al _aumentar su valor aumenta el riesgo_.
+
+El _lastrado delantero_ con contrapesos, reduce el riesgo al reducir la altura
+del centro de gravedad, y aumentar el par contrario al vuelco
+
+#+CAPTION: Vuelco hacia atras (actos inseguros o maniobras incorrectas)
+#+ATTR_LATEX: :width \textwidth
+[[./img_0009/vuelco_atras.PNG]]
+*** Vuelco con aperos
+ [[./img_0009/vuelco_aperos.PNG]]
+
+Entendemos por apero _cualquier elemento unido o acoplado al tractor_.
+
+Va depender de: 
+- La posición del centro de gravedad (si está bajo y adelantado se disminuye
+ el riesgo)
+- El peso del apero y la fuerza de tiro (al aumentar, aumenta el riesgo)
+- El punto de enganche del apero (cuanto más alto, más riesgo)
+
+*** Vuelco con el tractor en movimiento
+
+Además de lo indicado anteriormente tenemos otros dos factores de riesgo:
+
+- *Deslizamiento*
+- *Fuerza centrifuga* 
+
+Cuando la máquina se mueve, las condiciones de estabilidad disminuyen por:
+
+- A _mayor velocidad_, mayor riesgo de vuelco
+- A mayor agarre al suelo, mejor estabilidad y _menor riesgo de vuelco
+- Con _más puntos de tracción_, mejor estabilidad y menor riesgo de vuelco
+  (tractores de doble tracción)
+- Los tractores orugas, o de cadenas, son más estables al tener el _centro de 
+  gravedad más bajo_ que los tractores de ruedas
+
+
