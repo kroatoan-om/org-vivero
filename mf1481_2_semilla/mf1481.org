@@ -18,3 +18,125 @@
 El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura y
 dispersión*. Estrictamente el fruto es el ovario de la flor _transformado y
 maduro_ despues de la fecundación.
+
+En _condiciones naturales, el fruto suele formarse una vez que ha tenido lugar 
+la fecundación del óvulo_, pero en muchas plantas, casi siempre variedades
+cultivadas, como los cítricos sin semilla, la uva, el banano y el pepino, el
+fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarpia*. 
+
+*** Partes de los frutos 
+#+CAPTION: Partes de un fruto carnoso
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/fruto_partes_varios.PNG]]
+
+1) *Epicarpio o exocarpio:* Es la capa externa que rodea al frut, corresponde
+   a la cáscara. Puede ser:
+   - Liso (Manzana)
+   - Piloso (Melocoton)
+   - Granuloso (citricos)
+   - Ceroso (uva)
+2) *Mesocarpio:* Es la capa intermedia y comestible del fruto. En algunos frutos
+   es delgado (frutos secos) y en otros carnosos
+3) *Endocarpio:* Es la capa interna que envuelve a la semilla. Algunas veces es
+   membranosa y otras se endurece o lignifica.
+
+#+BEGIN_EXPORT latex
+\recuerda{La semilla se encuentra encerrada \textbf{dentro del endocarpo}}
+#+END_EXPORT
+** Tipos de frutos
+
+Existen _diferentes maneras de clasificación_:
+
+- Según composición y consistencia:
+  - Frutos carnosos
+  - Frutos secos
+- Según número de semillas:
+  - Monospermos
+  - Polispermos
+- Según forma de liberar las semillas:
+  - Dehiscentes
+  - Indehiscentes
+- Según el origen del fruto
+  - Monocarpicos (Un solo carpelo)
+    - Drupa (melocotón, almendra, oliva, etc)
+    - Aquenio (avellana)
+    - Nucula (nuez, pistacho)
+  - Policarpicos (dos o varios carpelos)
+    - Pomo (pera, manzana)
+    - Baya (uva, plátano)
+    - Hesperidio (naranja, mandarina, limón)
+    - Balausta (granada)
+    - Pepónide (papaya)
+  - Multiples
+    - Polidrupa (frambuesa, mora de la zarzamora)
+    - Poliaquenio (fresa)
+  - Infrutescencias
+    - Sicono (higo)
+    - Sorosis (chirimoya, piña, mora de la morera)
+    - Cúpula (``erizo'' o involucro del castaño)
+
+**** *Drupa*
+
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/drupa.PNG]]
+
+Deriva en su totalidad del ovario.
+
+#+BEGIN_EXPORT latex
+\vspace{3cm}
+#+END_EXPORT
+**** *Baya*
+
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/baya.PNG]]
+
+- Deriva de un ovario simple (sin tabiques aparentes).
+- _No tiene endocarpio_.
+- Es un fruto multisemillado
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+**** *Pomo*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/pomo.PNG]]
+
+Deriva de la fusión del ovario y del tubo floral (receptáculo y tejidos
+adyacentes del pedúnculo). Normalmente 5 carpelos con 2 ovulos.  
+#+BEGIN_EXPORT latex
+\vspace{3cm}
+#+END_EXPORT
+**** *Hesperidio*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/hesperidio.PNG]]
+
+Deriva de un ovario simple con varios carpelos. Endocarpio dividido en lóculos o
+gajos.
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+**** *Núcula (o nuez)*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/nucula.PNG]]
+
+**** *Agragado o múliple*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/polidrupa.PNG]]
+
+Deriva de varios ovarios de una sola flor y de su receptáculo.
+
+**** *Infrutescencia*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/infrutescencia.PNG]]
+
+Deriva de launión de varios ovarios y receptaculos de una inflorescencia o
+frutos simples íntimamente unidos con la apariencia de un slo fruto.
