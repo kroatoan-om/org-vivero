@@ -1,4 +1,4 @@
-#+TITLE: MF 1481_2. Producción de semillas
+#+TITLE: MF 1481. Producción de semillas
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgbook
@@ -43,6 +43,51 @@ fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarp
 #+BEGIN_EXPORT latex
 \recuerda{La semilla se encuentra encerrada \textbf{dentro del endocarpo}}
 #+END_EXPORT
+
+*** Partes de la semilla
+
+Las semillas son lo óvulos maduros de las plantas /angiospermas/ y
+/gimnospermas/ a partir de los que se desarrollarán nuevas plantas. 
+
+#+BEGIN_EXPORT latex
+\recuerda{Las \textbf{angiospermas} son todas las plantas y árboles que tienen 
+\uline{flor verdadera}, castaños, cerezos, salvia, romero, etc. Las \textbf{gimnospermas} 
+no tienen \uline{flores verdaderas} por lo que sus semillas \uline{no se desarrollan 
+en un ovario}, son los pinos, abetos, cedros, cipreses, o sabinas y enebros}
+#+END_EXPORT
+
+El objetivo y función de las semillas es dar una nueva planta, por lo que la
+semilla _no germinará_ hasta que _tenga las condiciones más adecuadas que
+aseguren la continuidad de la futura planta_.
+
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1481/semilla_partes.jpg]]
+
+**** *Embrión:*
+
+Es la planta muy pequeña contenida en la semilla.  Se encuentra en estado de
+letargo. El embrión está formado por 4 partes:
+1. *Radícula:* Es una raiz primordial que tiene el embrión. A partir de esta raíz
+   se desarrollará una raiz completa con raices secundarias, pelillos
+   absorbentes, etc
+2. *Plúmula:*  Yema que se encuentra en el lado opuesto a la radícula
+3. *Hipocótilo:* Es el espacio entre la radícula y la plúmula. Esta se
+   convertira en un tallo
+4. *Cotiledón:* Son la hoja o hojas primordiales del embrión según la planta sea
+   /monocotiledonea/ o /dicotiledonea/ respectivamente
+
+**** *Endospermo:* 
+
+También llamado albumen. Es _la reserva de alimento_ que tiene la
+semilla. Generalmente es almidón.
+
+**** *Epispermo:* 
+
+Es una capa exterior. En las gimnosperas está formado por una sola capa
+denominada _testa_, mientras que en las angiospermas está formado por dos capas,
+_la testa y el tegumen_ que está por debajo.
+
+
 ** Tipos de frutos
 
 Existen _diferentes maneras de clasificación_:
@@ -140,3 +185,18 @@ Deriva de varios ovarios de una sola flor y de su receptáculo.
 
 Deriva de launión de varios ovarios y receptaculos de una inflorescencia o
 frutos simples íntimamente unidos con la apariencia de un slo fruto.
+
+** Zonas y épocas de recogida de semillas
+
+_La calidad_ de las semillas y los frutos _dependen del lugar donde se
+recojen_. Las poblaciones (grupos de individuos de una especie que habitan en un
+lugar físico), están adaptadas a las condiciones climáticas y del suelo
+especificas de ese lugar, por lo tanto, muestran una _diferenciación genética
+(/genotipo/)_ que transfieren a las siguientes generaciones.
+
+Esto es así porque con el paso de los años solo han sobrevivido y se han
+multiplicado aquellos individuos _mejor adaptados a esas condiciones_, es decir:
+aquellos con las mejores condiciones para _responder a las condiciones de clima,
+suelo, plagas, enfermedades, etc_.
+
+
