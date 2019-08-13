@@ -6,3 +6,5 @@ $ cat .gitignore
 *.log
 *.out
 *.synctex.gz
+*.tex
+*.pdf
