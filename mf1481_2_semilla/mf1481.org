@@ -1,3 +1,4 @@
+#+STARTUP: hideblocks
 #+TITLE: MF 1481. Producción de semillas
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
@@ -12,28 +13,52 @@
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
-#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:}#1}}\end{center}}
-* Recolección de frutos y semillas
-** Características de frutos y semillas
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
+
+* Características generales de frutos y semillas
 El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura y
 dispersión*. Estrictamente el fruto es el ovario de la flor _transformado y
-maduro_ despues de la fecundación.
+maduro_ después de la fecundación.
 
 En _condiciones naturales, el fruto suele formarse una vez que ha tenido lugar 
 la fecundación del óvulo_, pero en muchas plantas, casi siempre variedades
 cultivadas, como los cítricos sin semilla, la uva, el banano y el pepino, el
 fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarpia*. 
 
-*** Partes de los frutos 
+** Clases de polinización
+Existen diferentes tipos de polinización según tengamos en cuenta
+
+1. El transporte de polen
+   - *Entomogamia:* cuando el polen es transportado por _insectos_. Son plantas entomófilas
+   - *Anemogamia:* el polen se mueve por acción del _viento_
+   - *Ornitogamia:* transportado por _aves_
+   - *Hidrogamia:* el medio en este caso es el _agua_
+2. El _tipo de fecundación_
+   - *Autogamia:* el grano de polen fecunda en la _misma flor_
+   - *Alogamia:* el grano de polen va al pistilo de _otra flor_
+
+#+BEGIN_EXPORT latex
+\begin{center}%
+\fbox{\parbox{0.9\textwidth}{%
+Para garantizar la \textbf{alogamia} algunas plantas presentan flores unisexuales de manera
+que el intercambio siempre se ha de realizar entre flores distintas. Las especies que forman las 
+flores masculinas y femeninas sobre el mismo pie se laman \textbf{monoicas} y las que producen 
+individuos con flores masculinas y otros que sólo presentan flores femeninas, se llaman \textbf{dioicas}.
+}}
+\end{center}
+\newpage
+#+END_EXPORT
+
+** Partes de los frutos 
 #+CAPTION: Partes de un fruto carnoso
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.9\textwidth
 [[./img_1481/fruto_partes_varios.PNG]]
 
-1) *Epicarpio o exocarpio:* Es la capa externa que rodea al frut, corresponde
+1) *Epicarpio o exocarpio:* Es la capa externa que rodea al fruto, corresponde
    a la cáscara. Puede ser:
    - Liso (Manzana)
-   - Piloso (Melocoton)
-   - Granuloso (citricos)
+   - Piloso (Melocotón)
+   - Granuloso (cítricos)
    - Ceroso (uva)
 2) *Mesocarpio:* Es la capa intermedia y comestible del fruto. En algunos frutos
    es delgado (frutos secos) y en otros carnosos
@@ -42,17 +67,18 @@ fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarp
 
 #+BEGIN_EXPORT latex
 \recuerda{La semilla se encuentra encerrada \textbf{dentro del endocarpo}}
+\newpage
 #+END_EXPORT
 
-*** Partes de la semilla
+** Partes de la semilla
 
 Las semillas son lo óvulos maduros de las plantas /angiospermas/ y
 /gimnospermas/ a partir de los que se desarrollarán nuevas plantas. 
 
 #+BEGIN_EXPORT latex
-\recuerda{Las \textbf{angiospermas} son todas las plantas y árboles que tienen 
-\uline{flor verdadera}, castaños, cerezos, salvia, romero, etc. Las \textbf{gimnospermas} 
-no tienen \uline{flores verdaderas} por lo que sus semillas \uline{no se desarrollan 
+\recuerda{Las \textbf{angiospermas} son todas las plantas y árboles que \uline{tienen 
+flor verdadera}, castaños, cerezos, salvia, romero, etc. Las \textbf{gimnospermas} 
+\uline{\textbf{no} tienen flores verdaderas} por lo que sus semillas \uline{no se desarrollan 
 en un ovario}, son los pinos, abetos, cedros, cipreses, o sabinas y enebros}
 #+END_EXPORT
 
@@ -67,12 +93,12 @@ aseguren la continuidad de la futura planta_.
 
 Es la planta muy pequeña contenida en la semilla.  Se encuentra en estado de
 letargo. El embrión está formado por 4 partes:
-1. *Radícula:* Es una raiz primordial que tiene el embrión. A partir de esta raíz
-   se desarrollará una raiz completa con raices secundarias, pelillos
+1. *Radícula:* Es una raíz primordial que tiene el embrión. A partir de esta raíz
+   se desarrollará una raíz completa con raíces secundarias, pelillos
    absorbentes, etc
 2. *Plúmula:*  Yema que se encuentra en el lado opuesto a la radícula
 3. *Hipocótilo:* Es el espacio entre la radícula y la plúmula. Esta se
-   convertira en un tallo
+   convertirá en un tallo
 4. *Cotiledón:* Son la hoja o hojas primordiales del embrión según la planta sea
    /monocotiledonea/ o /dicotiledonea/ respectivamente
 
@@ -83,12 +109,108 @@ semilla. Generalmente es almidón.
 
 **** *Epispermo:* 
 
-Es una capa exterior. En las gimnosperas está formado por una sola capa
+Es una capa exterior. En  gimnospermas está formado por una sola capa
 denominada _testa_, mientras que en las angiospermas está formado por dos capas,
 _la testa y el tegumen_ que está por debajo.
 
+** Propiedades de las semillas. Viabilidad, vigor y longevidad
+En muchas ocasiones, las semillas tras su maduración y dispersión no son capaces
+de germinar, ya sea _por que son durmientes_ o bien por que _no se dan las 
+condiciones ambientales adecuadas_.
 
+De esta manera la semilla comienza un proceso de deterioro que se traduce en una
+_disminución progresiva de su capacidad de germinar_ (viabilidad). El _tiempo
+que tardan_ en perder esta viabilidad (longevidad) es variable según  varios
+factores como la especie, contenido en humedad, genotipo, etc.
+
+
+*** Viabilidad
+
+La viabilidad hace referencia a la _capacidad de una semilla de germinar y 
+originar plántulas_ normales en _condiciones ambientales favorables_.
+
+*** Vigor
+
+El vigor se define como un _conjunto de propiedades_ que determinan el _nivel de 
+actividad y capacidad de las semillas_ *durante la germinación* y durante la
+*emergencia de las plántulas*.
+
+Es el resultado de la interacción de una serie de características de las
+semillas:
+- Constitución genética
+- Condiciones ambientales y nutricionales a las que ha estado sometida la planta
+  madre durante el periodo de formación
+- Grado de madurez
+- Tamaño, peso, densidad
+- Integridad mecánica
+- Grado de deterioro y envejecimiento
+- Afectación por organismos o patógenos
+
+*** Longevidad
+
+La longevidad es el tiempo que pueden mantenerse _viables en unas determinadas 
+condiciones de temperatura y contenido de humedad_. De forma natural las
+semillas presentan una longevidad _que varía entre especies_.
+
+#+BEGIN_EXPORT latex
+\recuerda{La \textbf{viabilidad} de una semilla es su \uline{capacidad de germinar}
+y las semillas con alto \textbf{vigor} producirán \uline{más plántulas normales y con tasas
+elevadas de crecimiento}}
+#+END_EXPORT
+
+** Semillas ortodoxas y recalcitrantes
+
+El almacenamiento de las semillas ha sido una práctica habitual desde el
+comienzo de la agricultura, ya sea para su siembra posterior o para emplearla
+como alimento. 
+
+De forma general _las semillas se desecan para ser guardadas_ en condiciones
+óptimas para una adecuada conservación de sus propiedades. Sin embargo _no todas  
+las semillas son capaces de resistir la desecación_. Distinguimos dos grupos,
+ortodoxas y recalcitrantes.
+
+*** Semillas ortodoxas
+
+Son las semillas que _permanecen viables después de la desecación_ (desecadas
+hasta 5-10% de humedad)
+
+*** Semillas recalcitrantes
+
+Son las que _pierden rápidamente su viabilidad al ser desecadas._ Su contenido en
+humedad no puede ser inferior al 12-30%.
+
+Suelen ser semillas de plantas tropicales y subtropicales, algunas de gran
+importancia económica: aguacate (/Persea americana/), cacao (/Theobroma cacao/),
+café (/Coffea spp./),mango(/Manguifera indica/).
+
+También hay semillas de especies de zonas templadas, generalmente de gran
+tamaño como haya (/Fagus sylvatica/) arce (/Arce spp./), castaño (/Castanea
+sativa/), encina, roble (/Quercus spp./)
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{Las principales colecciones de semillas se de especies con 
+\uline{semillas ortodoxas}, que en teoría pueden alcanzar longevidades muy elevadas al 
+efecto combinado de la desecación y las bajas temperaturas}}
+\end{center}
+#+END_EXPORT
+
+#+BEGIN_COMMENT
+por ejemplo, si un lote de semillas de cereal conservadas con un contenido de
+humedad de un 10%, aúna temperatura media de 20 \textdegreeC, puede mantenerse viable
+durante diez años; ese mismo lote previamente desecado hasta un 5% de humedad y
+conservado en una cámara a -5 \textdegreeC, según las Reglas de Harrington, se mantendría
+viable durante más de diez mil años (2^5 x 2^5 x 10 años). 
+Si bien las reglas de Harrington son sólo extrapolaciones de los resultados
+obtenidos en ensayos experimentales, principalmente de envejecimiento acelerado,
+aunque se cumplieran sólo parcialmente,nos asegurarían la conservación de las
+semillas, de un modo relativamente económico, durante largos periodos de tiempo
+(Figura 6). 
+#+END_COMMENT
+
+* Recolección de frutos y semillas
 ** Tipos de frutos
+
 
 Existen _diferentes maneras de clasificación_:
 
@@ -99,8 +221,8 @@ Existen _diferentes maneras de clasificación_:
   - Monospermos
   - Polispermos
 - Según forma de liberar las semillas:
-  - Dehiscentes
-  - Indehiscentes
+  - Dehiscentes: _Se_abren_ de manera espontánea.
+  - Indehiscentes: _No se abren_ de manera espontánea.
 - Según el origen del fruto
   - Monocarpicos (Un solo carpelo)
     - Drupa (melocotón, almendra, oliva, etc)
@@ -148,7 +270,7 @@ Deriva en su totalidad del ovario.
 [[./img_1481/pomo.PNG]]
 
 Deriva de la fusión del ovario y del tubo floral (receptáculo y tejidos
-adyacentes del pedúnculo). Normalmente 5 carpelos con 2 ovulos.  
+adyacentes del pedúnculo). Normalmente 5 carpelos con 2 óvulos.  
 #+BEGIN_EXPORT latex
 \vspace{3cm}
 #+END_EXPORT
@@ -169,34 +291,768 @@ gajos.
 #+ATTR_LATEX: :width 0.8\textwidth
 [[./img_1481/nucula.PNG]]
 
-**** *Agragado o múliple*
+**** *Agregado o múltiple*
 
 #+CAPTION: 
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_1481/polidrupa.PNG]]
 
 Deriva de varios ovarios de una sola flor y de su receptáculo.
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Infrutescencia*
 
 #+CAPTION: 
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_1481/infrutescencia.PNG]]
 
-Deriva de launión de varios ovarios y receptaculos de una inflorescencia o
-frutos simples íntimamente unidos con la apariencia de un slo fruto.
+Deriva de la unión de varios ovarios y receptáculos de una inflorescencia o
+frutos simples íntimamente unidos con la apariencia de un solo fruto.
+** Recogida de semillas
+*** Plantas anuales, bianuales y perennes
+**** *Anuales*
 
-** Zonas y épocas de recogida de semillas
+ Plantas que se obtienen de semilla, y _producen su cosecha y semilla_ dentro
+ de *una estación* de crecimiento. De media su _ciclo de crecimiento dura_ *seis
+ meses*. Es la razón por la que este tipo de plantas pasan la _mitad del año_
+ creciendo *en tierra* y la otra mitad *almacenadas* en forma de semilla antes de
+ ser replantadas. 
 
-_La calidad_ de las semillas y los frutos _dependen del lugar donde se
-recojen_. Las poblaciones (grupos de individuos de una especie que habitan en un
-lugar físico), están adaptadas a las condiciones climáticas y del suelo
-especificas de ese lugar, por lo tanto, muestran una _diferenciación genética
-(/genotipo/)_ que transfieren a las siguientes generaciones.
+ Normalmente las anuales son sembradas en primavera, _llegan a semilla al final 
+ del verano_ y mueren en otoño. Algunas plantas que son perennes en regiones
+ cálidas, como los tomates, se vuelven anuales en regiones frías.    
 
-Esto es así porque con el paso de los años solo han sobrevivido y se han
-multiplicado aquellos individuos _mejor adaptados a esas condiciones_, es decir:
-aquellos con las mejores condiciones para _responder a las condiciones de clima,
-suelo, plagas, enfermedades, etc_.
+**** *Bianuales*
 
+  Son  plantas  que  producen  crecimiento  vegetativo  durante  la  estación de
+  crecimiento, tienen un lento bajón con el tiempo frío, van a semilla en la
+  segunda  estación  de  crecimiento  y  entonces  mueren. 
+
+  Esto  es  una característica   de  vegetales  de  zonas  frías,  como  el
+  grupo  de  las coliflores,  apio  y  la  mayoría  de  las de raíz 
+
+ La producción de semillas ocurre en el segundo año después de pasar el
+ invierno.  El  tiempo  en  el  que aparecen  las  semillas  depende  de 
+ _factores_  como:
+ - Latitud, que afecta a la duración del día
+ - Cambios periódicos de temperatura y humedad del suelo 
+
+ Por estos motivos _es difícil disponer de unas normas generales_ para la
+ recolección de semillas en lo que respecta a la _época de recolección_.
+
+ #+BEGIN_EXPORT latex
+ \recuerda{Zanahoria, rábanos, remolacha, batata, etc, pertenecen al grupo de
+  \textbf{vegetales de raíz}}
+ #+END_EXPORT
+
+ #+BEGIN_COMMENT
+ Un  método  para  las  bianuales  se  llama  de  raíz  a  semilla,  en  el  cual
+ la  cosecha  es  sacada  de  la  tierra  al  final  del  otoño,  seleccionada,
+ almacenada  y  replantada en primavera. Este método se usa a menudo con cebollas
+ y remolachas. 
+
+ Para  producir  semillas  de  calidad  consistente  año  tras  año,  las
+ bianuales  deben tener una estación fría de dos o mas meses con unas
+ temperaturas nocturnas que oscilen entre -10\textdegree C y 4\textdegree C. 
+ #+END_COMMENT
+**** *Perennes*
+  Son consideradas plantas perennes aquellas que _viven más de dos
+  años_. _Florecen y dan semilla varias veces_ a lo largo de su vida.
+
+  Generalmente cuando hablamos de plantas perennes, este termino suele
+  referirse a _plantas herbáceas_ o _arbustos pequeños_, mas que a los arbustos
+  leñosos o a los árboles.
+
+  Estas  plantas  suelen  perder  la  parte  aérea  en  periodos  de  parada
+  vegetativa  (invierno),  pero  las  raíces  sobreviven.  Al  llegar  la
+  primavera  vuelven  a  rebrotar  y  florecen, repitiéndose el ciclo vegetativo. 
+
+  #+BEGIN_COMMENT
+  - Entre las *hortícolas* destacamos:
+    - Algunos puerros y cebolletas
+    - El tomate
+    - Alcachofas
+    - Espárragos
+  - Entre las que se pueden usar en *jardinería* encontramos:
+    - Abelia
+    - Adelfa
+    - Durillo
+    - Echium spp
+    - Hibiscus
+    - Lirios
+    - Primula
+    - Rododendro
+  #+END_COMMENT
+
+
+ #+BEGIN_COMMENT
+ _La calidad_ de las semillas y los frutos _dependen del lugar donde se
+ recojen_. Las poblaciones (grupos de individuos de una especie que habitan en un
+ lugar físico), están adaptadas a las condiciones climáticas y del suelo
+ especificas de ese lugar, por lo tanto, muestran una _diferenciación genética
+ (/genotipo/)_ que transfieren a las siguientes generaciones.
+
+ Esto es así porque con el paso de los años solo han sobrevivido y se han
+ multiplicado aquellos individuos _mejor adaptados a esas condiciones_, es decir:
+ aquellos con las mejores condiciones para _responder a las condiciones de clima,
+ suelo, plagas, enfermedades, etc_.
+
+ #+END_COMMENT
+*** Cuando recoger las semillas
+#+BEGIN_EXPORT latex
+\recuerda{factores como la \textbf{duración del día, temperatura y humedad del suelo}, 
+influyen decisivamente en el tiempo en el que aparecen las semillas.}
+#+END_EXPORT
+**** *Árboles y arbustos*
+
+De manera general podemos decir que el _otoño_ es la mejor época para recolectar
+semillas de árboles y arbustos en los bosques.
+
+- *Octubre:* Recogeremos abetos, castaños, brezos, enebros, sabina, laurel,
+  mirto y lentisco entre otros
+- En *noviembre:* encina, fresno, jazmín silvestre, adelfa, madroño, rosal
+  silvestre, etc
+- *Diciembre:* arces, madroño, sabina, enebro, aligustre, acebuche, etc
+**** *Planta hortícola*
+
+Presentamos algunos _consejos para la recolección_
+- Los  frutos  que  tienen  semillas  en  su  pulpa,  como  el  tomate,  es
+  mejor  recogerlos  cuando  están  _muy  maduros_,  cuando  se  están
+  ablandando,  un  poco  después de cuando se recogen para comer.
+-Aquellos frutos que se comen maduros, como las calabazas, son cogidas como
+  para  mesa  y  las  semillas  retiradas  del  interior,  _el  mejor  momento_
+  para  recogerlas  _es  un  mes  después_ de  que  hayan  madurado,  cuando
+  las  semillas  han  tenido tiempo de engordar.
+- Aquellos frutos que se recogen para la mesa antes de que maduren, como el
+  pepino, el maíz dulce, tendrán que _permanecer durante mas tiempo en la 
+  planta_. Tendrán que alcanzar la talla completa y luego dejarlos durante unas
+  tres semanas mas para que las semillas maduren.
+- Cuando  las  semillas  forman  parte  de  _la  parte  comestible  de  la 
+  planta_,  como  el  maíz,  habas,  girasoles,  se  pueden  _dejar  en  la 
+  planta  hasta  que  estén  completamente  secas_,  previendo  que  el  tiempo
+  no  las  estropee  y  que  no  se  las  coman los ratones.
+- Las  plantas  que  _tienen  tendencia  a  reventar_,  es  decir,  dejar  caer
+  las  semillas en tierra cuando están maduras, como lechuga, zanahorias,
+  cebollas, hay que  recogerlas  progresivamente  según  van  madurando.  La
+  planta  se  puede  sacar  antes  de  que  estén  maduras  todas  las  semillas
+  y  dejarlas  madurar  en  la  sombra,  colgadas y con una tela en el suelo o
+  con una bolsa, asegurándose de que las raíces no tengan tierra.
+** Técnicas recolección 
+
+
+Se describen diferentes técnicas para la recolección de frutos. _Elegir la 
+técnica más adecuada depende principalmente de la *especie a cosechar*_, ya que los
+diferentes tipos de frutos van a dispersarse de diferente manera. Por lo que es
+*muy importante* tener en cuenta:
+
+- La _unidad de dispersión_, es decir, *el tipo de fruto* (fruto carnoso, fruto
+  seco, frutos secos indehiscentes, dehiscentes, etc)
+- El _tipo de dispersión_. Las semillas se dispersan fundamentalmente de 4 maneras:
+  - Dispersión por viento 
+  - Dispersión por agua
+  - Dispersión por animales
+  - Explosión
+
+#+BEGIN_COMMENT
+  - Dispersión por viento
+Las semillas más ligeras, frecuentemente son transportadas por el viento lejos
+de la planta "padre". Muchas de estas tienen una especie de paracaídas para
+maximizar sus posibilidades de volar. La Eurasian dandelion y muchas otras
+plantas de la familia Asteraceae tienen este tipo de mecanismos. Los paracaídas
+están formados por pequeños filamentos que pueden llevar la semilla muy
+lejos. Una variación de los paracaídas son las alas, algunas de ellas actúan
+como las de los helicópteros pero en miniatura. La familia Aceraceae ha
+desarrollado este método de manera muy efectiva con un ala membranosa en uno de
+los extremos. La naturaleza ha diseñado de manera inteligente estas alas con una
+pequeña aspa como las hélices de los ventiladores que le permiten girar
+aumentando su capacidad de volar. 
+- Dispersión por agua
+Cuando los árboles están situados cerca del agua se aprovechan de este medio y
+lo usan como un elemento para dispersar sus semillas. Las semillas caen de la
+planta al agua y flotan hasta que algún día alcanzan tierra firme. Si es
+afortunada y encuentra un lugar adecuado entonces germinará y el ciclo
+continuará. Un ejemplo de esta forma de dispersión es el coco que puede
+permanecer en el mar durante un tiempo considerable hasta llegar a alguna
+playa.
+  - Dispersión por animales
+Los animales encuentran en los frutos una buena fuente de alimentación y como
+resultado ayudan a la dispersión de las semillas. La digestión animal procesa la
+parte jugosa del fruto dejando las pepitas y huesos intactos. Más tarde son
+excretados, en algunas ocasiones, muy lejos de la planta "padre". Otros animales
+dispersan las semillas a través de su piel como en el caso del género
+Arctium. Esta especie tiene diminutos ganchos que se adhieren a los animales
+cuando pasan. También los humanos actúan como dispersadores de semillas. La
+próxima vez que vayas al campo comprueba a la vuelta tu ropa seguro que
+encuentras alguna de estas pequeñas viajeras. 
+  - Explosión
+Las plantas en ocasiones pueden tener comportamientos muy sorprendentes, algunas
+pueden llegar a explotar como auténticas bombas verdes. Las vainas explotan
+cuando están maduras y lanzan las semillas muy lejos. Un magnífico ejemplo es el
+"pepinillo del diablo" (Ecbalium elaterium).  
+#+END_COMMENT
+
+#+BEGIN_EXPORT latex
+\recuerda{los términos dehiscente e indehiscente nos indican, respectivamente, si los frutos
+ se abren o no de manera espontánea al madurar para dispersar la semilla.}
+#+END_EXPORT
+
+*** Recomendaciones generales 
+- El balde o cubo plástico es adecuado para la recolección de frutos enteros de
+  árboles y arbustos, y permite a los recolectores usarlas dos manos para la
+  recolección
+- La bolsa o sobre grande de papel facilitar a recolección de   semillas   de
+  gramíneas, semillas con ``aristas'' o frutos con ganchos que  normalmente
+  quedan trabados en las bolsas de tela
+- La bolsa plástica sirve para recolectar frutos carnosos muy maduros.
+- La bolsa de tela sirve para recolectar y transportar la mayoría de las
+  semillas que podamos recolectar, salvo de frutos carnosos maduros. 
+
+*** Cosecha de frutos enteros
+Es el método más básico y flexible en que la cosecha se hace a mano. Este
+método es apropiado para los siguientes casos:
+- Identificamos fácilmente cuando el fruto está a punto para dispersar la
+  semilla. por ejemplo, _mediante cambios en el color, textura o tamaño._
+- Cuando _no podemos realizar una _selección y descarte de una manera más eficiente._
+- La accesibilidad de los frutos permite _emplear las dos manos_ para dejar las
+  semillas en un cubo, balde u otro recipiente.
+- Los frutos contienen un alto _número de semillas_, sean carnosos o secos indehiscentes.
+*** Cosecha directa desde inflorescencias. La panícula
+
+Este método es el más efectivo para gramíneas u otras infrutescencias
+compactas. 
+
+#+BEGIN_EXPORT latex
+\begin{center}%
+\fbox{\parbox{0.9\textwidth}{%
+La \textbf{panícula} es una inflorescencia racimosa compuesta de racimos que van decreciendo
+ de tamaño hacia el ápice. En otras palabras, un racimo ramificado de flores, 
+ en el que las ramas son a su vez racimos.}} 
+\end{center}
+#+END_EXPORT
+
+#+CAPTION: Panícula temprana de vid
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1481/panicula.jpg]]
+
+Consiste en sostener y apretar suavemente la base de la panícula o espiga
+moviéndola desde la base del ápice de la misma. De esta manera se desprenderán
+la mayoría de las semillas maduras. _Este método es más apropiado_ para
+poblaciones uniformes es decir, con las panículas y las espigas en fase de dispersión.
+*** Cortar ramas con frutos
+Con este método cortamos racimos o grupos de frutos empleando unas _tijeras
+adecuadas_, estas pueden ser de _simples de una mano, de dos manos, de pértiga,
+etc_.
+
+Tiene la _desventaja_ de que hay que _revisar cada racimo cortado para evitar la 
+inclusión de frutos no maduros_. También hay que _prestar atención_ a no
+producir heridas de corte que cicatricen mal, por qué se pueden _producir daños
+por ataque de hongos u insectos_.
+
+El método es *apropiado* para:
+
+- Árboles y arbustos con el fruto en ramas terminales y lejos del recolector.
+- Especies que toleren el corte de algunas ramas y follaje.
+*** Agitar las ramas
+    
+Método _muy efectivo_ cuando hay frutos con distinto grado de madurez en una
+planta, árbol o arbusto.  _Sacudiendo suavemente_ los frutos o semillas que se
+encuentren _maduros y en fase de dispersión_ se desprenderán fácilmente, y los
+que no estén listos no caerán.
+
+Para _recogerlos_ podemos emplear una _lona_ en caso de árboles, o _baldes 
+y espuertas_ si son arbustos o plantas de pequeño tamaño, y después sacudir
+agitar las ramas.
+*** Recolección desde el suelo
+
+Muchas veces encontramos frutos y semillas en el suelo. Sin embargo con este
+método se corre el riesgo de que estén afectados por hongos o patógenos y que su
+viabilidad no sea la adecuada.
+*** Sistemas mecánicos
+El empleo de *sacudidores o vibradores mecánicos* para la recolección de frutos es
+_habitual en agricultura_. Actualmente también se emplea para la recolección de
+algunas especies forestales, sobre todo cuando las condiciones topográficas son
+las adecuadas.
+
+Existen diversos modelos que se elegirán en función principalmente de la
+_especie, marco de plantación y manejo de la explotación_.
+
+Existen diferentes tipos de recolección según el sistema de derribo del fruto
+sea por _vibración_ o _sacudida_
+**** *Vibración*
+
+1. *Vibrador de ramas*
+   - Manual: de gancho o peine, eléctricos o gasolina...
+   - Acoplado al tractor
+2. *Vibrador de troncos*
+   - Acoplado al tractor
+   - Plataforma de recolección
+   - Autopropulsados
+#+CAPTION: Vibradora de peine con motor de 2t
+#+ATTR_LATEX: :width 0.2\textwidth
+[[./img_1481/varea_gasolina.jpeg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+#+CAPTION: Detalle del gancho de una vibradora manual
+#+ATTR_LATEX: :width 0.3\textwidth
+[[./img_1481/detalle_gancho_varea.jpeg]]
+
+#+CAPTION: Vibrador de pinza acoplado
+#+ATTR_LATEX: :width 0.45\textwidth
+[[./img_1481/vibra_tractor.jpeg]]
+
+#+CAPTION: Vibrador autopropulsado
+#+ATTR_LATEX: :width 0.45\textwidth
+[[./img_1481/vibra_autop.jpg]]
+
+**** *Sacudida*
+
+1. *Sacudidor de copa*
+   - Arrastrados por el tractor, lateral
+   - Arrastrados por el tractor, cabalgantes
+   - Autopropulsado lateral
+   - Autopropulsado cabalgante
+
+#+CAPTION: Sacudidor de copa lateral en campo de cítricos
+#+ATTR_LATEX: :width 0.9\textwidth
+[[./img_1481/copa_lateral.jpeg]]
+
+#+CAPTION: Sacudidor de copa cabalgante
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1481/copa_cabalgante.jpg]]
+
+#+CAPTION: Sacudidores cabalgantes en plantacion intensiva de olivos
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1481/copa_cabalgante_campo.jpg]]
+
+** Herramientas, accesorios y maquinaria necesarias para la recolección 
+*** Herramientas de corte
+
+- *Tijeras*
+  - De una mano. (Se incluyen las tijeras de corte _eléctricas_)
+  - De dos manos
+  - Telescópicas o de pértiga
+#+CAPTION: Tijera de pértiga
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1481/tijera_pertiga.jpg]]
+
+- *Sierras*
+  - Serrucho curvo
+  - Sierra de arco
+  - Serrucho telescópico 
+
+- *Maquinaria de corte*
+  - Motosierra
+  - Motosierra de poda
+  - Motosierra de pértiga
+
+#+CAPTION: Motosierra de poda
+#+ATTR_LATEX: :width 0.45\textwidth
+[[./img_1481/moto_poda.jpg]]
+
+#+CAPTION: Motosierra de pértiga para poda
+#+ATTR_LATEX: :width 0.45\textwidth
+[[./img_1481/moto_altura.jpg]]
+
+*** Útiles para recoger
+
+- Lonas para cubrir el suelo
+- Recipientes (cubos, espuertas, etc)
+
+* Preparación y acondicionamiento en campo de lotes de frutos y semillas recolectadas
+
+** Introducción
+
+Inmediatamente después de la recolección, las semillas _pueden sufrir
+daños_. Ya que en campo no se pueden controlar el medio ambiente como en el
+centros de procesamiento, las semillas o fruto pueden sufrir a daños por
+_variaciones en el clima, patógenos, fauna, etc_.
+
+Durante este periodo en campo y durante el transporte al lugar donde procesemos
+las semillas se corre _peligro de perder la *identidad*_ del material así como que
+se _reduzca la viabilidad de los lotes de semillas_.
+
+Es _muy importante_ por lo tanto, garantizar que los lotes de semilla lleguen de
+campo al lugar de almacenaje o procesamiento en _condiciones óptimas_. Ya que si
+la semilla ha _perdido parte de su viabilidad_ antes de almacenarse, ni siquiera
+con unas instalaciones inmejorables se podrían garantizar buenos resultados en
+la producción de planta
+
+** Mantenimiento de la viabilidad
+
+Cuando recolectamos semillas casi siempre lo que se recolecta son _frutos no
+semillas_. 
+
+En los lugares donde el clima y las condiciones topográficas lo permite, las
+operaciones de secado e incluso extracción se lleva a cabo sobre el terreno. En
+otras condiciones se considera preferible transportar los frutos y/o semillas
+con la mayor rapidez posible, donde podremos controlar las condiciones de
+extracción mucho más que en campo.
+
+Cuando no extraemos las semillas en el terreno, _debemos manipular_ los frutos
+con _mucho cuidado_.  
+
+Cuando la _humedad y temperatura son elevadas_, los frutos acumulados a granel
+se pueden _deteriorar por acción de mohos y otros hongos y/o por
+recalentamiento_.
+
+Es por ello muy importante asegurar una _buena ventilación para minimizar estos
+riesgos_, tanto en el acopio en campo como en el transporte.
+
+** Mantenimiento de identidad
+
+Es necesario _etiquetar_ correctamente cada lote de frutos para _asegurar la
+identidad_ de los mismos. 
+
+Una medida de precaución para evitar perdida o extravió de etiquetas consiste
+en, colocar etiquetas _tanto por la parte exterior como la interior_ del
+recipiente que contenga los frutos o semillas.
+
+* Acondicionamiento de semillas
+** Introducción
+Entendemos por *acondicionamiento* a una serie de operaciones _posteriores a la
+cosecha_, que realizamos a un lote de semillas para _asegurar la mayor cantidad 
+de semilla en unas condiciones óptimas de *viabilidad, vigor y longevidad*_
+** Principios
+
+Para obtener semillas de calidad con _costos lo mas bajos posibles_ hay que tener
+en cuenta una serie de principios:
+1. *Maximizar la cantidad de semilla adecuada:* Para poner en venta un lote de
+   semillas, estas han de estar
+   + secas
+   + limpias
+   + uniformes
+   + limpias de material indeseable
+2. *Perdida mínima de semillas:*  Durante las operaciones hay que emplear los
+   _útiles y técnicas adecuados_ así como tener _correctamente calibrada la 
+   maquinaria_, para _evitar o minimizar_ las pérdidas
+3. *Mantenimiento  de  la  calidad:*  En  cada  paso  del  acondicionamiento  se
+   debe  mantener  la  calidad _para mejorar la calidad final del lote de 
+   semillas_, eliminando los materiales inertes y aquellas semillas que han
+   perdido su calidad por daños mecánicos, ataque de hongos e insectos.  
+** Objetivos
+
+El objetivo general es obtener lotes de semillas con un _máximo de semilla
+óptima_ en cuanto a viabilidad, vigor y longevidad y todo ello a un _coste
+razonable_.
+
+_Para lograrlo hay que:_ 
+
+1. *Eliminar el exceso de humedad*
+2. *Eliminar el material indeseable*
+3. *Clasificar las semillas*
+4. *Proteger contra plagas y enfermedades*
+** Operaciones previas a la extracción  
+*** Almacenamiento temporal
+Es importante que cuando llegan los frutos a las instalaciones, se _descarguen, 
+inspeccionen y coloquen_ en condiciones de almacenamiento que los protejan _de 
+la lluvia, roedores, aves, sol_ y que se garantice la _circulación de aire_ en
+frutos y semillas
+*** Limpieza previa
+En algunas especies la limpieza previa es, junto con el secado, la única
+operación antes del almacenamiento o siembra. Esta limpieza previa puede
+consistir en la eliminación de apéndices que posean los frutos, desalado, etc
+*** Oreo previo
+Se llaman así a las operaciones de _secado lento al aire_ a fin de preparar los
+frutos y semillas para las operaciones de secado en estufa u otro método. Este
+secado lento _facilita la maduración de semillas y secado de frutos_ ya que a
+pesar de que se haya planificado la cosecha de la semilla para el momento de
+máxima madurez, siempre _existirán semillas viables que aún no han madurado
+plenamente_
+
+** Métodos de extracción
+
+Los métodos que se emplean para la extracción de semillas de los frutos se
+determinan principalmente por las características de los mismos.
+
+Por ejemplo, _frutos carnosos_ se tratan mediante un proceso de _despulpado_ que generalmente
+consiste en  una combinación de _inmersión en agua seguida de despulpado 
+mediante una fricción mecánica suave_.
+
+Algunos frutos _indehiscentes_, sobre todo nueces, aquenios y sámaras aladas, no
+requieren extracción sino que se limpian, desalan, y se siembran directamente.  
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{%
+\textbf{Aquenio:} fruto seco indehiscente procedente de un ovario con una única semilla, 
+y con el pericarpo delgado y no soldado a dicha semilla.\\
+\textbf{Sámara: Es un tipo de fruto en el que se desarrolla una o varias alas aplanada
+ que favorecen su dispersión por el viento}}}
+\end{center}
+
+\recuerda{Un fruto \textbf{indehiscente} es aquel que no se abre de manera espontánea al llegar 
+a la madurez para liberar las semillas}
+#+END_EXPORT
+
+#+CAPTION: Aquenio de girasol
+#+ATTR_LATEX: :width 0.55\textwidth
+[[./img_1481/aquenio.jpg]]
+
+#+CAPTION: Sámara con dos alas (disámara)
+#+ATTR_LATEX: :width 0.4\textwidth
+[[./img_1481/samara.png]]
+
+*** Métodos de extracción húmedos
+
+Son los que se utilizan en aquellos frutos que tienen las semillas en una pulpa
+húmeda (por lo que se conoce generalmente como *despulpado*), como es el caso de
+tomate, sandía, melón , calabaza, etc.
+
+El _procedimiento general_ es como sigue:
+
+- Exprimir manual o mecánicamente el fruto y verter la pulpa en un recipiente
+- Se deja todo en agua para que mediante la flotación _la semilla se hunda_
+  mientras que la pulpa queda en la superficie. Esto se conoce como _decantación_
+- Utilizando coladores o mallas retiramos los restos de pulpa o pieles restantes
+- Las semillas bien etiquetadas se ponen a secar, bien al sol o con secadores
+
+*** Métodos de extracción secos
+Se emplea en _semillas que maduran en frutos secos_ (espigas, vainas o
+cápsulas), como por ejemplo judías, guisantes, lechuga, espinacas, maíz,
+zanahoria, etc.
+
+Podemos ir recolectando los frutos según van secando o cortar plantas
+enteras. En zonas frías o en épocas lluviosas, nos podemos ver obligados a
+cortar las plantas enteras y esperar a que maduren las semillas. En ocasiones,
+para no perder semillas, debemos cubrir las plantas con mallas o telas. 
+
+Los procesos que se realizan para la extracción de semillas con este método son:
+
+1. *La siega:* consiste en cortar las ramas o frutos que portan las
+   semillas. Las máquinas que realizan este trabajo son las segadoras o
+   guadañadoras
+2. *Trillado:* consiste en romper las infrutescencias separando las semillas del
+   fruto. Se puede hacer con máquinas (trillas) o a escala más pequeña bien
+   pisando los frutos, bien machacarlos entre dos tableros, bien colocándolos en
+   sacos y machacándolos, etc.
+3. *Aventado:* consiste en limpiar las semillas utilizando una corriente de aire
+   o viento. Como la paja y el polvo pesa menos que las semillas, son
+   arrastrados por el viento o aire artificial. En el aventado horizontal la
+   corriente de aire es horizontal, permitiendo que las partículas pesadas se
+   alejen más. Si colocamos paredes en los lugares de caída, podemos separar las
+   partículas por su peso
+4. *Cribado:* las cribas son superficies generalmente planas, que tienen
+   orificios o aberturas mediante las cuales podemos separar la masa de semillas
+   en dos, una fracción que queda sobre la criba (que normalmente son las
+   impurezas) y otra que atraviesa la criba (que normalmente son las semillas). 
+
+** Secado de los frutos
+*** Secado de los frutos sin calor artificial
+
+**** *Secado bajo techo*
+
+Es el método _mas lento y menos drástico para secar los frutos_. Es muy parecido
+a la técnica de _oreo previo_ y es recomendable poner los frutos en bandejas o
+mallas perforadas para que el _aire pueda circular por todos los lados_.
+
+**** *Secado al sol*
+
+Es el método idóneo para secar _frutos de especies que son capaces de aguantar
+altas temperaturas_. Se emplea habitualmente durante la _estación seca_ de
+climas templados y cálidos. 
+
+Es el método habitual en el mediterráneo para abrir conos de especies forestales
+del genero /Pinus/ (/Pinus pinea, Pinus halepensis, Pinus pinaster/).
+
+*** Secado de los frutos con calor artificial
+
+Cuando el clima no permite el secado al aire es necesario poder secar los frutos
+en estufas de calor.
+
+La principal ventaja es que _podemos controlar la humedad y temperatura_ con lo
+que acortamos el tratamiento y podemos tener una mejor planificación.
+
+** Limpieza, selección y clasificación
+Durante la cosecha de las semillas no pueden eliminarse totalmente muchos
+materiales indeseables,  lo  que  significa  que  estas sean  transportadas  a
+la  planta  con  pedazos  de  tallos,  vainas,  basuras, paja,  semillas
+inmaduras,  semillas  de  malezas  y  de  otros  cultivos. Para poder separar
+estos contaminantes es necesario tener en cuenta sus características físicas
+para realizar la operación.  
+
+*** Fundamentos para la separación de materiales indeseables
+
+Las semillas se diferencian en 
+- Tamaño (longitud, ancho y espesor)
+- Peso especifico
+- Forma
+- Textura superficial
+- Conductividad eléctrica
+- Color
+
+Estas características hacen que _sea posible mejorar la calidad de un lote de
+semillas_ mediante la _separación de todos los materiales que lo contaminan_.
+
+**** *Separación por tamaño*
+
+Es la característica que se _identifica más fácilmente_. Las diferencias en
+longitud, ancho y espesor _pueden presentarse entre las semillas o entre estas y 
+sus contaminantes_.
+
+Las diferencias en longitud de las semillas no permite hacer separaciones con
+cribas o cedazos y tiene que  realizarse  con  separadoras  por  longitud.  Los
+separadores  de  longitud  son  de  dos  tipos:  el  separador de discos y el
+separador de cilindros.  
+
+#+CAPTION: Limpiadora de discos y cilindro combinado
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1481/separador_disco_cilindro.jpg]]
+
+**** *Forma*
+
+En  un  lote  de  semillas  puede  haber  semillas  redondas  junto  con
+semillas  de  forma  diferente,  como  por  ejemplo,  un  lado  plano  o  de
+forma  piramidal  y  que  pueden  separarse  usando  una  seleccionadora
+conocida  como  separador  de  espiral.
+
+
+**** *Peso específico*
+
+El  peso  específico  de  las  semillas  puede  ayudar  a  _diferenciar  entre 
+las  semillas  maduras  e  inmaduras_,  y  los  _terrones  o  piedras_  que  tengan
+el  mismo  tamaño  que  las  semillas.  Esta  separación se realiza
+principalmente con la mesa de gravedad.
+
+#+CAPTION: Mesa de gravedad separadora de grano
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1481/mesa_gravedad.jpeg]]  
+
+**** *Textura superficial*
+
+En algunos lotes de semillas puede haber una mezcla de semillas que _podemos 
+diferenciar por la textura de su cubierta_. 
+
+Lotes de semillas con un _tegumento liso_, como es el caso de /Trifolium incarnatum/
+(leguminosa que se emplea como planta forrajera), pueden estar _contaminados por
+algunas _semillas de maleza comunes_ (/Cuscuta spp/ y /Rumex spp./) que tienen
+el _tegumento rugoso_.
+
+Existen _separadores de rodillo o de banda_ que pueden realizar esta operación. 
+Ambos  utilizan  una  cubierta de  paño  para  que  las  semillas rugosas se
+adhieran y las lisas se deslicen  .
+
+**** *Color*
+
+Las  semillas  del  mismo  tamaño  pueden  _separarse  por  la  diferencia  en 
+el  color_  de  la  cubierta,  como en el caso de las _alubias_ (/Phaseolus
+vulgaris/) con cubierta seminal blanca y negra o también del _maíz_ que ha perdido
+su  cubierta  seminal y  que  debe  separarse  porque  es  más  susceptible  a
+la  pérdida  de capacidad de germinación. 
+
+La separación se realiza con la separadora electrónica que tiene una celda
+fotoeléctrica calibrada con un patrón determinado para un color específico.  
+
+** Etiquetado
+
+Tanto si trabajamos con grandes lotes de semillas como si las recolectamos para
+nuestro pequeño negocio, es necesario mantener un _registro de las semillas 
+producidas_.
+
+En el caso de grandes lotes de semillas con destino comercial, el etiquetado ha
+de ser muy riguroso. La administración exige una serie de datos para identificar
+la _procedencia y otras características_ en el etiquetado de los productos.
+
+Una vez que las semillas estén limpias y separadas en distintos contenedores. De
+manera general se recomienda hacer etiquetas que contengan los siguientes datos: 
+
+- Nombre
+- Variedad
+- Temporada
+- Año de cosecha
+
+** Almacenamiento de semillas
+
+Las semillas han de _almacenarse en las mejores condiciones posibles_ hasta el
+momento de siembra. El _tiempo de almacenamiento_ depende de las necesidades de
+cada productor y de la especie. Si se quiere conservar durante periodos largos
+hay que _seleccionar_ los lotes de _mejor calidad_.
+
+*** Consideraciones generales 
+- Las semillas han de conservarse en _estado latente_ para preservar su
+  _viabilidad_
+- Las semillas que posean _altos niveles de humedad_ y sean _conservadas a 
+  altas temperaturas_,  perderán su capacidad germinativa rápidamente.
+- Un  _ambiente  frío,  seco  y  limpio_  corresponden  a  las  mejores
+  condiciones para almacenar semillas
+- Si reducimos un punto la humedad ambiental o bajamos 5 \textdegree{}C la
+  temperatura, _duplicaremos el potencial de almacenamiento de las semillas_.
+
+
+**** *Humedad*
+Las semillas tienen un intercambio de humedad con el aire, esto es, pueden tomar
+agua desde la atmósfera. Es _muy importante mantener una mínima diferencia_
+entre la humedad de las semillas y la del medio donde están, _favoreciendo un
+ambiente seco_.
+
+**** *Temperatura*
+
+n general las temperaturas bajas prolongan la vida de las semillas.Las
+temperaturas óptimas para el almacenamiento de semillas corresponden a aquellas
+que se encuentre entre 0\textdegree{} y 10\textdegree{} C 
+
+**** *Tipo de semilla*
+
+Una manera de clasificar[fn:1] las semillas es la siguiente:
+- *Semillas normales:* Presentes en la mayoría de las especies cultivadas,
+  poseen la capacidad de ser almacenadas por periodos prolongados con niveles
+  muy bajos de humedad sin perder su poder germinativo
+- *Semillas delicadas:* Llegan a su estado de madurez con altos niveles de
+  humedad, por lo que no es recomendable almacenarlas en recipientes herméticos
+  y por periodos muy prolongados 
+*** Tipos de almacenamiento
+
+**** *Almacenamiento abierto*
+
+Sin control de la humedad ni temperatura. Es posible usarlo en semillas de
+cubierta dura o en climas frescos y secos. 
+
+**** *Almacenamiento cálido con control de humedad*
+
+Es más eficiente que el sistema abierto, permite almacenar la semillas
+previamente secadas en recipientes o bolsas selladas que minimicen el contacto
+de las semillas con la humedad ambiental. 
+
+**** *Almacenamiento frío*
+
+Permite  prolongar  por  mucho  tiempo  la viabilidad  de  semilla.  Corresponde
+al  almacenamiento  de  semillas  en recipientes herméticos a temperaturas muy
+bajas (Ej.: Refrigeradores). 
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+*** Recipientes de almacenaje
+
+Debemos pensar que _no existe una manera de almacenamiento adecuada para todos 
+los tipos de semilla_.
+
+Se deben considerar las características de cada sistema valorando sus ventajas,
+inconvenientes y costes, para elegir el sistema adecuado.
+
+Existen mucho modelos de recipiente en el mercado, _de manera general:_
+
+**** *Recipientes permeables*
+
+- Sacos de arpillera o tela, bolsas de algodón, recipientes de papel 
+- Permiten el contacto de la semilla con el aire y la humedad ambiental
+- Recomendables para periodos cortos de almacenamiento
+- Usado generalmente para semillas delicadas ya que evita el calentamiento y
+  mejora la aireación
+
+**** *Recipientes impermeables*
+
+- Recipientes de cristal, metálicos, etc
+- La eficacia del sistema de cierre es fundamental
+- Los recipientes herméticos e impermeables no están indicados para almacenar
+  semillas recalcitrantes, ni tampoco semillas ortodoxas con un contenido de humedad alto, que se
+  deterioran con más rapidez en condiciones herméticas que en abiertas 
+
+
+* Footnotes
+
+[fn:1] Otras clasificaciones se relacionan con la vida media que pueden ser
+almacenadas, son llamadas semillas de vida corta, media o larga 
 

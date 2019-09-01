@@ -1,72 +1,260 @@
-#+TITLE: UF 0008 Instalaciones agrarias. Acondicionamiento, limpieza y desinfecci�n 
-n#+AUTHOR: Antonio Soler Gelde. IT Forestal
+#+STARTUP: hideblocks
+#+TITLE: UF 0008. Instalaciones agrarias. Mantenimiento limpieza y desinfección. 
+#+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
-#+LaTeX_CLASS: asgarticle
+#+LaTeX_CLASS: asgbook
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
-#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
 #+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
-#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+CREATOR: Antonio Soler Gelde
 #+DESCRIPTION:
 #+EXCLUDE_TAGS: noexport
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 
 * Instalaciones y sus componentes
-** Invernaderos, t�neles y acolchados
+** Invernaderos
    Un _invernadero_ es una estructura con cubierta transparente. En ellos
-   podemos encontrar condiciones clim�ticas que son �ptimas para el desarrollo
+   podemos encontrar condiciones climáticas que son óptimas para el desarrollo
    de diferentes cultivos _fuera de su temporada natural de crecimiento_.
-**** Ventajas:
 
-#+BEGIN_EXPORT latex
-\begin{itemize}
-    \item Mayor producci�n y obtener m�s de un ciclo de los cultivos durante un a�o
-    \item Aumento del tiempo de recolecci�n y calidad de los frutos
-    \item Producci�n fuera de �poca
-    \item Ahorro de agua y fertilizantes
-    \item Mejor control de plagas y enfermedades
-\end{itemize}
-#+END_EXPORT
-**** Inconvenientes:
++ *Ventajas:*
+  - Mayor producción y obtener más de un ciclo de los cultivos durante un año
+  - Aumento del tiempo de recolección y calidad de los frutos
+  - Producción fuera de época
+  - Ahorro de agua y fertilizantes
+  - Mejor control de plagas y enfermedades
++ *Inconvenientes:*
+  - Alta inversión inicial
+  - Alto costo de operación
+  - Requiere de personal especializado, tanto de experiencia práctica como de conocimientos teóricos
 
-#+BEGIN_EXPORT latex
-\begin{itemize}
-    \item Alta inversi�n inicial
-    \item Alto costo de operaci�n
-    \item Requiere de personal especializado, tanto de experiencia pr�ctica como de conocimientos te�ricos
-\end{itemize}
-#+END_EXPORT
-**** Factores a tener en cuenta para su construcci�n:
+*** Factores a tener en cuenta para su construcción:
 
-#+BEGIN_EXPORT latex
-La elecci�n de un tipo determinado de invernadero estar� en funci�n de una serie de factores:
-\begin{itemize}
-    \item \textbf{Tipo de suelo:} Idealmente deberemos elegir suelos de buena calidad, con buen drenaje y textura adecuada al tipo de cultivo
-    \item \textbf{Topograf�a:} La zona donde se ubique deber� tener poca pendiente. Idealmente el invernadero deber� orientarse de norte a sur
-    \item \textbf{Vientos:} Habr� que tener en cuenta la direcci�n de los vientos dominantes as� como su intensidad y velocidad
-    \item \textbf{Factor humano:} Disponibilidad de mano de obra
-\end{itemize}
-#+END_EXPORT
+
+La elección de un tipo determinado de invernadero estará en función de una serie de factores:
+- *Tipo de suelo:* Idealmente deberemos elegir suelos de buena calidad, con buen
+  drenaje y textura adecuada al tipo de cultivo 
+- *Topografía:* La zona donde se ubique deberá tener poca pendiente. Idealmente
+  el invernadero deberá orientarse de norte a sur 
+- *Vientos:* Habrá que tener en cuenta la dirección de los vientos dominantes
+  así como su intensidad y velocidad 
+- *Factor humano:* Disponibilidad de mano de obra
 
 *** Materiales
-** Parametros importantes en un invernadero
-** Sistemas de control ambiental
-Las diferentes fases de un cultivo de plantas est�n condicionadas por cuatro
-factores ambientales o clim�ticos: temperatura, humedad relativa, luz y
-CO_2. Controlando de manera decuada estos factores podemos obtener producciones
-m�s abundantes, cultivar especies que no ser�an viables durante ciertas �pocas
-del a�o o climas. Tamb�en podemos provocar efectos con el cambio de color,
-adelantamiento u retraso de floraciones, etc. 
+Existen diferentes materiales para la construcción de invernaderos. Entre los
+materiales para la _formación del cerramiento_ destacamos:
+- Polietileno
+- Copolimero
+- Policloruro de vinilo
+- Poliester
+- Polimetacrilato de metilo
+- Vidrio
+
+Cada material tendrá características  diferentes. Las _características de un 
+material de cerramiento_ son las siguientes: 
+- Transparencia
+- Opacidad
+- Retención de calor
+- Rendimiento térmico
+- Ligereza
+- Flexibilidad
+- Estanquidad
+*** Tipos de invernaderos
+ Los invernaderos se pueden clasificar de distintas formas, según se
+ atienda a determinadas características de sus elementos constructivos
+ (por su perfil externo, según su fijación o movilidad, por el material
+ de cubierta, según el material de la estructura, etc.).
+
+**** Clasificación según la forma de su estructura
+#+BEGIN_EXPORT latex
+\begin{itemize}
+    \item Planos o de tipo parral
+    \item Tipo raspa o amagado
+    \item Asimétricos
+    \item Capilla (a una y dos aguas)
+    \item Doble capilla
+    \item Tipo túnel o semicilíndrico
+    \item De cristal o tipo Venlo
+\end{itemize}
+#+END_EXPORT
+
+#+BEGIN_COMMENT
+**** Invernadero plano o tipo parral ``almeriense''
+El invernadero tipo parral se caracteriza porque gran parte de sus
+elementos estructurales son flexibles, estando conformados por
+alambres individuales o trenzas que se someten a una tensión inicial,
+durante el proceso de construcción, mediante el empleo de tensores que
+se fijan al suelo. 
+#+CAPTION: Interior de un invernadero tipo parral con los tensores perimetrales en primer plano
+#+ATTR_LATEX: :width 0.3\textwidth
+[[./img_uf0008/Parral1.jpg]]
+
+La estructura vertical de un invernadero tipo parral está constituida
+por dos tipos de soportes rígidos: perimetrales e interiores,
+dispuestos en diferentes marcos según las necesidades de la
+construcción. Estos soportes están fabricados en acero galvanizado en
+caliente por inmersión y se colocan en el terreno realizando una
+cimentación.
+#+END_COMMENT
+
+*** Control de temperatura y humedad 
+El control de estos factores es muy importante para que podamos producir plantas
+de calidad.
+
+**** *Temperatura:*
+La temperatura influye en características tales como:
+- Crecimiento: Las mayores tasas de crecimiento de las plantas corresponden con
+  la estación más cálida
+- Maduración de frutos: La cantidad de calor influye tanto en el aspecto como en
+  el sabor de los frutos
+- Estado sanitario: Junto con la humedad ambiental, la temperatura determina el
+  desarrollo de diferentes plagas y enfermedades.
+
+Veamos algunos _rangos generales de temperatura_:
+- Generalmente la _temperatura mínima_ adecuada es de 10 a 15 \textdegree{}C y
+  la _temperatura máxima_ de 30 \textdegree{}C
+- La _temperatura del suelo_ es también tan importante como la del aire.
+  - Con _temperaturas por debajo_ de 7 \textdegree{}C las raíces _crecen más 
+    despacio y agua y nutrientes no se absorben correctamente_
+  - El rango de _temperaturas para la germinación_  esta entre (15) 18 a 30
+    \textdegree{}C para muchas de las plantas hortícolas que conocemos.
+    + Temperatura baja (15-20 \textedgree{}C): espinacas, guisantes, perejil
+    + Temperatura media (20-25 \textedgree{}C): anís, apio, rabanito, cilantro,
+      lechuga, tomate
+    + Temperatura alta (25-30  \textedgree{}C): Acelga, berenjena, calabaza,
+      maíz, melón
+    + Muy alta (más de 30  \textedgree{}C): Alcachofa, brócoli, coliflor, coles
+      de bruselas, pepino, sandía
+
+**** *Luz:*
+
+Desarrolla un papel _fundamental_ en el ciclo vegetativo  de una planta ya que
+sin ella seria _imposible la fotosíntesis_. 
+
+Veamos como influye la luz en las plantas.
+
+- *Fotosíntesis:* vital para la vida y el crecimiento de la planta. El empleo de
+  la energia del sol transformación de los nutrientes absorbidos por la raiz en
+  azucares para el crecimiento vegetativo
+- *Fotoperiodismo:* _cantidad de horas de luz_ que recibe la planta. Las plantas
+  _reaccionan de manera diferente según el número de horas de luz_ al que están
+  expuestas. Según el número de _horas que necesitan para florecer_  podemos
+  clasificar las plantas en:
+  - *Plantas de día corto:* florecen a principio de primavera y otoño. Por
+    ejemplo, Lirios, crisantemos, café,
+  - *Plantas de día largo:* requieren _pocas horas de oscuridad para
+    florecer_. Guisante, lechuga, nabo, etc
+  - *Plantas de día neutro:* indiferentes al número de horas. Necesitan de otros
+    estimulos para florecer, como puede ser pasar por periodos frios, alcanzar
+    un punto determinado en su desarrollo o madurez. Calabazas, rosales y tomates
+- *Fototropismo:* fenómeno por el cual las plantas tienen capacidad de dirigirse
+  a la luz
+- *Foto-morfogénesis:* influencia de la luz en la _forma de las plantas_. Por
+  ejemplo las radiaciones ultravioletas contribuyen a desarrollar hojas grandes
+  y frondosas
+- *Transpiración:* eliminación de vapor de agua que sobra de la fotosintesis. Se
+  hace en las hojas a través de los _estomas_
+- *Crecimiento de los tejidos:* está influido _tanto por temperatura como por la
+  luz_. Hormonas como la _auxina_, que tiene una importancia principal en el
+  crecimiento, se ven _afectadas negativamente por el exceso de luz_ obteniendo
+  _tallos frágiles_. Sin embargo tiene un _efecto positivo sobre las hojas_
+- *Floración y fructificación:* Si una flor no tiene la luz necesaria su color,
+  aspecto, etc se ve afectado negativamente. Ocurre de igual manera con los frutos.
+
+** Control ambiental
+Las diferentes fases de un cultivo de plantas están condicionadas por cuatro
+factores ambientales o climáticos: temperatura, humedad relativa, luz y
+CO_2. Controlando de manera adecuada estos factores podemos obtener producciones
+más abundantes, cultivar especies que no serían viables durante ciertas épocas
+del año o climas. 
+
 *** Control de temperatura
-Par�metro m�s importante ya que es el que m�s influye en el crecimiento de las
-plantas. Los sistemas de control se diferencian en los que _aumentan_ la
-temperatura en per�odos frios y los que la _disminuyen_ en los c�lidos.
-**** Climatizaci�n en per�odos frios:
-*** Temperatura
-*** Luz
-*** Humedad
-** Control y automatizaci�n
-*** Qu� parametros debemos controlar?
-*** M�todos de control
+Parámetro más importante ya que es el que más influye en el crecimiento de las
+plantas. 
+
+La  temperatura _depende del material de la cubierta,  temperatura exterior, 
+luminosidad, viento_.
+
+Podemos aumentar o disminuir la  temperatura de un invernadero _ventilando, con  
+sistemas de calefacción, refrigerando con agua o con mallas de sombreo_.
+
+*** Control de la humedad
+La humedad del ambiente de un invernadero depende fundamentalmente del _agua que 
+tenga el suelo y de la humedad del ambiente exterior_. La  temperatura también
+juega un papel fundamental la  temperatura.
+
+Para _corregir los niveles de humedad_ ambiental podemos emplear los _siguientes
+métodos:_
+- *Manteniendo humedad en el suelo:* mediante riegos o balsas de agua.
+- *Enriquecer humedad en ambiente:* mediante sistemas de aspersión,
+  nebulización, etc
+- *Disminuyendo la temperatura:* ventilando, removiendo el aire o restando
+  luminosidad
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{\textbf{Recuerda:} Los métodos para aportar humedad ambiental consumen mucha  
+agua. \uline{Siempre} hay que \uline{minimizar todo lo posible} el consumo de
+agua, por lo que emplear técnicas como \textbf{acolchados, sombreados}, etc; como medidas
+principales para el \textbf{ahorro de agua.}}}
+\end{center}
+#+END_EXPORT
+
+*** Sistemas de control
+En las explotaciones agrícolas los instrumentos de control ambiental deben
+_proporcionar un clima y ambiente determinados_ *minimizando el gasto agua y
+electricidad*. Por lo que es muy importante que para su _eficiencia_ todos los
+dispositivos estén en _buen estado de mantenimiento_ y funcionen perfectamente.
+
+**** *Instalaciones de ventilación:*
+
+- Se hace necesario renovar el aire del interior de un invernadero.
+- Principalmente instalando superficies para ventilación en techo o laterales.
+- También mediante sistemas de ventilación y extracción.
+
+**** *Sistemas de climatización:*
+
+Se puede llevar a cabo mediante con _calefactores eléctricos o instalaciones de
+gas_. Podemos encontrar:
+- Parrillas eléctricas
+- Tuberías calientes bajo el suelo
+- Camas calientes
+
+#+BEGIN_EXPORT latex
+\recuerda{Mediante técnicas de mulching y acolchados de plástico también se puede 
+evitar el enfriamiento del suelo}
+#+END_EXPORT 
+
+
+*** Dispositivos de control y automatización 
+
+En los invernaderos existen automatismos para la acción de diferentes controles:
+temperatura, humedad, movimiento del aire, luminosidad y concentración de CO_2
+
+**** *Temperatura y humedad:*
+
+*Termómetros e higrómetros* sirven para el control de temperatura y humedad
+respectivamente. Son los elementos básicos para controlar los sistemas de
+ventilación, iluminación y sombreo, etc. 
+
+Existen estaciones en las se miden la temperatura y humedad y se actúa sobre
+mecanismos de ventilación y extracción; electroválvulas para los dispositivos
+que llevan agua, etc.
+
+**** *Automatismos de la luminosidad:*
+
+Se emplean *fotostatos* que actúan sobre los mecanismos de apertura y cierre  de
+mallas de sombreo, etc.
+
+_Hay que distinguir_ entre los sistemas anteriores de los que _aplican luz 
+artificial_ para influir en el fotoperiodo de las plantas. Generalmente se
+emplean _temporizadores o programadores de horarios_.
+
+**** *Control de CO_2:*
+
+Se emplean controladores que regulan la concentración de CO_2 del interior del
+invernadero teniendo en cuenta parámetros como necesidad de calor, radiación
+solar, velocidad del viento y grado de apertura de ventilación.
