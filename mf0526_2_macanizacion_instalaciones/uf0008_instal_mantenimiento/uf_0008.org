@@ -82,8 +82,9 @@ material de cerramiento_ son las siguientes:
 \end{itemize}
 #+END_EXPORT
 
+
 #+BEGIN_COMMENT
-**** Invernadero plano o tipo parral ``almeriense''
+ Invernadero plano o tipo parral ``almeriense''
 El invernadero tipo parral se caracteriza porque gran parte de sus
 elementos estructurales son flexibles, estando conformados por
 alambres individuales o trenzas que se someten a una tensión inicial,
@@ -258,3 +259,53 @@ emplean _temporizadores o programadores de horarios_.
 Se emplean controladores que regulan la concentración de CO_2 del interior del
 invernadero teniendo en cuenta parámetros como necesidad de calor, radiación
 solar, velocidad del viento y grado de apertura de ventilación.
+
+** Componentes básicos de instalaciones de riego y eléctricas
+
+Hay que destacar la _importancia_ que tiene un correcto mantenimiento para
+_reducir los costes energéticos_ de la explotación. Las instalaciones de agua y
+electricidad suponen un _gran gasto económico y medioambiental_ por lo que deben
+estar en perfecto estado de funcionamiento.
+
+*** Instalaciones de riego
+
+Los distintos tipos o sistemas de riego son: 
+1) *Sistemas de riego superficiales:* desplazan el agua por la superficie del
+   suelo empleando acequias y surcos para la conducción y distribución  del agua
+   por la parcela. 
+2) *Sistemas de aspersión:* el agua se reparte por la parcela mediante
+   tuberías. Generalmente es necesario un grupo de presión para que el agua
+   llegue en la cantidad y presión requerida por los emisores. 
+3) *Sistemas de riego por goteo:* La aplicación del agua se realiza mediante
+   dispositivos llamados goteros. Estos están distribuidos en unas lineas
+   distribuidoras de agua.
+
+#+BEGIN_EXPORT latex
+\textbf{\large \uline{Componentes de sistemas de riego}}
+#+END_EXPORT
+
+- *Cabezal de riego:* Aquí encontramos el equipo de bombeo, filtros, válvulas de
+  apertura y cierre, programador, electroválvulas, etc.
+- *Elementos de protección y medida:* Caudalímetro, manómetro, sistema de
+  filtrado, válvulas reguladoras de presión, etc
+- *Tuberías de conducción, accesorios y emisores:* las tuberías de conducción y
+  secundarias reparten el agua por toda la parcela. Los diferentes accesorios
+  (tes, manguitos, reducciones, etc.) se emplean según las necesidades y
+  características de la instalación. Los emisores (aspersores, goteros,
+  nebulizadores, etc.) se encuentran al final de cada línea de riego y/o
+  distribuidos por toda ella.
+
+*** Instalaciones eléctricas
+
+Es necesario contar en las explotaciones agrarias con la electricidad para el
+desarrollo de muchas actividades de la explotación.
+
+Para la distribución de la corriente eléctrica se emplean *lineas de alta y baja
+tensión* 
+- *Línea de baja tensión:* Distribuye la energía eléctrica con una tensión de
+  400 /V/ . Es la línea que empleamos para los puntos de luz donde conectamos
+  los diferentes aparatos eléctricos y para el alumbrado. 
+- *Línea de alta tensión:* aquí hay un voltaje superior a 10000 /V/ entre los
+  polos. Es la empleada para traer la corriente hasta la explotación.
+
+Según las fases que tenga la línea distinguimos 
