@@ -218,7 +218,7 @@ dispositivos estén en _buen estado de mantenimiento_ y funcionen perfectamente.
 
 **** *Sistemas de climatización:*
 
-Se puede llevar a cabo mediante con _calefactores eléctricos o instalaciones de
+Se puede llevar a cabo mediante _calefactores eléctricos o instalaciones de
 gas_. Podemos encontrar:
 - Parrillas eléctricas
 - Tuberías calientes bajo el suelo
@@ -281,7 +281,7 @@ Los distintos tipos o sistemas de riego son:
    distribuidoras de agua.
 
 #+BEGIN_EXPORT latex
-\textbf{\large \uline{Componentes de sistemas de riego}}
+\textbf{\large \uline{Componentes de sistemas de riego:}}
 #+END_EXPORT
 
 - *Cabezal de riego:* Aquí encontramos el equipo de bombeo, filtros, válvulas de
@@ -309,3 +309,248 @@ tensión*
   polos. Es la empleada para traer la corriente hasta la explotación.
 
 Según las fases que tenga la línea distinguimos 
+- *Monofásica:* la que encontramos en los enchufes a 220 /V/. Estas líneas
+  llevan 2 hilos (cables) uno es la _fase_ y otro el _neutro_.
+- *Trifásica:* un conjunto de tres corrientes alternas de igual frecuencia,
+  amplitud y valor eficaz, cada una de estas corrientes se llama *fase*. Se 
+  emplea para el _transporte de la corriente y su distribución en uso industrial 
+  y el accionamiento de motores._ 
+
+#+BEGIN_EXPORT latex
+\textbf{\large \uline{Accidentes más comunes en sistemas eléctricos:}}
+#+END_EXPORT
+
+- *Cortocircuito:* como su nombre indica es una condición en la que el _flujo
+  eléctrico completa su recorrido_ a través de una _distancia más corta que el
+  cableado_. Se produce un cortocircuito cuando _parte de un conductor que lleva 
+  corriente toca otro cable o parte del circuito_.
+- *Sobrecarga:* es la _presencia excesiva de corriente eléctrica en un
+  circuito. Generalmente se producen _por conectar muchos aparatos a la vez_ que
+  demandan mucha cantidad de energía.
+- *Contacto de personas o animales:* el contacto de componentes eléctricos 
+  deficientemente aislados provoca que _la corriente eléctrica circule por el
+  cuerpo de la persona o animal_ ya que se convierte en una _via de descarga a 
+  tierra._  
+
+#+BEGIN_EXPORT latex
+\textbf{\large \uline{Elementos de protección en sistemas eléctricos:}}
+#+END_EXPORT
+
+- *Fusibles:* se compone de un filamento de cobre que se intercala en ciertos
+  puntos de la instalación. Su funcionamiento se basa en que _cuando sube la
+  intensidad_ superando cierto valor, _el filamento de cobre se funde_ evitando
+  que el resto de la línea sufra daños.
+- *Interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
+  (igual que los fusibles). Este dispositivo consta de _dos partes, un 
+  electroimán y una lamina bimetálica._
+- *Interruptor diferencial:* _protege a las personas de las derivaciones_ causadas
+  por falta de aislamientos entre los conductores activos y tierra.
+- *Toma de tierra:* se instala para evitar el paso de corriente a las peersonas
+  por un fallo de aislamiento de los conductores.
+
+** Instalaciones de almacenaje y conservación de cosechas
+
+
+*** Graneros
+
+Son _almacenes de grano._ Su construcción suele realizarse _sobre el suelo_ para
+mantener la cosecha _fuera del alcance de la humedad del terreno y animales._
+
+*** Silos 
+
+Estructuras diseñadas para _guardar grano u otros materiales a granel._ Existen
+diferentes silos. Entre otros:
+- Silos de grano
+- Silos de materia verde
+- Silos de maiz
+- Silos de torre
+
+*** Cámaras frigoríficas
+
+Sirven para _minimizar los efectos de la estacionalidad_ en el almacenaje de las
+materias primas. 
+
+Estas cámaras son herméticas y su característica principal es que _mantienen la 
+temperatura constante._
+
+** Equipos para la limpieza
+
+Los _componentes_ que se utilizan para realizar labores de _limpieza y
+mantenimiento_ en una explotación agrícola son: 
+- Palas cargadoras
+- Remolques
+- Barredoras
+- Equipos de limpieza a presión
+- Pulverizadores y limpiadores
+
+** Precauciones para el mantenimiento
+
+- *Selección de herramientas y útiles adecuados:* es necesario contar con un
+  mínimo de herramientas para realizar las labores de limpieza y
+  mantenimiento. Es _imprescindible_ seleccionar la herramienta adecuada a cada
+  caso.
+- *Ejecutar reparaciones con precisión:* _el personal debe estar
+  cualificado_ para realizar las operaciones de _mantenimiento y realizar 
+  pequeñas reparaciones._
+- *Comprobar correcto funcionamiento de la maquinaria después del
+  mantenimiento:* una vez finalizado el mantenimiento se ha de comprobar el
+  funcionamieto correcto de la maquinaria.
+- *Eliminación de residuos de productos y subproductos de las labores de
+  mantenimiento:* Los reesiduos derivados del mantenimiento (aceites, grasas,
+  pequeños elementos de estructura,etc) se considerarán *subproductos* y _deben
+  ser eliminados de manera correcta.
+
+* Acondicionamiento de instalaciones agrarias
+
+** Productos y equipos para limpieza, desinfección y desratización
+
+*** Equipos de limpieza
+
+Los podemps clasificar en dor grupos:
+- Equipos de limpieza manuales
+- Equipos de limpieza mecánicos
+
+**** *Equipos de limpieza manuales*
+
+los más usuales son:
+
+- Barredoras manuales: escobas, cepillos, etc
+- Fregadoras de suelo: fregonas
+- Mopas
+- Espátulas y rasquetas
+- Cubos, recogedores
+- Gamuzas, bayetas, estropajos
+- Tubos telescópicos y mangos para los útiles de limpieza
+
+**** *Equipos de limpieza mecánicos*
+
+- Aspiradores
+- Barredores mecánicos
+- Fregonas mecánicas
+- Pulidoras-abrillantadoras
+- Equipos de lavado a presión
+
+*** Productos para limpieza
+La limpieza y desinfección de las instalaciones debe planificarse evaluando
+previamente los siguientes aspectos:
+- Tipos de materiales, equipos y superficies a limpiar
+- Elección del tipo de limpieza y selección de los productos adecuados
+- Modo de efectuar la limpieza
+- Frecuancia con la que debe realizarse
+
+Para la limpieza y desinfección hay una serie de _factores que influyen en la 
+toma de decisiones anteriores_, entre ellos:
+- Tipo de superficie
+- Tipo de suciedad
+- Concentración adecuada del producto a emplear
+
+Tenemoss que _diferenciar entre *limpieza* y *desinfección*:
+
+- Las _labores de limpieza_ se llevaran a cabo empleando *jabones o detergentes
+  y agua*. También es habitual el uso de productos desengrasantes de superficies.
+- Las labores de desinfección se llevarán a cabo mediante el _empleo de 
+  productos químicos_ llamados *desinfectantes*. Generalmente son productos a
+  base de compuestos clorados o amoniacales (lejia, amoniaco,etc.).
+
+** Desinfección
+ 
+La desinfección _engloba la lucha contra bacterias, virus, hongos, etc._ que
+_encuentran en las instalaciones agrícolas un hábitat que facilita su
+desarrollo._
+
+Estos microorganismos _no son perceptibles por el ojo humano_ por lo que su
+lucha _debe abordarse de manera preventiva._
+
+*** Métodos de lucha para la desinfección
+
+En las instalaciones agrícolas se debe _establecer un plan de limpieza y
+desinfección_ para que tanto equipamiento como utensilios e instalaciones se 
+_mantegan en buen estado sanitario._
+
+De manera general podemos establecer una serie de _etapas en el proceso de 
+limpieza y desinfección._
+- _Eliminar previamente_ la suciedad _sin emplear productos._
+- _Enjuagar previamente_ con agua la superficie a desinfectar
+- Aplicar el detergente
+- Aclarar
+- Aplicar desinfectante
+- Aclarar de nuevo
+- Secar la superficie
+
+En general _este tipo de tratamiento diario se limita casi exclusivamente a 
+suelos y algunas zonas de fácil acceso_.
+
+** Desinsectación
+
+Es la acción de controlar las plagas presentes en la instalación, tales como
+moscas, hormigas, cucarachas, etc.
+
+_El objetivo es mantener la instalación libre de insectos que puedan generar
+daños sobre los productos_, o ser _vectores de enfermedades que puedan provocar
+daños sobre las personas._
+
+
+*** Métodos de lucha para la desinsectación
+
+En función del insecto a controlar, estableceremos las acciones a realizar y
+fijar los medios para ello. 
+
+Para el control de plagas de insectos se pueden tomar diferentes medidas:
+
+**** *Medidas físicas:*
+
+Son medidas _tanto preventivas como correctoras_ que tienen como objeto _impedir
+el acceso de los insectos. Hay numerosas medidas entre las que podemos destacar:
+- Colocación de mosquiteras
+- Colocación de mallas anti /trips/
+- Dispositivos de cierre en lugares de paso frecuente
+- Iluminación apropiada que no resulte atrayente
+- Sellar grietas, oquedades y hendiduras
+- Extremar medidas de limpieza
+
+**** *Medidas químicas:*
+
+Son las que mediante el uso de productos químicos, especialmente insecticidas,
+pretenden controlar la presencia de plagas.
+
+Para que un método químico sea _efectivo y persistente_ se han de _tener en
+cuenta una serie de factores:_
+- Identificar el insecto a combatir y su incidencia
+- Localizarlo en las instalaciones y evaluar el tamaño de la población
+- Conocer su ciclo biológico y comportamiento
+- Elegir el producto y técnica apropiados
+
+**** *Medias biológicas:*
+
+Hoy en dia existen un buen número de productos de origen biológico que, como
+sabemos, son respetuosos con el medio ambiente. 
+
+La utilización de depredadores o parásitos de la especie a controlar son los
+métodos más usuales.
+
+** Desratización
+
+La desratización _engloba las actuaciones que han de controlar la presencia de
+cualquier tipo de roedor (ratones, ratas, etc.)_ 
+
+Igual que muchos insectos, los roedores pueden provocar _daños sobre los
+productos_ y _ser transmisores de enfermedades._
+
+*** Métodos de lucha contra los roedores
+
+Principalmente se dividen en dos:
+
+**** *Métodos pasivos:*
+
+Consiste en la aplicación de técnicas defensivas para impedir que los roedores
+accedan y se asienten en las instalaciones.
+
+**** *Métodos activos:*
+
+Consiste en la aplicación de metodos químicos y/o biológicos para el control de
+las poblaciones de roedores.
+
+- Rodenticidas
+- Trampas de captura
+- Trampas con pegamento
+- Trampas mecánicas, etc
