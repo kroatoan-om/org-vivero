@@ -585,7 +585,8 @@ Se denomina *programa de mantenimiento* a una serie de pasos _destinados a
 garantizar la vida útil de cualquier equipo o maquinaria desde el momento de la
 adquisición hasta su fin. 
 #+BEGIN_EXPORT latex
-\recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto puede cumplir correctamente con la función para la que ha sido diseñado}
+\recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto
+ puede cumplir correctamente con la función para la que ha sido diseñado}
 #+END_EXPORT
 
 Un buen programa de mantenimiento debe contener los siguientes aspectos:
@@ -714,7 +715,7 @@ Un adecuado protocolo de actuación incluye:
 
 #+BEGIN_EXPORT latex
 \recuerda{El principal cuidado que hay que dar a la \textbf{bomba de inyección} 
-es la limpieza del filtro, ya que si se llena de impurezas puede dañar este elemento} 
+es la limpieza del filtro , ya que si se llena de impurezas puede dañar este elemento} 
 #+END_EXPORT
 
 *** Sistema de refrigeración
@@ -1045,7 +1046,7 @@ del centro de gravedad, y aumentar el par contrario al vuelco
 [[./img_0009/vuelco_atras.PNG]]
 *** Vuelco con aperos
  [[./img_0009/vuelco_aperos.PNG]]
-
+ 
 Entendemos por apero _cualquier elemento unido o acoplado al tractor_.
 
 Va depender de: 
