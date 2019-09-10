@@ -13,7 +13,7 @@
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:}#1}}\end{center}}
-* El tractor y equipo de tracción
+* Tractor y equipo de tracción
 ** Definición
 Un tractor, agrícola o forestal, es un vehículo autopropulsado de dos o más
 ejes, concebido para arrastrar o empujar aperos, maquinaria o vehículos
