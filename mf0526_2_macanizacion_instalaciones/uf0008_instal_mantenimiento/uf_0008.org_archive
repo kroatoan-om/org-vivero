@@ -1,0 +1,245 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/kroatoan/Documents/org_vivero/mf0526_2_macanizacion_instalaciones/uf0008_instal_mantenimiento/uf_0008.org
+
+
+* Control ambiental
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-09-12 jue 23:57
+  :ARCHIVE_FILE: ~/Documents/org_vivero/mf0526_2_macanizacion_instalaciones/uf0008_instal_mantenimiento/uf_0008.org
+  :ARCHIVE_CATEGORY: uf_0008
+  :END:
+Las diferentes fases de un cultivo de plantas están condicionadas por cuatro
+factores ambientales o climáticos: temperatura, humedad relativa, luz y
+CO_2. Controlando de manera adecuada estos factores podemos obtener producciones
+más abundantes, cultivar especies que no serían viables durante ciertas épocas
+del año o climas. 
+
+** Control de temperatura
+Parámetro más importante ya que es el que más influye en el crecimiento de las
+plantas. 
+
+La  temperatura _depende del material de la cubierta,  temperatura exterior, 
+luminosidad, viento_.
+
+Podemos aumentar o disminuir la  temperatura de un invernadero _ventilando, con  
+sistemas de calefacción, refrigerando con agua o con mallas de sombreo_.
+
+** Control de la humedad
+La humedad del ambiente de un invernadero depende fundamentalmente del _agua que 
+tenga el suelo y de la humedad del ambiente exterior_. La  temperatura también
+juega un papel fundamental la  temperatura.
+
+Para _corregir los niveles de humedad_ ambiental podemos emplear los _siguientes
+métodos:_
+- *Manteniendo humedad en el suelo:* mediante riegos o balsas de agua.
+- *Enriquecer humedad en ambiente:* mediante sistemas de aspersión,
+  nebulización, etc
+- *Disminuyendo la temperatura:* ventilando, removiendo el aire o restando
+  luminosidad
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{\textbf{Recuerda:} Los métodos para aportar humedad ambiental consumen mucha  
+agua. \uline{Siempre} hay que \uline{minimizar todo lo posible} el consumo de
+agua, por lo que emplear técnicas como \textbf{acolchados, sombreados}, etc; como medidas
+principales para el \textbf{ahorro de agua.}}}
+\end{center}
+#+END_EXPORT
+
+** Sistemas de control
+En las explotaciones agrícolas los instrumentos de control ambiental deben
+_proporcionar un clima y ambiente determinados_ *minimizando el gasto agua y
+electricidad*. Por lo que es muy importante que para su _eficiencia_ todos los
+dispositivos estén en _buen estado de mantenimiento_ y funcionen perfectamente.
+
+*** *Instalaciones de ventilación:*
+
+- Se hace necesario renovar el aire del interior de un invernadero.
+- Principalmente instalando superficies para ventilación en techo o laterales.
+- También mediante sistemas de ventilación y extracción.
+
+*** *Sistemas de climatización:*
+
+Se puede llevar a cabo mediante _calefactores eléctricos o instalaciones de
+gas_. Podemos encontrar:
+- Parrillas eléctricas
+- Tuberías calientes bajo el suelo
+- Camas calientes
+
+#+BEGIN_EXPORT latex
+\recuerda{Mediante técnicas de mulching y acolchados de plástico también se puede 
+evitar el enfriamiento del suelo}
+#+END_EXPORT 
+
+
+** Dispositivos de control y automatización 
+
+En los invernaderos existen automatismos para la acción de diferentes controles:
+temperatura, humedad, movimiento del aire, luminosidad y concentración de CO_2
+
+*** *Temperatura y humedad:*
+
+*Termómetros e higrómetros* sirven para el control de temperatura y humedad
+respectivamente. Son los elementos básicos para controlar los sistemas de
+ventilación, iluminación y sombreo, etc. 
+
+Existen estaciones en las se miden la temperatura y humedad y se actúa sobre
+mecanismos de ventilación y extracción; electroválvulas para los dispositivos
+que llevan agua, etc.
+
+*** *Automatismos de la luminosidad:*
+
+Se emplean *fotostatos* que actúan sobre los mecanismos de apertura y cierre  de
+mallas de sombreo, etc.
+
+_Hay que distinguir_ entre los sistemas anteriores de los que _aplican luz 
+artificial_ para influir en el fotoperiodo de las plantas. Generalmente se
+emplean _temporizadores o programadores de horarios_.
+
+*** *Control de CO_2:*
+
+Se emplean controladores que regulan la concentración de CO_2 del interior del
+invernadero teniendo en cuenta parámetros como necesidad de calor, radiación
+solar, velocidad del viento y grado de apertura de ventilación.
+
+** Componentes básicos de instalaciones de riego y eléctricas
+
+Hay que destacar la _importancia_ que tiene un correcto mantenimiento para
+_reducir los costes energéticos_ de la explotación. Las instalaciones de agua y
+electricidad suponen un _gran gasto económico y medioambiental_ por lo que deben
+estar en perfecto estado de funcionamiento.
+
+*** Instalaciones de riego
+
+Los distintos tipos o sistemas de riego son: 
+1) *Sistemas de riego superficiales:* desplazan el agua por la superficie del
+   suelo empleando acequias y surcos para la conducción y distribución  del agua
+   por la parcela. 
+2) *Sistemas de aspersión:* el agua se reparte por la parcela mediante
+   tuberías. Generalmente es necesario un grupo de presión para que el agua
+   llegue en la cantidad y presión requerida por los emisores. 
+3) *Sistemas de riego por goteo:* La aplicación del agua se realiza mediante
+   dispositivos llamados goteros. Estos están distribuidos en unas lineas
+   distribuidoras de agua.
+
+#+BEGIN_EXPORT latex
+\textbf{\large \uline{Componentes de sistemas de riego:}}
+#+END_EXPORT
+
+- *Cabezal de riego:* Aquí encontramos el equipo de bombeo, filtros, válvulas de
+  apertura y cierre, programador, electroválvulas, etc.
+- *Elementos de protección y medida:* Caudalímetro, manómetro, sistema de
+  filtrado, válvulas reguladoras de presión, etc
+- *Tuberías de conducción, accesorios y emisores:* las tuberías de conducción y
+  secundarias reparten el agua por toda la parcela. Los diferentes accesorios
+  (tes, manguitos, reducciones, etc.) se emplean según las necesidades y
+  características de la instalación. Los emisores (aspersores, goteros,
+  nebulizadores, etc.) se encuentran al final de cada línea de riego y/o
+  distribuidos por toda ella.
+
+*** Instalaciones eléctricas
+
+Es necesario contar en las explotaciones agrarias con la electricidad para el
+desarrollo de muchas actividades de la explotación.
+
+Para la distribución de la corriente eléctrica se emplean *lineas de alta y baja
+tensión* 
+- *Línea de baja tensión:* Distribuye la energía eléctrica con una tensión de
+  400 /V/ . Es la línea que empleamos para los puntos de luz donde conectamos
+  los diferentes aparatos eléctricos y para el alumbrado. 
+- *Línea de alta tensión:* aquí hay un voltaje superior a 10000 /V/ entre los
+  polos. Es la empleada para traer la corriente hasta la explotación.
+
+Según las fases que tenga la línea distinguimos 
+- *Monofásica:* la que encontramos en los enchufes a 220 /V/. Estas líneas
+  llevan 2 hilos (cables) uno es la _fase_ y otro el _neutro_.
+- *Trifásica:* un conjunto de tres corrientes alternas de igual frecuencia,
+  amplitud y valor eficaz, cada una de estas corrientes se llama *fase*. Se 
+  emplea para el _transporte de la corriente y su distribución en uso industrial 
+  y el accionamiento de motores._ 
+
+#+BEGIN_EXPORT latex
+\textbf{\large \uline{Accidentes más comunes en sistemas eléctricos:}}
+#+END_EXPORT
+
+- *Cortocircuito:* como su nombre indica es una condición en la que el _flujo
+  eléctrico completa su recorrido_ a través de una _distancia más corta que el
+  cableado_. Se produce un cortocircuito cuando _parte de un conductor que lleva 
+  corriente toca otro cable o parte del circuito_.
+- *Sobrecarga:* es la _presencia excesiva de corriente eléctrica en un
+  circuito. Generalmente se producen _por conectar muchos aparatos a la vez_ que
+  demandan mucha cantidad de energía.
+- *Contacto de personas o animales:* el contacto de componentes eléctricos 
+  deficientemente aislados provoca que _la corriente eléctrica circule por el
+  cuerpo de la persona o animal_ ya que se convierte en una _via de descarga a 
+  tierra._  
+
+#+BEGIN_EXPORT latex
+\textbf{\large \uline{Elementos de protección en sistemas eléctricos:}}
+#+END_EXPORT
+
+- *Fusibles:* se compone de un filamento de cobre que se intercala en ciertos
+  puntos de la instalación. Su funcionamiento se basa en que _cuando sube la
+  intensidad_ superando cierto valor, _el filamento de cobre se funde_ evitando
+  que el resto de la línea sufra daños.
+- *Interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
+  (igual que los fusibles). Este dispositivo consta de _dos partes, un 
+  electroimán y una lamina bimetálica._
+- *Interruptor diferencial:* _protege a las personas de las derivaciones_ causadas
+  por falta de aislamientos entre los conductores activos y tierra.
+- *Toma de tierra:* se instala para evitar el paso de corriente a las peersonas
+  por un fallo de aislamiento de los conductores.
+
+** Instalaciones de almacenaje y conservación de cosechas
+
+
+*** Graneros
+
+Son _almacenes de grano._ Su construcción suele realizarse _sobre el suelo_ para
+mantener la cosecha _fuera del alcance de la humedad del terreno y animales._
+
+*** Silos 
+
+Estructuras diseñadas para _guardar grano u otros materiales a granel._ Existen
+diferentes silos. Entre otros:
+- Silos de grano
+- Silos de materia verde
+- Silos de maiz
+- Silos de torre
+
+*** Cámaras frigoríficas
+
+Sirven para _minimizar los efectos de la estacionalidad_ en el almacenaje de las
+materias primas. 
+
+Estas cámaras son herméticas y su característica principal es que _mantienen la 
+temperatura constante._
+
+** Equipos para la limpieza
+
+Los _componentes_ que se utilizan para realizar labores de _limpieza y
+mantenimiento_ en una explotación agrícola son: 
+- Palas cargadoras
+- Remolques
+- Barredoras
+- Equipos de limpieza a presión
+- Pulverizadores y limpiadores
+
+** Precauciones para el mantenimiento
+
+- *Selección de herramientas y útiles adecuados:* es necesario contar con un
+  mínimo de herramientas para realizar las labores de limpieza y
+  mantenimiento. Es _imprescindible_ seleccionar la herramienta adecuada a cada
+  caso.
+- *Ejecutar reparaciones con precisión:* _el personal debe estar
+  cualificado_ para realizar las operaciones de _mantenimiento y realizar 
+  pequeñas reparaciones._
+- *Comprobar correcto funcionamiento de la maquinaria después del
+  mantenimiento:* una vez finalizado el mantenimiento se ha de comprobar el
+  funcionamieto correcto de la maquinaria.
+- *Eliminación de residuos de productos y subproductos de las labores de
+  mantenimiento:* Los reesiduos derivados del mantenimiento (aceites, grasas,
+  pequeños elementos de estructura,etc) se considerarán *subproductos* y _deben
+  ser eliminados de manera correcta.
+

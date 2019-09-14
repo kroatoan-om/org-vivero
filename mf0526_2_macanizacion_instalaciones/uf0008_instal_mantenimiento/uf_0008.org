@@ -15,7 +15,7 @@
 #+SELECT_TAGS: export
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 
-* Instalaciones y sus componentes
+* Instalaciones, sus componentes y características
 ** Invernaderos
    Un _invernadero_ es una estructura con cubierta transparente. En ellos
    podemos encontrar condiciones climáticas que son óptimas para el desarrollo
@@ -30,7 +30,8 @@
 + *Inconvenientes:*
   - Alta inversión inicial
   - Alto costo de operación
-  - Requiere de personal especializado, tanto de experiencia práctica como de conocimientos teóricos
+  - Requiere de personal especializado, tanto de experiencia práctica como de
+    conocimientos teóricos 
 
 *** Factores a tener en cuenta para su construcción:
 
@@ -141,7 +142,7 @@ Veamos como influye la luz en las plantas.
 - *Fotosíntesis:* vital para la vida y el crecimiento de la planta. El empleo de
   la energia del sol transformación de los nutrientes absorbidos por la raiz en
   azucares para el crecimiento vegetativo
-- *Fotoperiodismo:* _cantidad de horas de luz_ que recibe la planta. Las plantas
+- *Fotoperiodo:* _cantidad de horas de luz_ que recibe la planta. Las plantas
   _reaccionan de manera diferente según el número de horas de luz_ al que están
   expuestas. Según el número de _horas que necesitan para florecer_  podemos
   clasificar las plantas en:
@@ -166,14 +167,14 @@ Veamos como influye la luz en las plantas.
 - *Floración y fructificación:* Si una flor no tiene la luz necesaria su color,
   aspecto, etc se ve afectado negativamente. Ocurre de igual manera con los frutos.
 
-** Control ambiental
-Las diferentes fases de un cultivo de plantas están condicionadas por cuatro
-factores ambientales o climáticos: temperatura, humedad relativa, luz y
-CO_2. Controlando de manera adecuada estos factores podemos obtener producciones
+* Control ambiental de las instalaciones y sus componentes
+Las diferentes fases de un cultivo de plantas están condicionadas por _cuatro
+factores_ ambientales o climáticos: _temperatura, humedad relativa, luz y 
+CO_2._ Controlando de manera adecuada estos factores podemos obtener producciones
 más abundantes, cultivar especies que no serían viables durante ciertas épocas
 del año o climas. 
 
-*** Control de temperatura
+** Control de temperatura
 Parámetro más importante ya que es el que más influye en el crecimiento de las
 plantas. 
 
@@ -183,7 +184,7 @@ luminosidad, viento_.
 Podemos aumentar o disminuir la  temperatura de un invernadero _ventilando, con  
 sistemas de calefacción, refrigerando con agua o con mallas de sombreo_.
 
-*** Control de la humedad
+** Control de la humedad
 La humedad del ambiente de un invernadero depende fundamentalmente del _agua que 
 tenga el suelo y de la humedad del ambiente exterior_. La  temperatura también
 juega un papel fundamental la  temperatura.
@@ -204,19 +205,19 @@ principales para el \textbf{ahorro de agua.}}}
 \end{center}
 #+END_EXPORT
 
-*** Sistemas de control
+** Sistemas de control
 En las explotaciones agrícolas los instrumentos de control ambiental deben
 _proporcionar un clima y ambiente determinados_ *minimizando el gasto agua y
 electricidad*. Por lo que es muy importante que para su _eficiencia_ todos los
 dispositivos estén en _buen estado de mantenimiento_ y funcionen perfectamente.
 
-**** *Instalaciones de ventilación:*
+*** *Instalaciones de ventilación:*
 
-- Se hace necesario renovar el aire del interior de un invernadero.
+Se hace necesario renovar el aire del interior de un invernadero.
 - Principalmente instalando superficies para ventilación en techo o laterales.
 - También mediante sistemas de ventilación y extracción.
 
-**** *Sistemas de climatización:*
+*** *Sistemas de climatización:*
 
 Se puede llevar a cabo mediante _calefactores eléctricos o instalaciones de
 gas_. Podemos encontrar:
@@ -230,12 +231,12 @@ evitar el enfriamiento del suelo}
 #+END_EXPORT 
 
 
-*** Dispositivos de control y automatización 
+** Dispositivos de control y automatización 
 
 En los invernaderos existen automatismos para la acción de diferentes controles:
 temperatura, humedad, movimiento del aire, luminosidad y concentración de CO_2
 
-**** *Temperatura y humedad:*
+*** *Temperatura y humedad:*
 
 *Termómetros e higrómetros* sirven para el control de temperatura y humedad
 respectivamente. Son los elementos básicos para controlar los sistemas de
@@ -245,7 +246,7 @@ Existen estaciones en las se miden la temperatura y humedad y se actúa sobre
 mecanismos de ventilación y extracción; electroválvulas para los dispositivos
 que llevan agua, etc.
 
-**** *Automatismos de la luminosidad:*
+*** *Automatismos de la luminosidad:*
 
 Se emplean *fotostatos* que actúan sobre los mecanismos de apertura y cierre  de
 mallas de sombreo, etc.
@@ -254,7 +255,7 @@ _Hay que distinguir_ entre los sistemas anteriores de los que _aplican luz
 artificial_ para influir en el fotoperiodo de las plantas. Generalmente se
 emplean _temporizadores o programadores de horarios_.
 
-**** *Control de CO_2:*
+*** *Control de CO_2:*
 
 Se emplean controladores que regulan la concentración de CO_2 del interior del
 invernadero teniendo en cuenta parámetros como necesidad de calor, radiación
@@ -337,19 +338,26 @@ Según las fases que tenga la línea distinguimos
 #+END_EXPORT
 
 - *Fusibles:* se compone de un filamento de cobre que se intercala en ciertos
-  puntos de la instalación. Su funcionamiento se basa en que _cuando sube la
+  puntos de la instalación. su funcionamiento se basa en que _cuando sube la
   intensidad_ superando cierto valor, _el filamento de cobre se funde_ evitando
   que el resto de la línea sufra daños.
-- *Interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
-  (igual que los fusibles). Este dispositivo consta de _dos partes, un 
+- *interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
+  (igual que los fusibles). este dispositivo consta de _dos partes, un 
   electroimán y una lamina bimetálica._
+  + El *electroimán* protege contra _cortocircuitos, ya que al producirse un
+    cortocircuito aumenta bruscamente la /intensidad/ de la corriente,
+    aumentando el campo magnético que hace que el electroiman corte la corriente.
+  + La *lamina bimetálica* protege contra _sobrecargas_. Cuando se produce una
+    sobrecarga hay un aumento de la cantidad de corriente (/voltaje/) con lo que
+    la temperatura de la linea aumenta también. De esta manera las dos laminas
+    se separan y la corriente se corta evitando que se puedan dañar la linea o
+    los aparatos.
 - *Interruptor diferencial:* _protege a las personas de las derivaciones_ causadas
   por falta de aislamientos entre los conductores activos y tierra.
 - *Toma de tierra:* se instala para evitar el paso de corriente a las peersonas
   por un fallo de aislamiento de los conductores.
 
 ** Instalaciones de almacenaje y conservación de cosechas
-
 
 *** Graneros
 
@@ -394,7 +402,7 @@ mantenimiento_ en una explotación agrícola son:
   pequeñas reparaciones._
 - *Comprobar correcto funcionamiento de la maquinaria después del
   mantenimiento:* una vez finalizado el mantenimiento se ha de comprobar el
-  funcionamieto correcto de la maquinaria.
+  funcionamiento correcto de la maquinaria.
 - *Eliminación de residuos de productos y subproductos de las labores de
   mantenimiento:* Los reesiduos derivados del mantenimiento (aceites, grasas,
   pequeños elementos de estructura,etc) se considerarán *subproductos* y _deben
@@ -436,7 +444,7 @@ previamente los siguientes aspectos:
 - Tipos de materiales, equipos y superficies a limpiar
 - Elección del tipo de limpieza y selección de los productos adecuados
 - Modo de efectuar la limpieza
-- Frecuancia con la que debe realizarse
+- Frecuencia con la que debe realizarse
 
 Para la limpieza y desinfección hay una serie de _factores que influyen en la 
 toma de decisiones anteriores_, entre ellos:
@@ -444,11 +452,11 @@ toma de decisiones anteriores_, entre ellos:
 - Tipo de suciedad
 - Concentración adecuada del producto a emplear
 
-Tenemoss que _diferenciar entre *limpieza* y *desinfección*:
+Tenemos que diferenciar entre *limpieza* y *desinfección*:
 
 - Las _labores de limpieza_ se llevaran a cabo empleando *jabones o detergentes
   y agua*. También es habitual el uso de productos desengrasantes de superficies.
-- Las labores de desinfección se llevarán a cabo mediante el _empleo de 
+- Las _labores de desinfección_ se llevarán a cabo mediante el _empleo de 
   productos químicos_ llamados *desinfectantes*. Generalmente son productos a
   base de compuestos clorados o amoniacales (lejia, amoniaco,etc.).
 
@@ -554,3 +562,233 @@ las poblaciones de roedores.
 - Trampas de captura
 - Trampas con pegamento
 - Trampas mecánicas, etc
+
+#+BEGIN_EXPORT latex
+\recuerda{Se deben seguir de manera estricta las medidas de seguridad establecidas
+ sobre el uso de estos productos a fin de evitar cualquier riesgo sobre la salud y 
+sobre el medio ambiente}
+#+END_EXPORT
+
+* Prevención de riesgos laborales en instalaciones agrarias
+
+** Reconocimiento de los riesgos y peligros más comunes en las instalaciones
+
+Los _factores de riesgos y peligros más comunes_ en las instalaciones causantes
+de los _accidentes de trabajo_ y _enfermedades profesionales_ son los
+siguientes:
+- Cortes con objetos o herramientas
+- Pinchazos
+- Proyección de partículas, fragmentos y/u objetos
+- Atrapamientos y aplastamientos
+- Golpes y choques
+- Incendio y explosión
+- Contactos eléctricos
+- Caídas al mismo o distinto nivel
+- Contactos térmicos
+- *Exposición a agentes químicos:*
+  + Fertilizantes químicos
+  + Productos fitosanitarios
+  + Productos para limpieza y desinfección
+- *Gases tóxicos y asfixiantes:* debido a las actividades de limpieza y
+  desinfección de materia orgánica, _depósitos de purines y estiércol._
+- Polvo
+- Ruidos
+- Vibraciones
+
+** Señalización de peligros 
+
+*** Señales de advertencia de un peligro
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.7\textwidth}{\textbf{Tienen como misión advertirnos de un peligro.}}}
+\end{center}
+#+END_EXPORT
+
+Tienen forma triangular. Pictograma negro sobre fondo amarillo (el amarillo
+deberá cubrir como mínimo el 50% de la superficie de la señal), bordes negros. 
+
+#+CAPTION: Señales de advertencia de peligros
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_uf0008/senal_peligro.jpg]]
+ 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+*** Señales de prohibición
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.7\textwidth}{\textbf{Tienen por objeto prohibir acciones o situaciones}}}
+\end{center}
+#+END_EXPORT
+
+Forma redonda. Pictograma negro sobre fondo blanco, bordes y banda (transversal
+descendente de izquierda a derecha atravesando el pictograma 45º respecto a la
+horizontal), rojos (el rojo deberá cubrir como mínimo el 35% de la superficie de
+la señal). 
+
+#+CAPTION: Señales de prohibición 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_uf0008/senal_prohibicion.jpg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
+*** Señales de obligación
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.7\textwidth}{\textbf{Se encargarán de indicarnos que deberemos realizar alguna acción para así
+ evitar un accidente.}}}
+\end{center}
+#+END_EXPORT
+
+Tienen forma redonda. Pictograma blanco sobre fondo azul (el azul deberá cubrir
+como mínimo el 50% de la superficie de la señal). 
+
+#+CAPTION: Señales de obligación en el trabajo
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_uf0008/senal_obligacion.jpeg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+*** Señales de los equipos contra incendios
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.7\textwidth}{\textbf{Están concebidas para indicarnos la "ubicación o lugar donde 
+se encuentran" los dispositivos o instrumentos de lucha contra incendios como extintores, 
+mangueras, etc.}}} 
+\end{center}
+#+END_EXPORT
+
+Como complemento también encontramos en esta clasificación una señal
+complementaria en forma de flecha que indica la “Dirección a seguir” en caso de
+incendio. 
+
+Forma rectangular o cuadrada. Pictograma blanco sobre fondo rojo (el rojo deberá
+cubrir como mínimo el 50% de la superficie de la señal). 
+
+#+CAPTION: Señales de equipos contra incendios
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_uf0008/senal_incendio.jpg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+*** Señales de salvamento o socorro
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.7\textwidth}{\textbf{Concebidas para indicar dónde se encuentran lugares 
+relacionados con la salud e higiene en el trabajo como la indicación de la salida de 
+emergencia o del botiquín.}}} 
+\end{center}
+#+END_EXPORT
+
+Al igual que en el caso de las señales de lucha contra incendios, las de
+salvamento o socorro también cuentan con una complementaria que indica la
+“Dirección a seguir” para llegar a estos servicios. 
+
+Su forma puede ser rectangular o cuadrada y cuentan con un pictograma blanco que
+se encuentra sobre un fondo verde. Este segundo color ha de cubrir como mínimo
+el 50% de la superficie total de la señal. 
+
+#+CAPTION: Señales de salvamento o socorro
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_uf0008/senal_emergencia.jpg]]
+
+** Equipos de protección personal
+
+Entendemos como *EPI*:
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.7\textwidth}{Cualquier equipo que se destine a proteger de algún o
+algunos riesgos para la seguridad o la salud del trabajador que sea llevado o
+sujetado por él.}}
+#+END_EXPORT
+
+La clave está en la _existencia de un riesgo_, así por ejemplo, unas botas con
+puntera reforzada es un EPI para un trabajador de la construcción pero no tiene
+por qué serlo si la función del trabajador es de operador de una centralita de
+teléfonos. 
+
+La norma excluye determinados casos en particular. Por ejemplo la ropa de
+trabajo corriente no destinada a proteger de ningún riesgo en
+particular. Tampoco los equipos de para los servicios de socorro y salvamento. 
+
+**** *Comercialización y marcado CE de los EPI*
+
+El /Real Decreto 1407/1992/ establece unas condiciones mínimas y esenciales que 
+cumplidas permiten el marcado “CE”. Esto certifica que los EPI cumplen las
+condiciones del real decreto.  
+
+El marcado CE permite  tener tranquilidad sobre la bondad del equipo siempre y
+cuando se sigan las instrucciones del fabricante, comercializador o
+suministrador del mismo. 
+
+*** Protección de las vias respiratorias
+Los equipos de protección respiratoria _ayudan a proteger contra contaminantes 
+ambientales._
+
+Los _contaminantes_ los podemos dividir en _dos grupos:_
+- *Partículas:* Podemos encontrarlas en forma de polvos, nieblas o humos.
+- *Gases y vapores*
+
+_Es indispensable seleccionar el equipo de protección adecuada al riesgo._
+
+#+BEGIN_EXPORT latex
+\textbf{\Large Tipos de equipos de protección respiratoria}}
+#+END_EXPORT
+
+Los clasificamos en dos grupos:
+
+1) *Equipos filtrantes:* Son  equipos  que  utilizan  un  filtro  para  eliminar
+   los  contaminantes  del  aire  inhalado  por  el  usuario.  Pueden ser:  
+   - _De presión negativa:_
+     + Equipos filtrantes sin mantenimiento: Mascarillas desechables. _Protegen
+       únicamente contra partículas 
+     + Equipos con filtros recambiables: llevan incorporado uno o dos filtros
+       que se desechan al final de su vida útil. Según el tipo de filtro que
+       esté montado pueden cubrir tanto partículas como gases y vapores.  
+   - _De presión positiva:_ disponen de un equipo que impulsa aire filtrado.
+#+CAPTION: Mascarillas desechables
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_uf0008/mascarillas.png]]
+
+#+CAPTION: Mascarillas con filtros recambiables
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_uf0008/mascarilla_filtros.png]]
+
+2) *Equipos aislantes:* _Aíslan  al  usuario  del  entorno  y 
+   proporcionan  aire  limpio  de  una  fuente  no  contaminada_. Proporcionan
+   protección tanto para atmósferas contaminadas como para la deficiencia de
+   oxígeno. Se fundamentan en el suministro de un gas no contaminado respirable
+   (aire u oxígeno). Existen dos tipos:
+   - _Equipos de línea de aire_
+   - _Equipos autónomos_    
+ 
+
+*** Protección ocular
+Para evitar daños en los ojos se ha de emplear la protección adecuada al trabajo
+a realizar. En las instalaciones agrarias suele bastar protegerse contra el sol
+y contra proyecciones de partículas y/o polvo. 
+
+Igual que en otros casos _hay que emplear una protección adecuada al riesgo._
+
+*** Protección de la cabeza
+Importante la protección para evitar _golpes y exposiciones prolongadas al sol._
+Se pueden emplear cascos, gorros, y/o cremas solares. 
+*** Protección de los oidos
+_Preferiblemente_ usar *orejeras* en lugar de tapones ya que estos últimos
+reducen menos el nivel de decibelios.
+*** Protección de manos y pies
+- *Manos:*
+  - Guantes de latex o de vinilo para evitar infecciones
+  - Protección contra aguas fuertes o sustancias químicas
+  - Para protección contra altas temperaturas
+  - Protección contra frío
+  - Protección contra abrasión y/o golpes
+- *Pies:*
+  - Calzado de seguridad con punta de acero y suela antideslizante
+  - Calzado de goma para trabajar en ambientes húmedos
+** Deberes de los trabajadores en prevención de riesgos laborales
+
+** Principios básicos de los primeros auxilios

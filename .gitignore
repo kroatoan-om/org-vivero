@@ -9,3 +9,4 @@ $ cat .gitignore
 *.tex
 !/raw_tex/**/*.tex
 *.pdf
+!/raw_tex/**/*.pdf
