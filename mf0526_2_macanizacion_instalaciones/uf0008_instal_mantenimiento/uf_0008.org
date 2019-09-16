@@ -103,11 +103,15 @@ caliente por inmersión y se colocan en el terreno realizando una
 cimentación.
 #+END_COMMENT
 
-*** Control de temperatura y humedad 
-El control de estos factores es muy importante para que podamos producir plantas
-de calidad.
+* Control ambiental de las instalaciones y sus componentes
+Las diferentes fases de un cultivo de plantas están condicionadas por _cuatro
+factores_ ambientales o climáticos: _temperatura, humedad relativa, luz y 
+CO_2._ Controlando de manera adecuada estos factores podemos obtener producciones
+más abundantes, cultivar especies que no serían viables durante ciertas épocas
+del año o climas. 
 
-**** *Temperatura:*
+** Temperatura
+
 La temperatura influye en características tales como:
 - Crecimiento: Las mayores tasas de crecimiento de las plantas corresponden con
   la estación más cálida
@@ -115,6 +119,9 @@ La temperatura influye en características tales como:
   el sabor de los frutos
 - Estado sanitario: Junto con la humedad ambiental, la temperatura determina el
   desarrollo de diferentes plagas y enfermedades.
+
+La  temperatura _depende del material de la cubierta,  temperatura exterior, 
+luminosidad, viento_.
 
 Veamos algunos _rangos generales de temperatura_:
 - Generalmente la _temperatura mínima_ adecuada es de 10 a 15 \textdegree{}C y
@@ -132,8 +139,31 @@ Veamos algunos _rangos generales de temperatura_:
     + Muy alta (más de 30  \textedgree{}C): Alcachofa, brócoli, coliflor, coles
       de bruselas, pepino, sandía
 
-**** *Luz:*
+Podemos aumentar o disminuir la  temperatura de un invernadero _ventilando, con  
+sistemas de calefacción, refrigerando con agua o con mallas de sombreo_.
 
+** Humedad
+La humedad del ambiente de un invernadero depende fundamentalmente del _agua que 
+tenga el suelo y de la humedad del ambiente exterior_. La  temperatura también
+juega un papel fundamental la  temperatura.
+
+Para _corregir los niveles de humedad_ ambiental podemos emplear los _siguientes
+métodos:_
+- *Manteniendo humedad en el suelo:* mediante riegos o balsas de agua.
+- *Enriquecer humedad en ambiente:* mediante sistemas de aspersión,
+  nebulización, etc
+- *Disminuyendo la temperatura:* ventilando, removiendo el aire o restando
+  luminosidad
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.9\textwidth}{\textbf{Recuerda:} Los métodos para aportar humedad ambiental consumen mucha  
+agua. \uline{Siempre} hay que \uline{minimizar todo lo posible} el consumo de
+agua, por lo que emplear técnicas como \textbf{acolchados, sombreados}, etc; como medidas
+principales para el \textbf{ahorro de agua.}}}
+\end{center}
+#+END_EXPORT
+
+** Luz
 Desarrolla un papel _fundamental_ en el ciclo vegetativo  de una planta ya que
 sin ella seria _imposible la fotosíntesis_. 
 
@@ -167,43 +197,25 @@ Veamos como influye la luz en las plantas.
 - *Floración y fructificación:* Si una flor no tiene la luz necesaria su color,
   aspecto, etc se ve afectado negativamente. Ocurre de igual manera con los frutos.
 
-* Control ambiental de las instalaciones y sus componentes
-Las diferentes fases de un cultivo de plantas están condicionadas por _cuatro
-factores_ ambientales o climáticos: _temperatura, humedad relativa, luz y 
-CO_2._ Controlando de manera adecuada estos factores podemos obtener producciones
-más abundantes, cultivar especies que no serían viables durante ciertas épocas
-del año o climas. 
+** CO_2
+El anhídrido carbónico de la atmósfera es la materia indispensable para la
+realización de la fotosíntesis. El enriquecimiento de la atmósfera del
+invernadero con CO_2, es muy interesante en muchos cultivos, tanto en hortalizas
+como en flores.  
 
-** Control de temperatura
-Parámetro más importante ya que es el que más influye en el crecimiento de las
-plantas. 
+La concentración normal de CO_2 en la atmósfera es del 0,03%. Este índice debe
+aumentarse a límites de 0,1-0,2%, cuando los demás factores de la producción
+vegetal sean óptimos, si se desea el aprovechamiento al máximo de la actividad
+fotosintética de las plantas. Las concentraciones superiores al 0,3% resultan
+tóxicas para los cultivos. 
 
-La  temperatura _depende del material de la cubierta,  temperatura exterior, 
-luminosidad, viento_.
+La concentración de anhídrido carbónico en los invernaderos que no se controla
+este factor es muy variable. Alcanza el *máximo* de la 
+concentración _al final de la noche_ y el *mínimo* a las horas de máxima luz que 
+coinciden con el _mediodía._ 
 
-Podemos aumentar o disminuir la  temperatura de un invernadero _ventilando, con  
-sistemas de calefacción, refrigerando con agua o con mallas de sombreo_.
-
-** Control de la humedad
-La humedad del ambiente de un invernadero depende fundamentalmente del _agua que 
-tenga el suelo y de la humedad del ambiente exterior_. La  temperatura también
-juega un papel fundamental la  temperatura.
-
-Para _corregir los niveles de humedad_ ambiental podemos emplear los _siguientes
-métodos:_
-- *Manteniendo humedad en el suelo:* mediante riegos o balsas de agua.
-- *Enriquecer humedad en ambiente:* mediante sistemas de aspersión,
-  nebulización, etc
-- *Disminuyendo la temperatura:* ventilando, removiendo el aire o restando
-  luminosidad
-#+BEGIN_EXPORT latex
-\begin{center}
-\fbox{\parbox{0.9\textwidth}{\textbf{Recuerda:} Los métodos para aportar humedad ambiental consumen mucha  
-agua. \uline{Siempre} hay que \uline{minimizar todo lo posible} el consumo de
-agua, por lo que emplear técnicas como \textbf{acolchados, sombreados}, etc; como medidas
-principales para el \textbf{ahorro de agua.}}}
-\end{center}
-#+END_EXPORT
+En un invernadero cerrado la concentración de CO_2 _por la noche es muy baja_ y
+las plantas _no pueden realizar la fotosíntesis._ 
 
 ** Sistemas de control
 En las explotaciones agrícolas los instrumentos de control ambiental deben
@@ -694,6 +706,9 @@ el 50% de la superficie total de la señal.
 #+ATTR_LATEX: :width 0.7\textwidth
 [[./img_uf0008/senal_emergencia.jpg]]
 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 ** Equipos de protección personal
 
 Entendemos como *EPI*:
@@ -703,6 +718,7 @@ Entendemos como *EPI*:
 \fbox{\parbox{0.7\textwidth}{Cualquier equipo que se destine a proteger de algún o
 algunos riesgos para la seguridad o la salud del trabajador que sea llevado o
 sujetado por él.}}
+\end{center}
 #+END_EXPORT
 
 La clave está en la _existencia de un riesgo_, así por ejemplo, unas botas con
@@ -735,6 +751,7 @@ Los _contaminantes_ los podemos dividir en _dos grupos:_
 _Es indispensable seleccionar el equipo de protección adecuada al riesgo._
 
 #+BEGIN_EXPORT latex
+\vspace{1em}
 \textbf{\Large Tipos de equipos de protección respiratoria}}
 #+END_EXPORT
 
@@ -743,12 +760,13 @@ Los clasificamos en dos grupos:
 1) *Equipos filtrantes:* Son  equipos  que  utilizan  un  filtro  para  eliminar
    los  contaminantes  del  aire  inhalado  por  el  usuario.  Pueden ser:  
    - _De presión negativa:_
-     + Equipos filtrantes sin mantenimiento: Mascarillas desechables. _Protegen
-       únicamente contra partículas 
+     + Equipos filtrantes sin mantenimiento: Mascarillas desechables. _Protegen 
+       únicamente contra partículas._
      + Equipos con filtros recambiables: llevan incorporado uno o dos filtros
        que se desechan al final de su vida útil. Según el tipo de filtro que
        esté montado pueden cubrir tanto partículas como gases y vapores.  
    - _De presión positiva:_ disponen de un equipo que impulsa aire filtrado.
+
 #+CAPTION: Mascarillas desechables
 #+ATTR_LATEX: :width 0.5\textwidth
 [[./img_uf0008/mascarillas.png]]
@@ -789,6 +807,67 @@ reducen menos el nivel de decibelios.
 - *Pies:*
   - Calzado de seguridad con punta de acero y suela antideslizante
   - Calzado de goma para trabajar en ambientes húmedos
+** Deberes del empresario sobre prevención de riesgos laborales
+
+Tal y como especifica la *Ley 31/1995 de Prevención de Riesgos Laborales* los
+empresarios están _obligados legalmente a proteger a sus trabajadores_ frente a
+los riesgos laborales. 
+
+El empresario debe cumplir con numerosas obligaciones en materia de
+PRL. Destacamos las siguientes:
+
+- *Evaluar los riesgos:*  la empresa debe poner en marcha una acción preventiva,
+  para obtener información sobre los riesgos existentes en la empresa. Esta
+  evaluación de riesgos se realizará teniendo en cuenta el tipo de actividad de
+  la empresa.
+- *Organizar la prevención:* el empresario debe organizar los medios humanos,
+  técnicos y materiales necesarios para gestionar la prevención.
+- *Adoptar medidas de emergencia:* el empresario debe analizar las posibles
+  situaciones de emergencia para adoptar las medidas necesarias en materia de
+  primeros auxilios, lucha contra incendios, y evacuación del personal.
+- *Equipos de protección individual:* debe proporcionar a los empleados, cuando
+  los riesgos no se puedan evitar o reducirse lo suficiente, equipos
+  individuales de protección.
+- *Vigilar periódicamente el estado de salud de los trabajadores:* mediante
+  reconocimientos médicos periódicos en _función de los riesgos del trabajo._
+- *Proteger a los trabajadores especialmente sensibles a determinados riesgos:*
+  por ejemplo, aquellos trabajadores que tengan reconocida una discapacidad.
+- *Protección de la maternidad:*  el empresario debe detectar aquellas
+  condiciones de trabajo que puedan influir negativamente en la salud de las
+  trabajadoras en situación de embarazo, parto reciente, y salud en el feto
+  (para evitar la exposición de la trabajadora a dicho riesgo).
+- *Protección de los menores:* debe evaluar los riesgos específicos que puedan
+  afectar a los empleados menores de 18 años, teniendo en cuenta los riesgos
+  concretos del puesto de trabajo y la falta de madurez y experiencia.
+- *Informar a los trabajadores:* los empleados deben recibir toda la información
+  relativa a la PRL.
+- *Formar a los trabajadores:*  debe garantizar que los trabajadores reciben una
+  formación teórica y práctica, en el momento de la contratación y cuando se
+  produzcan cambios en las tareas.
+- *Documentación:* el empresario debe elaborar y conservar la documentación
+  relativa a todas las actuaciones preventivas en el ámbito de la empresa
+  (evaluación de riesgos, controles de salud de los trabajadores, lista de
+  accidentes de trabajo y enfermedades profesionales, etc.) 
+
 ** Deberes de los trabajadores en prevención de riesgos laborales
+La Ley de Prevención de Riesgos Laborales antes citada, en su artículo 29
+establece que el trabajador _debe cumplir las siguientes obligaciones_ en materia
+de prevención de riesgos laborales: 
+
+- *Velar por su propia salud y seguridad* en el trabajo y por la de aquellas
+  personas que se puedan ver afectadas por la actividad profesional llevada a
+  cabo.
+- *Usar de forma adecuada* los aparatos, máquinas, herramientas, equipos de
+  transporte y, en general, todos los instrumentos que requiera para llevar a
+  cabo su actividad profesional.
+- *Utilizar de forma correcta los medios y equipos de protección* necesarios
+  para desarrollar su trabajo.
+- *Utilizar correctamente los dispositivos de seguridad existente.*
+- *Informar con carácter inmediato a los superiores* de cualquier situación
+  susceptible de entrañar un riesgo para la salud y la seguridad de los
+  trabajadores.
+- *Cumplir con las obligaciones establecidas por las autoridades competentes y
+  cooperar con el empresario* cumpliendo las medidas para garantizar unas
+  condiciones de trabajo seguras. 
 
 ** Principios básicos de los primeros auxilios
