@@ -46,16 +46,21 @@ La elección de un tipo determinado de invernadero estará en función de una se
 - *Factor humano:* Disponibilidad de mano de obra
 
 *** Materiales
-Existen diferentes materiales para la construcción de invernaderos. Entre los
-materiales para la _formación del cerramiento_ destacamos:
-- Polietileno
-- Copolimero
-- Policloruro de vinilo
-- Poliester
-- Polimetacrilato de metilo
-- Vidrio
+Podemos dividir los _*materiales* para la formación de cubiertas y cerramientos de 
+invernaderos_ en tres grupos:
+- *Vidrio*
+- *Plástico rígido:*
+  - Polimetacrilato de metilo (PMM)
+  - Policarbonato (PC)
+  - Poliéster con fibra de vidrio
+  - Policloruro de vinilo (PCV)
+- *Plástico flexible:*
+  - Policloruro de vinilo (PCV)
+  - Polietileno de baja densidad 
+  - Materiales coextruidos
+  - Etileno vinilo de acetato (EVA)
 
-Cada material tendrá características  diferentes. Las _características de un 
+Cada material tendrá características  diferentes. Las _*características* de un 
 material de cerramiento_ son las siguientes: 
 - Transparencia
 - Opacidad
@@ -64,6 +69,7 @@ material de cerramiento_ son las siguientes:
 - Ligereza
 - Flexibilidad
 - Estanquidad
+
 *** Tipos de invernaderos
  Los invernaderos se pueden clasificar de distintas formas, según se
  atienda a determinadas características de sus elementos constructivos
@@ -103,7 +109,7 @@ caliente por inmersión y se colocan en el terreno realizando una
 cimentación.
 #+END_COMMENT
 
-* Control ambiental de las instalaciones y sus componentes
+* Parámetros  ambientales y control de las instalaciones
 Las diferentes fases de un cultivo de plantas están condicionadas por _cuatro
 factores_ ambientales o climáticos: _temperatura, humedad relativa, luz y 
 CO_2._ Controlando de manera adecuada estos factores podemos obtener producciones
@@ -197,11 +203,11 @@ Veamos como influye la luz en las plantas.
 - *Floración y fructificación:* Si una flor no tiene la luz necesaria su color,
   aspecto, etc se ve afectado negativamente. Ocurre de igual manera con los frutos.
 
-** CO_2
-El anhídrido carbónico de la atmósfera es la materia indispensable para la
-realización de la fotosíntesis. El enriquecimiento de la atmósfera del
-invernadero con CO_2, es muy interesante en muchos cultivos, tanto en hortalizas
-como en flores.  
+** Dióxido de carbono
+El CO_2 (anhídrido carbónico o dióxido de carbono) de la atmósfera es la materia
+indispensable para la realización de la fotosíntesis. El enriquecimiento de la
+atmósfera del invernadero con CO_2, es muy interesante en muchos cultivos, tanto
+en hortalizas como en flores.  
 
 La concentración normal de CO_2 en la atmósfera es del 0,03%. Este índice debe
 aumentarse a límites de 0,1-0,2%, cuando los demás factores de la producción
@@ -338,7 +344,7 @@ Según las fases que tenga la línea distinguimos
   cableado_. Se produce un cortocircuito cuando _parte de un conductor que lleva 
   corriente toca otro cable o parte del circuito_.
 - *Sobrecarga:* es la _presencia excesiva de corriente eléctrica en un
-  circuito. Generalmente se producen _por conectar muchos aparatos a la vez_ que
+  circuito. Generalmente se producen por conectar muchos aparatos a la vez_ que
   demandan mucha cantidad de energía.
 - *Contacto de personas o animales:* el contacto de componentes eléctricos 
   deficientemente aislados provoca que _la corriente eléctrica circule por el
@@ -353,7 +359,7 @@ Según las fases que tenga la línea distinguimos
   puntos de la instalación. su funcionamiento se basa en que _cuando sube la
   intensidad_ superando cierto valor, _el filamento de cobre se funde_ evitando
   que el resto de la línea sufra daños.
-- *interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
+- *Interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
   (igual que los fusibles). este dispositivo consta de _dos partes, un 
   electroimán y una lamina bimetálica._
   + El *electroimán* protege contra _cortocircuitos, ya que al producirse un
@@ -395,8 +401,9 @@ temperatura constante._
 
 ** Equipos para la limpieza
 
-Los _componentes_ que se utilizan para realizar labores de _limpieza y
-mantenimiento_ en una explotación agrícola son: 
+Para realizar labores de _limpieza y mantenimiento_ en una explotación agrícola,
+_además de los equipos manuales_, podemos encontrar:
+
 - Palas cargadoras
 - Remolques
 - Barredoras
@@ -417,7 +424,7 @@ mantenimiento_ en una explotación agrícola son:
   funcionamiento correcto de la maquinaria.
 - *Eliminación de residuos de productos y subproductos de las labores de
   mantenimiento:* Los reesiduos derivados del mantenimiento (aceites, grasas,
-  pequeños elementos de estructura,etc) se considerarán *subproductos* y _deben
+  pequeños elementos de estructura,etc) se considerarán *subproductos* y deben
   ser eliminados de manera correcta.
 
 * Acondicionamiento de instalaciones agrarias
@@ -451,8 +458,12 @@ los más usuales son:
 - Equipos de lavado a presión
 
 *** Productos para limpieza
+
+**** *Planificación de las operaciones de limpieza*
+
 La limpieza y desinfección de las instalaciones debe planificarse evaluando
 previamente los siguientes aspectos:
+0
 - Tipos de materiales, equipos y superficies a limpiar
 - Elección del tipo de limpieza y selección de los productos adecuados
 - Modo de efectuar la limpieza
@@ -502,11 +513,11 @@ suelos y algunas zonas de fácil acceso_.
 
 ** Desinsectación
 
-Es la acción de controlar las plagas presentes en la instalación, tales como
-moscas, hormigas, cucarachas, etc.
+Es la acción de *controlar las plagas* presentes en la instalación, tales como
+_moscas, hormigas, cucarachas_, etc.
 
-_El objetivo es mantener la instalación libre de insectos que puedan generar
-daños sobre los productos_, o ser _vectores de enfermedades que puedan provocar
+El objetivo es _mantener la instalación libre de insectos_ que puedan generar
+daños sobre los productos, o ser _vectores de enfermedades que puedan provocar
 daños sobre las personas._
 
 
@@ -519,8 +530,8 @@ Para el control de plagas de insectos se pueden tomar diferentes medidas:
 
 **** *Medidas físicas:*
 
-Son medidas _tanto preventivas como correctoras_ que tienen como objeto _impedir
-el acceso de los insectos. Hay numerosas medidas entre las que podemos destacar:
+Son medidas _tanto preventivas como correctoras_ que tienen como objeto _impedir 
+el acceso de los insectos_. Hay numerosas medidas entre las que podemos destacar:
 - Colocación de mosquiteras
 - Colocación de mallas anti /trips/
 - Dispositivos de cierre en lugares de paso frecuente

@@ -12,7 +12,7 @@
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
-#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:}#1}}\end{center}}
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 * Tractor y equipo de tracción
 ** Definición
 Un tractor, agrícola o forestal, es un vehículo autopropulsado de dos o más
@@ -581,8 +581,8 @@ averías imprevistas o haber cumplido su ciclo de trabajo.
 Este tipo de mantenimiento, _es mucho más costoso_ y, por lo general, es
 realizado por un mecánico.
 
-Se denomina *programa de mantenimiento* a una serie de pasos _destinados a
-garantizar la vida útil de cualquier equipo o maquinaria desde el momento de la
+Se denomina *programa de mantenimiento* a una serie de pasos destinados a
+_garantizar la vida útil_ de cualquier equipo o maquinaria desde el momento de la
 adquisición hasta su fin. 
 #+BEGIN_EXPORT latex
 \recuerda{La \textbf{vida útil} es un intervalo de tiempo en el que un objeto
@@ -649,7 +649,7 @@ especialmente a lo que el motor se refiere.
 
 El *manual del fabricante* debe leerse _antes de poner en marcha el tractor_ y
 *consultarse* para la realización de reparaciones, regulaciones y mantenimiento,
-pues en el _vienen especificadas todas las revisiones que deberán realizarse.
+pues en el vienen especificadas todas las revisiones que deberán realizarse.
 
 Con el uso del tractor se produce una _acumulación de suciedad en los filtros_
 (polvo, hollín, etc.), desgastes y desajustes que _incrementan el consumo de
@@ -715,7 +715,7 @@ Un adecuado protocolo de actuación incluye:
 
 #+BEGIN_EXPORT latex
 \recuerda{El principal cuidado que hay que dar a la \textbf{bomba de inyección} 
-es la limpieza del filtro , ya que si se llena de impurezas puede dañar este elemento} 
+es la limpieza del filtro de combustible, ya que si se llena de impurezas puede dañar este elemento}  
 #+END_EXPORT
 
 *** Sistema de refrigeración
@@ -801,8 +801,8 @@ las disposiciones mínimas de seguridad y salud para la utilización por los
 trabajadores de los equipos de trabajo:
 - _Debe existir_ un dispositivo de *parada total*
 - La parada _debe cortar el suministro de energía_ a los órganos de accionamiento
-- Los órganos de accionamiento _deben estar señalizados y ser claramente
-  visibles.
+- Los órganos de accionamiento deben _estar señalizados y ser claramente 
+  visibles._
 
 Las *áreas de riesgo* comunes a cualquier máquina agrícola son:
 - *Engranajes*. Deben estar _siempre protegidos_ y *no* desmontar ni reparar con la
@@ -817,7 +817,7 @@ Las *áreas de riesgo* comunes a cualquier máquina agrícola son:
   _manipulación de cargas_ y _acople de aperos_
 - Por último las *proyecciones* debidas a partículas de madera, tallos, piedras
   de pequeño tamaño, etc., escupidas por elementos que giran a gran
-  velocidad. Siempre que sea posible las _máquinas contarán con carcasas
+  velocidad. Siempre que sea posible las máquinas contarán con carcasas
   protectoras y si no, se emplearán los correspondientes _equipos de
   protección individual_
 
@@ -843,10 +843,13 @@ Las *medidas de prevención* en estos puntos son:
 - _No realizar ninguna intervención_ cuando la máquina o alguna de sus partes
   esté en movimiento
 
-#+CAPTION: Componentes del tractor
-#+ATTR_LATEX: :width 0.8\textwidth
-[[./img_0009/riesgo_engranaje.jpg]]
+#+CAPTION: Peligro engranajes
+#+ATTR_LATEX: :width 0.4\textwidth
+[[./img_0009/riesgo_engranaje.png]]
 
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Puntos de cizallamiento - Zonas cortantes:*
 
 Son puntos o zonas de corte en las extremidades de dos objetos que se mueven en
@@ -872,15 +875,17 @@ _Las medidas de prevención_ son:
   acción de la máquina
 - _Alejarse_ de las zonas cortantes cuando estas estén en movimiento
 
-#+CAPTION: Pictograma de riesgo de corte
-#+ATTR_LATEX: :width 0.8\textwidth
+#+CAPTION: Señal de ``Peligro corte''
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/corte_mano.jpg]]
 
 #+BEGIN_EXPORT latex
 \recuerda{Se deben montar los dispositivos de seguridad en caso de que hayan 
 sido retirados, tras efectuar un ajuste o reparación}
 #+END_EXPORT
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Puntos de atrapamiento o enganche:*
 
 El atrapamiento _se produce_ cuando una persona o parte de su cuerpo es
@@ -891,11 +896,11 @@ Los accidentes por atrapamiento _comienzan_ por el *arrastre de un hilo* u otra
 parte abierta de la vestimenta, que rota o abierta, se enrosca en torno a un eje
 rotatorio. 
 
-#+CAPTION: Pictograma de riesgo de atrapamiento
-#+ATTR_LATEX: :width 0.8\textwidth
+#+CAPTION: Señal de ``Peligro atrapamiento''
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/atrapamiento.jpg]]
 
-Las puntas de ejes salientes _también pueden enganchar las vestimentas.
+Las puntas de ejes salientes también pueden enganchar las vestimentas.
 
 La ropa, _que generalmente es bastante resistente_, puede aguantar estos
 enganches y el operario _no la puede romper_. De esta manera se *enrrolla
@@ -909,7 +914,9 @@ e incluso *mortales*.
 Accidentes de este tipo también pueden ocurrir a _quien lleva el pelo largo sin
 recoger_. El pelo puede quedar prendido y enrollado en las partes giratorias
 produciéndose *heridas graves y permanentes*.
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Zonas de aplastamiento:*
 
 Los accidentes de este tipo pueden ser _voluntarios o involuntarios_ (por
@@ -925,10 +932,10 @@ Se pueden producir las *siguientes situaciones:*
 - Operaciones _debajo de cargas basculantes_ en posición elevada
 
 #+CAPTION: Pictograma riego aplastamiento
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_0009/aplastamiento.png]]
 
-***** *Medidas de prevención para atrapamiento y aplastamiento:*
+*** *Medidas de prevención para atrapamiento y aplastamiento:*
 
 Se producen en los mecanismos en movimiento del tractor, principalmente:
 - *Toma de fuerza y eje cardánico*
@@ -949,7 +956,7 @@ u otra parte abierta de la vestimenta}
 #+END_EXPORT
 - *Protector de la toma de fuerza*
   + Al desmontar el cardan hay que fijar la cubierta protectora de la toma de fuerza
-  + Debe utilizarse el escudo protector de la toma de fuerza _en los momentos de
+  + Debe utilizarse el escudo protector de la toma de fuerza en los momentos de
     enganche, desenganche y mientras se está utilizando
   + Es _completamente desaconsejable_ utilizar el escudo protector para subirse
     al tractor, o apoyarse en el en las maniobras de enganche y desenganche, y
@@ -1065,7 +1072,7 @@ Además de lo indicado anteriormente tenemos otros dos factores de riesgo:
 Cuando la máquina se mueve, las condiciones de estabilidad disminuyen por:
 
 - A _mayor velocidad_, mayor riesgo de vuelco
-- A mayor agarre al suelo, mejor estabilidad y _menor riesgo de vuelco
+- A mayor agarre al suelo, mejor estabilidad y menor riesgo de vuelco
 - Con _más puntos de tracción_, mejor estabilidad y menor riesgo de vuelco
   (tractores de doble tracción)
 - Los tractores orugas, o de cadenas, son más estables al tener el _centro de 
