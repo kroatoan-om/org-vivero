@@ -3,7 +3,7 @@
 #+EMAIL: asoler@esteldellevant.es
 #+LaTeX_CLASS: asgbook
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
-#+OPTIONS: author:t c:nil d:(not "LOGBOOK") date:nil
+#+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
 #+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
 #+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
@@ -12,33 +12,131 @@
 #+KEYWORDS:
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
-
+#+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 * Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
 Para poder conocer la cantidad de organismos vegetales que existen en el mundo, estos se
-han de ordenar y clasificar. Estas clasificaciones resultan en grupos con jerarquías cada
+han de _ordenar y clasificar_. Estas clasificaciones resultan en grupos con jerarquías cada
 vez mayores, en los que se agrupan las especies por diversas características. Los que han
 realizado esta labor a lo largo del tiempo han desarrollado lo que se conoce como
 *categorías taxonómicas* que se organizan de la siguiente manera: 
-| *Categorías* | *Terminación de los taxones* | *Taxón*   |
-|--------------+------------------------------+-----------|
-| Reino        | -ota                         | Eucaryota |
-| División     | -phyta                       |           |
-|              | -mycota (hongos)             |           |
-|              | -phyta (plantas terrestres)  |           |
-|              |                              |           |
-|              |                              |           |
-|              |                              |           |
-|              |                              |           |
 
+| *Categorías* | *Terminación de los taxones*       | *Taxón* (ejemplos)   |
+|--------------+------------------------------------+----------------------|
+| Reino        | -ota                               | Eucaryota            |
+|--------------+------------------------------------+----------------------|
+| División     | -phyta                             | Clorophyta           |
+|              | -mycota (hongos)                   | Amastigomycota       |
+|              | -phyta (plantas terrestres)        | Magnoliophyta        |
+|--------------+------------------------------------+----------------------|
+| Clase        | -phyceae (Algas)                   | Clorophyveae         |
+|              | -mycetes (Hongos)                  | Ascomycetes          |
+|              | -opsida (plantas terrestres        | Magnoliopsida        |
+|--------------+------------------------------------+----------------------|
+| Subclase     | -idae                              | Magnoliidae          |
+|--------------+------------------------------------+----------------------|
+| Orden        | -ales                              | Magnoliales          |
+|--------------+------------------------------------+----------------------|
+| Familia      | -aceae                             | Magnoliaceae         |
+|--------------+------------------------------------+----------------------|
+| Genero       | Nombre genérico                    | Magnolia             |
+|--------------+------------------------------------+----------------------|
+| Especie      | Nombre genérico+ nombre específico | Magnolia grandiflora |
+|--------------+------------------------------------+----------------------|
 
-Se denomina Sistemática o Taxonomía Sistemática a la ciencia que identifica,
-clasifica y da nomre a los organismis vivos.\\
+Se denomina _Sistemática o Taxonomía Sistemática_ a la ciencia que identifica,
+clasifica y da nomre a los organismis vivos.
+
 Su objetivo es ordenar la enorme diversidad de organismos vivios que existen, y
-para ello ha de reconocer estos organismos e incluirlos en grupos de rango cada
-vez mas elevado.  
-** Claves dicotómicas y otros procesos de identificación
+para ello ha de _reconocer estos organismos e incluirlos en grupos de rango cada 
+vez mas elevado._
+
+#+BEGIN_EXPORT latex
+\recuerda{ El nombre de las especies se construye con \textbf{dos partes} (binomen).
+La primera corresponde al \uline{género} al que pertenece y la otra es el \uline{específico}.}
+\newpage
+#+END_EXPORT  
+** Guías de campo y claves dicotómicas
+Para la identificación de plantas se suele contar con dos tipos de herramientas,
+las guias de campo y las claves dicotómicas.
+***** *Guías de campo*
+
+Son libros en los que podemos encontrar una _selección de especies 
+significativas de una región o area determinada._
+
+Las especies se presentan de una en una de acuerdo con _algún criterio_ definido
+como puede ser:
+- Clasificación taxonómica
+- Color
+- Hábitat, etc
+
+Generalmente este tipo de libros incluyen numerosas fotografías o dibujos para
+facilitar la identificación
+***** *Claves dicotómicas*
+
+Son herramientas creadas _exclusivamente_ para la identificación de
+especies. Las hay no solo para plantas, si no para hongos, animales, aves, y en
+general para cualquier tipo de taxones.
+
+Las claves presentan una sucesión de interrogantes sobre _aspectos_ de la
+morfología de la planta _que son fáclmente reconocibles_. Cada interrogante esta
+seguido de dos o más soluciones que a su vez conducen a un nuevo interrogante,
+_repitiendose el proceso hasta llegar a la especie en cuestión_.
+
+En general, el manejo de estas claves requiere de conocimientos de botánica.
 ** Plantas más frecuentes en vivero
+Dentro de un vivero podemos encontrar plantas de distintas especies y
+tamaños.
+#+BEGIN_EXPORT latex
+\begin{center}
+\fbox{\parbox{0.8\textwidth}{Hay que tener en cuenta que \uline{la mayoría de clientes} que van a un vivero pueden
+\uline{no tener conocimientos de taxonomía y clasificación botánica}, por lo que una
+\textbf{clasificación informal} puede \uline{ayudarnos a orientar a los clientes.}}}
+\end{center}
+#+END_EXPORT
+
+***** *Coniferas* 
+
+Plantas _árboreas y leñosas._ No poseen autenticas flores, por lo que sus
+organismos de reproducción no  tienen los los órganos habituales de una flor. 
+_Los frutos aparecen en forma de cono_ de ahí el nombre de su grupo. 
+
+Las coníferas tienen _gran interes debido a su madera y 
+otras sustancias como la resina que producen,_ que se utiliza mucho para elaborar
+distintos productos industriales. Tienen también gran importancia en la
+_regeneración de bosques,_ siendo los _primeros ejemplares que se introducen_ en
+terrenos pobres para favorecer a su evolución y evitar su erosión. 
+
+En jardinería forman la estructura básica de parques y jardines, formación de
+setos, etc. Generalmente requieren _pocos cuidados_ y aceptan variedad de
+exposiciones pero _prefieren ser expuestas a pleno sol._
+
+Son ejemplos de coniferas los :pinos, cedros, abetos, sabinas, cipreses,
+secuoyas, etc.
+#+CAPTION: Conos masculinos y femeninos
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/cono_fem_masc.jpg]]
+
+#+CAPTION: Tipos de conos
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/tipos_conos.jpg]]
+
+***** *Árboles ornamentales*
+
+_Vegetales leñosos_ de significativa altura (al menos 5 metros) en los que
+ _diferenciamos claramente tronco y copa._ Ofrecen una gran variedad de formas,
+ volumenes, color y follaje. Pueden ser de _hoja perenne o caduca_
+
+#+BEGIN_EXPORT latex
+\recuerda{Los individuos de este grupo, a diferencia del anterior, \uline{si poseen flores verdaderas}.
+Pertenecen a este grupo especies de gran interes económico como \uline{árboles frutales, especies
+ madereras como haya, o roble.}}
+#+END_EXPORT
+
+
+***** *Arbustos*
+
+
 ** Organografía y fisiología vegetal
 *** Principales organos de las plantas (organografía)
 *** Operaciones de cultivo
