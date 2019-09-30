@@ -5,7 +5,7 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
-#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+OPTIONS: tags:t tasks:nil tex:t timestamp:t toc:t todo:nil |:t
 #+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
 #+DESCRIPTION:
 #+EXCLUDE_TAGS: noexport
@@ -13,6 +13,9 @@
 #+LANGUAGE: spanish
 #+SELECT_TAGS: export
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJECT(p) | DONE(d) CANCELLED(c)
+* TODO Editando: 
+* TODO Comprobación de ortografía
 * Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
 Para poder conocer la cantidad de organismos vegetales que existen en el mundo, estos se
@@ -121,6 +124,10 @@ secuoyas, etc.
 #+ATTR_LATEX: :width 0.8\textwidth
 [[./img_1479/tipos_conos.jpg]]
 
+#+CAPTION: Tipos de conos
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/conif_siluetas.jpeg]]
+
 ***** *Árboles ornamentales*
 
 _Vegetales leñosos_ de significativa altura (al menos 5 metros) en los que
@@ -135,12 +142,278 @@ Pertenecen a este grupo especies de gran interes económico como \uline{árboles
 
 
 ***** *Arbustos*
+_Vegetales leñosos_ con _tallos más delgados_ que los árboles, y generalmente
+_ramificado desde el suelo_. 
 
+De los arbustos se destacan _cualidades_ como pueden ser:
+- Las características de sus *flores*
+- Las características de sus *frutos*
 
-** Organografía y fisiología vegetal
-*** Principales organos de las plantas (organografía)
-*** Operaciones de cultivo
-*** Principales características fisiologicas 
+Se trata de especies que tienen un gran valor natural y ornamental. Gracias a
+los arbustos se hacen _más evidentes los cambios estacionales_, ya que
+encontramos arbustos con _aspecto diferente en la estación fría y en 
+la cálida_. También sus hojas pueden presentar _tonos diferentes en primavera y
+otoño_. 
+
+Los arbustos son _apreciados en jardinería_ por:
+- Favorecen el reparto geométrico y volumétrico del jardín.
+- Con ellos se forman *setos* decorativos y perimetrales.
+- Realizan funciones utilitarias como: barreras contra *ruido*, *viento* y
+  *contaminación*
+
+_La importancia de los arbustos en los ecosistemas:_
+
+Los arbustos son parte fundamental de bosques, bosques de ribera, ecosistemas
+montañosos, ecosistemas acuáticos, etc; ya que por ejemplo son las primeras
+especies en establecerse después de un incendio forestal, dan cobijo y sirven
+de alimento a multitud de fauna de pequeño y mediano tamaño, y ayudan a frenar
+la erosión.
+
+Son arbustos especies como el romero (/Rosmarinus officinalis/), las estepas
+(/Cystys spp./), el durillo (/Viburnum tinus/), los rosales (/rosa spp./), etc
+
+#+BEGIN_EXPORT latex
+\recuerda{No se pueden distinguir los árboles de los arbustos únicamente por la altura o la 
+ramificación, ya que diferentes especies mostraran un *porte* diferente respondiendo a las
+ condiciones particulares en las que se desarrollen.}
+#+END_EXPORT 
+
+***** *Plantas trepadoras*
+
+Especies cuyos _tallos no son suficientemente resistentes para sostenerse_ y han
+desarrollado la capacidad de _trepar para llegar más rápidamente a la luz del
+sol_.
+
+Son especies trepadoras por ejemplo el jazmín (/Jasminum officinale/), la hiedra
+(/Hedera helix/), madreselva (/Lonicera peryclimenum/), etc.
+
+***** *Vivaces*
+
+Se llaman así a las plantas que pueden vivir más de dos años igual que sucede
+con las _plantas perennes_ y al contrario que la _planta de temporada que suele 
+ser anual o bianual_ .
+
+Las vivaces se diferencian de las perennes en que _las vivaces se marchitan en 
+la estación desfavorable_ pero pueden _volver a brotar ya que sus raíces 
+sobreviven_.
+
+***** *Plantas de temporada*
+
+Se refiere a un  _amplio grupo de especies de plantas ornamentales_. Podemos
+hacer dos grandes grupos: 
+- Plantas de temporada de primavera o primavera/verano.
+- Plantas de temporada de otoño u otoño/invierno.
+
+Son especies que presentan su floración en un momento determinado del año,
+momento en el que se emplean para decorar diferentes elementos de jardinería. 
+
+***** *Plantas bulbosas o bulbos*
+
+Las distinguimos de las vivaces en que la parte subterránea está formada por un
+_bulbo, rizoma o un tubérculo_. Órganos en los que la planta _acumula reservas 
+para brotar de nuevo_.
+
+***** *Palmeras*
+
+Las palmeras son plantas *monocotiledóneas con porte de árbol*. Son originarias
+de climas tropicales, subtropicales y desérticos. Las especies de esta
+importante familia, la /aracacerae/, son fáciles de reconocer visualmente aunque
+puede haber confusión con familias como las cicas (/cycadaceae/) y las zamiaceas
+(/zamiaceae/). 
+
+Entre las palmeras se encuentran especies con valor económico, ornamental, etc;
+como por ejemplo:
+- Cocotero
+- Palma de aceite
+- Palma datilera
+- Palmito
+- Ratán
+
+***** *Plantas de interior*
+
+Plantas que no soportan temperaturas bajas en invierno y por lo tanto han de
+cultivarse en ambientes con temperaturas más favorables.
+
+***** *Plantas aromáticas*
+
+Las plantas de esta categoría son especies _cuyas hojas, al frotarlas, 
+desprenden un agradable aroma_. Estas propiedades son muy _apreciadas en 
+medicina, perfumería y la cocina_. También tienen gran importancia como especies
+_ornamentales en jardinería_.
+
+En este grupo podemos encontrar _especies leñosas como romero y lavanda, y
+especies herbáceas como la menta, orégano, perejil, cilantro, etc.
+
+***** *Plantas acuáticas*
+
+Adaptadas a los medios muy húmedos tales como, lagos, estanques, marismas,
+estuarios, riveras de los ríos, etc. Una de las especies más conocidas son los
+nenufares (este termino agrupa plantas de diversos ordenes y familias), pero
+encontramos muchas más. 
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\setlength{\fboxrule}{2pt}
+\fcolorbox{red}{white}{\sffamily\Large IMPORTANTE}
+\setlength{\fboxrule}{0.4pt}
+\vspace{1.5cm}
+\fbox{\parbox{0.9\textwidth}{Los ecosistemas en los que viven estas plantas son \uline{extremadamente 
+sensibles}. Las \uline{plantas acuáticas exóticas} pueden representar un \uline{gravisimo problema}
+para estos ecosistemas. Es muy importante tener esto en cuenta  y tomar una serie de \textbf{medidas 
+de prevención:}
+\begin{enumerate}
+\item \textbf{Utilizar planta preferentemente autóctona}:
+\begin{itemize}
+\item Necesitan menos riego y dan cobijo y alimento a la fauna local.
+\item Las especies exóticas introducidas en jardines o espacios abiertos pueden
+expandirse sin control a otros lugares, transportadas por el viento o por
+animales silvestres (insectos, aves o pequeños mamíferos).
+\end{itemize}
+\item \textbf{Presta atención a las características y procedencia de las nuevas plantas o
+semillas que adquieras.}
+\begin{itemize}
+\item No compres ni plantes mezclas de semillas (en especial de «fl ores
+silvestres») que no lleven incorporada información sobre su composición y
+origen.
+\item Consulta con expertos el diseño y las especies idóneas para la decoración
+de tu jardín, en especial si pretendes instalar un estanque con plantas
+acuáticas.
+\end{itemize}
+\item \textbf{No tires nunca plantas ornamentales, plantas de acuario o fragmentos de 
+plantas exóticas a los cursos de agua o por los desagües.}
+\begin{itemize}
+\item Esta mala práctica es causa frecuente de su dispersión con consecuencias
+no deseadas.
+\end{itemize}
+\end{enumerate}}}
+\end{center}
+#+END_EXPORT
+
+** Órganos y funciones fisiológicas de las plantas
+*** Principales órganos de las plantas
+Las plantas tienen órganos qué, además de llevar a cabo las funciones
+necesarias para la vida de la planta, nos ayudarán a identificar las diferentes
+especies que podemos encontrar en un vivero.
+
+Estos órganos son _raíz, tallo, hojas, flores y fruto_.
+**** *Raíz:*
+Parte de la planta que crece hacia el interior de la tierra. Proviene del
+desarrollo de la radícula del embrión.
+
+Las diferentes clases de raíces son:
+- *Pivotante o axonomórfica:* Es la raíz con formas típica. En ella podemos
+  distinguir una raíz principal claramente diferenciada de las raíces secundarias.
+- *Ramificada:* en este caso no hay distinción entre raíz principal y secundarias.
+- *Fascicular:* las raíces se forman asemejando una cabellera.
+- *Tuberosas:* son raíces muy engrosadas debido a que acumulan sustancias de
+  reserva 
+#+CAPTION: Clases de raíces según su forma
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/tipos_raiz.png]]
+
+**** *Tallo:* 
+Parte que crece en el sentido contrario que la raíz. Sirve de sostén para hojas
+y frutos. A _través de sus tejidos circulan los nutrientes que sirven de 
+alimento a la planta_.
+
+Distinguimos las siguientes partes:
+- *Nudos:* puntos de donde el tallo se ramifica.
+- *Entrenudos:* espacio que hay entre los nudos.
+- *Yemas:* tejidos que pueden dar lugar a flores o tallos.
+  - Yema axilar: las encontramos en la base del peciolo de las hojas. 
+  - Yema terminal:  situada en el extremo de un tallo. Es la que hace crecer los
+    tallos en longitud 
+#+CAPTION: Partes de un tallo 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/partes_tallo.png]]
+
+Encontramos diferentes tipos de tallos, por ejemplo:
+- Tallos *leñosos*: rígidos y duros
+- Tallos *herbáceos*: (casi) siempre verdes, tiernos y flexibles
+- Tallo *modificados*: como son los bulbos.
+
+**** *Hojas:*
+Las hojas son órganos vegetativos, generalmente aplanados, situados lateralmente
+sobre el tallo, encargados de la fotosíntesis.  
+
+La forma de los tallos está íntimamente relacionada con las hojas. Un órgano no
+puede existir sin el otro, en conjunto constituyen el vástago.  
+
+#+CAPTION: Partes de una hoja
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/partes_hoja.png]]
+
+#+CAPTION: Estructura de una hoja compuesta 
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/hoja_compuesta.png]]
+
+- El *limbo* es la parte plana.
+  - La parte superior se llama *haz*
+  - La parte inferior *envés*
+- El *peciolo* es  el rabillo que la une al tallo
+- La *vaina o base floral* es el ensanchamiento de unión con el tallo
+
+Clasificamos las hojas en _simples y compuestas_
+- *Simples:* la hoja tiene únicamente una lámina foliar
+- *Compuestas:* La lámina foliar está dividida en varias subunidades llamadas
+  folíolos, articuladas sobre el raquis de una hoja o sobre las divisiones del
+  mismo. Pueden tener peciólulos o ser sésiles.  Se dividen a su vez en
+  *pinnadas y palmaticompuestas*.
+
+**** *Flor:*
+Órgano reproductor de las plantas. De ella saldrán las semillas que han de
+producir nuevas plantas.  Las _inflorescencias_ son el _conjunto de flores que 
+sale de un mismo brote_.
+
+La flor está unida al tallo por un eje, el pedúnculo floral, que se ensancha en
+su parte superior para formar el receptáculo en el que se insertan las piezas de
+los verticilos florales.   
+
+Desde el exterior hacia el interior de una flor completa se distinguen los
+siguientes verticilos: 
+
+- *Cáliz* formado por los *sépalos*.
+- *Corola* formada por los *pétalos*.
+- *Androceo* formado por los *estambres* donde se forma el _polen_.
+- *Gineceo* formado por los *carpelos* que contienen los _óvulos_.
+
+#+CAPTION: Partes de una flor
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/partes_flor.jpg]]
+
+#+BEGIN_EXPORT latex
+\recuerda{No todos los vegetales tienen como organo reproductor las flores. Las 
+especies del grupo de las \textbf{coniferas} \uline{no poseen flores verdaderas}, si no 
+un método más ``rudimentario'' al ser especies más antiguas que los vegetales con
+ ``verdaderas flores''}
+#+END_EXPORT
+**** *Fruto:* 
+El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura y
+dispersión*. Estrictamente el fruto es el ovario de la flor _transformado y
+maduro_ después de la fecundación.
+
+En _condiciones naturales, el fruto suele formarse una vez que ha tenido lugar 
+la fecundación del óvulo_, pero en muchas plantas, casi siempre variedades
+cultivadas, como los cítricos sin semilla, la uva, el banano y el pepino, el
+fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarpia*. 
+*** TODO Operaciones de cultivo
+*** Principales características fisiológicas 
+A continuación se describen brevemente algunos conceptos básicos de algunas
+características fisiologicas:
+**** *Estado hídrico:* 
+Existen _períodos de tiempo_ en los que la planta es especialmente sensible al
+*estrés hídrico* como por ejemplo:
+1. Estación de crecimiento
+2. Procesos de trasplante y plantación
+3. Establecimiento de la planta
+
+Es importante mantener la planta lo suficientemente hidratada durante las épocas
+de _crecimiento, selección, extracción, transporte y plantación_. 
+
+#+BEGIN_EXPORT latex
+\recuerda{Si una planta se seca en exceso sus tejidos \textbf{no pueden rehidratarse}.
+Este punto de no retorno se llama \emph{punto de marchitez permanente} o \emph{PMP}.} 
+#+END_EXPORT
 * Preparación del medio de cultivo
 Las plantas que hay que transplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
