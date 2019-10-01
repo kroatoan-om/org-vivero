@@ -397,7 +397,7 @@ la fecundación del óvulo_, pero en muchas plantas, casi siempre variedades
 cultivadas, como los cítricos sin semilla, la uva, el banano y el pepino, el
 fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarpia*. 
 *** TODO Operaciones de cultivo
-*** Principales características fisiológicas 
+*** TODO Principales características fisiológicas 
 A continuación se describen brevemente algunos conceptos básicos de algunas
 características fisiologicas:
 **** *Estado hídrico:* 
@@ -414,6 +414,44 @@ de _crecimiento, selección, extracción, transporte y plantación_.
 \recuerda{Si una planta se seca en exceso sus tejidos \textbf{no pueden rehidratarse}.
 Este punto de no retorno se llama \emph{punto de marchitez permanente} o \emph{PMP}.} 
 #+END_EXPORT
+
+Hay que recordar que *provocar estrés hídirco* es también una herramienta
+importante para _iunducir la parada del crecimiento_.
+**** *Estado nutricional:*
+*** Factores medioambientales para el desarrollo de cultivos
+**** *Temperatura:*
+
+La temperatura _afecta al desarrollo de la planta_. La producción de hojas,
+crecimiento del tallo y otros procesos fisiológicos están ligados a la
+temperatura.
+
+El crecimiento de tejidos ocurre _más rápidamente_ a medida que la temperatura
+aumenta entre una _temperatura base y una temperatura óptima_.
+
+Un _buen manejo_ de culivo puede *contrarrestar* más fácilmente los _efectos 
+negativos de las altas temperaturas que los de las bajas temperaturas_,
+especialmente las heladas.
+
+Con _temperaturas altas_ el cultivo necesitará más nutrientes, agua y radiación
+solar para mantener su nivel de metabolismo.
+
+A medida qué _desciende la temperatura_ el desarrollo se hace más lento. Si las
+temperaturas son tan bajas como para producir heladas, se puede producir un daño
+irreversible en los tejidos de las plantas, especialmente de los ejemplares más
+jovenes. 
+**** *Radiación e iluminación:*
+
+El crecimiento de un cultivo está determinado por la cantidad de *radiación solar*
+que puede interceptar. _Un exceso de radiación raramente es un problema_,
+siempre que haya _agua y nutrientes en cantidad suficiente_. 
+
+Idealmente _para obtener rendimientos altos_ las hojas deben _crecer y cubrir la 
+superficie del suelo lo más rápidamente posible despues de la siembra_. Si este
+proceso se retrasa, la radiación solar se pierde en forma de _calor que aumenta 
+la temperatura del suelo y evaporando el agua_.
+
+Otro factor es la *duración del día*, que se relaciona con la radiación ya que
+según la duración del día los cultivos recibiran más o menos radiación solar
 * Preparación del medio de cultivo
 Las plantas que hay que transplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
