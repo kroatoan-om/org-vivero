@@ -48,9 +48,9 @@ realizado esta labor a lo largo del tiempo han desarrollado lo que se conoce com
 |--------------+------------------------------------+----------------------|
 
 Se denomina _Sistemática o Taxonomía Sistemática_ a la ciencia que identifica,
-clasifica y da nomre a los organismis vivos.
+clasifica y da nombre a los organismos vivos.
 
-Su objetivo es ordenar la enorme diversidad de organismos vivios que existen, y
+Su objetivo es ordenar la enorme diversidad de organismos vivos que existen, y
 para ello ha de _reconocer estos organismos e incluirlos en grupos de rango cada 
 vez mas elevado._
 
@@ -61,11 +61,11 @@ La primera corresponde al \uline{género} al que pertenece y la otra es el \ulin
 #+END_EXPORT  
 ** Guías de campo y claves dicotómicas
 Para la identificación de plantas se suele contar con dos tipos de herramientas,
-las guias de campo y las claves dicotómicas.
+las guías de campo y las claves dicotómicas.
 ***** *Guías de campo*
 
 Son libros en los que podemos encontrar una _selección de especies 
-significativas de una región o area determinada._
+significativas de una región o área determinada._
 
 Las especies se presentan de una en una de acuerdo con _algún criterio_ definido
 como puede ser:
@@ -82,9 +82,9 @@ especies. Las hay no solo para plantas, si no para hongos, animales, aves, y en
 general para cualquier tipo de taxones.
 
 Las claves presentan una sucesión de interrogantes sobre _aspectos_ de la
-morfología de la planta _que son fáclmente reconocibles_. Cada interrogante esta
+morfología de la planta _que son fácilmente reconocibles_. Cada interrogante esta
 seguido de dos o más soluciones que a su vez conducen a un nuevo interrogante,
-_repitiendose el proceso hasta llegar a la especie en cuestión_.
+_repitiéndose el proceso hasta llegar a la especie en cuestión_.
 
 En general, el manejo de estas claves requiere de conocimientos de botánica.
 ** Plantas más frecuentes en vivero
@@ -438,7 +438,7 @@ solar para mantener su nivel de metabolismo.
 A medida qué _desciende la temperatura_ el desarrollo se hace más lento. Si las
 temperaturas son tan bajas como para producir heladas, se puede producir un daño
 irreversible en los tejidos de las plantas, especialmente de los ejemplares más
-jovenes. 
+jóvenes. 
 **** *Radiación e iluminación:*
 
 El crecimiento de un cultivo está determinado por la cantidad de *radiación solar*
@@ -447,11 +447,94 @@ siempre que haya _agua y nutrientes en cantidad suficiente_.
 
 Idealmente _para obtener rendimientos altos_ las hojas deben _crecer y cubrir la 
 superficie del suelo lo más rápidamente posible despues de la siembra_. Si este
-proceso se retrasa, la radiación solar se pierde en forma de _calor que aumenta 
-la temperatura del suelo y evaporando el agua_.
+proceso se retrasa, la radiación solar se pierde en forma de _calor que aumenta  
+la temperatura del suelo y evaporando el agua que humedece el suelo_.
+
+La hoja, de manera general, adopta una _posición_ de manera que su _parte ancha 
+queda perpendicular a los rayos solares_. Las hojas adoptan diferentes
+posiciones que les permiten captar mejor la luz del sol. Esta respuesta a
+estímulos se conoce como *fototropismo*.
 
 Otro factor es la *duración del día*, que se relaciona con la radiación ya que
-según la duración del día los cultivos recibiran más o menos radiación solar
+según la duración del día los cultivos recibiran más o menos radiación solar.
+
+
+**** *Humedad del aire:*
+
+Este parámetro esta en estrecha vinculación con la temperatura y _es responsable 
+del grado de actividad metabólica de los cultivos_. 
+
+La dificultad de su medición y manejo hacen que este factor no suela ser
+considerado con toda la importancia que sería deseable.
+
+La humedad relativa (/HR/) se define como:
+#+BEGIN_EXPORT latex
+\begin{center}\Large
+$HR = \frac{\text{Tension actual de vapor}}{\text{tensión a saturación}} = \%$ 
+\end{center}
+#+END_EXPORT
+
+La /HR/ es un factor que _puede modificar el rendimiento de los cultivos_.
+_Cuando es excesiva_ las plantas _reducen la transpiración y disminuyen su 
+crecimiento_, se producen abortos florales por apelmazamiento del polen y un
+mayor desarrollo de enfermedades criptogámicas. Por el contrario, _si es muy 
+baja_, las plantas _transpiran en exceso, pudiendo deshidratarse_, además de los
+comunes problemas de mal cuaje.  
+
+
+
+**** *Velocidad del viento:*
+
+Factores *positivos*:
+- Un viento suave permite la renovación del aire, facilitando la transpiración
+  de las plantas.
+- Facilita la dispersión del polen.
+- El viento elimina las capas de aire frío situadas en el suelo, evitando
+  heladas nocturnas y nieblas de radiación.
+- El viento contribuye al secado de cosechas y siegas.
+
+Factores *negativos*:
+- Velocidades elevadas pueden causar daños en los cultivos.
+- También dificulta el actividades de manejo como son el riego por aspersión y
+  la pulverización de productos fitosanitarios.
+- Puede dificultar el vuelo de insectos polinizadores, lo que puede llegar a ser
+  muy grave en especies entomófilas.
+- Los vientos cálidos y secos pueden causar daños al no poder la planta reponer
+  el agua que transpira.
+- Los vientos salinos pueden causar problemas de fitotoxicidad por sales.
+- También actua como agente erosionador disminuyendo la capa fértil del suelo
+  cubriéndolo con arenas.
+
+**** *Altitud:*
+
+La altitud de las zonas de cultivo también limita el número de especies.
+
+
+Por un lado la  temperatura _cada 200m de altitud disminuye 1 \textdegreeC_, lo
+que para algunas especies y en determinadas épocas puede ser un factor
+limitante.
+
+A mayor altitud las plantas _crecen más lentas, presentan entrenudos más cortos 
+y hojas más pequeñas y gruesas_ para filtrar la luz ultravioleta.
+
+**** *Precipitación:*
+
+Las precipitaciones pueden determinar que cultivo puede crecer, cuando hay que
+plantarlo, cuanto puede rendir, etc.
+
+Dependiendo de en que lugar nos encontremos las lluvias pueden comportarse de
+diferente manera, por ejemplo:
+- En tierras montañosas y colinas las precipitaciones son variables, pudiendo
+  atrasarse, adelantarse o haber sequías inesperadas. Esto puede variar el ciclo
+  productivo de un cultivo de manera importante.
+- En tierras secas sin riego de zonas situadas en el trópico, las temperaturas
+  son muy constantes durante todo el año y la lluvia determina que tipo de
+  cultivo puede crecer.
+- En las zonas tropicales no existen las cuatro estaciones de las regiones
+  templadas (primavera, verano, otoño, invierno), en estas zonas existen
+  generalmente dos estaciones, una seca y otra lluviosa. Este hecho determina
+  que tipo de cultivo, cuando sembrar, rendimiento, etc
+
 * Preparación del medio de cultivo
 Las plantas que hay que transplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
