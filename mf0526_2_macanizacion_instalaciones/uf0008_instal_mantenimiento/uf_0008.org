@@ -362,7 +362,7 @@ Según las fases que tenga la línea distinguimos
 - *Interruptor magnetotérmico:* protege de cortocircuitos y/o sobre cargas
   (igual que los fusibles). este dispositivo consta de _dos partes, un 
   electroimán y una lamina bimetálica._
-  + El *electroimán* protege contra _cortocircuitos, ya que al producirse un
+  + El *electroimán* protege contra _cortocircuitos_, ya que al producirse un
     cortocircuito aumenta bruscamente la /intensidad/ de la corriente,
     aumentando el campo magnético que hace que el electroiman corte la corriente.
   + La *lamina bimetálica* protege contra _sobrecargas_. Cuando se produce una
