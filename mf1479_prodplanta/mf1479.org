@@ -1,7 +1,7 @@
 #+TITLE: Propagación de plantas en vivero
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
-#+LaTeX_CLASS: asgbook
+#+LaTeX_CLASS: asgarticle
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
@@ -14,8 +14,11 @@
 #+SELECT_TAGS: export
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJECT(p) | DONE(d) CANCELLED(c)
-* TODO Editando: 
+* NEXT Editando: suelo. técnicas preparacion, Fertilización, repaso a preparación sustratos
+* NEXT Editando:
 * TODO Comprobación de ortografía
+* TODO Check imagenes 
+* SOMEDAY Probar komascript classes
 * Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
 Para poder conocer la cantidad de organismos vegetales que existen en el mundo, estos se
@@ -535,7 +538,330 @@ diferente manera, por ejemplo:
   generalmente dos estaciones, una seca y otra lluviosa. Este hecho determina
   que tipo de cultivo, cuando sembrar, rendimiento, etc
 
-* Preparación del medio de cultivo
+* Preparación del medio de cultivo para la propagación de plantas
+** El suelo
+
+El suelo está compuesto por minerales, materia orgánica, diminutos organismos
+vegetales y animales, aire y agua. Es una capa delgada que se ha formado muy
+lentamente, a través de los siglos, con la desintegración de las rocas
+superficiales por la acción del agua, los cambios de temperatura y el
+viento. Los plantas y animales que crecen y mueren dentro y sobre el suelo son
+descompuestos por los microorganismos, transformados en materia orgánica y
+mezclados con el suelo. 
+*** Principales componentes del suelo
+- Los *minerales* que provienen de la *roca madre* que se deshace
+  lentamente. También pueden venir con la ayuda del viento y el agua que los
+  arrastran desde otras zonas.
+- La *materia orgánica* (MO) que se genera por la descomposición de vegetales y
+  animales muertos. Puede almacenar gran cantidad de agua y es rica en minerales.
+- Los *microorganismos* que son de dos tipos:
+  + Los que se alimentan de materia orgánica, por ejemplo insectos y
+    lombrices. Estas ultimas contribuyen a la aireación del suelo.
+- *Agua y aire* ocupan los *poros* del suelo. La distribución y el tamaño de los
+  poros es importante:
+  + Si hay _muchos poros pequeños_ los suelos suelen ser _pesados, húmedos y con 
+    poco crecimiento radicular_.
+  + Un _exceso de poros de gran tamaño_ tiene como resultado suelos sueltos que
+    se secan muy rápidamente.
+  + _Cuando más pequeño es el poro, más difícil es para la planta absorber agua de él_.
+*** Como se forma? 
+La formación del suelo es un proceso muy lento: se precisan cientos de años para
+que el suelo alcance el espesor mínimo necesario para la mayoría de los
+cultivos. 
+
+ 
+- Al principio, los cambios de temperatura y el agua comienzan a romper las
+  rocas: el calor del sol las agrieta, el agua se filtra entre las grietas y con
+  el frío de la noche se congela. Sabemos que el hielo ocupa más lugar que el
+  agua, y esto hace que las rocas reciban más presión y se quiebren. Poco a poco
+  se pulverizan y son arrastradas por las lluvias y el viento. Cuando la
+  superficie es en pendiente, este sedimento se deposita en las zonas bajas.
+- Luego aparecen las pequeñas plantas y musgos que crecen metiendo sus raíces
+  entre las grietas. Cuando mueren y se pudren incorporan al suelo materia
+  orgánica que es algo ácida y ayuda a corroer las piedras. 
+- Se multiplican los pequeños organismos (lombrices, insectos, hongos,
+  bacterias) que despedazan y transforman la vegetación y los animales que
+  mueren, recuperando minerales que enriquecen el suelo. Este suelo, así
+  enriquecido, tiene mejor estructura y mayor porosidad. Permite que crezcan
+  plantas más grandes, que producen sombra y dan protección y alimento a una
+  variedad mayor aún de plantas y animales. 
+*** Como se compone el suelo. Los horizontes
+
+El suelo se suelo dividir en una serie de capas denominadas *horizontes*. Estos
+horizontes son una serie de estratos horizontales que presentan diferentes
+caracteres de composición, textura, adherencia, etc. 
+
+Dependiendo  de que tipo de suelo estemos hablando se distinguirán un a serie de
+horizontes que van desde la superficie hacia abajo son. En un suelo evolucionado
+o completo podemos encontrar:
+
+- *Horizonte O:* También considerado la capa superficial del horizonte A. Parte
+  más superficial formado por hojas, ramas y restos vegetales.
+- *Horizonte A:* Zona de lavado vertical. Es el estrato _más superficial y en el  
+  enraízan las plantas_. Generalmente de color oscuro por la abundancia de 
+  materia orgánica (humus).
+- *Horizonte B:* Zona de precipitado. Carece prácticamente de humus por lo que
+  su color es más claro. En el se depositan los materiales lavados desde arriba.
+- *Horizonte C:* Subsuelo. Formado por la _parte más alta del material rocoso_
+  sobre el que se apoya el suelo. Horizonte más o menos fragmentado en el que se
+  pueden reconocer las características originales del mismo.
+- *Horizonte D:* Roca madre o material rocoso. Es la parte que no ha sufrido
+  ninguna alteración.
+
+#+CAPTION: Horizontes de un suelo evolucionado
+#+ATTR_LATEX: :width 0.4\textwidth
+[[./img_1479/perfil_suelos.jpg]]
+** Propiedades del suelo
+
+El suelo es un sistema heterogéneo muy complejo  debido a sus múltiples
+componentes y a las reacciones físicas, químicas y biológicas que ocurren entre
+ellos. 
+
+*** Propiedades físicas
+
+Las propiedades físicas dependientes de los elementos del suelo son:
+- *Textura:* depende del tamaño de las partículas que la componen
+- *Estructura:* es la disposición en las que se encuentran las diferentes
+  partículas .
+- *Composición:* es la proporción en la que se encuentran los distintos tipos de
+  partículas 
+
+**** *Textura:*
+
+Los suelos se pueden clasificar según la proporción de las distintas partículas
+minerales del suelo, clasificadas según su tamaño de grano en tres  grupos:
+_arenas,  limos  y  arcillas_,  es  decir,  la  textura  de  un  suelo  se  define
+por  las  _proporciones  de arena,  limo  y  arcilla  que  posee_. 
+
+La textura   es   un   factor   muy   importante   en   las características  del
+suelo  como  la  permeabilidad, aireación y la capacidad de retención del agua y
+de nutrientes. 
+
+#+CAPTION: Clasificación de particulas del suelo por tamaño
+|------------+-----------------------|
+| Partículas | Tamaño                |
+|------------+-----------------------|
+| Grava      | > de 2 mm             |
+| Arena      | entre 2mm y 0,2 mm    |
+| Arena fina | entre 0,2 y 0,02 mm   |
+| Limo       | entre 0,02 y 0,002 mm |
+| Arcilla    | < de 0,002 mm         |
+|------------+-----------------------|
+
+Para determinar la proporción presente en un suelo de estas particulas se ha de
+realizar un *análisis granulométrico*. Una vez separados los fragmentos y
+conocida la proporción que tenemos de arena, limo y arcilla, se emplea un
+esquema triangular de las texturas de USDA[fn:1], conocido como triangulo de
+texturas. 
+
+#+CAPTION: Triangulo de texturas
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/triang_texturas.png]]
+
+- *Suelos arcillosos de textura fina:* Los suelos de este tipo tienen un gran
+  poder de absorción de elementos nutritivos y gran poder de retención de
+  agua. Son suelos generalmente muy compactos y pesados, por tanto difíciles de
+  trabajar .
+- *Suelos arenosos de textura gruesa:* su característica principal es la poca
+  retención de agua que tienen, siendo suelos ligeros y con mucho drenaje.
+- *Suelos francos de texturas medias:* son los suelos que tienen una proporción
+  equilibrada de arena, limo y arcilla. Siendo suelos aireados pero con buena
+  capacidad de retención de agua y nutrientes.
+
+**** *Estructura:*
+
+La estructura del suelo se define por la _forma en que se agrupan las partículas
+individuales de arena, limo y arcilla_. Cuando las partículas individuales se
+agrupan, toman el aspecto de partículas mayores y se denominan *agregados*. 
+
+Una primera aproximación a la _clasificación de suelos según su estructura_ puede
+ser la siguiente que los agrupa en cuatro categorías:
+- *Estructura granular:* son partículas individuales de arena, limo y arcilla
+  agrupadas en granos pequeños casi esféricos. El agua circula muy fácilmente a
+  través de esos suelos. Por lo general, se encuentran en el horizonte A de los
+  perfíles de suelos. 
+
+#+CAPTION: Estructura granular
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_1479/estruct_granular.jpg]]
+
+- *Estructura en bloques:* son partículas de suelo que se agrupan en bloques
+  casi cuadrados o angulares con los bordes más o menos pronunciados. Los
+  bloques relativamente grandes indican que el suelo resiste la penetración y el
+  movimiento del agua. Suelen encontrarse en el horizonte B cuando hay
+  acumulación de arcilla.
+
+#+CAPTION: Estructura en bloques o bloque subangulares
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_1479/estruct_bloques.jpg]]
+
+- *Estructura prismática y columnar:* son partículas de suelo que han formado
+  columnas o pilares verticales separados por fisuras verticales diminutas, pero
+  definidas. El agua circula con mayor dificultad y el drenaje es
+  deficiente. Normalmente se encuentran en el horizonte B cuando hay acumulación
+  de arcilla.
+
+#+CAPTION: Agregados de forma columnar
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_1479/estruct_columnar.jpg]]
+
+- *Estructura laminar:* se compone de partículas de suelo agregadas en láminas o
+  capas finas que se acumulan horizontalmente una sobre otra. A menudo las
+  láminas se traslapan, lo que dificulta notablemente la circulación del
+  agua. Esta estructura se encuentra casi siempre en los suelos boscosos, en
+  parte del horizonte A y en los suelos formados por capas de *arcilla*.
+
+#+CAPTION: Agregados en forma laminar
+#+ATTR_LATEX: :width 0.5\textwidth
+[[./img_1479/estruct_laminar.jpg]]
+
+**** *Densidad:*
+
+La densidad de un material o sustancia viene dada por la relación entre la masa
+y el volumen que ocupa:
+#+BEGIN_EXPORT latex
+\begin{center}
+\Large
+$D=\frac{P}{V}=\frac{Kg}{m^3}$
+\end{center}
+#+END_EXPORT
+
+En el suelo se consideran dos tipos de densidad: la densidad real y la densidad
+aparente.
+
+- La *densidad aparente d_a* es la masa contenida de una muestra de suelo tal y
+  como es, esto es incluyendo el volumen ocupado por los poros. Para
+  determinarla, se divide el peso de un determinado volumen de tierra secada a
+  estufa por ese volumen de suelo.
+- La *densidad real d_r* es la densidad de las partículas sólidas del suelo. Se
+  determina dividiendo el peso del suelo secado a estufa por el volumen que
+  ocupan los sólidos. 
+
+**** *Porosidad:*
+
+Como consecuencia de la textura y estructura del suelo tenemos su porosidad, es
+decir su sistema de espacios vacíos o poros. 
+
+Los poros los diferenciamos en dos clases según su tamaño:
+- Poros macroscópicos
+- Poros microscópicos
+
+La porosidad influye en la facilidad con la que se retiene el agua.
+
+La porosidad puede ser expresada por la relación
+#+BEGIN_EXPORT latex
+\begin{center}
+\Large
+$V=\frac{V_e}{V}$
+\end{center}
+#+END_EXPORT
+
+Donde:
+- V_e= volumen de espacios vacios, comprendiendo los que están ocupados por
+  gases o líquidos.
+- V= volumen total de la muestra, comprendiendo sólidos, líquidos y gases.
+
+La porosidad se puede expresar por la formula:
+#+BEGIN_EXPORT latex
+\begin{center}
+\Large
+$P=\frac{d_r - d_a}{d_a} X 100 = %$
+\end{center}
+#+END_EXPORT
+
+En líneas generales la porosidad varía dentro de los siguientes límites
+- Suelos ligeros: 30-45%
+- Suelos medios: 45-55%
+- Suelos pesados: 50-65%
+- Suelos turbosos: 75-90%
+
+*** Propiedades químicas
+Las reacciones químicas que ocurran en un suelo van a venir marcadas por cuatro
+factores, los nutrientes que hay (elementos químicos), pH, conductividad eléctrica y capacidad de
+intercambio catiónico.
+
+
+**** *Nutrientes:* 
+
+Los elementos químicos o nutrientes necesarios para las plantas los clasificamos
+en :
+- *Macroelementos:* forman más del 99% de la materia viva, como carbono (C),
+  hidrogeno (H), fósforo (P), magnesio (Mg), azufre (S), calcio (Ca), potasio
+  (K), nitrógeno (N) y oxígeno (O)
+- *Microelementos:* forman parte de la planta en pequeña proporción pero son muy
+  importantes para el desarrollo normal de las plantas. Son  manganeso (Mn),
+  hierro (Fe), zinc (Zn), cobre (Cu), molibdeno (Mb) y boro (B)
+
+**** *pH del suelo:*
+
+La medida del /potencial de hidrógeno/ en el suelo es una de la principales
+variables en los suelos, ya que controla muchos procesos
+químicos. Principalmente el pH va a determinar la facilidad con la que los
+diferentes macro y microelementos estarán disponibles para la planta.
+
+El pH se mide con una escala numérica que variaría entre 0 y 14. Según su valor
+tendremos tres tipos de suelos:
+
+- Suelos *ácidos* con pH inferior a 7.
+- Suelos *neutros* con pH igual a 7.
+- Suelos *alcálinos o básicos* con pH superior a 7.
+
+#+CAPTION: Disponibilidad de nutrientes para las plantas según pH de suelo
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/ph_suelo.png]]
+
+**** *Conductividad eléctrica:*
+
+La salinidad de un suelo o agua, se refiere a la cantidad de sales presentes en
+solución, y puede ser estimada indirectamente mediante la medición de la
+conductividad eléctrica (CE). El valor de CE es influenciado por la
+concentración y composición de las sales disueltas. A mayor valor de CE, mayor
+es la salinidad presente. Es importante considerar que todos los fertilizantes
+inorgánicos son sales y por lo mismo tienen un efecto directo sobre la CE. 
+
+La salinidad es un fenómeno indeseable ya que afecta el crecimiento de las
+plantas  de varias maneras y por lo mismo, un aumento en la CE traerá como
+consecuencia una disminución de rendimiento. 
+
+La conductividad eléctrica es la cantidad de corriente que pasa a través de la
+disolución del suelo. La conductividad eléctrica varía según la  temperatura de
+medida, y se mide siempre a 25 \textdegreeC.
+
+La unidad de medida de la conductividad eléctrica en el SI es el /Siemens/ (S). 
+
+
+
+**** *Capacidad de intercambio catiónico:*
+
+La CIC se refiere al número de cationes intercambiables (cargas positivas) que
+un suelo puede o es capaz de retener. 
+
+Conocer la Capacidad de Intercambio Catiónico (CIC) de un suelo es muy
+importante, ya que este valor nos indica el potencial de un suelo para retener
+e intercambia nutrientes. La CIC influye en la cantidad y frecuencia de los
+fertilizantes que hay que emplear.
+
+*** Propiedades biológicas
+
+Asociadas a la presencia de materia orgánica y de formas de vida animal como
+microorganismos, lombrices, nemátodos e insectos. Estos organismos mejoran las
+condiciones del suelo acelerando la descomposición y mineralización de la
+materia orgánica. 
+
+Estos organismos modificadores del suelo los dividimos por su tamaño:
+- *Macroorganismos:* pueden ser las raíces de vegetales, insectos, pequeños
+  mamíferos , lombrices y otros invertebrados que modifican el suelo haciendo
+  galerías, etc que mejoran su aireación.
+- *Microorganismos:* Hongos, bacterias y algas que pueden afectar al suelo de
+  diferente manera:
+  + Fijando nitrógeno atmosférico
+  + Llevando a cabo la degradación de la materia orgánica.
+  + Contribuyendo al ciclo de nutrientes,  principalmente N, P y K.
+  + Asociándose simbióticamente con las raíces de algunas plantas.
+* Reproducción de plantas por semillas 
+
+* Reproducción vegetativa de plantas
+
 Las plantas que hay que transplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
   siguientes _tipos de esquejes:
@@ -552,5 +878,8 @@ Las plantas que hay que transplantar pueden proceder de:
   - Esquejes de madera dura de especies perennes
   - Especies de madera dura de especies caducas
 - Multiplicación por semillas o sexual
-* Reproducción de plantas por semillas
-* Reproducción vegetativa de plantas
+
+* Footnotes
+
+[fn:1] United States Department of Agriculture
+
