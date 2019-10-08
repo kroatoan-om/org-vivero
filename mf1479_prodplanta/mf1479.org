@@ -618,8 +618,22 @@ componentes y a las reacciones físicas, químicas y biológicas que ocurren ent
 ellos. 
 
 *** Propiedades físicas
+Las propiedades físicas generales de un suelo son:
+- *Permeabilidad:* facilidad que tiene un suelo para que penetre el aire o agua.
+- *Porosidad:* facultad para retener el agua durante mayor o menor tiempo.
+- *Tenacidad:* dificultad de un suelo para ser labrado.
+- *Cohesión:* facilidad que tiene un suelo para adherirse a los aperos de trabajo.
+- *Tempero:* cantidad máxima o mínima que de humedad que puede contener un suelo
+  y que puede dificultar el laboreo.
+- *Calor:* el suelo tiene capacidad de absorver las radiaciones solares por lo
+  que puede ser más frío o caliente. La temperatura es importante ya que
+  determina la distribución de plantas e influye en procesos químicos y
+  bioticos.
 
-Las propiedades físicas dependientes de los elementos del suelo son:
+
+A continuación vemos  detalladamente algunas de las propiedades físicas del
+suelo más importantes:
+
 - *Textura:* depende del tamaño de las partículas que la componen
 - *Estructura:* es la disposición en las que se encuentran las diferentes
   partículas .
@@ -858,6 +872,116 @@ Estos organismos modificadores del suelo los dividimos por su tamaño:
   + Llevando a cabo la degradación de la materia orgánica.
   + Contribuyendo al ciclo de nutrientes,  principalmente N, P y K.
   + Asociándose simbióticamente con las raíces de algunas plantas.
+
+** Técnicas de preparación de suelos
+Este apartado se refiere al _cultivo a raiz desnuda_ y no en contenedor, ya que
+tendrá otro tipo de preparación que veremos más adelante.
+
+*** Objetivos
+El objetivo principal es provocar transformaciones, físicas, químicas y
+biológicas quer mejoren la germinación y el desarrollo de las plantas.
+
+Se realizan preparaciones para conseguir distintos fines como pueden ser:
+- Aireación del suelo.
+- Destrucción de malas hierbas para eliminar la competencia por luz agua y nutrientes.
+- Aportaciones para mejorar la actividad microbiana, que es fundamental para la
+  descomposición y mineralización de la materia orgánica.
+- Esponjamiento del suelo para mejorar el drenaje y evitar encharcamientos.
+- Regeneración de los horizontes del suelo.
+
+*** Condicionantes                                                 :noexport:
+
+ Veamos cuatro de los _condicionantes más importantes en lapreparación del
+ suelo_:
+
+
+**** *Perdida de materia orgánica:*   
+
+Se ve afectada por factores como clinma, meteorología, vegetación y material del
+suelo.
+
+**** *Agregación del suelo:* 
+
+Una mala disposición de los agregados del suelo dificulta el crecimiento de las
+raíces, frena el drenaje del suelo y facilita la erosión del suelo.
+
+**** *Erosión:*
+
+
+**** *Compactación del suelo:*
+
+
+*** Tipos de laboreo
+
+De un modo resumido los tipos de laboreo sepueden resumir en: 
+- *Laboreo tradicional:* Parte de la realización de labores  profundas  de  al
+  menos  15-20  cm.  El  punto  departida más tradicional es el volteo de la
+  tierra conarados  diversos,  aunque  en  los  últimos  años  estalabor  se  va
+  sustituyendo  por  el  laboreo  vertical.Después se hacen necesarios uno o
+  varios pases delabores secundarias y posteriormente la siembra. 
+- *Mínimo laboreo:* El  laboreo  se  realiza  únicamente en las capas de suelo
+  superficiales hasta los primeros 10-15 cm. Normalmente es vertical con chisel    
+  ocultivador,  pero  también  puede  ser  con  arado  de cohecho que realiza 
+  volteo o simplemente con gradas de discos.
+- *No laboreo-Siembra directa:* Se fundamenta en la utilización  de  sembradoras
+  especiales  capaces de  sembrar  directamente  sin  hacer  laboreo  del suelo
+  previo. 
+
+Los sistemas de No laboreo, siembra directa y laboreo mínimo  se encuadran
+dentro de lo que se denomina *agricultura de conservación*. Esto además de
+aportar ahorros de combustible significativos en comparación con el laboreo
+tradicional, proporciona beneficios medioambientales frente a la erosión y la
+fertilidad. 
+
+
+*** Maquinaria y equipo
+
+
+**** *Tractor agrícola:*
+
+Vehículo especial que se utiliza para arastrar o empujar remolques, aperos u
+otra maquinaria o carga pesada. Existen tractores de distinta potencia, según el
+trabajo que se vaya a realizar, siendo los más utilizados los de 100-150 CV.
+
+**** *Motocultor:*
+
+Un motocultor o tractor de un solo eje es un vehículo especial autopropulsado de
+un eje, dirigible por manceras por un conductor que marche a pie. Utilizada para
+la labor superficial del suelo. Principalmente se utiliza para labrar pequeñas
+superficies en la horticultura y la jardinería.  
+
+Ciertos motocultores pueden también ser dirigidos desde un asiento incorporado a
+un remolque o a un apero.  
+
+**** *Aperos:*
+
+
+***** Vertedera:
+
+
+***** Subsolador
+
+***** Arado de discos
+
+***** Chisel
+
+***** Grada de discos
+
+***** Cultivadores 
+
+***** Sembradora
+
+***** Escarificador
+
+**** *Herramientas manuales:*
+
+** Fertilización
+
+** Drenajes
+
+** Componentes para la elaboración de sustratos
+
+** Equipos de protección individual
 * Reproducción de plantas por semillas 
 
 * Reproducción vegetativa de plantas

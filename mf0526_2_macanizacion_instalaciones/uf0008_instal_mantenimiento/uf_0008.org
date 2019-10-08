@@ -16,7 +16,7 @@
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 
 * Instalaciones, sus componentes y características
-** Invernaderos
+** Ivernaderos
    Un _invernadero_ es una estructura con cubierta transparente. En ellos
    podemos encontrar condiciones climáticas que son óptimas para el desarrollo
    de diferentes cultivos _fuera de su temporada natural de crecimiento_.
