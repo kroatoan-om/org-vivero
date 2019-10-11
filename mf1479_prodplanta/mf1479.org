@@ -18,6 +18,7 @@
 * NEXT Editando:
 * NEXT Comprobación de ortografía: desde aperos manuales
 * TODO Check imagenes :
+* TODO Arbol evolucion especies veg
 * SOMEDAY Probar komascript classes
 * Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
@@ -318,7 +319,7 @@ Las diferentes clases de raíces son:
   reserva 
 #+CAPTION: Clases de raíces según su forma
 #+ATTR_LATEX: :width 0.8\textwidth
-[[./img_1479/tipos_raiz.png]]
+[[./img_1479/raices_tipos_3.jpg]]
 
 **** *Tallo:* 
 
@@ -335,7 +336,7 @@ Distinguimos las siguientes partes:
     tallos en longitud 
 
 #+CAPTION: Partes de un tallo 
-#+ATTR_LATEX: :width 0.5\textwidth
+#+ATTR_LATEX: wrap :width 0.5\textwidth 
 [[./img_1479/partes_tallo.png]]
 
 Encontramos diferentes tipos de tallos, por ejemplo:
@@ -343,7 +344,7 @@ Encontramos diferentes tipos de tallos, por ejemplo:
 - Tallos *herbáceos*: (casi) siempre verdes, tiernos y flexibles
 - Tallo *modificados*: como son los bulbos.
 #+BEGIN_EXPORT latex
-\newpage
+%\newpage
 #+END_EXPORT
 
 **** *Hojas:*
@@ -377,7 +378,10 @@ Clasificamos las hojas en _simples y compuestas_
 
 #+CAPTION: Estructura de una hoja compuesta 
 #+ATTR_LATEX: :width 0.6\textwidth 
-[[./img_1479/hoja_compuesta.png]]
+[[./img_1479/hoja_compuesta.jpg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Flor:*
 
 Es el órgano reproductor de la planta.De ella saldrán las semillas que han de
