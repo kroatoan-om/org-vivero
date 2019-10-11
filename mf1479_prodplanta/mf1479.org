@@ -16,8 +16,8 @@
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJECT(p) | DONE(d) CANCELLED(c)
 * NEXT Editando: suelo. técnicas preparacion, Fertilización, repaso a preparación sustratos
 * NEXT Editando:
-* TODO Comprobación de ortografía
-* TODO Check imagenes 
+* NEXT Comprobación de ortografía: desde aperos manuales
+* TODO Check imagenes :
 * SOMEDAY Probar komascript classes
 * Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
@@ -103,11 +103,11 @@ tamaños.
 
 ***** *Coniferas* 
 
-Plantas _árboreas y leñosas._ No poseen autenticas flores, por lo que sus
+Plantas _arbóreas y leñosas._ No poseen autenticas flores, por lo que sus
 organismos de reproducción no  tienen los los órganos habituales de una flor. 
 _Los frutos aparecen en forma de cono_ de ahí el nombre de su grupo. 
 
-Las coníferas tienen _gran interes debido a su madera y 
+Las coníferas tienen _gran interés debido a su madera y 
 otras sustancias como la resina que producen,_ que se utiliza mucho para elaborar
 distintos productos industriales. Tienen también gran importancia en la
 _regeneración de bosques,_ siendo los _primeros ejemplares que se introducen_ en
@@ -117,7 +117,7 @@ En jardinería forman la estructura básica de parques y jardines, formación de
 setos, etc. Generalmente requieren _pocos cuidados_ y aceptan variedad de
 exposiciones pero _prefieren ser expuestas a pleno sol._
 
-Son ejemplos de coniferas los :pinos, cedros, abetos, sabinas, cipreses,
+Son ejemplos de coníferas los :pinos, cedros, abetos, sabinas, cipreses,
 secuoyas, etc.
 #+CAPTION: Conos masculinos y femeninos
 #+ATTR_LATEX: :width 0.8\textwidth
@@ -135,11 +135,11 @@ secuoyas, etc.
 
 _Vegetales leñosos_ de significativa altura (al menos 5 metros) en los que
  _diferenciamos claramente tronco y copa._ Ofrecen una gran variedad de formas,
- volumenes, color y follaje. Pueden ser de _hoja perenne o caduca_
+ volúmenes, color y follaje. Pueden ser de _hoja perenne o caduca_
 
 #+BEGIN_EXPORT latex
 \recuerda{Los individuos de este grupo, a diferencia del anterior, \uline{si poseen flores verdaderas}.
-Pertenecen a este grupo especies de gran interes económico como \uline{árboles frutales, especies
+Pertenecen a este grupo especies de gran interés económico como \uline{árboles frutales, especies
  madereras como haya, o roble.}}
 #+END_EXPORT
 
@@ -164,22 +164,22 @@ Los arbustos son _apreciados en jardinería_ por:
 - Realizan funciones utilitarias como: barreras contra *ruido*, *viento* y
   *contaminación*
 
-_La importancia de los arbustos en los ecosistemas:_
+***** *La importancia de los arbustos en los ecosistemas:*
 
-Los arbustos son parte fundamental de bosques, bosques de ribera, ecosistemas
-montañosos, ecosistemas acuáticos, etc; ya que por ejemplo son las primeras
-especies en establecerse después de un incendio forestal, dan cobijo y sirven
-de alimento a multitud de fauna de pequeño y mediano tamaño, y ayudan a frenar
-la erosión.
+ Los arbustos son parte fundamental de bosques, bosques de ribera, ecosistemas
+ montañosos, ecosistemas acuáticos, etc; ya que por ejemplo son las primeras
+ especies en establecerse después de un incendio forestal, dan cobijo y sirven
+ de alimento a multitud de fauna de pequeño y mediano tamaño, y ayudan a frenar
+ la erosión.
 
-Son arbustos especies como el romero (/Rosmarinus officinalis/), las estepas
-(/Cystys spp./), el durillo (/Viburnum tinus/), los rosales (/rosa spp./), etc
+ Son arbustos especies como el romero (/Rosmarinus officinalis/), las estepas
+ (/Cystys spp./), el durillo (/Viburnum tinus/), los rosales (/rosa spp./), etc
 
-#+BEGIN_EXPORT latex
-\recuerda{No se pueden distinguir los árboles de los arbustos únicamente por la altura o la 
-ramificación, ya que diferentes especies mostraran un *porte* diferente respondiendo a las
- condiciones particulares en las que se desarrollen.}
-#+END_EXPORT 
+ #+BEGIN_EXPORT latex
+ \recuerda{No se pueden distinguir los árboles de los arbustos únicamente por la altura o la 
+ ramificación, ya que diferentes especies mostraran un *porte* diferente respondiendo a las
+  condiciones particulares en las que se desarrollen.}
+ #+END_EXPORT 
 
 ***** *Plantas trepadoras*
 
@@ -218,7 +218,7 @@ para brotar de nuevo_.
 
 ***** *Palmeras*
 
-Las palmeras son plantas *monocotiledóneas con porte de árbol*. Son originarias
+Las palmeras son plantas _monocotiledóneas con porte de árbol_. Son originarias
 de climas tropicales, subtropicales y desérticos. Las especies de esta
 importante familia, la /aracacerae/, son fáciles de reconocer visualmente aunque
 puede haber confusión con familias como las cicas (/cycadaceae/) y las zamiaceas
@@ -244,14 +244,14 @@ desprenden un agradable aroma_. Estas propiedades son muy _apreciadas en
 medicina, perfumería y la cocina_. También tienen gran importancia como especies
 _ornamentales en jardinería_.
 
-En este grupo podemos encontrar _especies leñosas como romero y lavanda, y
+En este grupo podemos encontrar especies leñosas como romero y lavanda, y
 especies herbáceas como la menta, orégano, perejil, cilantro, etc.
 
 ***** *Plantas acuáticas*
 
 Adaptadas a los medios muy húmedos tales como, lagos, estanques, marismas,
 estuarios, riveras de los ríos, etc. Una de las especies más conocidas son los
-nenufares (este termino agrupa plantas de diversos ordenes y familias), pero
+nenúfares (este termino agrupa plantas de diversos ordenes y familias), pero
 encontramos muchas más. 
 
 #+BEGIN_EXPORT latex
@@ -300,8 +300,14 @@ especies que podemos encontrar en un vivero.
 
 Estos órganos son _raíz, tallo, hojas, flores y fruto_.
 **** *Raíz:*
+
 Parte de la planta que crece hacia el interior de la tierra. Proviene del
-desarrollo de la radícula del embrión.
+desarrollo de la radícula del embrión. 
+
+La raiz tiene un a doble función:
+1. Sirve de sostén
+2. Absorbe de la tierra las sustancias minerales y el agua necesarias para el
+   crecimiento de la planta y para su desarrollo. 
 
 Las diferentes clases de raíces son:
 - *Pivotante o axonomórfica:* Es la raíz con formas típica. En ella podemos
@@ -315,6 +321,7 @@ Las diferentes clases de raíces son:
 [[./img_1479/tipos_raiz.png]]
 
 **** *Tallo:* 
+
 Parte que crece en el sentido contrario que la raíz. Sirve de sostén para hojas
 y frutos. A _través de sus tejidos circulan los nutrientes que sirven de 
 alimento a la planta_.
@@ -326,16 +333,21 @@ Distinguimos las siguientes partes:
   - Yema axilar: las encontramos en la base del peciolo de las hojas. 
   - Yema terminal:  situada en el extremo de un tallo. Es la que hace crecer los
     tallos en longitud 
+
 #+CAPTION: Partes de un tallo 
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.5\textwidth
 [[./img_1479/partes_tallo.png]]
 
 Encontramos diferentes tipos de tallos, por ejemplo:
 - Tallos *leñosos*: rígidos y duros
 - Tallos *herbáceos*: (casi) siempre verdes, tiernos y flexibles
 - Tallo *modificados*: como son los bulbos.
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 
 **** *Hojas:*
+
 Las hojas son órganos vegetativos, generalmente aplanados, situados lateralmente
 sobre el tallo, encargados de la fotosíntesis.  
 
@@ -343,13 +355,12 @@ La forma de los tallos está íntimamente relacionada con las hojas. Un órgano 
 puede existir sin el otro, en conjunto constituyen el vástago.  
 
 #+CAPTION: Partes de una hoja
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.7\textwidth 
 [[./img_1479/partes_hoja.png]]
 
-#+CAPTION: Estructura de una hoja compuesta 
-#+ATTR_LATEX: :width 0.7\textwidth
-[[./img_1479/hoja_compuesta.png]]
-
+#+BEGIN_EXPORT latex
+%\newpage
+#+END_EXPORT
 - El *limbo* es la parte plana.
   - La parte superior se llama *haz*
   - La parte inferior *envés*
@@ -363,14 +374,20 @@ Clasificamos las hojas en _simples y compuestas_
   mismo. Pueden tener peciólulos o ser sésiles.  Se dividen a su vez en
   *pinnadas y palmaticompuestas*.
 
-**** *Flor:*
-Órgano reproductor de las plantas. De ella saldrán las semillas que han de
-producir nuevas plantas.  Las _inflorescencias_ son el _conjunto de flores que 
-sale de un mismo brote_.
 
-La flor está unida al tallo por un eje, el pedúnculo floral, que se ensancha en
-su parte superior para formar el receptáculo en el que se insertan las piezas de
-los verticilos florales.   
+#+CAPTION: Estructura de una hoja compuesta 
+#+ATTR_LATEX: :width 0.6\textwidth 
+[[./img_1479/hoja_compuesta.png]]
+**** *Flor:*
+
+Es el órgano reproductor de la planta.De ella saldrán las semillas que han de
+producir nuevas plantas.
+
+ Se une al tallo mediante el peciolo al pedúnculo floral, que se ensancha en su
+ parte superior para formar el receptáculo en el que se insertan las piezas de
+ los verticilos florales.    
+
+Las _inflorescencias_ son el _conjunto de flores que sale de un mismo brote_.
 
 Desde el exterior hacia el interior de una flor completa se distinguen los
 siguientes verticilos: 
@@ -385,12 +402,16 @@ siguientes verticilos:
 [[./img_1479/partes_flor.jpg]]
 
 #+BEGIN_EXPORT latex
-\recuerda{No todos los vegetales tienen como organo reproductor las flores. Las 
-especies del grupo de las \textbf{coniferas} \uline{no poseen flores verdaderas}, si no 
+\recuerda{No todos los vegetales tienen como órgano reproductor las flores. Las 
+especies del grupo de las \textbf{coníferas} \uline{no poseen flores verdaderas}, si no 
 un método más ``rudimentario'' al ser especies más antiguas que los vegetales con
  ``verdaderas flores''}
 #+END_EXPORT
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Fruto:* 
+
 El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura y
 dispersión*. Estrictamente el fruto es el ovario de la flor _transformado y
 maduro_ después de la fecundación.
@@ -402,7 +423,7 @@ fruto madura sin necesidad de fecundación; este fenómeno se llama *partenocarp
 *** TODO Operaciones de cultivo
 *** TODO Principales características fisiológicas 
 A continuación se describen brevemente algunos conceptos básicos de algunas
-características fisiologicas:
+características fisiológicas:
 **** *Estado hídrico:* 
 Existen _períodos de tiempo_ en los que la planta es especialmente sensible al
 *estrés hídrico* como por ejemplo:
@@ -418,8 +439,8 @@ de _crecimiento, selección, extracción, transporte y plantación_.
 Este punto de no retorno se llama \emph{punto de marchitez permanente} o \emph{PMP}.} 
 #+END_EXPORT
 
-Hay que recordar que *provocar estrés hídirco* es también una herramienta
-importante para _iunducir la parada del crecimiento_.
+Hay que recordar que *provocar estrés hídrico* es también una herramienta
+importante para _inducir la parada del crecimiento_.
 **** *Estado nutricional:*
 *** Factores medioambientales para el desarrollo de cultivos
 **** *Temperatura:*
@@ -431,7 +452,7 @@ temperatura.
 El crecimiento de tejidos ocurre _más rápidamente_ a medida que la temperatura
 aumenta entre una _temperatura base y una temperatura óptima_.
 
-Un _buen manejo_ de culivo puede *contrarrestar* más fácilmente los _efectos 
+Un _buen manejo_ de cultivo puede *contrarrestar* más fácilmente los _efectos 
 negativos de las altas temperaturas que los de las bajas temperaturas_,
 especialmente las heladas.
 
@@ -449,18 +470,23 @@ que puede interceptar. _Un exceso de radiación raramente es un problema_,
 siempre que haya _agua y nutrientes en cantidad suficiente_. 
 
 Idealmente _para obtener rendimientos altos_ las hojas deben _crecer y cubrir la 
-superficie del suelo lo más rápidamente posible despues de la siembra_. Si este
+superficie del suelo lo más rápidamente posible después de la siembra_. Si este
 proceso se retrasa, la radiación solar se pierde en forma de _calor que aumenta  
 la temperatura del suelo y evaporando el agua que humedece el suelo_.
 
 La hoja, de manera general, adopta una _posición_ de manera que su _parte ancha 
 queda perpendicular a los rayos solares_. Las hojas adoptan diferentes
-posiciones que les permiten captar mejor la luz del sol. Esta respuesta a
-estímulos se conoce como *fototropismo*.
+posiciones que les permiten captar mejor la luz del sol. 
+
+Existen diferentes respuestas de las plantas a los estímulos de la luz: 
+- *Fototropismo*
+- *Fotoperiodo*
+- *Foto-morfogénesis*
+- *Traspiración*
+- *Fotosíntesis*
 
 Otro factor es la *duración del día*, que se relaciona con la radiación ya que
-según la duración del día los cultivos recibiran más o menos radiación solar.
-
+según la duración del día los cultivos recibirán más o menos radiación solar.
 
 **** *Humedad del aire:*
 
@@ -505,7 +531,7 @@ Factores *negativos*:
 - Los vientos cálidos y secos pueden causar daños al no poder la planta reponer
   el agua que transpira.
 - Los vientos salinos pueden causar problemas de fitotoxicidad por sales.
-- También actua como agente erosionador disminuyendo la capa fértil del suelo
+- También actúa como agente erosionador disminuyendo la capa fértil del suelo
   cubriéndolo con arenas.
 
 **** *Altitud:*
@@ -625,7 +651,7 @@ Las propiedades físicas generales de un suelo son:
 - *Cohesión:* facilidad que tiene un suelo para adherirse a los aperos de trabajo.
 - *Tempero:* cantidad máxima o mínima que de humedad que puede contener un suelo
   y que puede dificultar el laboreo.
-- *Calor:* el suelo tiene capacidad de absorver las radiaciones solares por lo
+- *Calor:* el suelo tiene capacidad de absorber las radiaciones solares por lo
   que puede ser más frío o caliente. La temperatura es importante ya que
   determina la distribución de plantas e influye en procesos químicos y
   bioticos.
@@ -651,7 +677,7 @@ La textura   es   un   factor   muy   importante   en   las características  de
 suelo  como  la  permeabilidad, aireación y la capacidad de retención del agua y
 de nutrientes. 
 
-#+CAPTION: Clasificación de particulas del suelo por tamaño
+#+CAPTION: Clasificación de partículas del suelo por tamaño
 |------------+-----------------------|
 | Partículas | Tamaño                |
 |------------+-----------------------|
@@ -662,7 +688,7 @@ de nutrientes.
 | Arcilla    | < de 0,002 mm         |
 |------------+-----------------------|
 
-Para determinar la proporción presente en un suelo de estas particulas se ha de
+Para determinar la proporción presente en un suelo de estas partículas se ha de
 realizar un *análisis granulométrico*. Una vez separados los fragmentos y
 conocida la proporción que tenemos de arena, limo y arcilla, se emplea un
 esquema triangular de las texturas de USDA[fn:1], conocido como triangulo de
@@ -693,7 +719,7 @@ ser la siguiente que los agrupa en cuatro categorías:
 - *Estructura granular:* son partículas individuales de arena, limo y arcilla
   agrupadas en granos pequeños casi esféricos. El agua circula muy fácilmente a
   través de esos suelos. Por lo general, se encuentran en el horizonte A de los
-  perfíles de suelos. 
+  perfiles de suelos. 
 
 #+CAPTION: Estructura granular
 #+ATTR_LATEX: :width 0.5\textwidth
@@ -771,7 +797,7 @@ $V=\frac{V_e}{V}$
 #+END_EXPORT
 
 Donde:
-- V_e= volumen de espacios vacios, comprendiendo los que están ocupados por
+- V_e= volumen de espacios vacíos, comprendiendo los que están ocupados por
   gases o líquidos.
 - V= volumen total de la muestra, comprendiendo sólidos, líquidos y gases.
 
@@ -800,7 +826,7 @@ intercambio catiónico.
 Los elementos químicos o nutrientes necesarios para las plantas los clasificamos
 en :
 - *Macroelementos:* forman más del 99% de la materia viva, como carbono (C),
-  hidrogeno (H), fósforo (P), magnesio (Mg), azufre (S), calcio (Ca), potasio
+  hidrógeno (H), fósforo (P), magnesio (Mg), azufre (S), calcio (Ca), potasio
   (K), nitrógeno (N) y oxígeno (O)
 - *Microelementos:* forman parte de la planta en pequeña proporción pero son muy
   importantes para el desarrollo normal de las plantas. Son  manganeso (Mn),
@@ -818,7 +844,7 @@ tendremos tres tipos de suelos:
 
 - Suelos *ácidos* con pH inferior a 7.
 - Suelos *neutros* con pH igual a 7.
-- Suelos *alcálinos o básicos* con pH superior a 7.
+- Suelos *alcalinos o básicos* con pH superior a 7.
 
 #+CAPTION: Disponibilidad de nutrientes para las plantas según pH de suelo
 #+ATTR_LATEX: :width 0.7\textwidth
@@ -874,12 +900,12 @@ Estos organismos modificadores del suelo los dividimos por su tamaño:
   + Asociándose simbióticamente con las raíces de algunas plantas.
 
 ** Técnicas de preparación de suelos
-Este apartado se refiere al _cultivo a raiz desnuda_ y no en contenedor, ya que
+Este apartado se refiere al _cultivo a raíz desnuda_ y no en contenedor, ya que
 tendrá otro tipo de preparación que veremos más adelante.
 
 *** Objetivos
 El objetivo principal es provocar transformaciones, físicas, químicas y
-biológicas quer mejoren la germinación y el desarrollo de las plantas.
+biológicas que mejoren la germinación y el desarrollo de las plantas.
 
 Se realizan preparaciones para conseguir distintos fines como pueden ser:
 - Aireación del suelo.
@@ -891,13 +917,13 @@ Se realizan preparaciones para conseguir distintos fines como pueden ser:
 
 *** Condicionantes                                                 :noexport:
 
- Veamos cuatro de los _condicionantes más importantes en lapreparación del
+ Veamos cuatro de los _condicionantes más importantes en la preparación del
  suelo_:
 
 
 **** *Perdida de materia orgánica:*   
 
-Se ve afectada por factores como clinma, meteorología, vegetación y material del
+Se ve afectada por factores como clima, meteorología, vegetación y material del
 suelo.
 
 **** *Agregación del suelo:* 
@@ -913,15 +939,15 @@ raíces, frena el drenaje del suelo y facilita la erosión del suelo.
 
 *** Tipos de laboreo
 
-De un modo resumido los tipos de laboreo sepueden resumir en: 
+De un modo resumido los tipos de laboreo se pueden resumir en: 
 - *Laboreo tradicional:* Parte de la realización de labores  profundas  de  al
   menos  15-20  cm.  El  punto  departida más tradicional es el volteo de la
-  tierra conarados  diversos,  aunque  en  los  últimos  años  estalabor  se  va
+  tierra con arados  diversos,  aunque  en  los  últimos  años  esta labor  se  va
   sustituyendo  por  el  laboreo  vertical.Después se hacen necesarios uno o
-  varios pases delabores secundarias y posteriormente la siembra. 
+  varios pases de labores secundarias y posteriormente la siembra. 
 - *Mínimo laboreo:* El  laboreo  se  realiza  únicamente en las capas de suelo
   superficiales hasta los primeros 10-15 cm. Normalmente es vertical con chisel    
-  ocultivador,  pero  también  puede  ser  con  arado  de cohecho que realiza 
+  o cultivador,  pero  también  puede  ser  con  arado  de cohecho que realiza 
   volteo o simplemente con gradas de discos.
 - *No laboreo-Siembra directa:* Se fundamenta en la utilización  de  sembradoras
   especiales  capaces de  sembrar  directamente  sin  hacer  laboreo  del suelo
@@ -939,7 +965,7 @@ fertilidad.
 
 **** *Tractor agrícola:*
 
-Vehículo especial que se utiliza para arastrar o empujar remolques, aperos u
+Vehículo especial que se utiliza para arrastrar o empujar remolques, aperos u
 otra maquinaria o carga pesada. Existen tractores de distinta potencia, según el
 trabajo que se vaya a realizar, siendo los más utilizados los de 100-150 CV.
 
@@ -954,24 +980,83 @@ Ciertos motocultores pueden también ser dirigidos desde un asiento incorporado 
 un remolque o a un apero.  
 
 **** *Aperos:*
+Los diferentes útiles que se emplean con el tractor. Los diferentes tipos que
+hay pueden realizar diferentes funciones como voltear el terreno, separar sus
+agregados, nivelarlo, compactarlo, etc. 
 
+A continuación mencionamos los aperos más importantes según el tipo de laboreo
+requerido:
 
-***** Vertedera:
+***** *Arado de vertedera:* 
+Voltea y mulle el terreno, lo desmenuza y entierra los restos vegetales
+mezclándolos con tierra.
 
+Realiza una labor profunda del suelo de 30-40 cm
 
-***** Subsolador
+#+CAPTION: Arado de vertedera
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/ar_vertedera.jpeg]]
 
-***** Arado de discos
+***** *Subsolador:*
+Consta de un  número de brazos rectos que realizan una labor profunda de hasta
+70 cm.
 
-***** Chisel
+#+CAPTION: Subsolador de tres brazos
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/subsolador.jpeg]]
 
-***** Grada de discos
+***** *Arado de discos:*
+Corta la banda de tierra, desplazándola a continuación lateralmente por su
+movimiento de rotación.
 
-***** Cultivadores 
+#+CAPTION: Arado de discos
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/ar_discos.jpeg]]
 
-***** Sembradora
+***** *Chisel:*
+Es un apero con dientes semirrigidos y se emplea para esponjar el suelo. La
+distancia entre los dientes determina el grado de esponjamiento del suelo, de
+manera que a menor distancia mayor esponjamiento del suelo. Realiza una labor a
+20-30 cm de profundidad y se emplea para desterronar el suelo después de una
+labor profunda.
+#+CAPTION: Arado de chisel ligero
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/ar_chisel.jpeg]]
 
-***** Escarificador
+***** *Grada de discos:*
+Es un apero con dos vigas en forma de V con unos discos acoplados que giran y
+cortan el suelo dándole un pequeño volteo. El número de discos es variable entre
+veinte, treinta y hasta cuarenta. 
+
+Coloca la tierra fina en la superficie y los restos vegetales en la profundidad
+de trabajo mezclados homogéneamente.
+
+#+CAPTION: Grada de discos
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/grada_discos.jpeg]]
+
+***** *Cultivadores:* 
+Son máquinas de construcción sencilla a base de barras sobre las que se fijan
+los dientes.
+
+#+CAPTION: Cultivador
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/cultivador.jpg]]
+
+***** *Sembradora:*
+Máquina para realizar la siembra de distintos cultivos.
+
+#+CAPTION: Sembradora en línea neumática
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/sembra_lin_neumat.jpeg]]
+
+***** *Escarificador:*
+Es un apero con brazos curvilíneos que araña el suelo, cortando las raíces y
+facilitando la entrada de agua.
+
+#+CAPTION: Escarificador de arrastre
+#+ATTR_LATEX: :width 0.7\textwidth
+[[./img_1479/escarificador.jpeg]]
 
 **** *Herramientas manuales:*
 
@@ -986,7 +1071,7 @@ un remolque o a un apero.
 
 * Reproducción vegetativa de plantas
 
-Las plantas que hay que transplantar pueden proceder de:
+Las plantas que hay que trasplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
   siguientes _tipos de esquejes:
   - Esquejes herbáceos: clavel, crisantemo, salvia
