@@ -14,9 +14,10 @@
 #+SELECT_TAGS: export
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJECT(p) | DONE(d) CANCELLED(c)
-* NEXT Editando: suelo. técnicas preparacion, Fertilización, repaso a preparación sustratos
+* NEXT Editando: Reprod x semilla
 * NEXT Editando:
-* NEXT Comprobación de ortografía: desde aperos manuales
+* DONE Comprobación de ortografía: hasta reprod planta x semilla <2019-10-13 23:56 :dom>
+* NEXT Comprobación de ortografía:
 * TODO Check imagenes :
 * TODO Arbol evolucion especies veg
 * SOMEDAY Probar komascript classes
@@ -658,7 +659,7 @@ Las propiedades físicas generales de un suelo son:
 - *Calor:* el suelo tiene capacidad de absorber las radiaciones solares por lo
   que puede ser más frío o caliente. La temperatura es importante ya que
   determina la distribución de plantas e influye en procesos químicos y
-  bioticos.
+  bióticos.
 
 
 A continuación vemos  detalladamente algunas de las propiedades físicas del
@@ -1064,15 +1065,403 @@ facilitando la entrada de agua.
 
 **** *Herramientas manuales:*
 
+Para la preparación del terreno y propagación de plantas se pueden realizar
+diferentes labores tales como:
+- Labrar, cavar, desbrozar.
+- Movimiento de materiales
+- Sembrar, plantar, regar, abonar, podar, etc.
+
+Con pequeña maquinaria y herramientas manuales se pueden realizar todas las
+tareas mencionadas. Algunas de las herramientas más importantes en esta ámbito
+son:
+- Azada, azadón y azadilla
+- Hoces, horcas
+- Carretillas
+- Motosierras, desbrozadoras
+- Tijeras de poda, cortasetos
+- Mochilas para fumigar, regaderas
 ** Fertilización
+*** Principios
+La fertilización _esta destinada a restituir, mantener o aumentar el potencial
+productivo del suelo_, de manera que las plantas que se cultiven tengan todos
+los aportes que necesiten de los macroelementos y microelementos para un
+correcto desarrollo.
 
+El suelo cuenta con un grado de fertilización que vienen dado por la naturaleza
+de la roca madre y los depósitos transportados por acción de la gravedad, agua o viento.
+
+Los *objetivos* que se persiguen con la fertilización son:
+- Nutrir al suelo sin malgastar los recursos no renovables
+- No introducir tóxicos o contaminantes que a la larga perjudicarán al suelo y
+  al propio cultivo
+*** Técnicas
+Una fertilización racional debe combinar la utilización de dos técnicas diferentes
+**** *Fertilización orgánica*
+
+Fertilizantes de naturaleza orgánica que mejoran las propiedades físico-químicas
+del suelo y su actividad biológica haciéndolo más fértil y permeable.
+
+Este tipo de fertilizantes son lentos, ya que la liberación de nutrientes como el
+nitrógeno, se realiza a medida que los microorganismos lo descomponen y lo dejan
+disponible para las raíces.
+
+Ejemplos de fertilizantes orgánicos son los siguientes:
+- *Estiércol*
+- *Humus:* proveniente de la descomposición de los restos orgánicos por
+  organismos como hongos y bacterias
+- *Compost:* formado de la descomposición de materia vegetal o restos orgánicos
+  de origen animal o mixto.
+- *Guano:* estiércol de aves y murciélagos
+- *Gallinaza:* estiércol de naves de gallinas ponedoras o de engorde.
+- *Abono verde:* cultivo vegetal, generalmente de leguminosas que se cortan y se
+  dejan en el propio campo a fertilizar.
+**** *Fertilización mineral:*
+
+Se realiza mediante el empleo de fertilizantes inorgánicos. Estos son de acción
+rápida y proporcionan la mayor parte de los nutrientes que la planta
+necesita. Los fertilizantes simples son los que contienen solo un elemento
+químico; lo  más corriente es emplear abonos complejos con tres elementos
+fertilizantes /N, P, K/ e incluso un cuarto como puede ser calcio (Ca).
+
+Estos fertilizantes químicos o inorgánicos pueden encontrarse en estad, solido,
+líquido y gaseoso. Los formatos sólidos más empleados son:
+- Fertilizantes en polvo (en seco o soluble)
+- Fertilizantes granulados (en seco o soluble)
 ** Drenajes
+ Cuando un suelo se encuentra bajo condiciones de exceso de agua el empleo de
+ técnicas de drenaje puede beneficiar de diferentes maneras:
+- Mejorar la aireación óptima del suelo.
+- Prevenir asfixia radicular.
+- Desalojar las sales nocivas del suelo.
+*** Tipos
+En un sistema de drenaje el agua se recoge en parcelas mediantes drenes (zanjas
+o tuberías) que conducen el agua al sistema principal de drenaje.
+Fundamentalmente existen tres tipos de drenaje:
+**** *Superficial:*
 
+Tanto los drenes como los colectores son zanjas abiertas que conducen el agua
+fuera de los cultivos
+**** *Subterráneo:*
+
+En este caso son tuberías enterradas las encargadas de desalojar los excesos de
+agua derivados de filtraciones o excesos de humedad.
+**** *Mixto:*
+
+Combinación de los dos anteriores donde los drenes consisten en tuberías
+enterradas y los colectores son zanjas abiertas.
+*** Sistemas de construcción
+**** *Sistema paralelo*
+
+Son canales en paralelo que se realizan en terrenos casi planos con una
+topografía muy uniforme.
+**** *Espina paralelo*
+
+Sistema que emplea varias pendientes cruzadas. Se emplea en terrenos
+moderadamente inclinados de topografía irregular.
+**** *Sistema localizado*
+
+Se instalan en las depresiones de terrenos relativamente planos de topografía
+ondulada. 
+*** Materiales
+
+Actualmente los materiales que se emplean para los drenajes enterrados suelen
+ser tuberías de PVC o  poliestireno (PE). Los drenajes superficiales o drenajes
+de gran tamaño pueden realizarse con prefabricados de hormigón.
+
+Las tuberías más empleadas son las de PVC ya que pueden ser lisas o corrugadas,
+con fisuras o sin ellas, etc.
+
+Un ejemplo básico de drenaje de un terreno puede ser:
+- Cavar zanjas de 50cm de profundidad por 40cm de ancho con una ligera
+  pendiente y disposición de raspa de pescado.
+- Depositar en el fondo de las zanjas 8-10cm de grava y colocar los tubos de
+  drenaje encima.
+- cubrir los tubos con otros 20-25cm de grava  y colocar una manta o tela
+  geotextil que actué de filtro.
+- Finalmente terminar de cubrir la zanja con tierra a ser posible mezclada con arena
 ** Componentes para la elaboración de sustratos
+Un *sustrato* es todo material o medio, distinto del suelo, natural o
+artificial, mineral u orgánico, qué utilizado en un contenedor facilita el
+asiento del sistema radicular de la planta. El sustrato puede o no intervenir en
+la nutrición mineral de la planta.
+
+Para evaluar la calidad de un sustrato se analizan diversos factores tales como:
+- *Físicos:* aireación, densidad, capacidad de retención de agua, tamaño de
+  partículas, etc.
+- *Químicos:* capacidad de intercambio catiónico, pH, concentración de
+  nutrientes, salinidad, etc
+- *Biológicos:* contenido de microorganismos beneficiosos, Materia Orgánica en
+  descomposición, toxicidad o contaminación por semillas de especies no deseadas.
+- *Económicos:* coste, disponibilidad, facilidad de mezclado, etc
+
+Los sustratos los podemos clasificar según el origen de sus materiales en
+inorgánicos y orgánicos.
+- *Sustratos según su origen:*
+  1) *Sustratos orgánicos:*
+     + Turbas rubia y negra
+     + Corteza de pino
+     + Fibra de coco
+     + Restos de poda
+  2) *Sustratos inorgánicos:*
+     + De origen natural:
+       * Gravas
+       * Arenas
+       * Tierra volcánica
+     + Transformados o tratados:
+       * Vermiculita
+       * Perlita
+       * Lana de roca
+       * Arcilla expandida
+
+Las mezclas de sustratos se realizan  en función  del cultivo, debido a
+carencias de nutrientes, pH, salinidad, retención de agua, etc. Las _mezclas más 
+habituales se forman con dos o tres sustratos_, por ejemplo turba y arena, o
+turba, corteza de pino y vermiculita. 
+
+A continuación exponemos una serie de mezclas de sustratos:
+|------------+---------------------|
+| MEZCLA I   | 50% Fibra coco      |
+|            | 30% Corteza de pino |
+|            | 10% Turba rubia     |
+|            | 5% Tierra vegetal   |
+|            | 5% Vermiculita      |
+|------------+---------------------|
+| MEZCLA II  | 45% Fibra coco      |
+|            | 35% Corteza de pino |
+|            | 10% Tierra vegetal  |
+|            | 5% Turba rubia      |
+|            | 5% Vermiculita      |
+|------------+---------------------|
+| MEZCLA III | 40% Fibra coco      |
+|            | 25% Corteza de pino |
+|            | 25% Orujo de uva    |
+|            | 5% Tierra vegetal   |
+|            | 5% Vermiculita      |
+|------------+---------------------|
+| MEZCLA IV  | 60% Fibra coco      |
+|            | 20% Piña triturada  |
+|            | 10% Turba rubia     |
+|            | 5% Tierra vegetal   |
+|            | 5% Vermiculita      |
+|------------+---------------------|
+
+Existen tres procesos que se realizan en la elaboración de sustratos:
+1) *Corrección:* Existen diferentes correcciones como:
+   - Corrección de pH (se realiza con cal).
+   - Corrección de nutrientes.
+   - Corrección de la salinidad.
+2) *Abonado:* el abonado tiene varias características como:
+   - Mejorar el sustrato.
+   - Sirven de reserva a las plantas.
+   - Mantienen un equilibrio entre los elementos necesarios para las plantas.
+3) *Desinfección:* se emplean para evitar los efectos negativos de parásitos
+   como insectos, nemátodos, hongos, hierbas no deseadas, bacterias y
+   virus. Existen varias técnicas de desinfección:
+   - *Físicas:* emplean el calor como esterilizante con temperaturas que
+     alcanzan los 40-50 \textdegree{}C.  La solarización es un ejemplo de técnica
+     de desinfección.
+   - *Químicas:* utilizan distintos productos para lograr la desinfección
+     del sustrato. 
 
 ** Equipos de protección individual
-* Reproducción de plantas por semillas 
+Se definen los /EPI/ o *equipos de protección individual* como “Cualquier equipo
+destinado a ser llevado o sujetado por el trabajador para que le proteja de uno
+o varios riesgos, que puedan amenazar su seguridad o su salud en el trabajo, así
+como cualquier complemento o accesorio destinado a tal fin”.
 
+No son EPI la ropa de trabajo corriente y los uniformes que no estén
+específicamente destinados a proteger la integridad física del trabajador
+
+#+CAPTION: Diferentes EPI según parte del cuerpo a proteger
+|-----------------------------+----------------------------------------------|
+| Parte del cuerpo a proteger | EPI                                          |
+|-----------------------------+----------------------------------------------|
+| Cabeza                      | Casco                                        |
+| Oído                        | Tapones, orejeras                            |
+| Ojos y cara                 | Gafas, pantalla                              |
+| Vías respiratorias           | Mascarillas, filtros                         |
+| Brazos y manos              | Guantes, manguitos                           |
+| Pies y piernas              | Calzado de seguridad, polainas, espinilleras |
+| Cuerpo                      | Arnés                                        |
+|-----------------------------+----------------------------------------------|
+
+Son *obligaciones del trabajador:*
+- Utilizar y cuidar los EPI, y revisarlos antes de su uso.
+- Guardarlos en el lugar indicado.
+- Informar de cualquier desperfecto.
+
+*Obligaciones del empresario:*
+- Determinar los puestos de trabajo y tareas que requieren uso de EPI.
+- Elegir el equipo más adecuado
+- Informar de la parte del cuerpo que protege, del tipo de riesgo y cuando utilizarlo.
+- Instruir sobre su uso y mantenimiento.
+- Suministrarlo sin cargo económico al trabajador
+- Velar por su uso efectivo
+- Controlar su correcto mantenimiento
+
+Describimos a continuación los distintos riesgos laborales asociados a tareas
+específicas dentro del proceso de preparación del medio de cultivo.
+
+**** *Laboreo*
+
+1) Realizado mecánicamente con motocultor.
+   - *Riesgos:*
+     - Golpes, contusiones y cortes
+     - Caídas al mismo o diferente nivel.
+     - Atrapamiento, secciona miento o aplastamiento de miembros.
+     - Exposición a vibraciones.
+     - Exposición a ruido.
+     - Proyección de fragmentos.
+     - Sobreesfurzos.
+     - Choques contra objetos inmóviles.
+     - Exposición a contacto eléctrico.
+   - *EPI:*
+     - Calzado de seguridad.
+     - Gafas de protección.
+     - Guantes de cuero.
+     - Protectores auditivos.
+     - Ropa alta visibilidad.
+     - Mascarilla antipartículas si necesario
+
+2) Realizado de manera manual
+   - *Riesgos:*
+     - Sobreesfuerzos y fatiga corporal.
+     - Caídas al mismo o diferente nivel.
+     - Golpes, cortes y contusiones por el uso de diferentes herramientas.
+     - Exposición a contacto eléctrico.
+     - Exposición de partículas.
+   - *EPI:*
+     - Calzado de seguridad.
+     - Guantes de cuero.
+     - Gafas de protección.
+     - Ropa alta visibilidad.
+
+**** *Abonado del terreno: orgánico y químico*
+
+- *Riesgos:*
+  - Sobreesfuerzos por manipular cargas o posturas inadecuadas.
+  - Enfermedades por contacto con agentes químicos o biológicos.
+  - Enfermedades musculo esqueléticas por realización de trabajo repetitivo
+  - Ingestión accidental de tóxicos.
+  - Lesiones oculares por proyección de fragmentos o partículas.
+  - Lesiones en la piel por salpicaduras de residuos o productos químicos.
+- *EPI:*
+  - Gafas de protección.
+  - Guante de goma apropiado al tipo de producto a emplear
+  - Mascarilla con el filtro adecuado al fertilizante o agente a emplear
+  - Calzado de seguridad
+
+**** *Transporte*
+
+Los procesos de carga, descarga y traslado de materiales, máquinas, plantas,
+etc, de un lugar a otro
+
+1) Realizados *mecánicamente* por vehículos o maquinaria agrícola:
+   - *Riesgos:*
+     - Sobreesfuerzos por manipular cargas o posturas inadecuadas.
+     - Caídas al mismo o diferente nivel.
+     - Golpes y/o cortes por objetos y herramientas.
+     - Inhalación o o¡ingestión accidental de sustancias nocivas.
+     - Lesiones oculares por proyección de fragmentos o partículas.
+     - Atrapamientos.
+     - Sobreesfuerzos.
+     - Exposición eléctrica.
+   - *EPI:*
+     - Gafas de protección.
+     - Calzado de seguridad.
+     - Guantes de seguridad.
+     - Casco de seguridad cuando intervengan grúas en las operaciones.
+2) Realizadas de manera *manual:*
+   - *Riesgos:*
+     - Sobreesfuerzos por manipular cargas o posturas inadecuadas.
+     - Caídas al mismo o diferente nivel.
+     - Proyección de partículas.
+     - Golpes, cortes y contusiones.
+   - *EPI:*
+     - Guantes de cuero.
+     - Calzado de seguridad.
+     - Gafas de protección si necesario.
+* Reproducción de plantas por semillas 
+La propagación de plantas es una _práctica fundamental_ en el campo ya que de la
+calidad de la semilla o material vegetativo que se emplee va a depender el resto
+del proceso productivo.
+
+Las plantas pueden reproducirse principalmente de dos maneras. sexualmente por
+semilla, y de forma asexual o vegetativa mediante un fragmento a partir del
+cual se desarrollara la nueva planta.
+** Características de la reproducción por semilla
+La formación de semillas es esencial para la supervivencia de la mayoría de las
+especies vegetales. En la reproducción sexual la *flor* es el órgano que da
+origen a las semillas. En los *estambres* se forman los granos de polen (gametos
+masculinos). El óvulo (gameto femenino), se encuentra en la parte inferior del
+*pistilo*.
+
+Cuando un grano de polen llega al pistilo se forma el *tubo polínico* por el que
+se desplazan los gametos masculinos para llegar al óvulo donde son liberados
+para realizar la fecundación.
+
+La fecundación es la unión de las células sexuales masculina y femenina, también
+llamadas gamentos, para formar el cigoto, el cual se desarrollará en el interior
+de la semilla y se convierte en embrión, y este, al germinar la semilla dará
+origen a la planta adulta.
+*** Ventajas e inconvenientes de la reproducción por semilla
+
+- *Ventajas:*
+  - Favorece la adaptación al ambiente.
+  - Aumenta la variación genética de la especie, ya que la descendencia es el
+    producto de los genes aportados por ambos progenitores.
+- *Inconvenientes:*
+  - No se obtienen plantas exactamente iguales a la planta madre.
+  - El número de descendientes puede ser reducido, sobre todo si se compara con
+    la reproducción vegetativa.
+  - Que los gamentos masculino y femenino se encuentren ya supone una dificultad
+    y un mayor gasto energético en la reproducción lo que da como resultado una
+    menor rapidez del proceso.
+** Formación y maduración de las semillas y frutos
+Cuando ha tenido lugar la fecundación, el ovario y los óvulos experimentan una
+serie de modificaciones muy importantes. Desaparecen las piezas florales
+externas por desecación: cáliz, corola e incluso estambres. El ovario adquiere
+mayor desarrollo  transformándose en el fruto, y los óvulos con el embrión en su
+interior  se transforman en semillas. De esta manera el fruto es el ovulo
+transformado y maduro y las semillas los óvulos fecundados y maduros.
+
+La semilla está formada por tres partes:
+
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/semilla_partes.jpg]]
+
+**** *Embrión:*
+
+Es la planta muy pequeña contenida en la semilla.  Se encuentra en estado de
+letargo. El embrión está formado por 4 partes:
+1. *Radícula:* Es una raíz primordial que tiene el embrión. A partir de esta raíz
+   se desarrollará una raíz completa con raíces secundarias, pelillos
+   absorbentes, etc
+2. *Plúmula:*  Yema que se encuentra en el lado opuesto a la radícula
+3. *Hipocótilo:* Es el espacio entre la radícula y la plúmula. Esta se
+   convertirá en un tallo
+4. *Cotiledón:* Son la hoja o hojas primordiales del embrión según la planta sea
+   /monocotiledonea/ o /dicotiledonea/ respectivamente
+
+**** *Albumen o endospermo:* 
+
+Es _la reserva de alimento_ que tiene la semilla. Generalmente es almidón.
+
+**** *Tegumento o epispermo:* 
+
+Es una capa exterior protectora cuya función es proteger al embrión. En
+gimnospermas está formado por una sola capa denominada _testa_, mientras que en
+las angiospermas está formado por dos capas, _la testa y el tegumen_ que está por debajo.
+
+*** Desarrollo de la semilla
+En el desarrollo de la semilla podemos distinguir tres estados después de
+efectuada la polinización:
+
+**** *Desarrollo del embrión.*
+
+**** *Acumulación de reservas alimenticias.*
+
+**** *Maduración.*
 * Reproducción vegetativa de plantas
 
 Las plantas que hay que trasplantar pueden proceder de:

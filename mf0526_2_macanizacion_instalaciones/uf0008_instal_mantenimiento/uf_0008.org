@@ -882,3 +882,90 @@ de prevención de riesgos laborales:
   condiciones de trabajo seguras. 
 
 ** Principios básicos de los primeros auxilios
+
+*** Definición
+
+Se definen los primeros auxilios como:
+#+BEGIN_CENTER
+/Conjunto de actuaciones y técnicas que permiten la atención inmediata de un/
+/accidentado, hasta que llegue la asistencia médica profesional, con el fin de/
+/que las lesiones que ha sufrido “NO EMPEOREN”./  
+#+END_CENTER
+Hay que saber que los ciudadanos tenemos el deber de auxiliar y socorrer a las
+víctimas de un accidente tanto en el ámbito personal como en el laboral. las
+referencias normativas son las siguientes:
+- Art.195 Código Penal
+- Ley 31/95 de Prevención de Riesgos Laborales
+- Art.51 Ley de Tráfico y Seguridad Vial
+- Art.129 del Reglamento General de conductores
+- Constitución Española de 1978
+#+BEGIN_CENTER
+<<El derecho a la vida, la salud y la integridad físicaes un deber que todos
+tenemos obligación de proteger.>> 
+#+END_CENTER
+
+*** Gestión de las situaciones de emergencia
+
+**** Conservar la calma:
+- Abordar la situación con la cabeza fría. Se pueden hacer inspiraciones
+  profundas a fin de tranquilizarse.
+- Desechar los sentimientos de culpa. La persona que socorre no tiene los conocimientos y
+  los medios con los que cuenta no son, en ningún caso, equiparables a los de
+  los profesionales de la medicina, y que, por tanto, su ayuda será mucho más
+  limitada.  
+**** Tener claro que se debe hacer:
+- Lo primero no dañar
+- Hacer a la víctima únicamente maniobras que se conozcan.
+- Traqueotomías y torniquetes, salvo casos extremos, _no deben ser realizadas 
+  por la persona que socorre_. El personal sanitario especializado debe realizarlas.
+- Acompañar a la víctima dando consuelo y confortándola.
+
+**** Activar el sistema de emergencia o sistema P.A.S.:
+
+La  activación  del  sistema  de  emergencia,  _consiste  en  instaurar  un 
+protocolo  de actuación, mundialmente aceptado_ y que tiene *tres eslabones*
+fundamentales: 
+
+1) Proteger el ambiente del accidente *(P)*
+2) Avisar a los servicios de socorro *(A)*
+3) Socorrer al accidentado *(S)*
+
+***** Proteger el ambiente del accidente *(P)*:
+
+Proteger y hacer seguro el lugar del accidente impidiendo que _el mismo, la 
+víctima o terceras personas puedan resultar víctimas en nuevos accidentes_.
+
+Ejemplos:
+- Retirar la llave de un vehículo accidentado.
+- Señalizar el accidente. Sobre todo si es de tráfico.
+- Desconectar la corriente antes de tocar una víctima.
+- No entrar en una fosa séptica si no se disponen de los elementos de protección
+  personal necesarios. 
+
+***** Avisar a los servicios de socorro *(A)*:
+
+*Protocolo para avisar:*
+1) El socorrista se identificará.
+2) Indicar el tipo de accidente.
+3) Indicar de forma lo más precisa la localización del accidente.
+4) Informar de la hora.
+5) Informar sobre el números de heridos
+6) Informar sobre la gravedad aparente de los heridos.
+7) No colgar
+8) Comunicar a las víctimas que los servicios de socorro están alertados.
+
+#+BEGIN_EXPORT latex
+\begin{center}
+\huge NÚMERO DE COORDINACIÓN DE EMERGENCIAS: \textcolor{red}{112}
+\end{center}
+#+END_EXPORT
+
+***** Socorrer al accidentado *(S)*:
+- Mantener la calma y tranquilizar a la víctima
+- No mover al accidentado.
+- Exploración primaria de signos vitales
+  - Comprobar CONSCIENCIA
+  - Comprobar RESPIRACIÓN
+  - Comprobar PULSO
+  - Buscar posibles HEMORRAGIAS
+- Exploración secundaria de los síntomas
