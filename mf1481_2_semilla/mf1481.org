@@ -30,12 +30,12 @@ Existen diferentes tipos de polinización según tengamos en cuenta
 
 1. El transporte de polen
    - *Entomogamia:* cuando el polen es transportado por _insectos_. Son plantas entomófilas
-   - *Anemogamia:* el polen se mueve por acción del _viento_
-   - *Ornitogamia:* transportado por _aves_
-   - *Hidrogamia:* el medio en este caso es el _agua_
+   - *Anemogamia:* el polen se mueve por acción del _viento_.
+   - *Ornitogamia:* transportado por _aves_.
+   - *Hidrogamia:* el medio en este caso es el _agua_.
 2. El _tipo de fecundación_
-   - *Autogamia:* el grano de polen fecunda en la _misma flor_
-   - *Alogamia:* el grano de polen va al pistilo de _otra flor_
+   - *Autogamia:* el grano de polen fecunda en la _misma flor_.
+   - *Alogamia:* el grano de polen va al pistilo de _otra flor_.
 
 #+BEGIN_EXPORT latex
 \begin{center}%
@@ -210,7 +210,7 @@ semillas, de un modo relativamente económico, durante largos periodos de tiempo
 
 * Recolección de frutos y semillas
 ** Tipos de frutos
-
+   
 
 Existen _diferentes maneras de clasificación_:
 

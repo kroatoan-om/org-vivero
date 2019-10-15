@@ -1458,10 +1458,265 @@ En el desarrollo de la semilla podemos distinguir tres estados después de
 efectuada la polinización:
 
 **** *Desarrollo del embrión.*
+Se produce una rápida división celular que dará como resulado al embrión. Este
+último será el que dará lugar a una nueva planta.
 
+En esta fase el contenido de humedad es bastante elevado.
 **** *Acumulación de reservas alimenticias.*
+La acumulación de estas sustancias se puede dar o en el endoespermo o en las
+hojas especiales llamadas cotiledones.
 
+Durante esta segunda fase el contenido en humedad desciende hasta el 50%.
 **** *Maduración.*
+Durante esta fase la semilla se seca casi completamente pues la humedad
+desciende ha un 10-20%
+
+Estas tres fases de desarrollo requieren de uns tiempos que dependen de las
+especies y de las propias condiciones atmosféricas.
+*** Tipos de semillas 
+**** Tipos de semillas
+En la actualidad se distinguen dos tipos de semillas:
+- *Ortodoxas.* Semillas que pueden secarese hasta un contenido en humedad bajo,
+  de alrededor del 5%. Pueden almacenarse a temperaturas bajas o inferiores a 0
+  \textdegree{}C durante largos períodos.
+- *Recalcitrantes.* Semillas que necesitan un contenido en humedad relativamente
+  alto, entre 20-50% pra sobrevivir. No toleran largos periodos de
+  almacenamiento.
+*** Tipos de frutos
+Existen _diferentes maneras de clasificación_:
+
+- Según composición y consistencia:
+  - Frutos carnosos
+  - Frutos secos
+- Según número de semillas:
+  - Monospermos
+  - Polispermos
+- Según forma de liberar las semillas:
+  - Dehiscentes: _Se_abren_ de manera espontánea.
+  - Indehiscentes: _No se abren_ de manera espontánea.
+- Según el origen del fruto
+  - Monocarpicos (Un solo carpelo)
+    - Drupa (melocotón, almendra, oliva, etc)
+    - Aquenio (avellana)
+    - Nucula (nuez, pistacho)
+  - Policarpicos (dos o varios carpelos)
+    - Pomo (pera, manzana)
+    - Baya (uva, plátano)
+    - Hesperidio (naranja, mandarina, limón)
+    - Balausta (granada)
+    - Pepónide (papaya)
+  - Multiples
+    - Polidrupa (frambuesa, mora de la zarzamora)
+    - Poliaquenio (fresa)
+  - Infrutescencias
+    - Sicono (higo)
+    - Sorosis (chirimoya, piña, mora de la morera)
+    - Cúpula (``erizo'' o involucro del castaño)
+**** *Drupa*
+
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/drupa.PNG]]
+
+Deriva en su totalidad del ovario.
+
+#+BEGIN_EXPORT latex
+%\vspace{3cm}
+#+END_EXPORT
+**** *Baya*
+
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/baya.PNG]]
+
+- Deriva de un ovario simple (sin tabiques aparentes).
+- _No tiene endocarpio_.
+- Es un fruto multisemillado
+#+BEGIN_EXPORT latex
+%\newpage
+#+END_EXPORT
+**** *Pomo*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/pomo.PNG]]
+
+Deriva de la fusión del ovario y del tubo floral (receptáculo y tejidos
+adyacentes del pedúnculo). Normalmente 5 carpelos con 2 óvulos.  
+#+BEGIN_EXPORT latex
+\vspace{3cm}
+#+END_EXPORT
+**** *Hesperidio*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/hesperidio.PNG]]
+
+Deriva de un ovario simple con varios carpelos. Endocarpio dividido en lóculos o
+gajos.
+#+BEGIN_EXPORT latex
+%\newpage
+#+END_EXPORT
+**** *Núcula (o nuez)*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.8\textwidth
+[[./img_1479/nucula.PNG]]
+
+**** *Agregado o múltiple*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1479/polidrupa.PNG]]
+
+Deriva de varios ovarios de una sola flor y de su receptáculo.
+#+BEGIN_EXPORT latex
+%\newpage
+#+END_EXPORT
+**** *Infrutescencia*
+
+#+CAPTION: 
+#+ATTR_LATEX: :width 0.6\textwidth
+[[./img_1479/infrutescencia.PNG]]
+
+Deriva de la unión de varios ovarios y receptáculos de una inflorescencia o
+frutos simples íntimamente unidos con la apariencia de un solo fruto.
+
+#+BEGIN_EXPORT latex
+\fbox{\parbox{\textwidth}{Como recordatorio y para no llevar a confusión citamos varios ejemplos donde los
+frutos parecen semillas a simple vista y viceversa:\\
+
+Las \textbf{pipas de girasos} no son semillas, sino frutos de tipo aquenio,
+como ocurre con la mayoría de plantas de la misma familia, las compuestas.\\
+Los \textbf{granos de los cereales, trigo, arroz, maíz, centeno, etc} son frutos 
+de tipo cariópside, como el resto de las gramineas}}
+#+END_EXPORT
+*** Dispersión de las semillas
+Nos referimos a las diversas estrategias que emplean las plantas como transporte
+para la dispersión de semillas o frutos.
+
+Los principales mecanismos de dispersión son:
+1. *Zoocoria:* donde el agente que realiza el transporte es un animal.
+2. *Anemocoria:* cuando la dispersión se realiza por el viento.
+3. *Hidrocoria:* dispersión producida por el agua, ya sea por la acción mecánca
+   del agua o por flotación sobre la superficie.
+4. *Autocoria:* la propia planta posee mecanismos de dispersión.
+5. *Barocoria:* se refiere a la dispersión por la fuerza de gravedad, es decir a
+   la caida del fruto o semilla por su propio peso.
+** La germinación
+Es el conjunto de fenómenos por los cuales el embrión, que está en estado de
+vida latente dentro de la semilla, reanuda su crecimiento para formar una
+plántula. 
+
+Para que la semilla recupere su actividad biológica se han de dar una serie de
+_condiciones ambientales favorables_ como son:
+- Sustrato húmedo. La presencia de agua es imprecindible para que la semilla
+  recupere su metabolismo.
+- Disponibilidad de oxígeno para permitir la respiración aerobia. La mayoría de
+  las semillas necesitan un medio suficientemente aireado para tener una
+  adecuada disponibilidad de O_2 y CO_2
+- Temperatura adecuada. Existen diferentes margenes de temperatura en los que,
+  tanto por encima como por debajo, las semillas no germinan.
+*** Fases en el proceso de germinación
+Distinguimos tres fases:
+**** *Fase de hidratación:* 
+la ansorción de agua es el primer paso sin el cual la germinación no sería posible.
+**** *Fase de germinación:*
+cuando se producen las transformaciones metabólicas necesarias para el correco
+desarrollo de la plántula. En esta fase la absorción de agua se reduce, llegando
+incluso a detenerse.
+**** *Fase de crecimiento:*
+última fase de la germinación que se asocia con la emergencia de la radícula,
+que es la primera estructura que sale de la semilla. En esta fase la absorción
+de agua vuelve a aumentar, así como la actividad respiratoria.
+*** Tratamientos pregerminativos
+
+Hay que saber que una parte importante de las especies poseen _algún impedimento_
+para que germminen sus semillas. Esto puede deberse a _dos causas_:
+1. *El medio no es favorable* para el crecimiento. Falta de agua, temperatura
+   inadecuada, etc.
+2. Las condiciones del medio son adecuadas pero, *el organísmo tiene unas 
+   características tales que impiden su crecimiento*. Este tipo de inhibición se
+   llama *latencia o dormancia*.   
+Los distintos tipos de tratamientos pregerminativos son:
+**** *Estratificación:* 
+
+Consiste en colocar las semillas, embebidas en agua o no, en capas o estratos
+húmedos, usando como sustrato por ejemplo la arena. La estratificación puede
+ser:
+- Cálida. Si la estratificación se realiza a temperaturas altas (22 a 30 \textdegree{}C)
+- Fría. Si se realiza a temperaturas bajas (0 a 10 \textdegree{}C)
+**** *Escarificación:*
+
+Cualquier proceso de _romper, rayar, alterar mecánicamente o ablandar_ las
+cubiertas de las semillas para hacerlas permeables. Puede ser:
+- Mecánica
+- Húmeda
+- Química
+**** *Lixiviación:*
+
+El proposito es remover los inhibidores remojando las semillas en agua corriente
+o cambiándoles el agua con frecuencia.
+**** *Combinación de tratamientos:*
+
+Se emplea en semillas que tienen más de un tipo de letargo.
+**** *Hormonas y otros estimulantes químicos:*
+
+Compuestos que sirven para estimular la germinación. Entre los más usados están:
+- Nitrato de potasio
+- Tiourea
+- Etileno
+- Ácido giberélico
+- Ácido indolbutírico
+- Citoquininas
+**** Los distintos tipos de latencia son:                          :noexport:
+
+- Latencia exógena
+  - Fisica o mecánica
+  - Química
+- Latencia endógena
+  - Morfológica
+  - Del embrión
+- Latencia combinada
+
+
+Los distintos tratamientos pregerminativos son:
+** La siembra 
+
+La siemra de un lote de semillas la podemos hacer: 
+- Directamente en suelo
+- En envase
+
+El éxito de la siembra depende de varios factores, principalmente: 
+- *La calidad del lote de semillas.* Factor importante, pues de ello depende el
+  número de semillas a sembrar y la homogeneidad del desarrollo.
+- *Época de siembra.*
+- *Profundidad:* Hay que tener especial cuidado ya que si se entierra demasiado
+  la germinación puede retrasarse mucho o no ocurrir, o por el contrario
+  quedarse expuesta a desecación. Como regla general se entierra a una
+  profundidad de 1 a 1,5 veces su diámetro menor.
+- Densidad de siembra
+*** Épocas
+la época de siembra depende de las características propias de las plantas a
+propagar y el clima de la región.
+
+La época de siembra más conveniente para coníferas es la primavera temprana. El
+objetivo es la prevención de /damping-off[fn:2]/, que se estimula cuando la
+temperatura del aire alcanza los 20 \textdegree{}C. Esto sucede, en nuestras
+latitudes a principios de mayo, por lo que las plántulas en esa fecha ya deben
+estár lignificadas.
+
+Para frondosas la época sera el otoño, y permanecerán las semillas todo el
+invierno en el terreno. Esto es equivalente a una estratificación en frío.
+*** Métodos y técnicas
+Según la forma de situar la semilla en el terreno, las formas de efectuar la
+siembra pueden ser:
+**** *A voleo:*
+
+Consiste en depositar uniformemente una cantidad previamente determinada de
+semilla en la superficie a sembrar, y una vez depositada enterrarla con gradas
+de púas, rulo. 
+**** *En línea: a chorrillo y a golpes.*
+
+
 * Reproducción vegetativa de plantas
 
 Las plantas que hay que trasplantar pueden proceder de:
@@ -1482,6 +1737,13 @@ Las plantas que hay que trasplantar pueden proceder de:
 - Multiplicación por semillas o sexual
 
 * Footnotes
+
+[fn:2] Damping-off: es una enfermedad común que afecta a las semillas y
+plántulas de muchas especies, y sobre todo especies forestales. Esta causado por
+varios generos de hongos: /Pythium, Fusarium, Phytophtora y Rhizoctonia/ son los
+más presentes en los daños causados. El manejo de la enfermedad debe hacerse de
+forma preventiva fundamentalmente, pues una vez ha aparecido no es fácil aplicar
+tratamientos efectivos.
 
 [fn:1] United States Department of Agriculture
 
