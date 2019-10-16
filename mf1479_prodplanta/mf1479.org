@@ -14,8 +14,8 @@
 #+SELECT_TAGS: export
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJECT(p) | DONE(d) CANCELLED(c)
-* NEXT Editando: Reprod x semilla
-* NEXT Editando:
+* DONE Editando: Reprod x semilla <2019-10-15 23:58 :mar>
+* NEXT Editando: Reprod vegetativa
 * DONE Comprobación de ortografía: hasta reprod planta x semilla <2019-10-13 23:56 :dom>
 * NEXT Comprobación de ortografía:
 * TODO Check imagenes :
@@ -62,7 +62,7 @@ vez mas elevado._
 #+BEGIN_EXPORT latex
 \recuerda{ El nombre de las especies se construye con \textbf{dos partes} (binomen).
 La primera corresponde al \uline{género} al que pertenece y la otra es el \uline{específico}.}
-\newpage
+%\newpage
 #+END_EXPORT  
 ** Guías de campo y claves dicotómicas
 Para la identificación de plantas se suele contar con dos tipos de herramientas,
@@ -126,11 +126,11 @@ secuoyas, etc.
 [[./img_1479/cono_fem_masc.jpg]]
 
 #+CAPTION: Tipos de conos
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.5\textwidth
 [[./img_1479/tipos_conos.jpg]]
 
-#+CAPTION: Tipos de conos
-#+ATTR_LATEX: :width 0.8\textwidth
+#+CAPTION: Forma de la copa de algunas coníferas
+#+ATTR_LATEX: :width 0.5\textwidth
 [[./img_1479/conif_siluetas.jpeg]]
 
 ***** *Árboles ornamentales*
@@ -319,7 +319,7 @@ Las diferentes clases de raíces son:
 - *Tuberosas:* son raíces muy engrosadas debido a que acumulan sustancias de
   reserva 
 #+CAPTION: Clases de raíces según su forma
-#+ATTR_LATEX: :width 0.8\textwidth
+#+ATTR_LATEX: :width 0.9\textwidth
 [[./img_1479/raices_tipos_3.jpg]]
 
 **** *Tallo:* 
@@ -337,7 +337,7 @@ Distinguimos las siguientes partes:
     tallos en longitud 
 
 #+CAPTION: Partes de un tallo 
-#+ATTR_LATEX: wrap :width 0.5\textwidth 
+#+ATTR_LATEX: :width 0.5\textwidth :placement [t!]
 [[./img_1479/partes_tallo.png]]
 
 Encontramos diferentes tipos de tallos, por ejemplo:
@@ -355,14 +355,14 @@ sobre el tallo, encargados de la fotosíntesis.
 
 La forma de los tallos está íntimamente relacionada con las hojas. Un órgano no
 puede existir sin el otro, en conjunto constituyen el vástago.  
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 
 #+CAPTION: Partes de una hoja
 #+ATTR_LATEX: :width 0.7\textwidth 
 [[./img_1479/partes_hoja.png]]
 
-#+BEGIN_EXPORT latex
-%\newpage
-#+END_EXPORT
 - El *limbo* es la parte plana.
   - La parte superior se llama *haz*
   - La parte inferior *envés*
@@ -640,8 +640,11 @@ o completo podemos encontrar:
   ninguna alteración.
 
 #+CAPTION: Horizontes de un suelo evolucionado
-#+ATTR_LATEX: :width 0.4\textwidth
+#+ATTR_LATEX: :wrap :placement [h!] :width 0.4\textwidth
 [[./img_1479/perfil_suelos.jpg]]
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 ** Propiedades del suelo
 
 El suelo es un sistema heterogéneo muy complejo  debido a sus múltiples
@@ -698,11 +701,12 @@ realizar un *análisis granulométrico*. Una vez separados los fragmentos y
 conocida la proporción que tenemos de arena, limo y arcilla, se emplea un
 esquema triangular de las texturas de USDA[fn:1], conocido como triangulo de
 texturas. 
-
 #+CAPTION: Triangulo de texturas
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth :placement [hb!]
 [[./img_1479/triang_texturas.png]]
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 - *Suelos arcillosos de textura fina:* Los suelos de este tipo tienen un gran
   poder de absorción de elementos nutritivos y gran poder de retención de
   agua. Son suelos generalmente muy compactos y pesados, por tanto difíciles de
@@ -873,9 +877,9 @@ disolución del suelo. La conductividad eléctrica varía según la  temperatura
 medida, y se mide siempre a 25 \textdegreeC.
 
 La unidad de medida de la conductividad eléctrica en el SI es el /Siemens/ (S). 
-
-
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Capacidad de intercambio catiónico:*
 
 La CIC se refiere al número de cationes intercambiables (cargas positivas) que
@@ -991,7 +995,9 @@ agregados, nivelarlo, compactarlo, etc.
 
 A continuación mencionamos los aperos más importantes según el tipo de laboreo
 requerido:
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 ***** *Arado de vertedera:* 
 Voltea y mulle el terreno, lo desmenuza y entierra los restos vegetales
 mezclándolos con tierra.
@@ -999,7 +1005,7 @@ mezclándolos con tierra.
 Realiza una labor profunda del suelo de 30-40 cm
 
 #+CAPTION: Arado de vertedera
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.7\textwidth :placement [h!]
 [[./img_1479/ar_vertedera.jpeg]]
 
 ***** *Subsolador:*
@@ -1007,15 +1013,17 @@ Consta de un  número de brazos rectos que realizan una labor profunda de hasta
 70 cm.
 
 #+CAPTION: Subsolador de tres brazos
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.5\textwidth :placement [h!]
 [[./img_1479/subsolador.jpeg]]
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 ***** *Arado de discos:*
 Corta la banda de tierra, desplazándola a continuación lateralmente por su
 movimiento de rotación.
 
 #+CAPTION: Arado de discos
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.5\textwidth :placement [h!]
 [[./img_1479/ar_discos.jpeg]]
 
 ***** *Chisel:*
@@ -1025,9 +1033,11 @@ manera que a menor distancia mayor esponjamiento del suelo. Realiza una labor a
 20-30 cm de profundidad y se emplea para desterronar el suelo después de una
 labor profunda.
 #+CAPTION: Arado de chisel ligero
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.7\textwidth :placement [h!]
 [[./img_1479/ar_chisel.jpeg]]
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 ***** *Grada de discos:*
 Es un apero con dos vigas en forma de V con unos discos acoplados que giran y
 cortan el suelo dándole un pequeño volteo. El número de discos es variable entre
@@ -1037,7 +1047,7 @@ Coloca la tierra fina en la superficie y los restos vegetales en la profundidad
 de trabajo mezclados homogéneamente.
 
 #+CAPTION: Grada de discos
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.5\textwidth :placement [h!]
 [[./img_1479/grada_discos.jpeg]]
 
 ***** *Cultivadores:* 
@@ -1045,14 +1055,16 @@ Son máquinas de construcción sencilla a base de barras sobre las que se fijan
 los dientes.
 
 #+CAPTION: Cultivador
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.7\textwidth :placement [h!]
 [[./img_1479/cultivador.jpg]]
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 ***** *Sembradora:*
 Máquina para realizar la siembra de distintos cultivos.
 
 #+CAPTION: Sembradora en línea neumática
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth
 [[./img_1479/sembra_lin_neumat.jpeg]]
 
 ***** *Escarificador:*
@@ -1060,9 +1072,11 @@ Es un apero con brazos curvilíneos que araña el suelo, cortando las raíces y
 facilitando la entrada de agua.
 
 #+CAPTION: Escarificador de arrastre
-#+ATTR_LATEX: :width 0.7\textwidth
+#+ATTR_LATEX: :width 0.6\textwidth :placement [h!]
 [[./img_1479/escarificador.jpeg]]
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Herramientas manuales:*
 
 Para la preparación del terreno y propagación de plantas se pueden realizar
@@ -1401,7 +1415,7 @@ se desplazan los gametos masculinos para llegar al óvulo donde son liberados
 para realizar la fecundación.
 
 La fecundación es la unión de las células sexuales masculina y femenina, también
-llamadas gamentos, para formar el cigoto, el cual se desarrollará en el interior
+llamadas gametos, para formar el cigoto, el cual se desarrollará en el interior
 de la semilla y se convierte en embrión, y este, al germinar la semilla dará
 origen a la planta adulta.
 *** Ventajas e inconvenientes de la reproducción por semilla
@@ -1414,7 +1428,7 @@ origen a la planta adulta.
   - No se obtienen plantas exactamente iguales a la planta madre.
   - El número de descendientes puede ser reducido, sobre todo si se compara con
     la reproducción vegetativa.
-  - Que los gamentos masculino y femenino se encuentren ya supone una dificultad
+  - Que los gametos masculino y femenino se encuentren ya supone una dificultad
     y un mayor gasto energético en la reproducción lo que da como resultado una
     menor rapidez del proceso.
 ** Formación y maduración de las semillas y frutos
@@ -1424,10 +1438,12 @@ externas por desecación: cáliz, corola e incluso estambres. El ovario adquiere
 mayor desarrollo  transformándose en el fruto, y los óvulos con el embrión en su
 interior  se transforman en semillas. De esta manera el fruto es el ovulo
 transformado y maduro y las semillas los óvulos fecundados y maduros.
-
-La semilla está formada por tres partes:
-
-#+ATTR_LATEX: :width 0.8\textwidth
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+En la semilla distinguimos tres partes fundamentales:
+#+CAPTION: Partes de una semilla
+#+ATTR_LATEX: :width 0.7\textwidth :placement [h!]
 [[./img_1479/semilla_partes.jpg]]
 
 **** *Embrión:*
@@ -1458,12 +1474,12 @@ En el desarrollo de la semilla podemos distinguir tres estados después de
 efectuada la polinización:
 
 **** *Desarrollo del embrión.*
-Se produce una rápida división celular que dará como resulado al embrión. Este
+Se produce una rápida división celular que dará como resultado al embrión. Este
 último será el que dará lugar a una nueva planta.
 
 En esta fase el contenido de humedad es bastante elevado.
 **** *Acumulación de reservas alimenticias.*
-La acumulación de estas sustancias se puede dar o en el endoespermo o en las
+La acumulación de estas sustancias se puede dar o en el endospermo o en las
 hojas especiales llamadas cotiledones.
 
 Durante esta segunda fase el contenido en humedad desciende hasta el 50%.
@@ -1471,16 +1487,16 @@ Durante esta segunda fase el contenido en humedad desciende hasta el 50%.
 Durante esta fase la semilla se seca casi completamente pues la humedad
 desciende ha un 10-20%
 
-Estas tres fases de desarrollo requieren de uns tiempos que dependen de las
+Estas tres fases de desarrollo requieren de unos tiempos que dependen de las
 especies y de las propias condiciones atmosféricas.
 *** Tipos de semillas 
 **** Tipos de semillas
 En la actualidad se distinguen dos tipos de semillas:
-- *Ortodoxas.* Semillas que pueden secarese hasta un contenido en humedad bajo,
+- *Ortodoxas.* Semillas que pueden secarse hasta un contenido en humedad bajo,
   de alrededor del 5%. Pueden almacenarse a temperaturas bajas o inferiores a 0
   \textdegree{}C durante largos períodos.
 - *Recalcitrantes.* Semillas que necesitan un contenido en humedad relativamente
-  alto, entre 20-50% pra sobrevivir. No toleran largos periodos de
+  alto, entre 20-50% para sobrevivir. No toleran largos periodos de
   almacenamiento.
 *** Tipos de frutos
 Existen _diferentes maneras de clasificación_:
@@ -1531,7 +1547,7 @@ Deriva en su totalidad del ovario.
 - _No tiene endocarpio_.
 - Es un fruto multisemillado
 #+BEGIN_EXPORT latex
-%\newpage
+\newpage
 #+END_EXPORT
 **** *Pomo*
 
@@ -1553,7 +1569,7 @@ adyacentes del pedúnculo). Normalmente 5 carpelos con 2 óvulos.
 Deriva de un ovario simple con varios carpelos. Endocarpio dividido en lóculos o
 gajos.
 #+BEGIN_EXPORT latex
-%\newpage
+\newpage
 #+END_EXPORT
 **** *Núcula (o nuez)*
 
@@ -1569,11 +1585,11 @@ gajos.
 
 Deriva de varios ovarios de una sola flor y de su receptáculo.
 #+BEGIN_EXPORT latex
-%\newpage
+ \newpage
 #+END_EXPORT
 **** *Infrutescencia*
 
-#+CAPTION: 
+#+CAPTION: Infrutescencia
 #+ATTR_LATEX: :width 0.6\textwidth
 [[./img_1479/infrutescencia.PNG]]
 
@@ -1584,10 +1600,10 @@ frutos simples íntimamente unidos con la apariencia de un solo fruto.
 \fbox{\parbox{\textwidth}{Como recordatorio y para no llevar a confusión citamos varios ejemplos donde los
 frutos parecen semillas a simple vista y viceversa:\\
 
-Las \textbf{pipas de girasos} no son semillas, sino frutos de tipo aquenio,
+Las \textbf{pipas de girasol} no son semillas, sino frutos de tipo aquenio,
 como ocurre con la mayoría de plantas de la misma familia, las compuestas.\\
 Los \textbf{granos de los cereales, trigo, arroz, maíz, centeno, etc} son frutos 
-de tipo cariópside, como el resto de las gramineas}}
+de tipo cariópside, como el resto de las gramíneas}}
 #+END_EXPORT
 *** Dispersión de las semillas
 Nos referimos a las diversas estrategias que emplean las plantas como transporte
@@ -1596,11 +1612,11 @@ para la dispersión de semillas o frutos.
 Los principales mecanismos de dispersión son:
 1. *Zoocoria:* donde el agente que realiza el transporte es un animal.
 2. *Anemocoria:* cuando la dispersión se realiza por el viento.
-3. *Hidrocoria:* dispersión producida por el agua, ya sea por la acción mecánca
+3. *Hidrocoria:* dispersión producida por el agua, ya sea por la acción mecánica
    del agua o por flotación sobre la superficie.
 4. *Autocoria:* la propia planta posee mecanismos de dispersión.
 5. *Barocoria:* se refiere a la dispersión por la fuerza de gravedad, es decir a
-   la caida del fruto o semilla por su propio peso.
+   la caída del fruto o semilla por su propio peso.
 ** La germinación
 Es el conjunto de fenómenos por los cuales el embrión, que está en estado de
 vida latente dentro de la semilla, reanuda su crecimiento para formar una
@@ -1608,7 +1624,7 @@ plántula.
 
 Para que la semilla recupere su actividad biológica se han de dar una serie de
 _condiciones ambientales favorables_ como son:
-- Sustrato húmedo. La presencia de agua es imprecindible para que la semilla
+- Sustrato húmedo. La presencia de agua es imprescindible para que la semilla
   recupere su metabolismo.
 - Disponibilidad de oxígeno para permitir la respiración aerobia. La mayoría de
   las semillas necesitan un medio suficientemente aireado para tener una
@@ -1618,9 +1634,9 @@ _condiciones ambientales favorables_ como son:
 *** Fases en el proceso de germinación
 Distinguimos tres fases:
 **** *Fase de hidratación:* 
-la ansorción de agua es el primer paso sin el cual la germinación no sería posible.
+la absorción de agua es el primer paso sin el cual la germinación no sería posible.
 **** *Fase de germinación:*
-cuando se producen las transformaciones metabólicas necesarias para el correco
+cuando se producen las transformaciones metabólicas necesarias para el correcto
 desarrollo de la plántula. En esta fase la absorción de agua se reduce, llegando
 incluso a detenerse.
 **** *Fase de crecimiento:*
@@ -1630,10 +1646,10 @@ de agua vuelve a aumentar, así como la actividad respiratoria.
 *** Tratamientos pregerminativos
 
 Hay que saber que una parte importante de las especies poseen _algún impedimento_
-para que germminen sus semillas. Esto puede deberse a _dos causas_:
+para que germinen sus semillas. Esto puede deberse a _dos causas_:
 1. *El medio no es favorable* para el crecimiento. Falta de agua, temperatura
    inadecuada, etc.
-2. Las condiciones del medio son adecuadas pero, *el organísmo tiene unas 
+2. Las condiciones del medio son adecuadas pero, *el organismo tiene unas 
    características tales que impiden su crecimiento*. Este tipo de inhibición se
    llama *latencia o dormancia*.   
 Los distintos tipos de tratamientos pregerminativos son:
@@ -1653,7 +1669,7 @@ cubiertas de las semillas para hacerlas permeables. Puede ser:
 - Química
 **** *Lixiviación:*
 
-El proposito es remover los inhibidores remojando las semillas en agua corriente
+El propósito es remover los inhibidores remojando las semillas en agua corriente
 o cambiándoles el agua con frecuencia.
 **** *Combinación de tratamientos:*
 
@@ -1670,7 +1686,7 @@ Compuestos que sirven para estimular la germinación. Entre los más usados est�
 **** Los distintos tipos de latencia son:                          :noexport:
 
 - Latencia exógena
-  - Fisica o mecánica
+  - Física o mecánica
   - Química
 - Latencia endógena
   - Morfológica
@@ -1702,7 +1718,7 @@ La época de siembra más conveniente para coníferas es la primavera temprana. 
 objetivo es la prevención de /damping-off[fn:2]/, que se estimula cuando la
 temperatura del aire alcanza los 20 \textdegree{}C. Esto sucede, en nuestras
 latitudes a principios de mayo, por lo que las plántulas en esa fecha ya deben
-estár lignificadas.
+estar lignificadas.
 
 Para frondosas la época sera el otoño, y permanecerán las semillas todo el
 invierno en el terreno. Esto es equivalente a una estratificación en frío.
@@ -1715,9 +1731,138 @@ Consiste en depositar uniformemente una cantidad previamente determinada de
 semilla en la superficie a sembrar, y una vez depositada enterrarla con gradas
 de púas, rulo. 
 **** *En línea: a chorrillo y a golpes.*
+- La *siembra a chorrillo* consiste en depositar de forma continua sobre cada
+  línea una determinada cantidad de grano.
+- La *siembra a golpes* consiste en depositar de forma continua sobre cada
+  línea una determinada cantidad de grano _de forma intermitente_ y de tal forma
+  que los granos _queden separados entre si_ una distancia considerable.
+*** Sustratos
+La calidad del sustrato constituye uno de los factores principales para el éxito
+del cultivo. Los factores en resumen son:
+- *Factores económicos:* coste, disponibilidad, continuidad, facilidad de
+  mezclado.
+- *Factores químicos:* CIC, nivel de nutrientes, pH, esterilidad, sales solubles.
+- *factores físicos:* aireación capacidad de almacenamiento de agua, tamaño de
+  las partículas, densidad.  
+*** Sistemas de reparto de semilla
+**** *Siembras en semillero*
 
+Se realizan con semillas muy delicadas y que necesitan unos cuidados muy
+especiales. Antes de iniciar la siembra se humedece el medio de germinación para
+posteriormente distribuir la semilla a voleo. 
 
-* Reproducción vegetativa de plantas
+Las semillas se tapan con arena o mantillo cuidando que queden a la profundidad
+adecuada. Se riega y se mantiene la humedad asegurando una ligera
+compactación. Cuando las semillas germinen se irán repicando o trasplantando a envases.
+**** *Siembras sobre terreno de asiento*
+
+Se puede hacer de forma general con cualquier tipo de especie, pero en la
+práctica se realiza únicamente con un número reducido de especies, como pueden ser
+las coníferas. Esta siembra se realiza en eras de cultivo bien a voleo, o más
+comúnmente en líneas. Los inconvenientes que presenta este sistema son:
+- Se necesita gran cantidad de semilla, por lo que si esta es cara no resulta económico.
+- No recomendable para semilla delicada ni la que necesite muchos cuidados.
+- Puede verse reducido el número de semillas por causa de los animales
+**** *Siembras en envase*
+
+Se siguen los mismos criterios que para los semilleros, cuidando la profundidad
+de siembra. Esta siembra se puede realizar manualmente o mediante sembradoras mecanizadas.
+*** Seguimiento y cuidado de la siembra
+Después de la siembra y durante el crecimiento de las plántulas, tanto estas
+como las semillas son muy vulnerables a diversos factores:
+- Fauna local
+- Factores ambientales
+- Presencia de hierbas no deseadas que competirán con las plántulas por agua luz
+  y nutrientes
+
+Es por ello de mucha importancia que en este periodo se extremen los cuidados en
+los semilleros y envases de crecimiento.
+**** *Control de la germinación*
+
+Las condiciones determinantes del medio para una óptima germinación son:
+-  *Aporte suficiente de agua y oxígeno*. El sustrato tiene que estar húmedo
+  pues la pérdida excesiva de agua puede ocasionar la desecación de las semillas
+  y un notable descenso de la germinación. El control de la humedad se realiza
+  preferiblemente mediante sistemas de riego como microaspersión, difusión y nebulización.
+-  *Temperatura adecuada.* En general las temperaturas extremas de frío o calor
+  no favorecen la germinación. Para controlar la  temperatura se utilizan en los
+  viveros sistemas de calefacción, sistemas de ventilación, mallas de sombreo, etc.
+**** *Tratamientos postgerminativos*
+
+- *Reposición de ceros.* Los alveolos vacíos son una perdida de recursos en la
+  producción. Si existen más de un 15% de ceros hay que reponerlos cuanto antes.
+- *Aclareos.* En el caso de siembras con una densidad excesiva en semillero o
+  siembra de más de una semilla por alveolo, puede suponer una perdida de
+  calidad por competencia entre ellas. Por ello se realiza el aclareo dejando
+  una plántula por alveolo o envase.
+- *Escardas o control de maleza.* La escarda es la operación de eliminar hierbas
+  adventicias o no deseadas en el terreno de cultivo. Los vectores por los que
+  estas hierbas llegan a cultivo pueden ser:
+  - Materiales de cobertura
+  - Estiércol de abonados
+  - Diseminación desde zonas colindantes. 
+Los distintos tipos de escardas son:
+- *Química:* mediante la aplicación de herbicidas. Se pueden aplicar herbicidas
+  selectivos de preemergencia. En siembras ya germinadas pueden aplicarse
+  herbicidas selectivos. Para la aplicación de este tipo de productos hay que ser
+  minucioso con:
+  - Tipo de producto a emplear.
+  - Dosis de aplicación.
+  - Época de aplicación.
+  - Método de aplicación.
+  - Edad de las plantas de cultivo
+  - Especies afectadas
+  - Medias de prevención y plazos de seguridad
+- *Mecánica:* se aplica para siembras en línea,  empleando diferentes aperos en
+  el tractor según la técnica a emplear:
+  - Corte o siega.
+  - Arranque
+  - Enterramiento
+- *Manual:* se puede aplicar en toda clase de siembras. Se procede arrancando
+  las hierbas no deseadas a tirón con la mano y con suficiente humedad en el
+  suelo, o con herramientas de corte o cava de pequeño tamaño. Es una operación
+  de bajo rendimiento y alto coste. Se aplica cuando la densidad de malas
+  hierbas es baja y como mantenimiento general del vivero.
+- *Mulching o acolchado:* consiste en cubrir el terreno con materiales inertes o
+  residuos como paja, corteza, serrín, etc, impidiendo que las adventicias se
+  desarrollen por falta de luz.
+**** *Control de daños por hongos u otros patógenos*
+
+Los daños causados por hongos se producen sobre todo durante el primer año de
+vida de la planta. El ataque más grave es el /damping-off/ mencionado
+anteriormente. Mantener el pH del suelo con valores en torno a 5,5-6 ayuda ya
+que un pH superior es más favorable para el desarrollo de la enfermedad. Otro
+método de prevención es adelantar la siembra lo más posible.
+
+Hay otros animales que pueden causar daños durante el cultivo como pueden ser:
+- *Insectos*
+- *Aves*. Podemos ahuyentarlas mediante ruidos.
+- *Mamíferos.* Roedores y ciertos herbívoros pueden causar graves daños. 
+** Materiales, herramientas, equipos, instalaciones y maquinaria
+Las instalaciones básicas para la reproducción sexual en un vivero son:
+- Sistema de riego eficiente y que cubra las necesidades en los períodos de
+  verano y a ser posible con un sistema de fertirrigación.
+- Invernadero que además de favorecer el desarrollo de las plantas facilite el
+  trabajo en invierno y los días de lluvia.
+- Un embárcale para proteger de la radiación solar a los cultivos.
+- Un frigorífico para estratificar o mantener las semillas.
+
+Los equipos y maquinaria más empleados en un vivero son:
+- Tractores
+- Equipos de siembra
+- Repicadoras
+- Mezcladoras de sustratos
+- Llenadoras de contenedores
+** Equipos de protección Individual (EPI)
+Los equipos de protección que se deben emplear en vivero para realizar labores
+de propagación sexual de plantas son:
+- Gafas de protección
+- Botas impermeables
+- Calzado de seguridad
+- Guantes
+- Guantes que protejan contra sustancias químicas
+- Mascarillas
+* Reproducción vegetativa de plantas                               :noexport:
 
 Las plantas que hay que trasplantar pueden proceder de:
 - Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
