@@ -585,9 +585,8 @@ mezclados con el suelo.
   arrastran desde otras zonas.
 - La *materia orgánica* (MO) que se genera por la descomposición de vegetales y
   animales muertos. Puede almacenar gran cantidad de agua y es rica en minerales.
-- Los *microorganismos* que son de dos tipos:
-  + Los que se alimentan de materia orgánica, por ejemplo insectos y
-    lombrices. Estas ultimas contribuyen a la aireación del suelo.
+- Los *organismos modificadores del suelo* como por ejemplo insectos, lombrices,
+  hongos, bacterias descomponedoras, etc.  
 - *Agua y aire* ocupan los *poros* del suelo. La distribución y el tamaño de los
   poros es importante:
   + Si hay _muchos poros pequeños_ los suelos suelen ser _pesados, húmedos y con 
@@ -899,7 +898,7 @@ materia orgánica.
 
 Estos organismos modificadores del suelo los dividimos por su tamaño:
 - *Macroorganismos:* pueden ser las raíces de vegetales, insectos, pequeños
-  mamíferos , lombrices y otros invertebrados que modifican el suelo haciendo
+  mamíferos, lombrices y otros invertebrados que modifican el suelo haciendo
   galerías, etc que mejoran su aireación.
 - *Microorganismos:* Hongos, bacterias y algas que pueden afectar al suelo de
   diferente manera:

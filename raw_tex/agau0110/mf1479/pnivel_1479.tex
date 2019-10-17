@@ -1,0 +1,70 @@
+\documentclass[11pt]{exam}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenx}
+\usepackage{fontenc}
+\usepackage{textcomp}
+\usepackage{lmodern,pifont}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+\usepackage{setspace}
+\usepackage[dvipsnames]{color}
+\usepackage{colortbl}
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage[normalem]{ulem}
+
+\newcommand\titexam[1]{\centering%
+\fbox{\parbox{\textwidth}{\huge \sffamily \textbf{#1}}}\normalsize \vspace{1em}}
+
+\newcommand\materia[1]{%
+\parbox{\textwidth}{ \Large \sffamily \textbf{\uline{#1}}}\vspace{1em}}
+
+
+\newcommand\nombrefecha{%
+Nombre y apellidos:\hrulefill
+Fecha:\rule{3.5cm}{0.4pt}\vspace{0.5em}}
+
+\renewcommand{\solutiontitle}{\noindent\textbf{Solución:}\par\noindent}
+\pagestyle{empty}
+\begin{document}
+{\fontfamily{lmss}\selectfont
+
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  %% 
+\titexam{MF1479\_2 Propagación de plantas en vivero}
+
+\nombrefecha
+
+\materia{Aspectos básicos de botánica y ecofisiología vegetal}
+\begin{questions}
+\question El nombre científico de una especie se forma de dos partes. ¿Puedes
+indicar a que categoría taxonómica corresponde la primera parte?
+\begin{checkboxes}
+  \choice A. Al Reino
+  \choice B. A la Família
+  \CorrectChoice C. Al Género
+  \choice D. Ninguna es correcta
+\end{checkboxes}
+
+\question ¿Sabes que terminación han de tener los taxones pertenecientes a la
+categoría de la familia?
+\begin{checkboxes}
+  \CorrectChoice A. A la Família
+  \choice B. Al Genero
+  \choice C. Al Orden
+  \choice D. A la especie
+\end{checkboxes}
+
+\question Señala cuales son coníferas
+\begin{checkboxes}
+  \choice A. Plataneros, encinas y robles
+  \choice B. Pinos, cedros y abetos
+  \choice C. Enebros, sabinas y cipreses
+  \CorrectChoice D. Las respuestas B y C son correctas
+\end{checkboxes}
+\end{questions}}
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
