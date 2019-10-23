@@ -585,7 +585,7 @@ mezclados con el suelo.
   arrastran desde otras zonas.
 - La *materia orgánica* (MO) que se genera por la descomposición de vegetales y
   animales muertos. Puede almacenar gran cantidad de agua y es rica en minerales.
-- Los *organismos modificadores del suelo* como por ejemplo insectos, lombrices,
+- Los *organismos vivos modificadores del suelo* como por ejemplo insectos, lombrices,
   hongos, bacterias descomponedoras, etc.  
 - *Agua y aire* ocupan los *poros* del suelo. La distribución y el tamaño de los
   poros es importante:
@@ -886,7 +886,7 @@ un suelo puede o es capaz de retener.
 
 Conocer la Capacidad de Intercambio Catiónico (CIC) de un suelo es muy
 importante, ya que este valor nos indica el potencial de un suelo para retener
-e intercambia nutrientes. La CIC influye en la cantidad y frecuencia de los
+e intercambiar nutrientes. La CIC influye en la cantidad y frecuencia de los
 fertilizantes que hay que emplear.
 
 *** Propiedades biológicas
@@ -917,7 +917,7 @@ biológicas que mejoren la germinación y el desarrollo de las plantas.
 
 Se realizan preparaciones para conseguir distintos fines como pueden ser:
 - Aireación del suelo.
-- Destrucción de malas hierbas para eliminar la competencia por luz agua y nutrientes.
+- Destrucción de hierbas no deseadas para eliminar la competencia por luz agua y nutrientes.
 - Aportaciones para mejorar la actividad microbiana, que es fundamental para la
   descomposición y mineralización de la materia orgánica.
 - Esponjamiento del suelo para mejorar el drenaje y evitar encharcamientos.
@@ -1374,7 +1374,7 @@ etc, de un lugar a otro
      - Sobreesfuerzos por manipular cargas o posturas inadecuadas.
      - Caídas al mismo o diferente nivel.
      - Golpes y/o cortes por objetos y herramientas.
-     - Inhalación o o¡ingestión accidental de sustancias nocivas.
+     - Inhalación o ingestión accidental de sustancias nocivas.
      - Lesiones oculares por proyección de fragmentos o partículas.
      - Atrapamientos.
      - Sobreesfuerzos.
