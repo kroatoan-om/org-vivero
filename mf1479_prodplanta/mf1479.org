@@ -949,9 +949,9 @@ raíces, frena el drenaje del suelo y facilita la erosión del suelo.
 
 De un modo resumido los tipos de laboreo se pueden resumir en: 
 - *Laboreo tradicional:* Parte de la realización de labores  profundas  de  al
-  menos  15-20  cm.  El  punto  departida más tradicional es el volteo de la
+  menos  15-20  cm.  El  punto  de partida más tradicional es el volteo de la
   tierra con arados  diversos,  aunque  en  los  últimos  años  esta labor  se  va
-  sustituyendo  por  el  laboreo  vertical.Después se hacen necesarios uno o
+  sustituyendo  por  el  laboreo  vertical. Después se hacen necesarios uno o
   varios pases de labores secundarias y posteriormente la siembra. 
 - *Mínimo laboreo:* El  laboreo  se  realiza  únicamente en las capas de suelo
   superficiales hasta los primeros 10-15 cm. Normalmente es vertical con chisel    
@@ -1863,23 +1863,46 @@ de propagación sexual de plantas son:
 - Mascarillas
 * Reproducción vegetativa de plantas                               :noexport:
 
-Las plantas que hay que trasplantar pueden proceder de:
-- Multiplicación vegetativa, _generalmente esquejes_. Podemos encontrar los
-  siguientes _tipos de esquejes:
-  - Esquejes herbáceos: clavel, crisantemo, salvia
-  - Esquejes de madera blanda o semiverde: Aquellos tallos que no han comenzado
-    a lignificarse. 
-  - Esquejes de madera semidura: el tallo ha comenzado el proceso de
-    lignificación pero no es leñoso del todo. Se emplea para especies arbustivas
-    sobre todo
-    - Boj (Buxus sempervirens)
-    - Callistemon (Callistemon rigidus)
-    - Adelfa (Nerium olenader)
-    - Pitosporo (Pittosporum tobira)
-  - Esquejes de madera dura de especies perennes
-  - Especies de madera dura de especies caducas
-- Multiplicación por semillas o sexual
+Muchas de las celulas de los tejidos vegetales ya maduros conservan el
+_potencial de diferenciarse y multiplicarse_.
 
+De esta manera es posible *obtener plantas enteras* a partir de _yemas, tallos, 
+raíces, y hasta hojas y flores de casi cualquier planta_. 
+
+Es decir, ciertos vegetales tienen la potencialidad de poder _regenerar nuevos 
+individuos partiendo de una parte del propio vegetal_, esto es lo que se conoce
+como *reproducción asexual o vegetativa*.
+** Características, objetivos, ventajas e inconvenientes
+*** Características 
+La reproducción vegetativa o asexual tiene *tres variantes*:
+1. Propagación a partir de *partes o estructuras de la planta que poseen la 
+   capacidad de enraizar* como:
+   - Bulbos
+   - Rizomas
+   - Estolones
+   - Tubérculos
+   - Estaquillas o esquejes
+2. Propagación *por injertos*.
+3. *Micropropagación* a partir de pequeñas porciones de plantas, de tejidos
+   vegetales o incluso células multiplicadas en laboratorio
+*** Objetivos
+El objetivo principal es asegurar la reproducción de ciertos cultivos que no
+producen semillas viables como algunas bananas, la higuera, naranjos y vides.
+
+En algunas especies los objetivos son de tipo económico ya que la reproducción
+vegetativa es más fácil, rápida y económica que por semillas. Por ejemplo la
+semilla de cooneaster tiene unas condiciones de latencia complejas, pero los
+esquejes enraizan facilmente.
+*** Ventajas e inconvenientes
+- *Ventajas:*
+  - Obtenemos plantas exactas a sus progenitores , lo que nos permite mantener
+    las características de la planta madre.
+  - Más rápido que la reprodcción sexual ya que nos evitamos el tiempo que las
+    semillas necesitan para madurar, además de posibles problemas de viabilidad
+    y letargo.
+  - Los árboles que provienen de injerto son más pequeños lo que puede resultar
+    interesante para la cosecha de ciertas especies.
+- *Inconvenientes:*
 * Footnotes
 
 [fn:2] Damping-off: es una enfermedad común que afecta a las semillas y
