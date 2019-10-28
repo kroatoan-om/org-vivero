@@ -16,7 +16,7 @@
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 
 * Características generales de frutos y semillas
-El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura y
+El *fruto* es la parte de los vegetales que *protege la semilla* y *asegura la
 dispersión*. Estrictamente el fruto es el ovario de la flor _transformado y
 maduro_ después de la fecundación.
 
