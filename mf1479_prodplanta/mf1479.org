@@ -1492,8 +1492,8 @@ especies y de las propias condiciones atmosféricas.
 **** Tipos de semillas
 En la actualidad se distinguen dos tipos de semillas:
 - *Ortodoxas.* Semillas que pueden secarse hasta un contenido en humedad bajo,
-  de alrededor del 5%. Pueden almacenarse a temperaturas bajas o inferiores a 0
-  \textdegree{}C durante largos períodos.
+  de alrededor del 5%. Pueden almacenarse a temperaturas bajas o inferiores a
+  0\textdegree{}C durante largos períodos. 
 - *Recalcitrantes.* Semillas que necesitan un contenido en humedad relativamente
   alto, entre 20-50% para sobrevivir. No toleran largos periodos de
   almacenamiento.
@@ -1507,7 +1507,7 @@ Existen _diferentes maneras de clasificación_:
   - Monospermos
   - Polispermos
 - Según forma de liberar las semillas:
-  - Dehiscentes: _Se_abren_ de manera espontánea.
+  - Dehiscentes: _Se abren_ de manera espontánea.
   - Indehiscentes: _No se abren_ de manera espontánea.
 - Según el origen del fruto
   - Monocarpicos (Un solo carpelo)
@@ -1861,6 +1861,9 @@ de propagación sexual de plantas son:
 - Guantes
 - Guantes que protejan contra sustancias químicas
 - Mascarillas
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 * Reproducción vegetativa de plantas                               :noexport:
 
 Muchas de las celulas de los tejidos vegetales ya maduros conservan el
@@ -1872,8 +1875,15 @@ raíces, y hasta hojas y flores de casi cualquier planta_.
 Es decir, ciertos vegetales tienen la potencialidad de poder _regenerar nuevos 
 individuos partiendo de una parte del propio vegetal_, esto es lo que se conoce
 como *reproducción asexual o vegetativa*.
-** Características, objetivos, ventajas e inconvenientes
-*** Características 
+
+Los métodos de propagación se pueden clasificar en:
+- *Naturales*, según si se trata de estructuras propias de las plantas que le permiten
+  reproducirse asexualmente (bulbos, tubérculos, rizomas, estolones, hijuelos, apomixis) 
+- *Artificiales* si son producidas por el hombre (estaca o esqueje, injerto, acodo y cultivo
+  in vitro).   
+
+** Características, objetivos, ventajas e inconvenientes           :noexport:
+*** Características                                                :noexport:
 La reproducción vegetativa o asexual tiene *tres variantes*:
 1. Propagación a partir de *partes o estructuras de la planta que poseen la 
    capacidad de enraizar* como:
@@ -1885,17 +1895,17 @@ La reproducción vegetativa o asexual tiene *tres variantes*:
 2. Propagación *por injertos*.
 3. *Micropropagación* a partir de pequeñas porciones de plantas, de tejidos
    vegetales o incluso células multiplicadas en laboratorio
-*** Objetivos
+*** Objetivos                                                      :noexport:
 El objetivo principal es asegurar la reproducción de ciertos cultivos que no
 producen semillas viables como algunas bananas, la higuera, naranjos y vides.
 
 En algunas especies los objetivos son de tipo económico ya que la reproducción
 vegetativa es más fácil, rápida y económica que por semillas. Por ejemplo la
-semilla de cooneaster tiene unas condiciones de latencia complejas, pero los
-esquejes enraizan facilmente.
-*** Ventajas e inconvenientes
+semilla de cotoneaster tiene unas condiciones de latencia complejas, pero los
+esquejes enraizan fácilmente.
+** Ventajas e inconvenientes de la reproducción vegetativa 
 - *Ventajas:*
-  - Obtenemos plantas exactas a sus progenitores , lo que nos permite mantener
+  - Obtenemos plantas exactas a sus progenitores, lo que nos permite mantener
     las características de la planta madre.
   - Más rápido que la reprodcción sexual ya que nos evitamos el tiempo que las
     semillas necesitan para madurar, además de posibles problemas de viabilidad
@@ -1903,6 +1913,163 @@ esquejes enraizan facilmente.
   - Los árboles que provienen de injerto son más pequeños lo que puede resultar
     interesante para la cosecha de ciertas especies.
 - *Inconvenientes:*
+  - Más caro al necesitar materiales y mano de obra especializada.
+  - El material vegetal es más difícil de conservar y puede necesitar de cierta
+    infraestructura para protegerlo.
+  - Al no existir variabilidad genética (reproducimos clones de la planta madre) la
+    variación genética que hace que las especies se adapten y evolucionen se detiene.
+  - Las enfermedades, especialmente virus, se transmiten a través del material vegetal a
+    diferencia de la reproducción sexual donde los virus no se transmiten por semilla.
+  - Las especies arbóreas son menos longevas que las propagadas por semilla.
+** Órganos para la multiplicación vegetativa
+En función de la capacidad del tejido vegetal para formar yemas y raíces adventicias, casi
+cualquiera de los órganos de una planta vascular puede servir para su propagación
+vegetativa.
+
+En esta sección veremos las formas de reproducción vegetativa que las propias plantas
+desarrollan para multiplicarse.
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+A continuación se clasifican las estructuras de propagación vegetativa teniendo en cuenta
+los órganos vegetales de los cuales se originan:
+*** Bulbos
+Son órganos subterráneos que almacenan nutrientes. El bulbo esta formado por gruesas hojas
+carnosas modificadas. Son ejemplos de bulbos la cebolla, el narciso, tulipán y lirio. 
+#+CAPTION: Partes de un bulbo
+#+ATTR_LATEX: :width 0.8\textwidth :placement [h!]
+[[./img_1479/bulbo_1.PNG]]
+*** Tuberculos 
+Son tallos modificados y engrosados donde se acumulan sustancias de reserva, comúnmente
+almidón. La reproducción de este tipo de plantas se realiza utilizando en la plantación el
+mismo tubérculo, que posee yemas en la superficie capaces de rebrotar y originar nuevos
+ramas y raíces adventicias. 
+#+CAPTION: Ejemplo de reproducción de la patata
+#+ATTR_LATEX: :width 0.7\textwidth :placement [h!]
+[[./img_1479/tuberculo.png]]
+
+La planta de la patata puede reproducirse por semilla (reproducción sexual) o mediante
+tubérculos (vía vegetativa).
+*** Rizomas
+Son tallos subterráneos con varias yemas que crecen de forma horizontal emitiendo raíces y
+brotes herbáceos de sus nudos. Los rizomas tienen un crecimiento indefinido. Pueden
+cubrir grandes extensiones de terreno debido a que cada año producen nuevos brotes a
+medida que las primeras ramas van muriendo. Para cultivar la planta, los rizomas se pueden
+dividir en trozos que contengan por lo menos una yema y plantarlos. Las plantas con
+rizomas son perennes, pierden sus partes aéreas en climas fríos, conservando tan solo el
+órgano subterráneo que almacena las sustancias de reserva para la temporada siguiente. 
+
+Un ejemplo conocido de rizoma es el jengibre (/Zingiber officinalis/)
+*** Estolones
+Son brotes o ramas laterales más o menos delgados que nacen de la base del tallo, que
+crecen horizontalmente con respecto al nivel del suelo o subterráneo. Tienen entrenudos
+largos que generan raíces adventicias. La separación de estos segmentos enraizados da
+lugar a plantas hijas. 
+
+Un ejemplo de especie que se reproduce mediante estolones es la fresa (/Fragaria x
+ananassa/)
+#+CAPTION: Geeneración de estolones en una mata de fresa
+#+ATTR_LATEX: :width 0.8\textwidth :placement [h!]
+[[./img_1479/estolon_fresa.png]]
+*** Hijuelos
+Son un tipo característico de brote lateral o rama que se desarrolla sobre la base del
+tallo principal de ciertas plantas. Este término se aplica generalmente al tallo
+engrosado, acortado y con aspecto de roseta. El término hijuelo o macollo, se aplica al
+cultivo de plátanos, piña y  palma datilera, entre otros. 
+
+La formación de hijuelos es muy importante en cultivos de Monocotiledóneas tales como los
+cereales de grano y forraje: trigo, cebada, centeno y avena. 
+*** Hojas
+Este tipo de propagación no es tan frecuente en la naturaleza, pero podemos encontrarlo en
+las hojas de algunos helechos, que forman una especie de acodo al entrar en contacto con
+el suelo. 
+
+En otras especies de interior com /Kalanchoe/ o /Begonia rex/ se pueden formar
+nuevos individuos a través de las hojas que, al desprenderse y entrar en contacto con el
+suelo  desarrollan raíces adventicias.
+*** Apomixis
+La apomixia o apomixis es la _reproducción asexual por medio de semillas_. Las plantas que
+tienen este tipo de reproducción producen semillas sin que ocurra fecundación por lo que
+sus descendientes son genéticamente idénticos a la planta madre. 
+
+Ejemplos de especies apomícticas son el diente de león (/Taraxacum officinale/) y algunas
+variedades de cebolla. También en los géneros /Crataegus/ (Espino albar), /Sorbus/
+(serbales) o /Rubus/ (zarza o zarzamora).
+** Técnicas de propagación vegetativa
+En esta sección desarrollaremos las técnicas que han de ser desarrolladas por la mano del
+hombre para obtener nuevos individuos.
+*** Estaquillado o esquejado
+Esta técnica consiste en que una parte de la planta, al ser separada de ella, produce
+raíces para generar una nueva planta. Éste es un método económico, rápido y simple con el
+que obtener plantas uniformes en superficies reducidas.
+
+La estaca esqueje o estaquilla es un trozo de tallo joven provisto de yemas que se
+introduce en un sustrato de enraizamiento para que desarrolle raíces.
+Para desarrollar esquejes podemos tener en cuenta:
+- La *longitud* de la estaca varia según especie.
+- Los esquejes *pueden tener o no hojas* pero las *yemas no pueden faltar*.
+- Debe contener como *mínimo dos yemas*.
+- El *corte inferior* se realiza justo debajo de una yema.
+- El *corte superior* 1 o 2 cm por encima de otra yema.
+- Se puede aplicar hormona en la zona basal para facilitar el enraizamiento.
+
+Los *factores que influyen en el enraizamiento* son:
+- La *edad de la planta madre*. Esquejes de plantas jóvenes enraízan mejor que las adultas.
+- El *vigor del brote*. Esquejes que tengan una buena acumulación de sustancias de
+  reservas tienen más probabilidad de enraizamiento.
+- La acción de ciertas hormonas que estimulan la formación de raíces.
+- Las *condiciones ambientales*. Humedad, temperatura y luz.
+
+Según el tipo de madera los esquejes los clasificamos en:
+1) Herbáceos
+2) De madera verde
+3) De madera semidura
+4) De madera dura
+**** *Herbáceos:*
+Se obtienen de plantas herbáceas o suculentas y generalmente poseen hojas (clavel,
+geranio, etc)
+**** *De madera blanda o verde:*
+Se obtienen de plantas leñosas, caducas o perennes, de las ramas de crecimiento primaveral
+(/Magnolia, Mirtos, Pyracantha, etc./).
+**** *Madera semidura:*
+De plantas leñosas, caducas o perennes, de las ramas en verano (/Camelia, Pittosporum,
+Euonymus,etc./).
+**** *Madera dura de especies perennes:*
+En este grupo tenemos especies difíciles de enraizar como piceas y pinos y otras mas
+fáciles como /Chamaecyparis, taxus, thuja/. 
+
+Se obtienen generalmente en otoño y a finales de invierno, empleando generalmente madera
+del crecimiento del año anterior
+
+*** Acodado alto y bajo
+
+El acodo consiste en forzar a un tallo a emitir raíces adventicias mientras se mantiene
+unido a la planta madre. Una vez emitidas las raíces se separa de la planta madre.
+
+Lo más importante en los acodos para realizarlos con éxito es hacerlos con la planta en
+plena actividad vegetativa. 
+**** *Acodo alto o aereo:*
+En una rama hacemos una incisión y quitamos un anillo de unos 2-3 cm de longitud. Se pone
+un sustrato adecuado  alrededor sujetándola con una bolsa, que a la vez nos ayudará a que
+se aísle del sol. El sustrato lo debemos humedecer periódicamente con una jeringuilla.
+#+CAPTION: Acodo aereo
+#+ATTR_LATEX: :width \textwidth :placement [h!]
+[[./img_1479/acodo_aereo.png]]
+**** *Acodo bajo:*
+Existen varios tipos de acodo bajo como el acodo múltiple o serpentario, acodo en
+montículo o acodo en trinchera. A continuación detallaremos únicamente el conocido
+como acodo simple.
+
+El *acodo bajo simple* consiste en elegir una rama lo suficientemente flexible (sulen
+elegirse ramas jóvenes de 1 o 2 años) para que, Después de haber realizado una incisión
+como la del acodo alto, podamos introducir esta parte en el suelo y enterrarla, dejando un
+extremo atado a un tutor. Suelen aplicarse hormonas de enraizamiento y eliminar las ramas
+de la base, dejando únicamente las de la zona superior.
+#+CAPTION: Varios tipos de acodo alto y bajo
+#+ATTR_LATEX: :width \textwidth :placement [h!]
+[[./img_1479/tipos_acodo.jpg]]
+
+
 * Footnotes
 
 [fn:2] Damping-off: es una enfermedad común que afecta a las semillas y
