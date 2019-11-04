@@ -513,7 +513,8 @@ Es el método más básico y flexible en que la cosecha se hace a mano. Este
 método es apropiado para los siguientes casos:
 - Identificamos fácilmente cuando el fruto está a punto para dispersar la
   semilla. por ejemplo, _mediante cambios en el color, textura o tamaño._
-- Cuando _no podemos realizar una _selección y descarte de una manera más eficiente._
+- Cuando _no podemos realizar una 
+selección y descarte de una manera más eficiente._
 - La accesibilidad de los frutos permite _emplear las dos manos_ para dejar las
   semillas en un cubo, balde u otro recipiente.
 - Los frutos contienen un alto _número de semillas_, sean carnosos o secos indehiscentes.
