@@ -788,11 +788,11 @@ a la madurez para liberar las semillas}
 #+END_EXPORT
 
 #+CAPTION: Aquenio de girasol
-#+ATTR_LATEX: :width 0.55\textwidth
+#+ATTR_LATEX: :width 0.55\textwidth :placement [t!]
 [[./img_1481/aquenio.jpg]]
 
 #+CAPTION: Sámara con dos alas (disámara)
-#+ATTR_LATEX: :width 0.4\textwidth
+#+ATTR_LATEX: :width 0.4\textwidth :placement [h!]
 [[./img_1481/samara.png]]
 
 *** Métodos de extracción húmedos
@@ -803,11 +803,13 @@ tomate, sandía, melón , calabaza, etc.
 
 El _procedimiento general_ es como sigue:
 
-- Exprimir manual o mecánicamente el fruto y verter la pulpa en un recipiente
-- Se deja todo en agua para que mediante la flotación _la semilla se hunda_
-  mientras que la pulpa queda en la superficie. Esto se conoce como _decantación_
-- Utilizando coladores o mallas retiramos los restos de pulpa o pieles restantes
-- Las semillas bien etiquetadas se ponen a secar, bien al sol o con secadores
+- Exprimir manual o mecánicamente el fruto y verter la pulpa en un recipiente.
+- Se deja todo en agua para que _la semilla se hunda_ mientras que la pulpa queda en la
+  superficie. Esto se conoce como _decantación_. _Las semillas que floten se pueden
+  descartar_ ya que, con mucha probabilidad, _no serán viables_.
+- Utilizando coladores o mallas retiramos los restos de pulpa o pieles restantes.
+- Una vez eliminada la mayor cantidad de pulpa procedemos a limpiar y extraer la semilla.
+- Las semillas bien etiquetadas se ponen a secar, bien al sol o con secadores.
 
 *** Métodos de extracción secos
 Se emplea en _semillas que maduran en frutos secos_ (espigas, vainas o
@@ -825,9 +827,10 @@ Los procesos que se realizan para la extracción de semillas con este método so
    semillas. Las máquinas que realizan este trabajo son las segadoras o
    guadañadoras
 2. *Trillado:* consiste en romper las infrutescencias separando las semillas del
-   fruto. Se puede hacer con máquinas (trillas) o a escala más pequeña bien
-   pisando los frutos, bien machacarlos entre dos tableros, bien colocándolos en
-   sacos y machacándolos, etc.
+   fruto y de esta manera separar el grano de la paja. Se puede hacer con máquinas
+   (trillas), o pisándolo con animales como se hacia tradicionalmente. A escala más
+   pequeña también pisando los frutos, bien machacarlos entre dos tableros, bien
+   colocándolos en sacos y machacándolos, etc.
 3. *Aventado:* consiste en limpiar las semillas utilizando una corriente de aire
    o viento. Como la paja y el polvo pesa menos que las semillas, son
    arrastrados por el viento o aire artificial. En el aventado horizontal la
@@ -927,7 +930,7 @@ diferenciar por la textura de su cubierta_.
 
 Lotes de semillas con un _tegumento liso_, como es el caso de /Trifolium incarnatum/
 (leguminosa que se emplea como planta forrajera), pueden estar _contaminados por
-algunas _semillas de maleza comunes_ (/Cuscuta spp/ y /Rumex spp./) que tienen
+algunas semillas de maleza comunes_ (/Cuscuta spp/ y /Rumex spp./) que tienen
 el _tegumento rugoso_.
 
 Existen _separadores de rodillo o de banda_ que pueden realizar esta operación. 
@@ -989,7 +992,7 @@ ambiente seco_.
 
 **** *Temperatura*
 
-n general las temperaturas bajas prolongan la vida de las semillas.Las
+En general las temperaturas bajas prolongan la vida de las semillas.Las
 temperaturas óptimas para el almacenamiento de semillas corresponden a aquellas
 que se encuentre entre 0\textdegree{} y 10\textdegree{} C 
 
@@ -1021,9 +1024,6 @@ Permite  prolongar  por  mucho  tiempo  la viabilidad  de  semilla.  Corresponde
 al  almacenamiento  de  semillas  en recipientes herméticos a temperaturas muy
 bajas (Ej.: Refrigeradores). 
 
-#+BEGIN_EXPORT latex
-\newpage
-#+END_EXPORT
 *** Recipientes de almacenaje
 
 Debemos pensar que _no existe una manera de almacenamiento adecuada para todos 
@@ -1032,7 +1032,7 @@ los tipos de semilla_.
 Se deben considerar las características de cada sistema valorando sus ventajas,
 inconvenientes y costes, para elegir el sistema adecuado.
 
-Existen mucho modelos de recipiente en el mercado, _de manera general:_
+Existen mucho modelos de recipiente en el mercado, de manera general:
 
 **** *Recipientes permeables*
 
