@@ -1395,6 +1395,7 @@ etc, de un lugar a otro
      - Calzado de seguridad.
      - Gafas de protección si necesario.
 * Reproducción de plantas por semillas 
+
 La propagación de plantas es una _práctica fundamental_ en el campo ya que de la
 calidad de la semilla o material vegetativo que se emplee va a depender el resto
 del proceso productivo.
@@ -1596,6 +1597,7 @@ Deriva de la unión de varios ovarios y receptáculos de una inflorescencia o
 frutos simples íntimamente unidos con la apariencia de un solo fruto.
 
 #+BEGIN_EXPORT latex
+
 \fbox{\parbox{\textwidth}{Como recordatorio y para no llevar a confusión citamos varios ejemplos donde los
 frutos parecen semillas a simple vista y viceversa:\\
 
@@ -1696,7 +1698,7 @@ Compuestos que sirven para estimular la germinación. Entre los más usados est�
 Los distintos tratamientos pregerminativos son:
 ** La siembra 
 
-La siemra de un lote de semillas la podemos hacer: 
+La siembra de un lote de semillas la podemos hacer: 
 - Directamente en suelo
 - En envase
 
@@ -1843,7 +1845,7 @@ Las instalaciones básicas para la reproducción sexual en un vivero son:
   verano y a ser posible con un sistema de fertirrigación.
 - Invernadero que además de favorecer el desarrollo de las plantas facilite el
   trabajo en invierno y los días de lluvia.
-- Un embárcale para proteger de la radiación solar a los cultivos.
+- Un ombráculo para proteger de la radiación solar a los cultivos.
 - Un frigorífico para estratificar o mantener las semillas.
 
 Los equipos y maquinaria más empleados en un vivero son:
@@ -1864,7 +1866,7 @@ de propagación sexual de plantas son:
 #+BEGIN_EXPORT latex
 \newpage
 #+END_EXPORT
-* Reproducción vegetativa de plantas                               :noexport:
+* Reproducción vegetativa de plantas                              
 
 Muchas de las celulas de los tejidos vegetales ya maduros conservan el
 _potencial de diferenciarse y multiplicarse_.
@@ -2013,7 +2015,8 @@ Para desarrollar esquejes podemos tener en cuenta:
 - El *corte superior* 1 o 2 cm por encima de otra yema.
 - Se puede aplicar hormona en la zona basal para facilitar el enraizamiento.
 
-Los *factores que influyen en el enraizamiento* son:
+**** *Factores que influyen en el enraizamiento:*
+
 - La *edad de la planta madre*. Esquejes de plantas jóvenes enraízan mejor que las adultas.
 - El *vigor del brote*. Esquejes que tengan una buena acumulación de sustancias de
   reservas tienen más probabilidad de enraizamiento.
@@ -2021,27 +2024,24 @@ Los *factores que influyen en el enraizamiento* son:
 - Las *condiciones ambientales*. Humedad, temperatura y luz.
 
 Según el tipo de madera los esquejes los clasificamos en:
-1) Herbáceos
-2) De madera verde
-3) De madera semidura
-4) De madera dura
-**** *Herbáceos:*
-Se obtienen de plantas herbáceas o suculentas y generalmente poseen hojas (clavel,
-geranio, etc)
-**** *De madera blanda o verde:*
-Se obtienen de plantas leñosas, caducas o perennes, de las ramas de crecimiento primaveral
-(/Magnolia, Mirtos, Pyracantha, etc./).
-**** *Madera semidura:*
-De plantas leñosas, caducas o perennes, de las ramas en verano (/Camelia, Pittosporum,
-Euonymus,etc./).
-**** *Madera dura de especies perennes:*
-En este grupo tenemos especies difíciles de enraizar como piceas y pinos y otras mas
-fáciles como /Chamaecyparis, taxus, thuja/. 
 
-Se obtienen generalmente en otoño y a finales de invierno, empleando generalmente madera
-del crecimiento del año anterior
+***** *Herbáceos:*
+ Se obtienen de plantas herbáceas o suculentas y generalmente poseen hojas (clavel,
+ geranio, etc)
+***** *De madera blanda o verde:*
+ Se obtienen de plantas leñosas, caducas o perennes, de las ramas de crecimiento primaveral
+ (/Magnolia, Mirtos, Pyracantha, etc./).
+***** *Madera semidura:*
+ De plantas leñosas, caducas o perennes, de las ramas en verano (/Camelia, Pittosporum,
+ Euonymus,etc./).
+***** *Madera dura de especies perennes:*
+ En este grupo tenemos especies difíciles de enraizar como piceas y pinos y otras mas
+ fáciles como /Chamaecyparis, taxus, thuja/. 
 
-*** Acodado alto y bajo
+ Se obtienen generalmente en otoño y a finales de invierno, empleando generalmente madera
+ del crecimiento del año anterior
+
+*** Acodado
 
 El acodo consiste en forzar a un tallo a emitir raíces adventicias mientras se mantiene
 unido a la planta madre. Una vez emitidas las raíces se separa de la planta madre.
@@ -2052,9 +2052,11 @@ plena actividad vegetativa.
 En una rama hacemos una incisión y quitamos un anillo de unos 2-3 cm de longitud. Se pone
 un sustrato adecuado  alrededor sujetándola con una bolsa, que a la vez nos ayudará a que
 se aísle del sol. El sustrato lo debemos humedecer periódicamente con una jeringuilla.
-#+CAPTION: Acodo aereo
+
+#+CAPTION: Acodo aéreo
 #+ATTR_LATEX: :width \textwidth :placement [h!]
 [[./img_1479/acodo_aereo.png]]
+
 **** *Acodo bajo:*
 Existen varios tipos de acodo bajo como el acodo múltiple o serpentario, acodo en
 montículo o acodo en trinchera. A continuación detallaremos únicamente el conocido
@@ -2065,12 +2067,106 @@ elegirse ramas jóvenes de 1 o 2 años) para que, Después de haber realizado un
 como la del acodo alto, podamos introducir esta parte en el suelo y enterrarla, dejando un
 extremo atado a un tutor. Suelen aplicarse hormonas de enraizamiento y eliminar las ramas
 de la base, dejando únicamente las de la zona superior.
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+
 #+CAPTION: Varios tipos de acodo alto y bajo
-#+ATTR_LATEX: :width \textwidth :placement [h!]
+#+ATTR_LATEX: :width 0.9\textwidth :placement [t!]
 [[./img_1479/tipos_acodo.jpg]]
 
+#+BEGIN_EXPORT latex
+%\newpage
+#+END_EXPORT
 
+*** Injertado
+
+Un injerto es la unión  de dos plantas para que continúen su desarrollo posterior como
+una única planta.
+
+Para realizar un injerto se coge una yema o un trozo de rama con varias yemas, dependiendo
+del injerto a realizar, y se pone en contacto con el cuerpo de la otra planta en la que
+hemos realizado una herida. Al cicatrizar las heridas, las dos plantas quedan unidas.
+
+La yema o trozo de rama que se introduce se llama *injerto*, que da lugar a la parte
+aérea.
+
+La planta que recibe el injerto se llama *patrón, pie o porta-injerto*, el cual aporta la
+parte radicular.
+
+Es posible hacer _injertos múltiples_ sobre un mismo patrón, es decir, injertar más de una
+yema o púa sobre un mismo patrón, por ejemplo para obtener diferentes variedades de
+manzanas en un mismo pies o un rosal con flores de diferentes colores. El _inconveniente_
+es que la vida de las plantas con injertos múltiples se acorta bastante.
+
+Las condiciones principales para que prenda un injerto son las siguientes:
+
+1. Qué el patrón y el injerto sean compatibles, que se puede realizar la unión entre ellos
+2. Mayor similitud taxonómica implica una mayor compatibilidad entre especies. Las
+   especies del _mismo genero botánico pueden ser injertadas entre ellas
+   perfectamente_. Especies de géneros botánicos distintos no suelen funcionar pero hay
+   excepciones. Por ejemplo: el membrillero, genero /Cydonia/, suele emplearse como patrón
+   de injerto pies de peral, genero /Pyrus/.
+3. Tiene que haber un contacto íntimo entre los tejidos vivos de la misma naturaleza, es
+   decir, que el /cámbium[fn:3]/ del injerto tiene que coincidir con en cámbium del
+   patrón, permitiendo la unión de la parte interior de la corteza de injerto y patrón.
+4. La época de injertado tiene que ser la adecuada. Se realiza cuando hay una circulación
+   de savia, pero esta tiene baja actividad, es decir a principios de primavera o finales
+   de verano, dependiendo del tipo de injerto.
+5. Condiciones ambientales. Le favorece temperaturas suaves 15-25 °C y humedad moderada.
+6. Se deben realizar bien las operaciones del injerto:
+   - Se precisa de cortes limpios, por lo que la navaja de injertos ha de estar bien afilada.
+   - Hay que asegurar bien la unión entre patrón e injerto atando con material que reúna
+     buenas condiciones. Se suele emplear rafia, goma elástica, cinta aislante e incluso
+     plástico tipo ``film'' transparente.
+   - La presión de la unión ha de ser la correcta, ya que si queda flojo el injerto se
+     moverá y no prenderá.
+   - Las heridas que quedan al descubierto se protegen de la desecación, aplicando una
+     pasta llamada ``mástic'' o cera de injertar que normalmente contiene fungicidas.
+
+#+CAPTION: Tejidos vasculares de un tallo leñoso
+#+ATTR_LATEX: :width 0.8\textwidth :placement [hb!]
+[[./img_1479/cambium.png]]
+
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
+Los tipos de injertos más importantes son:
+
+- *Injerto de púa:* se injerta sobre el patrón una púa, es decir un trozo de tallo que
+  lleva varias yemas.
+
+#+CAPTION: Ejemplos de tipos de injerto de púa
+#+ATTR_LATEX: :width 0.9\textwidth :placement [h!]
+[[./img_1479/injertos_pua.jpg]]
+
+- *Injerto de yema:* se injerta sobre el patrón una yema, con más o menos cantidad de la
+  planta madre.
+
+#+CAPTION: Injerto de yema tipo escudete
+#+ATTR_LATEX: :width 0.7\textwidth :placement [hb!]
+[[./img_1479/injertoyema_escudete.png]]
+
+
+*** División de mata
+
+Este tipo de división se puede practicar en aquellas especies de arbustos o matas bien
+ramificados desde su base. _Consiste en dividir el cepellón y las raíces en dos o más
+trozos_. Las partes divididas serán plantas completas listas para replantar.
+
+
+*** Obtención de embriones foliares 
+
+Algunas plantas son capaces de desarrollar grupos aislados de células simples en
+determinadas partes de sus hojas. _Como resultado estas  células llegan a transformarse en 
+nuevas plántulas_. Es el caso de la planta /Kalanchoe daigremontiana/, en la que se forman
+nuevas plantas a partir de embriones que crecen en los bordes de sus hojas.
 * Footnotes
+
+[fn:3] Cámbium: es un tejido vegetal meristemático específico de las plantas leñosas,
+situado entre la corteza y el leño, compuesto normalmente por una capa única de células
+embrionarias. Da lugar a los tejidos conductores secundarios (xilema y floema) que
+participan en la circulación de savia de la planta.
 
 [fn:2] Damping-off: es una enfermedad común que afecta a las semillas y
 plántulas de muchas especies, y sobre todo especies forestales. Esta causado por
