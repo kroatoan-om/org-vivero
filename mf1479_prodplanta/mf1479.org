@@ -1878,7 +1878,7 @@ Es decir, ciertos vegetales tienen la potencialidad de poder _regenerar nuevos
 individuos partiendo de una parte del propio vegetal_, esto es lo que se conoce
 como *reproducción asexual o vegetativa*.
 
-Los métodos de propagación se pueden clasificar en:
+Los métodos de propagación vegetativa se pueden clasificar en:
 - *Naturales*, según si se trata de estructuras propias de las plantas que le permiten
   reproducirse asexualmente (bulbos, tubérculos, rizomas, estolones, hijuelos, apomixis) 
 - *Artificiales* si son producidas por el hombre (estaca o esqueje, injerto, acodo y cultivo
@@ -2148,14 +2148,13 @@ Los tipos de injertos más importantes son:
 [[./img_1479/injertoyema_escudete.png]]
 
 
-*** División de mata
+*** División de mata                                               :noexport:
 
 Este tipo de división se puede practicar en aquellas especies de arbustos o matas bien
 ramificados desde su base. _Consiste en dividir el cepellón y las raíces en dos o más
 trozos_. Las partes divididas serán plantas completas listas para replantar.
 
-
-*** Obtención de embriones foliares 
+*** Obtención de embriones foliares                                :noexport:
 
 Algunas plantas son capaces de desarrollar grupos aislados de células simples en
 determinadas partes de sus hojas. _Como resultado estas  células llegan a transformarse en 
