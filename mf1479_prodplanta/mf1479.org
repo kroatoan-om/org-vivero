@@ -15,11 +15,11 @@
 #+LaTeX_HEADER: \newcommand{\recuerda}[1]{\begin{center}\fbox{\parbox{0.75\textwidth}{\textbf{Recuerda:} #1}}\end{center}}
 #+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJECT(p) | DONE(d) CANCELLED(c)
 * DONE Editando: Reprod x semilla <2019-10-15 23:58 :mar>
-* NEXT Editando: Reprod vegetativa
+* DONE Editando: Reprod vegetativa 
 * DONE Comprobación de ortografía: hasta reprod planta x semilla <2019-10-13 23:56 :dom>
-* NEXT Comprobación de ortografía:
-* TODO Check imagenes :
-* TODO Arbol evolucion especies veg
+* DONE Comprobación de ortografía:
+* DONE Check imagenes :
+* SOMEDAY Arbol evolucion especies veg
 * SOMEDAY Probar komascript classes
 * Aspectos básicos de botánica y ecofisiología vegetal
 ** Nociones básicas de identificación, clasificación y nomenclatura
@@ -755,7 +755,7 @@ ser la siguiente que los agrupa en cuatro categorías:
 
 - *Estructura laminar:* se compone de partículas de suelo agregadas en láminas o
   capas finas que se acumulan horizontalmente una sobre otra. A menudo las
-  láminas se traslapan, lo que dificulta notablemente la circulación del
+  láminas se solapan, lo que dificulta notablemente la circulación del
   agua. Esta estructura se encuentra casi siempre en los suelos boscosos, en
   parte del horizonte A y en los suelos formados por capas de *arcilla*.
 
@@ -1868,7 +1868,7 @@ de propagación sexual de plantas son:
 #+END_EXPORT
 * Reproducción vegetativa de plantas                              
 
-Muchas de las celulas de los tejidos vegetales ya maduros conservan el
+Muchas de las células de los tejidos vegetales ya maduros conservan el
 _potencial de diferenciarse y multiplicarse_.
 
 De esta manera es posible *obtener plantas enteras* a partir de _yemas, tallos, 
@@ -1882,7 +1882,7 @@ Los métodos de propagación vegetativa se pueden clasificar en:
 - *Naturales*, según si se trata de estructuras propias de las plantas que le permiten
   reproducirse asexualmente (bulbos, tubérculos, rizomas, estolones, hijuelos, apomixis) 
 - *Artificiales* si son producidas por el hombre (estaca o esqueje, injerto, acodo y cultivo
-  in vitro).   
+  in-vitro).   
 
 ** Características, objetivos, ventajas e inconvenientes           :noexport:
 *** Características                                                :noexport:
@@ -1904,12 +1904,12 @@ producen semillas viables como algunas bananas, la higuera, naranjos y vides.
 En algunas especies los objetivos son de tipo económico ya que la reproducción
 vegetativa es más fácil, rápida y económica que por semillas. Por ejemplo la
 semilla de cotoneaster tiene unas condiciones de latencia complejas, pero los
-esquejes enraizan fácilmente.
+esquejes enraízan fácilmente.
 ** Ventajas e inconvenientes de la reproducción vegetativa 
 - *Ventajas:*
   - Obtenemos plantas exactas a sus progenitores, lo que nos permite mantener
     las características de la planta madre.
-  - Más rápido que la reprodcción sexual ya que nos evitamos el tiempo que las
+  - Más rápido que la reproducción sexual ya que nos evitamos el tiempo que las
     semillas necesitan para madurar, además de posibles problemas de viabilidad
     y letargo.
   - Los árboles que provienen de injerto son más pequeños lo que puede resultar
@@ -1941,7 +1941,7 @@ carnosas modificadas. Son ejemplos de bulbos la cebolla, el narciso, tulipán y 
 #+CAPTION: Partes de un bulbo
 #+ATTR_LATEX: :width 0.8\textwidth :placement [h!]
 [[./img_1479/bulbo_1.PNG]]
-*** Tuberculos 
+*** Tubérculos 
 Son tallos modificados y engrosados donde se acumulan sustancias de reserva, comúnmente
 almidón. La reproducción de este tipo de plantas se realiza utilizando en la plantación el
 mismo tubérculo, que posee yemas en la superficie capaces de rebrotar y originar nuevos
@@ -1970,7 +1970,7 @@ lugar a plantas hijas.
 
 Un ejemplo de especie que se reproduce mediante estolones es la fresa (/Fragaria x
 ananassa/)
-#+CAPTION: Geeneración de estolones en una mata de fresa
+#+CAPTION: Generación de estolones en una mata de fresa
 #+ATTR_LATEX: :width 0.8\textwidth :placement [h!]
 [[./img_1479/estolon_fresa.png]]
 *** Hijuelos
@@ -1986,7 +1986,7 @@ Este tipo de propagación no es tan frecuente en la naturaleza, pero podemos enc
 las hojas de algunos helechos, que forman una especie de acodo al entrar en contacto con
 el suelo. 
 
-En otras especies de interior com /Kalanchoe/ o /Begonia rex/ se pueden formar
+En otras especies de interior como /Kalanchoe/ o /Begonia rex/ se pueden formar
 nuevos individuos a través de las hojas que, al desprenderse y entrar en contacto con el
 suelo  desarrollan raíces adventicias.
 *** Apomixis
@@ -2035,7 +2035,7 @@ Según el tipo de madera los esquejes los clasificamos en:
  De plantas leñosas, caducas o perennes, de las ramas en verano (/Camelia, Pittosporum,
  Euonymus,etc./).
 ***** *Madera dura de especies perennes:*
- En este grupo tenemos especies difíciles de enraizar como piceas y pinos y otras mas
+ En este grupo tenemos especies difíciles de enraizar como píceas y pinos y otras mas
  fáciles como /Chamaecyparis, taxus, thuja/. 
 
  Se obtienen generalmente en otoño y a finales de invierno, empleando generalmente madera
@@ -2048,7 +2048,7 @@ unido a la planta madre. Una vez emitidas las raíces se separa de la planta mad
 
 Lo más importante en los acodos para realizarlos con éxito es hacerlos con la planta en
 plena actividad vegetativa. 
-**** *Acodo alto o aereo:*
+**** *Acodo alto o aéreo:*
 En una rama hacemos una incisión y quitamos un anillo de unos 2-3 cm de longitud. Se pone
 un sustrato adecuado  alrededor sujetándola con una bolsa, que a la vez nos ayudará a que
 se aísle del sol. El sustrato lo debemos humedecer periódicamente con una jeringuilla.
@@ -2062,7 +2062,7 @@ Existen varios tipos de acodo bajo como el acodo múltiple o serpentario, acodo 
 montículo o acodo en trinchera. A continuación detallaremos únicamente el conocido
 como acodo simple.
 
-El *acodo bajo simple* consiste en elegir una rama lo suficientemente flexible (sulen
+El *acodo bajo simple* consiste en elegir una rama lo suficientemente flexible (suelen
 elegirse ramas jóvenes de 1 o 2 años) para que, Después de haber realizado una incisión
 como la del acodo alto, podamos introducir esta parte en el suelo y enterrarla, dejando un
 extremo atado a un tutor. Suelen aplicarse hormonas de enraizamiento y eliminar las ramas
@@ -2147,6 +2147,78 @@ Los tipos de injertos más importantes son:
 #+ATTR_LATEX: :width 0.7\textwidth :placement [hb!]
 [[./img_1479/injertoyema_escudete.png]]
 
+** Control de parámetros ambientales
+ Los métodos de reproducción vegetativa necesitan de un _control ambiental_ de ciertos
+ parámetros para _conseguir de forma eficaz los objetivos de propagación_.
+
+Los factores ambientales que van a _condicionar el enraizado de las estaquillas o esquejes_
+son:
+- Elevada humedad relativa en la atmósfera
+- Adecuada temperatura del sustrato
+- Buena disponibilidad de aire y agua en el sustrato
+- Renovación de aire que permita un intercambio de gases
+- Iluminación correcta
+*** Humedad relativa
+Dado que las estaquillas carecen de raíces, la humedad del ambiente debe ser cercana al
+100% para evitar el desecamiento de la misma.
+
+Para evitar este problema se utilizan diversas técnicas tales como:
+- *Nebulización:* consiste en la nebulización de agua creando un ambiente de
+  ``niebla cerrada'' para que así se disminuya fuertemente la transpiración, manteniendo
+  el ambiente a humedades cercanas al 95%.
+- *Cultivo bajo túnel de plástico:* son capaces de evitar las perdidas de agua y al mismo
+  tiempo conseguir una relativa difusión de gases.
+***  Temperatura 
+
+Junto a la humedad relativa es un factor decisivo en el enraizado. _Para acelerar el  
+proceso de formación de raíces_ es conveniente que qué _la base esté a una  temperatura más 
+elevada que la parte aérea_. Al mantener la parte aérea a menor  temperatura se limitará
+la transpiración y el gasto respiratorio aéreo, de esta manera se favorece el transporte
+de material nutritivo a la base del esqueje.
+
+La  temperatura ambiente óptima para la mayor parte de los esquejes es de 18 a 20 °C y la
+del sustrato debe estar entre los 20 a 23 (25) °C. Para ello se emplean sistemas de
+calefacción, y en el caso del sustrato este sistema debe estar en el fondo de la bancada..
+*** Aireación
+
+Ha de realizarse sobre todo en los túneles de plástico por las mañanas, para eliminar el
+exceso de humedad e incrementar la cantidad de dióxido de carbono.
+*** Iluminación
+
+Este parámetro influye positivamente ya que, al aumentar la fotosíntesis, aumenta el
+aporte de sustancias orgánicas que se consumen para la formación y el crecimiento de las
+raíces. En el caso de túneles o invernaderos de plástico es necesario colocar en verano
+una malla de sombreo que reduzca la  temperatura.
+
+En algunos invernaderos se emplean sistemas de iluminación artificial empleando
+diferentes lamparas según las necesidades del cultivo.
+** Materiales, herramientas, instalaciones y equipos empleados en la reproducción vegetativa
+
+Además de los equipos e instalaciones empleados para el control de parámetros ambientales
+se puede contar con equipos tales como: 
+- *Túneles de propagación*
+- *Mesas calientes*
+
+Los instrumentos diseñados para la propagación asexual pueden ser:
+- Distintos modelos de navaja de jardinería, de injertar, de escudete
+- Tijeras comunes para cortar rafia o cinta de injertar
+- Tijeras de podar
+- Cintas de rafia o plástica
+- Cinta adhesiva o parches específicos para injertar
+- Mástic o pasta cicatrizante
+- Hormonas de enraizamiento
+** Equipos de protección individual
+
+Los equipos de protección asociados a las labores de reproducción vegetativa pueden ser:
+- Gafas de protección
+- Botas impermeables
+- Casco contra impacto
+- Guantes
+- Equipo de protección contra caídas en altura
+- Guantes contra sustancias químicas
+- Mandil contra sustancias químicas
+- Mascarilla desechable
+- Mascarilla adecuada para sustancias químicas, gases y vapores
 
 *** División de mata                                               :noexport:
 
@@ -2159,7 +2231,7 @@ trozos_. Las partes divididas serán plantas completas listas para replantar.
 Algunas plantas son capaces de desarrollar grupos aislados de células simples en
 determinadas partes de sus hojas. _Como resultado estas  células llegan a transformarse en 
 nuevas plántulas_. Es el caso de la planta /Kalanchoe daigremontiana/, en la que se forman
-nuevas plantas a partir de embriones que crecen en los bordes de sus hojas.
+nuevas plantas a partir de embriones que crecen en los bordes de sus hojas. 
 * Footnotes
 
 [fn:3] Cámbium: es un tejido vegetal meristemático específico de las plantas leñosas,
