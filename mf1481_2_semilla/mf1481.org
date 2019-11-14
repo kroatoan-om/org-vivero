@@ -2,7 +2,7 @@
 #+TITLE: MF 1481. Producción de semillas
 #+AUTHOR: Antonio Soler Gelde. IT Forestal
 #+EMAIL: asoler@esteldellevant.es
-#+LaTeX_CLASS: asgbook
+#+LaTeX_CLASS: asgarticle
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:nil c:nil d:(not "LOGBOOK") date:nil
 #+OPTIONS: e:t email:nil f:t inline:nil num:t p:nil pri:nil stat:t
