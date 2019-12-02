@@ -72,7 +72,7 @@ individuos con flores masculinas y otros que sólo presentan flores femeninas, s
 
 ** Partes de la semilla
 
-Las semillas son lo óvulos maduros de las plantas /angiospermas/ y
+Las semillas son los óvulos maduros de las plantas /angiospermas/ y
 /gimnospermas/ a partir de los que se desarrollarán nuevas plantas. 
 
 #+BEGIN_EXPORT latex
