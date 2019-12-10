@@ -1395,7 +1395,7 @@ etc, de un lugar a otro
      - Calzado de seguridad.
      - Gafas de protección si necesario.
 * Reproducción de plantas por semillas 
-
+  
 La propagación de plantas es una _práctica fundamental_ en el campo ya que de la
 calidad de la semilla o material vegetativo que se emplee va a depender el resto
 del proceso productivo.
@@ -1418,6 +1418,29 @@ La fecundación es la unión de las células sexuales masculina y femenina, tamb
 llamadas gametos, para formar el cigoto, el cual se desarrollará en el interior
 de la semilla y se convierte en embrión, y este, al germinar la semilla dará
 origen a la planta adulta.
+*** Clases de polinización
+ Existen diferentes tipos de polinización según tengamos en cuenta
+
+ 1. El transporte de polen
+    - *Entomogamia:* cuando el polen es transportado por _insectos_. Son plantas entomófilas
+    - *Anemogamia:* el polen se mueve por acción del _viento_.
+    - *Ornitogamia:* transportado por _aves_.
+    - *Hidrogamia:* el medio en este caso es el _agua_.
+ 2. El _tipo de fecundación_
+    - *Autogamia:* el grano de polen fecunda en la _misma flor_.
+    - *Alogamia:* el grano de polen va al pistilo de _otra flor_.
+
+ #+BEGIN_EXPORT latex
+ \begin{center}%
+ \fbox{\parbox{0.9\textwidth}{%
+ Para garantizar la \textbf{alogamia} algunas plantas presentan flores unisexuales de manera
+ que el intercambio siempre se ha de realizar entre flores distintas. Las especies que forman las 
+ flores masculinas y femeninas sobre el mismo pie se laman \textbf{monoicas} y las que producen 
+ individuos con flores masculinas y otros que sólo presentan flores femeninas, se llaman \textbf{dioicas}.
+ }}
+ \end{center}
+ \newpage
+ #+END_EXPORT
 *** Ventajas e inconvenientes de la reproducción por semilla
 
 - *Ventajas:*
@@ -1438,9 +1461,7 @@ externas por desecación: cáliz, corola e incluso estambres. El ovario adquiere
 mayor desarrollo  transformándose en el fruto, y los óvulos con el embrión en su
 interior  se transforman en semillas. De esta manera el fruto es el ovulo
 transformado y maduro y las semillas los óvulos fecundados y maduros.
-#+BEGIN_EXPORT latex
-\newpage
-#+END_EXPORT
+
 En la semilla distinguimos tres partes fundamentales:
 #+CAPTION: Partes de una semilla
 #+ATTR_LATEX: :width 0.7\textwidth :placement [h!]
@@ -1536,7 +1557,7 @@ Existen _diferentes maneras de clasificación_:
 Deriva en su totalidad del ovario.
 
 #+BEGIN_EXPORT latex
-%\vspace{3cm}
+\newpage
 #+END_EXPORT
 **** *Baya*
 
@@ -1546,9 +1567,7 @@ Deriva en su totalidad del ovario.
 - Deriva de un ovario simple (sin tabiques aparentes).
 - _No tiene endocarpio_.
 - Es un fruto multisemillado
-#+BEGIN_EXPORT latex
-\newpage
-#+END_EXPORT
+
 **** *Pomo*
 
 #+CAPTION: 
@@ -1558,7 +1577,7 @@ Deriva en su totalidad del ovario.
 Deriva de la fusión del ovario y del tubo floral (receptáculo y tejidos
 adyacentes del pedúnculo). Normalmente 5 carpelos con 2 óvulos.  
 #+BEGIN_EXPORT latex
-\vspace{3cm}
+\newpage
 #+END_EXPORT
 **** *Hesperidio*
 
@@ -1568,15 +1587,15 @@ adyacentes del pedúnculo). Normalmente 5 carpelos con 2 óvulos.
 
 Deriva de un ovario simple con varios carpelos. Endocarpio dividido en lóculos o
 gajos.
-#+BEGIN_EXPORT latex
-\newpage
-#+END_EXPORT
+
 **** *Núcula (o nuez)*
 
 #+CAPTION: 
 #+ATTR_LATEX: :width 0.8\textwidth
 [[./img_1479/nucula.PNG]]
-
+#+BEGIN_EXPORT latex
+\newpage
+#+END_EXPORT
 **** *Agregado o múltiple*
 
 #+CAPTION: 
@@ -1584,9 +1603,7 @@ gajos.
 [[./img_1479/polidrupa.PNG]]
 
 Deriva de varios ovarios de una sola flor y de su receptáculo.
-#+BEGIN_EXPORT latex
- \newpage
-#+END_EXPORT
+
 **** *Infrutescencia*
 
 #+CAPTION: Infrutescencia
@@ -1743,7 +1760,7 @@ del cultivo. Los factores en resumen son:
 - *Factores económicos:* coste, disponibilidad, continuidad, facilidad de
   mezclado.
 - *Factores químicos:* CIC, nivel de nutrientes, pH, esterilidad, sales solubles.
-- *factores físicos:* aireación capacidad de almacenamiento de agua, tamaño de
+- *Factores físicos:* aireación capacidad de almacenamiento de agua, tamaño de
   las partículas, densidad.  
 *** Sistemas de reparto de semilla
 **** *Siembras en semillero*
